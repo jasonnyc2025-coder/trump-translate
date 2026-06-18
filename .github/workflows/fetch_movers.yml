@@ -1,15 +1,15 @@
-name: fetch-posts-finance
+name: fetch-movers
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: fetch-posts
+  group: fetch-movers
   cancel-in-progress: false
 
 jobs:
@@ -22,21 +22,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch & translate Truth Social
-        env:
-          RSS_URL: ${{ vars.RSS_URL }}
-        run: python fetch.py
-
-      - name: Fetch & translate Yahoo Finance / Sina Finance
-        run: python fetch_finance.py
+      - name: Fetch market movers (US + A-shares)
+        run: python fetch_movers.py
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add docs/posts.json docs/finance.json
+          git add docs/movers.json
           if [ -n "$(git diff --cached)" ]; then
-            git commit -m "update posts and finance news"
+            git commit -m "update movers"
             git push
           else
             echo "no change"
