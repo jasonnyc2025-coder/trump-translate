@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch financial news (CNBC, MarketWatch, Google News), translate to Chinese."""
+"""Fetch financial news (CNBC, MarketWatch, Google News, Sina Finance), translate to Chinese."""
 import os, json, html, re, sys, time, hashlib, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -14,8 +14,9 @@ RSS_FEEDS = [
     "https://www.cnbc.com/id/100003114/device/rss/rss.html",   # CNBC Markets
     "https://www.cnbc.com/id/20409666/device/rss/rss.html",    # CNBC Economy
     "https://feeds.marketwatch.com/marketwatch/topstories/",    # MarketWatch
-    # Google News: China/Asia markets
     "https://news.google.com/rss/search?q=china+stock+market+economy&hl=en-US&gl=US&ceid=US:en",
+    "https://rss.sina.com.cn/finance/stock/finance_cjxw.xml",  # 新浪财经·财经新闻
+    "https://rss.sina.com.cn/finance/stock/usstock.xml",       # 新浪财经·美股
 ]
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

@@ -1,5 +1,6 @@
-const SHELL = "shell-v2";
+const SHELL = "shell-v3";
 const SHELL_FILES = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
+const DATA_FILES = ["posts.json", "finance.json", "movers.json"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(SHELL_FILES)).then(() => self.skipWaiting()));
@@ -15,7 +16,7 @@ self.addEventListener("activate", (e) => {
 
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith("posts.json")) {
+  if (DATA_FILES.some((f) => url.pathname.endsWith(f))) {
     e.respondWith(
       fetch(e.request).then((res) => {
         const copy = res.clone();
