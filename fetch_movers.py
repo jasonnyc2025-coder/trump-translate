@@ -67,8 +67,9 @@ def get_us_sparkline(symbol):
         print(f"  US spark {symbol}: {e}", file=sys.stderr)
         return []
 
-def get_us_news(symbol, count=3):
-    url = f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={symbol}&region=US&lang=en-US"
+def get_us_news(symbol, name="", count=3):
+    q = urllib.parse.quote(f"{symbol} {name} stock".strip())
+    url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
     try:
         root = ET.fromstring(plain_fetch(url))
         items = []
@@ -153,7 +154,7 @@ def enrich_us(stocks):
         s["spark"] = get_us_sparkline(s["symbol"])
         time.sleep(0.2)
         s["news"] = []
-        for n in get_us_news(s["symbol"]):
+        for n in get_us_news(s["symbol"], s.get("name", "")):
             s["news"].append({"title": n["title"], "title_zh": translate(n["title"]), "link": n["link"]})
             time.sleep(0.3)
 
