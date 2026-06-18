@@ -14,16 +14,21 @@
   :root{--ink:#1a1a1a;--paper:#f5f2ec;--line:#d8d2c6;--accent:#b3392f;--muted:#7a756b;--card:#fffdf8;--en-ink:#3d3830;--en-bg:rgba(0,0,0,.04);}
   *{box-sizing:border-box;margin:0;padding:0}
   body{background:var(--paper);color:var(--ink);font-family:"Noto Serif SC",Georgia,serif;line-height:1.65;padding:env(safe-area-inset-top) 0 2rem;}
-  header{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:2px solid var(--ink);padding:1rem 1.1rem .8rem;display:flex;align-items:baseline;gap:.6rem;}
-  header h1{font-size:1.15rem;font-weight:700;font-family:Georgia,serif;}
-  header .meta{font-size:.72rem;color:var(--muted);margin-left:auto}
+  header{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:2px solid var(--ink);padding:.55rem 1.1rem 0;display:flex;align-items:flex-end;gap:.6rem;}
+  .tabs{display:flex;gap:0;flex:1;}
+  .tab{background:none;border:none;border-bottom:3px solid transparent;padding:.55rem .95rem .45rem;margin-bottom:-2px;font-size:.95rem;font-weight:700;font-family:Georgia,serif;cursor:pointer;color:var(--muted);transition:color .15s;}
+  .tab.active{color:var(--accent);border-bottom-color:var(--accent);}
+  .tab:hover:not(.active){color:var(--ink);}
+  header .meta{font-size:.72rem;color:var(--muted);padding-bottom:.5rem;white-space:nowrap;}
   main{max-width:680px;margin:0 auto;padding:1rem .9rem}
   .post{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:2px;padding:.95rem 1.05rem;margin-bottom:.9rem;}
+  .fin-title{font-size:1.08rem;font-weight:700;line-height:1.45;margin-bottom:.45rem;}
   .zh{font-size:1.06rem;white-space:pre-wrap;word-break:break-word}
   .zh.untranslated{color:var(--muted);font-style:italic}
   .en-block{margin-top:.75rem;padding:.6rem .75rem;background:var(--en-bg);border-radius:3px;border-left:2px solid var(--muted);}
   .en-label{font-size:.7rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:.35rem;}
   .en{font-size:.91rem;color:var(--en-ink);white-space:pre-wrap;word-break:break-word;line-height:1.6;}
+  .en-head{font-weight:700;margin-bottom:.3rem;}
   .stamp{margin-top:.55rem;font-size:.68rem;color:var(--muted);display:flex;gap:.7rem;align-items:center;}
   .stamp a{color:var(--muted)}
   .empty,.error{text-align:center;color:var(--muted);padding:3rem 1rem;}
@@ -32,22 +37,60 @@
 </style>
 </head>
 <body>
-<header><h1>帖子翻译</h1><span class="meta" id="meta">加载中…</span></header>
+<header>
+  <nav class="tabs">
+    <button class="tab active" id="tab-posts" onclick="switchTab('posts')">帖子翻译</button>
+    <button class="tab" id="tab-finance" onclick="switchTab('finance')">财经新闻</button>
+  </nav>
+  <span class="meta" id="meta">加载中…</span>
+</header>
 <main id="feed"><div class="empty">加载中…</div></main>
 <script>
 const feed=document.getElementById("feed"),meta=document.getElementById("meta");
+let currentTab="posts";
 function esc(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
 function fmt(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return iso;return d.toLocaleString("zh-CN",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});}
+
+function postCard(p){
+  const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
+  const en=p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:"";
+  return `<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${en}${stamp}</article>`;
+}
+
+function financeCard(p){
+  const titleZh=esc(p.title_zh||p.title||"");
+  const bodyZh=esc(p.zh||"");
+  const enBlock=`<div class="en-block"><div class="en-label">原文</div>${p.title?`<div class="en en-head">${esc(p.title)}</div>`:""}${p.text?`<div class="en">${esc(p.text)}</div>`:""}</div>`;
+  const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
+  return `<article class="post"><div class="fin-title">${titleZh}</div>${bodyZh?`<div class="zh">${bodyZh}</div>`:""}${enBlock}${stamp}</article>`;
+}
+
 async function load(){
   try{
-    const res=await fetch("posts.json?t="+Date.now());
+    const file=currentTab==="finance"?"finance.json":"posts.json";
+    const res=await fetch(file+"?t="+Date.now());
     if(!res.ok)throw new Error(res.status);
     const posts=await res.json();
-    if(!posts.length){feed.innerHTML='<div class="empty">还没有帖子。程序抓到新帖后会出现在这里。</div>';meta.textContent="";return;}
+    if(!posts.length){
+      feed.innerHTML=`<div class="empty">${currentTab==="finance"?"还没有财经新闻。":"还没有帖子。"}等定时任务跑完后刷新。</div>`;
+      meta.textContent="";return;
+    }
     meta.textContent=posts.length+" 条";
-    feed.innerHTML=posts.map(p=>`<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:""}<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div></article>`).join("");
-  }catch(e){feed.innerHTML='<div class="error">加载失败：还没有 posts.json，或网络问题。等第一次定时任务跑完再刷新。</div>';meta.textContent="";}
+    feed.innerHTML=posts.map(currentTab==="finance"?financeCard:postCard).join("");
+  }catch(e){
+    feed.innerHTML='<div class="error">加载失败：数据文件尚未生成，或网络问题。</div>';
+    meta.textContent="";
+  }
 }
+
+function switchTab(tab){
+  currentTab=tab;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t.id==="tab-"+tab));
+  meta.textContent="加载中…";
+  feed.innerHTML='<div class="empty">加载中…</div>';
+  load();
+}
+
 load();
 setInterval(load,60000);
 if("serviceWorker"in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));}

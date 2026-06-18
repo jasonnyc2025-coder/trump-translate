@@ -22,18 +22,21 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch & translate
+      - name: Fetch & translate Truth Social
         env:
           RSS_URL: ${{ vars.RSS_URL }}
         run: python fetch.py
+
+      - name: Fetch & translate Yahoo Finance
+        run: python fetch_finance.py
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          if [ -n "$(git status --porcelain docs/posts.json)" ]; then
-            git add docs/posts.json
-            git commit -m "update posts"
+          git add docs/posts.json docs/finance.json
+          if [ -n "$(git diff --cached)" ]; then
+            git commit -m "update posts and finance news"
             git push
           else
             echo "no change"
