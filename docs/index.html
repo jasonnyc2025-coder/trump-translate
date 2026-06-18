@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="icon-192.png">
 <title>帖子翻译</title>
 <style>
-  :root{--ink:#1a1a1a;--paper:#f5f2ec;--line:#d8d2c6;--accent:#b3392f;--muted:#7a756b;--card:#fffdf8;}
+  :root{--ink:#1a1a1a;--paper:#f5f2ec;--line:#d8d2c6;--accent:#b3392f;--muted:#7a756b;--card:#fffdf8;--en-ink:#3d3830;--en-bg:rgba(0,0,0,.04);}
   *{box-sizing:border-box;margin:0;padding:0}
   body{background:var(--paper);color:var(--ink);font-family:"Noto Serif SC",Georgia,serif;line-height:1.65;padding:env(safe-area-inset-top) 0 2rem;}
   header{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:2px solid var(--ink);padding:1rem 1.1rem .8rem;display:flex;align-items:baseline;gap:.6rem;}
@@ -21,17 +21,14 @@
   .post{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:2px;padding:.95rem 1.05rem;margin-bottom:.9rem;}
   .zh{font-size:1.06rem;white-space:pre-wrap;word-break:break-word}
   .zh.untranslated{color:var(--muted);font-style:italic}
-  details{margin-top:.6rem}
-  summary{font-size:.74rem;color:var(--accent);cursor:pointer;list-style:none;}
-  summary::-webkit-details-marker{display:none}
-  summary::before{content:"原文 ▸ "}
-  details[open] summary::before{content:"原文 ▾ "}
-  .en{margin-top:.5rem;padding-top:.5rem;border-top:1px dashed var(--line);font-size:.92rem;color:#3a3a3a;white-space:pre-wrap;word-break:break-word;}
+  .en-block{margin-top:.75rem;padding:.6rem .75rem;background:var(--en-bg);border-radius:3px;border-left:2px solid var(--muted);}
+  .en-label{font-size:.7rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:.35rem;}
+  .en{font-size:.91rem;color:var(--en-ink);white-space:pre-wrap;word-break:break-word;line-height:1.6;}
   .stamp{margin-top:.55rem;font-size:.68rem;color:var(--muted);display:flex;gap:.7rem;align-items:center;}
   .stamp a{color:var(--muted)}
   .empty,.error{text-align:center;color:var(--muted);padding:3rem 1rem;}
   .error{color:var(--accent)}
-  @media (prefers-color-scheme:dark){:root{--ink:#ece7dd;--paper:#1b1a17;--line:#3a382f;--accent:#e0796d;--muted:#9a958a;--card:#232118}}
+  @media (prefers-color-scheme:dark){:root{--ink:#ece7dd;--paper:#1b1a17;--line:#3a382f;--accent:#e0796d;--muted:#9a958a;--card:#232118;--en-ink:#c0b8ae;--en-bg:rgba(255,255,255,.05);}}
 </style>
 </head>
 <body>
@@ -48,7 +45,7 @@ async function load(){
     const posts=await res.json();
     if(!posts.length){feed.innerHTML='<div class="empty">还没有帖子。程序抓到新帖后会出现在这里。</div>';meta.textContent="";return;}
     meta.textContent=posts.length+" 条";
-    feed.innerHTML=posts.map(p=>`<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${p.zh?`<details><summary>原文</summary><div class="en">${esc(p.text)}</div></details>`:""}<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div></article>`).join("");
+    feed.innerHTML=posts.map(p=>`<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:""}<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div></article>`).join("");
   }catch(e){feed.innerHTML='<div class="error">加载失败：还没有 posts.json，或网络问题。等第一次定时任务跑完再刷新。</div>';meta.textContent="";}
 }
 load();
