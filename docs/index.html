@@ -11,42 +11,169 @@
 <link rel="apple-touch-icon" href="icon-192.png">
 <title>帖子翻译</title>
 <style>
-  :root{--ink:#1a1a1a;--paper:#f5f2ec;--line:#d8d2c6;--accent:#b3392f;--muted:#7a756b;--card:#fffdf8;--en-ink:#3d3830;--en-bg:rgba(0,0,0,.04);}
+  :root{--ink:#1a1a1a;--paper:#f5f2ec;--line:#d8d2c6;--accent:#b3392f;--muted:#7a756b;--card:#fffdf8;--en-ink:#3d3830;--en-bg:rgba(0,0,0,.04);--green:#1e7a38;--red:#b3392f;}
   *{box-sizing:border-box;margin:0;padding:0}
   body{background:var(--paper);color:var(--ink);font-family:"Noto Serif SC",Georgia,serif;line-height:1.65;padding:env(safe-area-inset-top) 0 2rem;}
-  header{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:2px solid var(--ink);padding:1rem 1.1rem .8rem;display:flex;align-items:baseline;gap:.6rem;}
-  header h1{font-size:1.15rem;font-weight:700;font-family:Georgia,serif;}
-  header .meta{font-size:.72rem;color:var(--muted);margin-left:auto}
+  header{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:2px solid var(--ink);padding:.55rem 1.1rem 0;display:flex;align-items:flex-end;gap:.6rem;}
+  .tabs{display:flex;gap:0;flex:1;overflow-x:auto;}
+  .tab{background:none;border:none;border-bottom:3px solid transparent;padding:.55rem .85rem .45rem;margin-bottom:-2px;font-size:.88rem;font-weight:700;font-family:Georgia,serif;cursor:pointer;color:var(--muted);transition:color .15s;white-space:nowrap;}
+  .tab.active{color:var(--accent);border-bottom-color:var(--accent);}
+  .tab:hover:not(.active){color:var(--ink);}
+  header .meta{font-size:.72rem;color:var(--muted);padding-bottom:.5rem;white-space:nowrap;}
   main{max-width:680px;margin:0 auto;padding:1rem .9rem}
+
+  /* ── News cards ── */
   .post{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:2px;padding:.95rem 1.05rem;margin-bottom:.9rem;}
+  .fin-title{font-size:1.08rem;font-weight:700;line-height:1.45;margin-bottom:.45rem;}
   .zh{font-size:1.06rem;white-space:pre-wrap;word-break:break-word}
   .zh.untranslated{color:var(--muted);font-style:italic}
   .en-block{margin-top:.75rem;padding:.6rem .75rem;background:var(--en-bg);border-radius:3px;border-left:2px solid var(--muted);}
   .en-label{font-size:.7rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:.35rem;}
   .en{font-size:.91rem;color:var(--en-ink);white-space:pre-wrap;word-break:break-word;line-height:1.6;}
+  .en-head{font-weight:700;margin-bottom:.3rem;}
   .stamp{margin-top:.55rem;font-size:.68rem;color:var(--muted);display:flex;gap:.7rem;align-items:center;}
   .stamp a{color:var(--muted)}
+
+  /* ── Movers tab ── */
+  #feed.movers-feed{max-width:none;}
+  .mv-wrap{max-width:680px;margin:0 auto;padding:1rem .9rem;}
+  .mv-ts{font-size:.68rem;color:var(--muted);margin-bottom:.8rem;}
+  .col-hd{font-size:.72rem;font-weight:700;letter-spacing:.05em;padding:.25rem .5rem;border-radius:2px;margin-bottom:.4rem;}
+  .col-hd.gain{background:rgba(30,122,56,.1);color:var(--green);}
+  .col-hd.loss{background:rgba(179,57,47,.1);color:var(--red);}
+  .mv-section{margin-bottom:1.4rem;}
+  .sc{background:var(--card);border:1px solid var(--line);border-radius:3px;padding:.6rem .7rem;margin-bottom:.45rem;border-left:3px solid transparent;}
+  .sc.gain{border-left-color:var(--green);}
+  .sc.loss{border-left-color:var(--red);}
+  .s-top{display:flex;align-items:center;gap:.45rem;}
+  .s-rank{font-size:.68rem;color:var(--muted);min-width:1.1rem;text-align:center;flex-shrink:0;}
+  .s-info{flex:1;min-width:0;}
+  .s-sym{font-size:.82rem;font-weight:700;font-family:monospace;}
+  .s-name{font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .s-right{text-align:right;flex-shrink:0;}
+  .s-pct{font-size:.95rem;font-weight:700;}
+  .s-pct.gain{color:var(--green);}
+  .s-pct.loss{color:var(--red);}
+  .s-price{font-size:.68rem;color:var(--muted);}
+  .s-spark{margin:.35rem 0 .1rem;padding:0 .1rem;}
+  .s-news{margin-top:.35rem;padding-top:.3rem;border-top:1px dashed var(--line);}
+  .s-news li{list-style:none;font-size:.72rem;line-height:1.45;padding:.1rem 0;}
+  .s-news li::before{content:"· ";color:var(--muted);}
+  .s-news a{color:var(--ink);text-decoration:none;}
+  .s-news a:hover{text-decoration:underline;}
+
   .empty,.error{text-align:center;color:var(--muted);padding:3rem 1rem;}
   .error{color:var(--accent)}
-  @media (prefers-color-scheme:dark){:root{--ink:#ece7dd;--paper:#1b1a17;--line:#3a382f;--accent:#e0796d;--muted:#9a958a;--card:#232118;--en-ink:#c0b8ae;--en-bg:rgba(255,255,255,.05);}}
+  @media (prefers-color-scheme:dark){:root{--ink:#ece7dd;--paper:#1b1a17;--line:#3a382f;--accent:#e0796d;--muted:#9a958a;--card:#232118;--en-ink:#c0b8ae;--en-bg:rgba(255,255,255,.05);--green:#4caf78;--red:#e0796d;}}
 </style>
 </head>
 <body>
-<header><h1>帖子翻译</h1><span class="meta" id="meta">加载中…</span></header>
+<header>
+  <nav class="tabs">
+    <button class="tab active" id="tab-posts"     onclick="switchTab('posts')">帖子翻译</button>
+    <button class="tab"        id="tab-finance"   onclick="switchTab('finance')">财经新闻</button>
+    <button class="tab"        id="tab-us-movers" onclick="switchTab('us-movers')">美股涨跌</button>
+    <button class="tab"        id="tab-cn-movers" onclick="switchTab('cn-movers')">A股涨跌</button>
+  </nav>
+  <span class="meta" id="meta">加载中…</span>
+</header>
 <main id="feed"><div class="empty">加载中…</div></main>
 <script>
-const feed=document.getElementById("feed"),meta=document.getElementById("meta");
+const feedEl=document.getElementById("feed"),meta=document.getElementById("meta");
+let currentTab="posts";
 function esc(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
 function fmt(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return iso;return d.toLocaleString("zh-CN",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});}
+
+/* ── News cards ── */
+function postCard(p){
+  const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
+  const en=p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:"";
+  return `<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${en}${stamp}</article>`;
+}
+function financeCard(p){
+  const titleZh=esc(p.title_zh||p.title||"");
+  const bodyZh=esc(p.zh||"");
+  const enBlock=`<div class="en-block"><div class="en-label">原文</div>${p.title?`<div class="en en-head">${esc(p.title)}</div>`:""}${p.text?`<div class="en">${esc(p.text)}</div>`:""}</div>`;
+  const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
+  return `<article class="post"><div class="fin-title">${titleZh}</div>${bodyZh?`<div class="zh">${bodyZh}</div>`:""}${enBlock}${stamp}</article>`;
+}
+
+/* ── Sparkline ── */
+function sparkSVG(pts, gain){
+  if(!pts||pts.length<2)return"";
+  const mn=Math.min(...pts),mx=Math.max(...pts);
+  const rng=mx-mn||0.01;
+  const W=100,H=28,pad=2;
+  const step=(W-2*pad)/(pts.length-1);
+  const coords=pts.map((v,i)=>`${(pad+i*step).toFixed(1)},${(pad+(1-(v-mn)/rng)*(H-2*pad)).toFixed(1)}`).join(" ");
+  const clr=gain?"var(--green)":"var(--red)";
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="width:100%;height:${H}px;display:block"><polyline points="${coords}" fill="none" stroke="${clr}" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+
+/* ── Movers ── */
+function stockCard(s,isGain,rank,isUS){
+  const cls=isGain?"gain":"loss";
+  const sign=isGain?"+":"";
+  const currency=isUS?"$":"¥";
+  const spark=s.spark&&s.spark.length>=2?`<div class="s-spark">${sparkSVG(s.spark,isGain)}</div>`:"";
+  const newsHtml=s.news&&s.news.length?`<ul class="s-news">${s.news.slice(0,3).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title_zh||n.title)}</a></li>`).join("")}</ul>`:"";
+  return `<div class="sc ${cls}">
+    <div class="s-top">
+      <span class="s-rank">${rank}</span>
+      <div class="s-info"><div class="s-sym">${esc(s.symbol)}</div><div class="s-name">${esc(s.name_zh||s.name)}</div></div>
+      <div class="s-right"><div class="s-pct ${cls}">${sign}${(s.change_pct||0).toFixed(2)}%</div><div class="s-price">${currency}${(s.price||0).toFixed(2)}</div></div>
+    </div>${spark}${newsHtml}</div>`;
+}
+function moversSection(stocks,isGain,label,isUS){
+  if(!stocks||!stocks.length)return`<div class="mv-section"><div class="col-hd ${isGain?"gain":"loss"}">${label}</div><div class="empty" style="padding:1rem 0">暂无数据</div></div>`;
+  return`<div class="mv-section"><div class="col-hd ${isGain?"gain":"loss"}">${label}</div>${stocks.map((s,i)=>stockCard(s,isGain,i+1,isUS)).join("")}</div>`;
+}
+function renderMovers(gainers,losers,isUS,updated_at){
+  if((!gainers||!gainers.length)&&(!losers||!losers.length)){
+    return'<div class="mv-wrap"><div class="empty">暂无数据。等定时任务跑完后刷新。</div></div>';
+  }
+  const ts=updated_at?`<div class="mv-ts">数据更新：${fmt(updated_at)}</div>`:"";
+  return`<div class="mv-wrap">${ts}${moversSection(gainers,true,"涨幅榜 Top 10",isUS)}${moversSection(losers,false,"跌幅榜 Top 10",isUS)}</div>`;
+}
+
+/* ── Load ── */
 async function load(){
   try{
-    const res=await fetch("posts.json?t="+Date.now());
+    feedEl.className="";
+    if(currentTab==="us-movers"||currentTab==="cn-movers"){
+      feedEl.className="movers-feed";
+      const res=await fetch("movers.json?t="+Date.now());
+      if(!res.ok)throw new Error(res.status);
+      const data=await res.json();
+      const isUS=currentTab==="us-movers";
+      const gainers=isUS?data.us_gainers:data.cn_gainers;
+      const losers=isUS?data.us_losers:data.cn_losers;
+      feedEl.innerHTML=renderMovers(gainers,losers,isUS,data.updated_at);
+      const n=(gainers?.length||0)+(losers?.length||0);
+      meta.textContent=n?n+" 支":"";
+      return;
+    }
+    const file=currentTab==="finance"?"finance.json":"posts.json";
+    const res=await fetch(file+"?t="+Date.now());
     if(!res.ok)throw new Error(res.status);
     const posts=await res.json();
-    if(!posts.length){feed.innerHTML='<div class="empty">还没有帖子。程序抓到新帖后会出现在这里。</div>';meta.textContent="";return;}
+    if(!posts.length){
+      feedEl.innerHTML=`<div class="empty">${currentTab==="finance"?"还没有财经新闻。":"还没有帖子。"}等定时任务跑完后刷新。</div>`;
+      meta.textContent="";return;
+    }
     meta.textContent=posts.length+" 条";
-    feed.innerHTML=posts.map(p=>`<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:""}<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div></article>`).join("");
-  }catch(e){feed.innerHTML='<div class="error">加载失败：还没有 posts.json，或网络问题。等第一次定时任务跑完再刷新。</div>';meta.textContent="";}
+    feedEl.innerHTML=posts.map(currentTab==="finance"?financeCard:postCard).join("");
+  }catch(e){
+    feedEl.innerHTML='<div class="error">加载失败：数据文件尚未生成，或网络问题。</div>';
+    meta.textContent="";
+  }
+}
+function switchTab(tab){
+  currentTab=tab;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t.id==="tab-"+tab));
+  meta.textContent="加载中…";
+  feedEl.innerHTML='<div class="empty">加载中…</div>';
+  load();
 }
 load();
 setInterval(load,60000);
