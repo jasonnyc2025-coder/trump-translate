@@ -22,6 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install yfinance
+
       - name: Fetch market movers (US + A-shares)
         run: python fetch_movers.py
 
