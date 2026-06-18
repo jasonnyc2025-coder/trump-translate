@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Yahoo Finance news, translate to Chinese, write to docs/finance.json."""
+"""Fetch financial news (CNBC, MarketWatch, Google News), translate to Chinese."""
 import os, json, html, re, sys, time, hashlib, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -9,11 +9,13 @@ MAX_ARTICLES = 100
 BATCH_SIZE = 15
 TARGET_LANG = "zh-CN"
 
+# Sources that include article summaries in RSS description field
 RSS_FEEDS = [
-    "https://finance.yahoo.com/news/rssindex",
-    "https://feeds.finance.yahoo.com/rss/2.0/headline?s=%5EHSI&region=US&lang=en-US",
-    "https://feeds.finance.yahoo.com/rss/2.0/headline?s=000001.SS&region=US&lang=en-US",
-    "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SPY%2CQQQ&region=US&lang=en-US",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",   # CNBC Markets
+    "https://www.cnbc.com/id/20409666/device/rss/rss.html",    # CNBC Economy
+    "https://feeds.marketwatch.com/marketwatch/topstories/",    # MarketWatch
+    # Google News: China/Asia markets
+    "https://news.google.com/rss/search?q=china+stock+market+economy&hl=en-US&gl=US&ceid=US:en",
 ]
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -38,32 +40,25 @@ def parse_rss(text):
         for it in root.iter("item"):
             title = strip_html(it.findtext("title") or "")
             link = (it.findtext("link") or "").strip()
-            desc = strip_html(it.findtext("description") or "")
+            # Some feeds use content:encoded for full text
+            ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
+            desc = (it.findtext("content:encoded", namespaces=ns)
+                    or it.findtext("{http://purl.org/rss/1.0/modules/content/}encoded")
+                    or it.findtext("description")
+                    or "")
+            desc = strip_html(desc)
             pub = (it.findtext("pubDate") or "").strip()
-            if title and link:
+            if title and link and desc:
                 items.append({
                     "id": hashlib.md5(link.encode()).hexdigest()[:16],
-                    "title": title, "link": link, "description": desc, "date": pub,
+                    "title": title,
+                    "link": link,
+                    "text": desc,
+                    "date": pub,
                 })
     except Exception as e:
         print(f"RSS parse error: {e}", file=sys.stderr)
     return items
-
-
-def fetch_article_text(url):
-    """Scrape full article body from Yahoo Finance article page."""
-    try:
-        page = fetch(url, timeout=25)
-        # Article body is server-rendered inside a div.caas-body
-        m = re.search(r'class="caas-body"[^>]*>(.*?)(?=<div class="caas-|</article)', page, re.DOTALL)
-        if m:
-            paras = re.findall(r'<p[^>]*>(.*?)</p>', m.group(1), re.DOTALL)
-            text = " ".join(strip_html(p) for p in paras if len(strip_html(p)) > 30)
-            if len(text) > 100:
-                return text
-    except Exception as e:
-        print(f"  Article fetch failed: {e}", file=sys.stderr)
-    return None
 
 
 def translate(text):
@@ -101,7 +96,7 @@ def main():
         try:
             print(f"Fetching {feed_url[:70]}")
             items = parse_rss(fetch(feed_url))
-            print(f"  Got {len(items)} items")
+            print(f"  Got {len(items)} items with content")
             all_items.extend(items)
         except Exception as e:
             print(f"  Failed: {e}", file=sys.stderr)
@@ -124,18 +119,16 @@ def main():
     for i, it in enumerate(new[:BATCH_SIZE]):
         print(f"[{i+1}/{min(len(new), BATCH_SIZE)}] {it['title'][:70]}")
 
-        full_text = fetch_article_text(it["link"]) or it["description"]
-
         title_zh = translate(it["title"])
         time.sleep(0.4)
-        body_zh = translate(full_text) if full_text else ""
+        body_zh = translate(it["text"]) if it["text"] else ""
         time.sleep(0.4)
 
         processed.append({
             "id": it["id"],
             "title": it["title"],
             "title_zh": title_zh,
-            "text": full_text or "",
+            "text": it["text"],
             "zh": body_zh,
             "link": it["link"],
             "date": it["date"],
