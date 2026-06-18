@@ -27,6 +27,30 @@ def strip_html(s):
     return html.unescape(s).strip()
 
 
+def extract_images(desc_html, item_el):
+    """Return list of image URLs from enclosure, media:content, or <img> in description."""
+    imgs = []
+    # <enclosure> tag
+    enc = item_el.find("enclosure")
+    if enc is not None:
+        url = enc.get("url", "")
+        typ = enc.get("type", "")
+        if url and ("image" in typ or url.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".gif"))):
+            imgs.append(url)
+    # <media:content> tag
+    MRSS = "http://search.yahoo.com/mrss/"
+    for mc in item_el.findall(f"{{{MRSS}}}content"):
+        url = mc.get("url", "")
+        medium = mc.get("medium", "")
+        if url and ("image" in medium or url.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".gif"))):
+            imgs.append(url)
+    # <img> tags inside description HTML
+    for src in re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', desc_html or ""):
+        if src not in imgs:
+            imgs.append(src)
+    return imgs
+
+
 def parse_feed(raw):
     root = ET.fromstring(raw)
     items = []
@@ -38,7 +62,8 @@ def parse_feed(raw):
         pub = it.findtext("pubDate") or ""
         text = strip_html(desc) or strip_html(title)
         if text:
-            items.append({"id": guid.strip(), "text": text, "link": link.strip(), "date": pub.strip()})
+            items.append({"id": guid.strip(), "text": text, "link": link.strip(), "date": pub.strip(),
+                          "images": extract_images(desc, it)})
     if not items:
         ns = {"a": "http://www.w3.org/2005/Atom"}
         for e in root.iter("{http://www.w3.org/2005/Atom}entry"):

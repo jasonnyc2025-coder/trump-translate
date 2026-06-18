@@ -31,6 +31,9 @@
   .en-head{font-weight:700;margin-bottom:.3rem;}
   .stamp{margin-top:.55rem;font-size:.68rem;color:var(--muted);display:flex;gap:.7rem;align-items:center;}
   .stamp a{color:var(--muted)}
+  .post-imgs{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.6rem;}
+  .post-imgs img{max-width:100%;border-radius:4px;max-height:320px;object-fit:cover;cursor:pointer;}
+  .post-imgs.multi img{width:calc(50% - .2rem);max-height:180px;}
   #feed.movers-feed{max-width:none;}
   .mv-wrap{max-width:680px;margin:0 auto;padding:1rem .9rem;}
   .mv-ts{font-size:.68rem;color:var(--muted);margin-bottom:.8rem;}
@@ -83,7 +86,8 @@ function fmt(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return iso;
 function postCard(p){
   const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
   const en=p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:"";
-  return `<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${en}${stamp}</article>`;
+  const imgs=p.images&&p.images.length?`<div class="post-imgs${p.images.length>1?" multi":""}">${p.images.slice(0,4).map(u=>`<img src="${esc(u)}" loading="lazy" onclick="window.open(this.src)">`).join("")}</div>`:"";
+  return `<article class="post"><div class="zh ${p.zh?"":"untranslated"}">${esc(p.zh||p.text)}</div>${en}${imgs}${stamp}</article>`;
 }
 function financeCard(p){
   const titleZh=esc(p.title_zh||p.title||"");
