@@ -21,8 +21,6 @@
   .tab:hover:not(.active){color:var(--ink);}
   header .meta{font-size:.72rem;color:var(--muted);padding-bottom:.5rem;white-space:nowrap;}
   main{max-width:680px;margin:0 auto;padding:1rem .9rem}
-
-  /* ── News cards ── */
   .post{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:2px;padding:.95rem 1.05rem;margin-bottom:.9rem;}
   .fin-title{font-size:1.08rem;font-weight:700;line-height:1.45;margin-bottom:.45rem;}
   .zh{font-size:1.06rem;white-space:pre-wrap;word-break:break-word}
@@ -33,22 +31,18 @@
   .en-head{font-weight:700;margin-bottom:.3rem;}
   .stamp{margin-top:.55rem;font-size:.68rem;color:var(--muted);display:flex;gap:.7rem;align-items:center;}
   .stamp a{color:var(--muted)}
-
-  /* ── Movers tab ── */
   #feed.movers-feed{max-width:none;}
-  .mv-wrap{max-width:900px;margin:0 auto;padding:1rem .9rem;}
+  .mv-wrap{max-width:680px;margin:0 auto;padding:1rem .9rem;}
   .mv-ts{font-size:.68rem;color:var(--muted);margin-bottom:.8rem;}
-  .mkt-label{font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.1rem 0 .5rem;padding-bottom:.3rem;border-bottom:1px solid var(--line);}
-  .mv-grid{display:grid;grid-template-columns:1fr 1fr;gap:.7rem;}
-  @media(max-width:560px){.mv-grid{grid-template-columns:1fr;}}
   .col-hd{font-size:.72rem;font-weight:700;letter-spacing:.05em;padding:.25rem .5rem;border-radius:2px;margin-bottom:.4rem;}
   .col-hd.gain{background:rgba(30,122,56,.1);color:var(--green);}
   .col-hd.loss{background:rgba(179,57,47,.1);color:var(--red);}
+  .mv-section{margin-bottom:1.4rem;}
   .sc{background:var(--card);border:1px solid var(--line);border-radius:3px;padding:.6rem .7rem;margin-bottom:.45rem;border-left:3px solid transparent;}
   .sc.gain{border-left-color:var(--green);}
   .sc.loss{border-left-color:var(--red);}
   .s-top{display:flex;align-items:center;gap:.45rem;}
-  .s-rank{font-size:.68rem;color:var(--muted);min-width:1.1rem;text-align:center;}
+  .s-rank{font-size:.68rem;color:var(--muted);min-width:1.1rem;text-align:center;flex-shrink:0;}
   .s-info{flex:1;min-width:0;}
   .s-sym{font-size:.82rem;font-weight:700;font-family:monospace;}
   .s-name{font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
@@ -57,12 +51,12 @@
   .s-pct.gain{color:var(--green);}
   .s-pct.loss{color:var(--red);}
   .s-price{font-size:.68rem;color:var(--muted);}
-  .s-news{margin-top:.4rem;padding-top:.35rem;border-top:1px dashed var(--line);}
+  .s-spark{margin:.35rem 0 .1rem;padding:0 .1rem;}
+  .s-news{margin-top:.35rem;padding-top:.3rem;border-top:1px dashed var(--line);}
   .s-news li{list-style:none;font-size:.72rem;line-height:1.45;padding:.1rem 0;}
   .s-news li::before{content:"· ";color:var(--muted);}
   .s-news a{color:var(--ink);text-decoration:none;}
   .s-news a:hover{text-decoration:underline;}
-
   .empty,.error{text-align:center;color:var(--muted);padding:3rem 1rem;}
   .error{color:var(--accent)}
   @media (prefers-color-scheme:dark){:root{--ink:#ece7dd;--paper:#1b1a17;--line:#3a382f;--accent:#e0796d;--muted:#9a958a;--card:#232118;--en-ink:#c0b8ae;--en-bg:rgba(255,255,255,.05);--green:#4caf78;--red:#e0796d;}}
@@ -71,9 +65,10 @@
 <body>
 <header>
   <nav class="tabs">
-    <button class="tab active" id="tab-posts"   onclick="switchTab('posts')">帖子翻译</button>
-    <button class="tab"        id="tab-finance" onclick="switchTab('finance')">财经新闻</button>
-    <button class="tab"        id="tab-movers"  onclick="switchTab('movers')">涨跌榜</button>
+    <button class="tab active" id="tab-posts"     onclick="switchTab('posts')">帖子翻译</button>
+    <button class="tab"        id="tab-finance"   onclick="switchTab('finance')">财经新闻</button>
+    <button class="tab"        id="tab-us-movers" onclick="switchTab('us-movers')">美股涨跌</button>
+    <button class="tab"        id="tab-cn-movers" onclick="switchTab('cn-movers')">A股涨跌</button>
   </nav>
   <span class="meta" id="meta">加载中…</span>
 </header>
@@ -83,8 +78,6 @@ const feedEl=document.getElementById("feed"),meta=document.getElementById("meta"
 let currentTab="posts";
 function esc(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
 function fmt(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return iso;return d.toLocaleString("zh-CN",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});}
-
-/* ── News cards ── */
 function postCard(p){
   const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
   const en=p.zh?`<div class="en-block"><div class="en-label">原文</div><div class="en">${esc(p.text)}</div></div>`:"";
@@ -97,63 +90,54 @@ function financeCard(p){
   const stamp=`<div class="stamp"><span>${esc(fmt(p.date||p.fetched_at))}</span>${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">来源 ↗</a>`:""}</div>`;
   return `<article class="post"><div class="fin-title">${titleZh}</div>${bodyZh?`<div class="zh">${bodyZh}</div>`:""}${enBlock}${stamp}</article>`;
 }
-
-/* ── Movers tab ── */
-function stockCard(s, isGain, rank){
+function sparkSVG(pts,gain){
+  if(!pts||pts.length<2)return"";
+  const mn=Math.min(...pts),mx=Math.max(...pts);
+  const rng=mx-mn||0.01;
+  const W=100,H=28,pad=2;
+  const step=(W-2*pad)/(pts.length-1);
+  const coords=pts.map((v,i)=>`${(pad+i*step).toFixed(1)},${(pad+(1-(v-mn)/rng)*(H-2*pad)).toFixed(1)}`).join(" ");
+  const clr=gain?"var(--green)":"var(--red)";
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="width:100%;height:${H}px;display:block"><polyline points="${coords}" fill="none" stroke="${clr}" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+function stockCard(s,isGain,rank,isUS){
   const cls=isGain?"gain":"loss";
   const sign=isGain?"+":"";
-  const currency=s.symbol&&s.symbol.length<=6&&/^[A-Z]+$/.test(s.symbol)?"$":"¥";
+  const currency=isUS?"$":"¥";
+  const spark=s.spark&&s.spark.length>=2?`<div class="s-spark">${sparkSVG(s.spark,isGain)}</div>`:"";
   const newsHtml=s.news&&s.news.length?`<ul class="s-news">${s.news.slice(0,3).map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title_zh||n.title)}</a></li>`).join("")}</ul>`:"";
-  return `<div class="sc ${cls}">
-    <div class="s-top">
-      <span class="s-rank">${rank}</span>
-      <div class="s-info"><div class="s-sym">${esc(s.symbol)}</div><div class="s-name">${esc(s.name_zh||s.name)}</div></div>
-      <div class="s-right"><div class="s-pct ${cls}">${sign}${(s.change_pct||0).toFixed(2)}%</div><div class="s-price">${currency}${(s.price||0).toFixed(2)}</div></div>
-    </div>${newsHtml}</div>`;
+  return `<div class="sc ${cls}"><div class="s-top"><span class="s-rank">${rank}</span><div class="s-info"><div class="s-sym">${esc(s.symbol)}</div><div class="s-name">${esc(s.name_zh||s.name)}</div></div><div class="s-right"><div class="s-pct ${cls}">${sign}${(s.change_pct||0).toFixed(2)}%</div><div class="s-price">${currency}${(s.price||0).toFixed(2)}</div></div></div>${spark}${newsHtml}</div>`;
 }
-function moversCol(stocks, isGain, label){
-  if(!stocks||!stocks.length) return`<div class="mv-col"><div class="col-hd ${isGain?'gain':'loss'}">${label}</div><div class="empty" style="padding:1rem 0">暂无数据</div></div>`;
-  return`<div class="mv-col"><div class="col-hd ${isGain?'gain':'loss'}">${label}</div>${stocks.map((s,i)=>stockCard(s,isGain,i+1)).join("")}</div>`;
+function moversSection(stocks,isGain,label,isUS){
+  if(!stocks||!stocks.length)return`<div class="mv-section"><div class="col-hd ${isGain?"gain":"loss"}">${label}</div><div class="empty" style="padding:1rem 0">暂无数据</div></div>`;
+  return`<div class="mv-section"><div class="col-hd ${isGain?"gain":"loss"}">${label}</div>${stocks.map((s,i)=>stockCard(s,isGain,i+1,isUS)).join("")}</div>`;
 }
-function renderMovers(data){
-  if(!data||(!data.us_gainers?.length&&!data.cn_gainers?.length)){
-    return'<div class="mv-wrap"><div class="empty">暂无数据。等定时任务跑完后刷新。</div></div>';
-  }
-  const ts=data.updated_at?`<div class="mv-ts">数据更新：${fmt(data.updated_at)}</div>`:"";
-  let html=`<div class="mv-wrap">${ts}`;
-  if(data.us_gainers?.length||data.us_losers?.length){
-    html+=`<div class="mkt-label">🇺🇸 美股（Yahoo Finance）</div>
-    <div class="mv-grid">${moversCol(data.us_gainers,true,"涨幅榜 Top 10")}${moversCol(data.us_losers,false,"跌幅榜 Top 10")}</div>`;
-  }
-  if(data.cn_gainers?.length||data.cn_losers?.length){
-    html+=`<div class="mkt-label">🇨🇳 A股（新浪财经）</div>
-    <div class="mv-grid">${moversCol(data.cn_gainers,true,"涨幅榜 Top 10")}${moversCol(data.cn_losers,false,"跌幅榜 Top 10")}</div>`;
-  }
-  return html+"</div>";
+function renderMovers(gainers,losers,isUS,updated_at){
+  if((!gainers||!gainers.length)&&(!losers||!losers.length))return'<div class="mv-wrap"><div class="empty">暂无数据。等定时任务跑完后刷新。</div></div>';
+  const ts=updated_at?`<div class="mv-ts">数据更新：${fmt(updated_at)}</div>`:"";
+  return`<div class="mv-wrap">${ts}${moversSection(gainers,true,"涨幅榜 Top 10",isUS)}${moversSection(losers,false,"跌幅榜 Top 10",isUS)}</div>`;
 }
-
-/* ── Load ── */
 async function load(){
   try{
-    if(currentTab==="movers"){
+    feedEl.className="";
+    if(currentTab==="us-movers"||currentTab==="cn-movers"){
+      feedEl.className="movers-feed";
       const res=await fetch("movers.json?t="+Date.now());
       if(!res.ok)throw new Error(res.status);
       const data=await res.json();
-      feedEl.className="movers-feed";
-      feedEl.innerHTML=renderMovers(data);
-      const n=(data.us_gainers?.length||0)+(data.cn_gainers?.length||0);
-      meta.textContent=n?(n*2)+" 支":"";
+      const isUS=currentTab==="us-movers";
+      const gainers=isUS?data.us_gainers:data.cn_gainers;
+      const losers=isUS?data.us_losers:data.cn_losers;
+      feedEl.innerHTML=renderMovers(gainers,losers,isUS,data.updated_at);
+      const n=(gainers?.length||0)+(losers?.length||0);
+      meta.textContent=n?n+" 支":"";
       return;
     }
-    feedEl.className="";
     const file=currentTab==="finance"?"finance.json":"posts.json";
     const res=await fetch(file+"?t="+Date.now());
     if(!res.ok)throw new Error(res.status);
     const posts=await res.json();
-    if(!posts.length){
-      feedEl.innerHTML=`<div class="empty">${currentTab==="finance"?"还没有财经新闻。":"还没有帖子。"}等定时任务跑完后刷新。</div>`;
-      meta.textContent="";return;
-    }
+    if(!posts.length){feedEl.innerHTML=`<div class="empty">${currentTab==="finance"?"还没有财经新闻。":"还没有帖子。"}等定时任务跑完后刷新。</div>`;meta.textContent="";return;}
     meta.textContent=posts.length+" 条";
     feedEl.innerHTML=posts.map(currentTab==="finance"?financeCard:postCard).join("");
   }catch(e){
