@@ -1,530 +1,6 @@
 {
-  "updated_at": "2026-06-22T21:49:48.686618+00:00",
-  "us_gainers": [
-    {
-      "symbol": "DFTX",
-      "name": "Definium Therapeutics, Inc.",
-      "price": 36.67,
-      "change_pct": 49.8,
-      "change": 12.19,
-      "volume": 20031362,
-      "name_zh": "地芬尼治疗公司",
-      "spark": [
-        38.49,
-        37.01,
-        37.06,
-        36.024,
-        35.89,
-        36.625,
-        36.72,
-        37.0201,
-        36.74,
-        37.105,
-        38.07,
-        37.941,
-        37.195,
-        36.875,
-        38.035,
-        38.36,
-        37.322,
-        37.61,
-        37.24,
-        37.7367,
-        37.48,
-        38.0099,
-        37.7765,
-        36.99,
-        37.2,
-        36.645
-      ],
-      "news": [
-        {
-          "title": "Definium Therapeutics seeks $500M in a public share sale - Stock Titan",
-          "title_zh": "Definium Therapeutics 寻求公开发售 5 亿美元股票 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEdZSVJYUlNEUk80alhqTVFlbXgzdEs5YVY4QWQ5c2xJWUR0SkIzUDJmYWxlNVhhZjRJTmhLbTBrNHZFTWZyRlVITzlsR1JWazBtVU5ZdTItNkdJRFJaamtyQ2NRdWJwUlZFQnJMOHdsWW5mZFZqdnpLZXR0RXdLR3FQeWVsQ015Q0FkRmNmMGoycUtYT3hFVW15LVdlTVVFWWk3UGpIWnk2Zw?oc=5"
-        },
-        {
-          "title": "Why is Definium Therapeutics stock soaring nearly 40% today? - Investing.com",
-          "title_zh": "为什么 Definium Therapeutics 股价今天飙升近 40%？ - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1JOc1hiMHZiUU9HSS1xcndzWXBwdGo4X2o5Tk9jVVJkck9oY1ZBSkctMU1LNWpHV3pqWWk4S0xDNVowQTNydk8wYWNDWVpSWXVYY0NRRk14WnZ0ZmMtUU1Nd255NEVUTlNzVWd0WVVZVk15bTBTY0hUb21BUUtiZmd5U01GZTUtMFJ1RkRia0hjaEJIY0NsdkhzdzBQLTlwVzRudG5HZ0x6MWdSZlZEVy02eFNCMG5mRkRsMA?oc=5"
-        },
-        {
-          "title": "This Biotech's LSD-Based Drug Just Treated Depression. Now The Stock Is Sky-High. - Investor's Business Daily",
-          "title_zh": "这种生物技术的基于 LSD 的药物刚刚治疗抑郁症。现在股票已经涨到天价了。 - 投资者商报",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWs1V3JFYnA0b2pUQThBTER6MVh1ZFhoSFdLaUZBbkZ2Ri13Y2ZJRmRJUGxJMTVaeFcweEdUMGg1OUgtX2lMcUNTMU9VMjZLTkxtVjZfejQtT3l2Uzh5WTR0MWlPOWJnbHVyNEJfMVdIRDRDLTlocTlFR1c2Q2ZjWTExa21penpHWjBMamp0UGduaS1BQWt3M3oxcw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "APGE",
-      "name": "Apogee Therapeutics, Inc.",
-      "price": 132.55,
-      "change_pct": 46.66,
-      "change": 42.17,
-      "volume": 61218507,
-      "name_zh": "Apogee 治疗公司",
-      "spark": [
-        132.74,
-        132.7,
-        132.7,
-        132.655,
-        132.63,
-        132.665,
-        132.7,
-        132.635,
-        132.695,
-        132.65,
-        132.615,
-        132.645,
-        132.685,
-        132.645,
-        132.67,
-        132.605,
-        132.65,
-        132.62,
-        132.615,
-        132.605,
-        132.575,
-        132.635,
-        132.605,
-        132.61,
-        132.635,
-        132.585
-      ],
-      "news": []
-    },
-    {
-      "symbol": "ORKA",
-      "name": "Oruka Therapeutics, Inc.",
-      "price": 85.38,
-      "change_pct": 18.03,
-      "change": 13.04,
-      "volume": 4200169,
-      "name_zh": "Oruka 治疗公司",
-      "spark": [
-        83.55,
-        83.495,
-        82.445,
-        82.45,
-        82.085,
-        82.83,
-        84.145,
-        84.06,
-        84.95,
-        85.105,
-        85.295,
-        85.67,
-        86.02,
-        86.94,
-        88.135,
-        88.19,
-        87.055,
-        88.0699,
-        88.555,
-        88.0,
-        87.07,
-        87.53,
-        87.89,
-        86.455,
-        85.86,
-        85.9
-      ],
-      "news": [
-        {
-          "title": "ORKA Stock Rips Higher As Bulls Press Momentum - StocksToTrade",
-          "title_zh": "随着多头推动势头，ORKA 股价上涨 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWExTalVuOTBidUpycEs4bkV2ZUVnUGlVNTRPdm5WZXdEVl83anlmUjQ2eUhKSjZRYzJyeG5ralZQelBrQ1p6RkNSN0hTN05WRjNhbTRxWTN1NWQ2MDBiSVNFNDVKWWowdC1BRExETksycmtpUDhXeTQ4NEZiOWJpbW1qdw?oc=5"
-        },
-        {
-          "title": "ORKA Stock Extends Run As Bulls Press Momentum - timothysykes.com",
-          "title_zh": "ORKA 股票随着公牛的压力而延续上涨势头 - timothysykes.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZTVZVk1tSzdaQ1pUSnRzOGlpZWxuYnVNQmRKcl9zYjA2OTRhSFVzQ3ZaalQzVF9mX0FmRXl2LVgwdWNodklSczJCOGEtdWE0WnY3eVprUkcwUDZGVWJXdnRrendxT3o5Q25tMTlrUTZ4RHFaa0wtMnBoU3VVYldXenZjLW5kbVE?oc=5"
-        },
-        {
-          "title": "ORKA Stock Extends Run As Bulls Defend Fresh Highs - StocksToTrade",
-          "title_zh": "多头捍卫新高，ORKA 股票延续涨势 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORS1TeGRzWVJmMV9lS2EwTjdRNTBhNGhqZFVyOFBqYzFnVzNrZ254V3g4R3FRNHJPM2k2aWdma05WRmVWZllSSGlsVTRHdHZrSjI2a1BYRFFWdEphX1ZFbVRTaUNDLXNCZVR6TGNiTGJxbC13UTBZYXgwRVZzMk52eQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "BWIN",
-      "name": "The Baldwin Insurance Group, In",
-      "price": 23.52,
-      "change_pct": 16.21,
-      "change": 3.28,
-      "volume": 4705165,
-      "name_zh": "鲍德温保险集团，在",
-      "spark": [
-        23.1964,
-        23.7792,
-        23.715,
-        23.345,
-        23.72,
-        23.92,
-        24.19,
-        24.675,
-        24.915,
-        24.46,
-        24.095,
-        24.63,
-        24.44,
-        24.545,
-        24.6,
-        24.645,
-        24.485,
-        24.59,
-        24.475,
-        24.6,
-        24.65,
-        24.53,
-        24.13,
-        23.77,
-        23.455,
-        23.54
-      ],
-      "news": [
-        {
-          "title": "The Baldwin Insurance Group (BWIN) Moves 16.8% Higher: Will This Strength Last? - Yahoo Finance",
-          "title_zh": "鲍德温保险集团 (BWIN) 上涨 16.8%：这种强势会持续吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNG1VNGhEbjhsdHBEbkVnVktNNXpJUS1yNFVDOFR6SmtpWm5vTnE5bnNDTExMRWNKNnQ0ejY3QTJ0cklFN3FzQjhYRFRoNkNGMTA2TUJiQm9hTUk0ZzlITUFZZ2VGb2l5ZmJuTlFfV0l6UWhiLUlHQW1KWFgtODhFWXNCcHY0VHZWdVhVOGdOVU02Wnk1cURkMFVIa2k3dWVF?oc=5"
-        },
-        {
-          "title": "Why Baldwin Insurance Group (BWIN) Stock Is Trading Up Today - TradingView",
-          "title_zh": "为什么鲍德温保险集团 (BWIN) 股票今天上涨 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnF4dmVLX3BZa21zeUJYWG5iZHNYSXE1QXhPdGhnQmFYNG1RZ3dOeE1aRjJWOXAwYjFiNlV3d3ZfaWZoN2dqbmZSMU5FVWpMUzZYaXhpY2FwS3B4aVdnM0hLNGt3YWVFQ3Q4dW5FNTBBOUMzekVaZGpOTk9GNlR4SUdKTjV4SVBYQ3RnOG0zbFg4QXJlZUxBZGx4MldTcU1WU1RNaUJ6VS1TSGFfd3NtblZnZWdZR29saF9F?oc=5"
-        },
-        {
-          "title": "Baldwin Insurance Group (BWIN) Is Up 11.6% After Surging Quarterly Profits Despite Weak Financial Health - simplywall.st",
-          "title_zh": "尽管财务状况不佳，但鲍德温保险集团 (BWIN) 季度利润大幅上涨，股价上涨 11.6% - Simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZms0OG9RV2h3M1k5VldXRWU5dVVGWFZjVXpQVGlvOHRiTVp2NnlCVXpRLWVGQlhZMGZNWkxCcXNLbUNXakZBSjEwTjl1Mm92WDEyUWdwMGlFV3ZELW1vZDZxUHZVN3Rxc28zSmlpSU8zdEdaRTM4ZnZOWXU2NG9OeVBoY21fYklKYjJWNlljNDRwYktoYTlsQk04d2RlZXZrdFZDb0dWYTdpTklaZG1nZVlYYjMtenJxMHVNNzkwOHVwVFJmbExFajBYZGdnRGdYN2ZHY19IcHZoTWPSAeABQVVfeXFMT0tubGF5allDbUdYRkw3YldUaTZ0dnhpc0oweWYzYi11SmRsd0dJZkRvZ3ctVXBYOXFVb2Z6OE1aazF0Zy1PQ3kyRzFhS21zTmxIc0xuTVc3anIzYVBWTVlnZ1Vzd0ppTkdELTAyaXVLSnZ3Tzl6RWhQZU5QRXR2ZVpZTkFQMEdmemRTUDcxUlp5dV9raGpDSmtFSE16RlFzbnVLV2JyZTVzbUYwMmlMOFVQRXd1YkRWR25lZEkxZkpMTENZbVI3YnExeTJwLUhKN0RaRW93VnFTMndqRXV3Y3k?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "SMCI",
-      "name": "Super Micro Computer, Inc.",
-      "price": 35.46,
-      "change_pct": 15.66,
-      "change": 4.8,
-      "volume": 124395469,
-      "name_zh": "超微计算机公司",
-      "spark": [
-        33.675,
-        34.865,
-        35.48,
-        34.2972,
-        34.29,
-        34.18,
-        34.96,
-        35.2911,
-        35.7499,
-        35.26,
-        35.02,
-        34.945,
-        35.28,
-        35.5,
-        35.495,
-        35.405,
-        35.32,
-        35.975,
-        36.6901,
-        36.465,
-        36.285,
-        36.175,
-        35.895,
-        35.7385,
-        35.705,
-        35.465
-      ],
-      "news": [
-        {
-          "title": "Why Super Micro Computer Stock Is Skyrocketing Today - Yahoo Finance",
-          "title_zh": "为什么超微电脑股票今天飙升 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXBwUnZKcktFVDBpSG5XWS1DODFiWTQ3Yk9TekxXeWZsUmsxSXB3Rk5feTc2MW9tZFNaNTRKZ252LW04WnBwSnBmWnl6TUNVdkZ4T1NFaTQ3bk44SkR3cmlmZ3VLS1VtSHVtbk5idVNMeHdXZVoyZ0dweXotb0hrb3RveFpYY2RtR1h6Z2dRNE11Q29UaDE3dHYyNA?oc=5"
-        },
-        {
-          "title": "Super Micro rises on back of GF Securities upgrade (SMCI:NASDAQ) - Seeking Alpha",
-          "title_zh": "广发证券评级上调超微股价上涨 (SMCI:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkt1Z3VaVTJNay1MZW5NOHdMSzl1NzBKQktBenJpZ0xLeGJEWkltX2pmNlJTX0JFVDlSZ1Bhd2NLZktJWGlwUEtfWjQ4Y3VHU3dOVTFLb3A1V0NyTzZYQmg4ems0dUM4c0FYcFRMVlh3eC1vQUVDa1IxR1UxMi1mRV8wM3hRYjkzSGo0TmxiWU9LQQ?oc=5"
-        },
-        {
-          "title": "Why Is Super Micro Computer Stock Soaring Monday? - Benzinga",
-          "title_zh": "为何超微电脑周一股价飙升？ - 本辛加",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRENLUXFJYjNQd3ZlOUQxaUp4VUE1UjdnOU1ka2t5T2c0NDV2cWtyelItU0hFc2RiQkpxZlhXcUo4VHFMLXh4LWhNNjhzQkctTzZrUU1QWElRVWEyTzFzVlNHZ3FocTg3cGdhWVg2UDZDTWVpcWtNS1ZfWHFvVU90SUlROEpnZVZqdkYxT1hPYUhsRmVuWkx3bUExLXlfbnZtY2FF?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "KLRA",
-      "name": "Kailera Therapeutics, Inc.",
-      "price": 22.88,
-      "change_pct": 14.97,
-      "change": 2.98,
-      "volume": 712899,
-      "name_zh": "凯莱拉治疗公司",
-      "spark": [
-        20.8,
-        21.13,
-        20.92,
-        21.16,
-        20.76,
-        20.88,
-        21.63,
-        21.42,
-        21.245,
-        21.68,
-        21.69,
-        21.605,
-        21.59,
-        21.74,
-        21.77,
-        21.74,
-        21.8,
-        22.025,
-        22.125,
-        22.425,
-        22.41,
-        22.4663,
-        22.88,
-        22.4781,
-        22.66
-      ],
-      "news": [
-        {
-          "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs - BioPharma Dive",
-          "title_zh": "Kailera 在生物技术有史以来最大的 IPO 之一中净赚 6.25 亿美元 - BioPharma Dive",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTZwdFF0bkVNbjdPN1VpSVVKeGNvMkVYVnlCa2NveWtmRUUzLTktNWxwTnFrYnZEb3NEZUxmQXY2M1RHR1NIeS1WUXNFTDBRXzROd3RSazFxeFpDQmFxMjE1cW9NWWJNUDU1Q2MxTXY4Y3djZmZWdDBReDB5MFd0a1ZCWDVwSkVvMmMwWHVVWEJBRmloQlRETw?oc=5"
-        },
-        {
-          "title": "Is Kailera Therapeutics a Buy After Its Sizzling IPO? - Yahoo Finance",
-          "title_zh": "Kailera Therapeutics IPO火爆后是否值得买入？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXJvdWJZNDJWQnZJUG5IaC1PenEzbi0ycHRyc1psRG9aNS1TY0JXNnFCNTFaRDZnNUZhMTQyYkxnMFZOVEljT1NuZ2lXRUpRMXBUMXliSTRQNGc0enJOVmhyTlJsdmF6MmFQb1hUNlk1MDJDYkZWYVZxTVRlYkY1YUJhalc4NFFVaEY3V1A1MnRVOUR1b1hHQ1BNd0dURk81c3lyNw?oc=5"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "title_zh": "symbol__ 股票报价和预测 - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pR08xOW1ZYVJwSEktQTZQRTkwMmJaS2Zqc3pMOWs1dFNOZG5KZUxwd3pQcmxycmtvSEZmSm5rNzZVWjlxd3E4UVVnT1hQX1Br?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "BHVN",
-      "name": "Biohaven Ltd.",
-      "price": 15.5,
-      "change_pct": 14.22,
-      "change": 1.93,
-      "volume": 5330606,
-      "name_zh": "生物港有限公司",
-      "spark": [
-        14.63,
-        14.865,
-        15.34,
-        15.34,
-        15.45,
-        15.46,
-        15.305,
-        15.32,
-        15.28,
-        15.38,
-        15.44,
-        15.5,
-        15.48,
-        15.59,
-        15.635,
-        15.5,
-        15.34,
-        15.41,
-        15.34,
-        15.4834,
-        15.465,
-        15.41,
-        15.2891,
-        15.1699,
-        15.03,
-        15.29
-      ],
-      "news": [
-        {
-          "title": "Is Biohaven (BHVN) the Best Stock That Have the Potential to Rise 1000%? - Yahoo Finance",
-          "title_zh": "Biohaven (BHVN) 是有潜力上涨 1000% 的最佳股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3RXZHpfY0ZNTGJYdzdPdjlpY1dOQzJIemtDMjBENG5uWmkxVUtkTUd3WjNvOWdnczNfamhMWDR1dlVUdEFUUnN1WkQ0MjNfRTBYMTZQOVNwc1dDdllhUTNOSjZoVmU2TmZRd1ZrMXVPcTROLVVTUGUzbmpxVjUydVdMX0RiTm5kbUdSaG4tOVhfZ1NZOGZ5WkhTdXN0TTRn?oc=5"
-        },
-        {
-          "title": "Biohaven Ltd. (BHVN) Stock Price | Live Quotes & Charts | NYSE - StocksToTrade",
-          "title_zh": "Biohaven Ltd. (BHVN) 股票价格 |实时报价和图表 |纽约证券交易所 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRjdCZTZhbUFPY1VjTzM2dFhydkVnSld4TDNtUkl4UldXV3RxRXZWX01jdW9NZXotTXJQZXVVeFZmV01VS1EydUdJYlJZZw?oc=5"
-        },
-        {
-          "title": "Biohaven Ltd. (BHVN) Shares Slide 6.7%—Pressing Key Support at $10.00 - getLinesFromResByArray error: size == 0 - lwvtexas.org",
-          "title_zh": "Biohaven Ltd. (BHVN) 股价下跌 6.7% — 在 10.00 美元处按下关键支撑 - getLinesFromResByArray 错误：大小 == 0 - lwvtexas.org",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGhJZHlOS1VQdkNLeEg3VjNRYUNRWnZWQVExdlR4Qzc3YS1xRnRNc1lmQUdYMzhmZG9MOXlsekFsYmhfVFVVTTFKdnNRMVVBWkJVNGFUVzFKR09OaXJQbTg0cVpTUDBuWndpYXZITllRWU12T0F5M3BSM0Y4b2lzYV9aaG5QSnFLWmRTN3Z4YzZCYjFtRXZ4OWN6S09RREhsYXc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "UMC",
-      "name": "United Microelectronics Corpora",
-      "price": 27.5,
-      "change_pct": 14.2,
-      "change": 3.42,
-      "volume": 23687498,
-      "name_zh": "联华电子语料库",
-      "spark": [
-        27.65,
-        27.81,
-        27.745,
-        27.81,
-        27.85,
-        27.86,
-        28.16,
-        27.665,
-        27.695,
-        27.79,
-        27.53,
-        27.645,
-        27.61,
-        27.68,
-        27.735,
-        27.655,
-        27.575,
-        27.555,
-        27.585,
-        27.55,
-        27.595,
-        27.5499,
-        27.555,
-        27.49,
-        27.42,
-        27.34
-      ],
-      "news": [
-        {
-          "title": "United Microelectronics Corp Stock (UMC) Moved Up by 14.18% on Jun 22: What Signal Does It Send? - TradingKey",
-          "title_zh": "联电股价6月22日上涨14.18%：发出什么信号？ - 交易密钥",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXNnek9HY2RXQW92MWZfRjdjUEp2WUQ2bUFqbW81MjRYZVpxU1ljS3NKMlFYQVFZd1g0em5tVmlJQ2VVOGVrQWpFZWVGclZqN0RVeWFSaVFmQnNreUVuR2dNLTRzRmpVT3hWMDhGRzg5OHVVWkVfdEtpU3RHSk5pRTgyTU4zMzZqYlE?oc=5"
-        },
-        {
-          "title": "United Microelectronics Corporation (UMC) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
-          "title_zh": "联华电子 (UMC) 是一只势头强劲的股票：您应该购买吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXZPcldtaXZIckktUGJweUhCdkN5YmlBSGc2ZGFwRWF6YU1OZGJyOU9ReGM3NF9OaXdFOV9KNW9Xb0RZU2pJOEdpd0NYakxHMzFpMHBXWlAxVi1Cb0xPTnNpNm44TkVVRVg3eFQxM3JNeFViWnc5dE5rQWVzbHRKbXRzMzgxcWlXLUI3eU9LaVBwUXkyUmIzOUJsdkR6ZFFtNmU5ZXozV0FYc0s5bTdJ?oc=5"
-        },
-        {
-          "title": "United Microelectronics Stock Hits 52-Week High - Here's Why - United Microelectronics (NYSE:UMC) - Benzinga",
-          "title_zh": "联华电子股价触及 52 周新高 - 原因如下 - 联华电子 (NYSE:UMC) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWhSVnEzVE5fRWxjbU1ibGZJeUh4dU9VaExfU3FVZG83QlJxRkJMWDhCSzZpWGdsTlZuZGN6WUxHcXhEWTlZSnk5TXM3YkRmTVhHQk9uMm52Z0xKbXMzYUZnTlFCSzB3VmxSc2xWaHFJUW9aOWFvNlFCZGw5UnRGZVRSS1Uwem15NWEtT05BOE5xV21GdzlhUjMxZEhJenpQdTlUdWRsVVJEZWtDOEVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "SYRE",
-      "name": "Spyre Therapeutics, Inc.",
-      "price": 100.32,
-      "change_pct": 13.56,
-      "change": 11.98,
-      "volume": 2768929,
-      "name_zh": "Spyre 治疗公司",
-      "spark": [
-        95.9516,
-        96.995,
-        99.835,
-        98.45,
-        96.83,
-        97.365,
-        96.8,
-        96.6169,
-        97.23,
-        97.58,
-        97.61,
-        97.85,
-        97.73,
-        98.49,
-        98.86,
-        99.87,
-        99.34,
-        99.62,
-        99.815,
-        100.54,
-        101.19,
-        101.23,
-        100.5652,
-        100.275,
-        100.545,
-        100.15
-      ],
-      "news": [
-        {
-          "title": "SYRE Stock Climbs As SPY002 Data Ignite Analyst Upgrades - StocksToTrade",
-          "title_zh": "SPY002 数据引发分析师升级，SYRE 股价上涨 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSllncGdKa2ZzRlluVGUxY181bU9wU2JfeUo4VUNmdFNpY3VTQ2hKWUFiWFNNN1FJSS03TFF1dlJyYTd2WW1xU0JJNFQ4UFp6WFNTNlJuQTlqTGVVVlJ1dkQ3Z2FsT3c2SmxISDU0R2pWbjBQZkJxQ0FNeEVxdURWSQ?oc=5"
-        },
-        {
-          "title": "SYRE (NASDAQ) Form 144: 20,000 RSUs listed; insider sold 80,000 on 05/08/2026 - Stock Titan",
-          "title_zh": "SYRE（纳斯达克）144 表：列出 20,000 个 RSU；内部人士于 2026 年 5 月 8 日售出 80,000 份 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JmUHZJazRuOFc1SzhKcUVreGhDTnp1QTBWUld5a19nOHlkRTFSTXhUSVpoeHZDWmxpb0RtZjhpM3E3MkNhU0UzN1lfNklwVnhpQUNWdlgzclNUX01SMWJsZ3MyelU3VklhckJkVXRkamE1dUg4SFNtY3dmY3JGUllmTE5ybXlNWlVWZlljZUpSeGNtMVZvYU0ta2ZQU1Vm?oc=5"
-        },
-        {
-          "title": "SYRE Stock Climbs As Analysts Race To Hike Targets - timothysykes.com",
-          "title_zh": "分析师竞相上调目标，SYRE 股价上涨 - timothysykes.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHM4UFEtc3F3NzZwVG8zRjQxSndWdENHdnFzc0t3RXdhaFNVazYzWUN0ZXJOVlNVd1Fub1FKOXVuVmprQW93bzN1UlhENzJ5c0VKaVc1T01HUFVYVDdhRzdQSWZ2aWpBbFRMZS1SWGh6X0czYnM2WWNoVVRCZWxCQ2RHWmk?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VIAV",
-      "name": "Viavi Solutions Inc.",
-      "price": 52.94,
-      "change_pct": 12.23,
-      "change": 5.77,
-      "volume": 9252235,
-      "name_zh": "维亚维解决方案公司",
-      "spark": [
-        48.22,
-        49.5,
-        49.035,
-        49.1,
-        49.46,
-        49.66,
-        50.1,
-        49.9651,
-        50.29,
-        50.085,
-        49.785,
-        50.28,
-        50.49,
-        50.908,
-        51.57,
-        51.805,
-        51.855,
-        52.07,
-        52.31,
-        52.45,
-        52.8,
-        52.76,
-        52.71,
-        52.535,
-        52.42,
-        52.59
-      ],
-      "news": [
-        {
-          "title": "Why Is Viavi Solutions (VIAV) Stock Soaring Today - TradingView",
-          "title_zh": "为什么 Viavi Solutions (VIAV) 股票今天飙升 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjMxQUpoc05EcHhDQUFUcWlUa2hGb2pQcHV3dFFPYUE5NTc4dDczMVVNMjBDZDQxcWxSR3dVQjYyTERhc2ttQk9TNDczLUZ2UGJqcjJvMHo1Vy1LcF8zQmh3V0hyN2F1Y3BlRGhJdFBVT2k2Q2tWR1ZHX1FTcTR4eHdUclQ0XzZRc3RobzRERm1GcW91cEMyMF94b1lSUnpoX203WG12ck15SnJS?oc=5"
-        },
-        {
-          "title": "VIAVI SOLUTIONS INC (NASDAQ:VIAV) Poised for Breakout with Strong Growth Momentum and Technical Setup - ChartMill",
-          "title_zh": "VIAVI SOLUTIONS INC（纳斯达克股票代码：VIAV）凭借强劲的增长势头和技术设置准备突破 - ChartMill",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUTRiaTZTclRJeE81UldOZG9tdjk1N2xTZzZRb3ItSnNITmFhWHFfM1ZjQTBDTXduM25tTnVLZ3FMZFhJUFZacGVFRFh2XzlCVmNCb0dOUllhZVJLR04yZmR4enBzV0lPd3I3UlRWU29DR0dveU1nZHA5eFVWRFRHbHA5d29kS3YyejBmVW9SUkF5Wnh6alhhcXhzN2luYUdtRXBqR19QejM5TmFiT2w5ZUVGQ3p5bDREUkVXX1Z6R0N5MUVnM3o5YVR6aFU3a1NMcXZ3M1BTdGFNczJJQzZUSkdzMDk?oc=5"
-        },
-        {
-          "title": "Viavi Solutions Inc. (VIAV): 10 Under-the-Radar Stocks That Are On Fire Right Now - Yahoo Finance",
-          "title_zh": "Viavi Solutions Inc. (VIAV)：10只目前炙手可热的低调股票 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVFQM3p2Z0NkcHFPT29xTGJSSVlSRVVZcVQwSW9KbHA0YmJzNTg3NkczNVhqN3JqUzZkMHdjcy1ORXVoWDNmQ1FFWUdOQzBudXhlT2YwQ2NuMWU2UktEVjNTblZGY1hNdWRxMEFzTk1ock9BaF9HaFIwLVYtdVJYLWJNWDJOckg3dENKeHpPRHBNWExWaWVV?oc=5"
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-22T23:08:39.985882+00:00",
+  "us_gainers": [],
   "us_losers": [
     {
       "symbol": "SPCX",
@@ -569,14 +45,14 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTktoZFFsTHcxR0t5ZDMtd3RtZmpBdmFBQ3o1OVh1V2NWT2dPcF9iamVHNWZKWkY2ME80N2FBODRDS1U5TkVFblJnRG5LLVQzOHlBY3E2Wm5nU2RudjVhRU9PelQ0dmE3ZktDbDBjVU1jSU50bDhMb2ZPU3p1YVhGRk53VEtRYTR3U082SHNmVlNNOUR1N1o2NEp6bmU?oc=5"
         },
         {
-          "title": "Is SpaceX Stock a Buy at a $2.5 Trillion Valuation? - The Motley Fool",
-          "title_zh": "SpaceX 股票估值 2.5 万亿美元是否值得买入？ - 杂七杂八的傻瓜",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnZQV3I2VE5rdGNOc2JEbHBXTFZESC1LUi1yVHpmNXFGaTZHaG01SDZMdlZxbmt4MFVpRjloS0NKS0VBQ0lEcU44WUF2S0RUVE9sOWUwVktTeFpPNTBlX0dDWERvcF9SVkpYLVZGdlNBdGRPYVc4U2hRdnh5SFVkYl9sanJiQQ?oc=5"
+          "title": "2 Reasons to Wait Before Buying SpaceX Shares, and 1 Reason to Buy Right Now - Yahoo Finance",
+          "title_zh": "购买 SpaceX 股票前等待的 2 个理由和立即购买的 1 个理由 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkFIMGJqbG5TMlBBYnR5UHY5aGpLTXBHSVJ0V21KSkRtT0VvWk1jc0x0WThHQ1NYczc1N3V5OW1jQ2dKenZsNEZyQ0JnR3JlODczSTQzOTZJRWltYlNuOHlEM2lOVk1WLTNiVi1PSjRXVnlKYklUcVZac0EyS2ljaWpzaldOR01QV2Q2VDZZbWktWm9yUEphWA?oc=5"
         },
         {
-          "title": "Why Is SpaceX Stock Falling Monday? - SpaceX (NASDAQ:SPCX) - Benzinga",
-          "title_zh": "为什么 SpaceX 的股价周一下跌？ - SpaceX（纳斯达克股票代码：SPCX） - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVTF5Mm5YVlhOVzZUOGVrRXlfcWloNVV4UWk1V0pVOW50TG5Pb2RSMHhaS3J6ZlBJVlE4U2syMTZvaUctODBNX08wREIzbUJGRjJWUTBnZ2dFdkRUUDNlZ3MxcTJfeDVKOWItRTNfZjIxWUJKdDliR0dUMDR0dWlvTmJBbGVweXc2Q2lFRkc5N2pQVWZlMk9ib2kxLXhwSzZFcU5TY0E0VUZCWHc2d0VQek1HR3hRblNFMzJxTWFWYl9GY0h4ZWlaTVpkUlAtTV9L?oc=5"
+          "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance",
+          "title_zh": "SpaceX 股价暴跌 16.4%，抹去了首次公开募股以来的大部分涨幅 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWRodXU2UUNkYTRJX1lZSFgwMGNzMEhJMlBaVC0zWE9Hck9tM0ZnVEl5ajZnclVMNzhDTG5DQkxwVUNRV09BV3lHSHBLazBHbmYzcWRiQzQ4Sk5ucV9sSTFaaUF5TTRRN3lHa2k5WXd4bGd4NEtHdVk4ZE9fclhCZ1JuNTNGVjZ2b0ljSngzYzdiNnk4Wlk0MHM4NlNPdHBQVFBMZGRQMmpnOS1iT0dsa3ZkQnEtc2NzTUFmZzF2cld5MFkxMHc?oc=5"
         }
       ]
     },
@@ -670,6 +146,11 @@
       ],
       "news": [
         {
+          "title": "Why Alamos Gold Stock Is Plummeting Today - Yahoo Finance",
+          "title_zh": "为什么阿拉莫斯黄金股票今天暴跌 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV2htSlNhZ0ptX3kyZ1ludXFPZW9HOXpOTDVGbGptbVNGajd0dW1GZlZfd3NRMnZrM3BzcFVDcS15X0ljMFMtVkgzZWNFUm1odktZWUJvUkxnN3RIQm15SVhVa2tJRTRsX3k1MC1Sa1YtZGM1YngzNGZWWFQ3dVhwT0pKYnBRRzhBXzdRZkh6b2d4bXJMR2xNOWJyQ1pCdw?oc=5"
+        },
+        {
           "title": "Alamos Gold: A Major Discount In One Of The Highest-Quality Gold Miners (Upgrade) (AGI) - Seeking Alpha",
           "title_zh": "Alamos Gold：最高质量金矿之一的重大折扣（升级）（AGI） - 寻求阿尔法",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWRXSTNWLVVFcVR3U000Z0p1cENqcC1BU19OT3JCMUhMSHNmYmRJbE5CbFZUc1gzeDlhVkUxa2l3ZHlYM25la2hCNGthRW9tQS1xSmsxV08tRm5seXl1WUxOUExlM0dWWXdsd19jaHZadDhvNFVxaUZsWkJaZC1OcXFlNkVrbkpKamVJaXM0bzhmM3poQ2RORFVwQlJwanZtMG43SFUzdnBIQV9fRGg1VWtNSGRVLVdwcVBV?oc=5"
@@ -678,11 +159,6 @@
           "title": "Alamos Gold (AGI) Sees Significant Drop in Stock Value - GuruFocus",
           "title_zh": "阿拉莫斯黄金 (AGI) 股票价值大幅下跌 - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0JsbDJ0aEl3d0NRekoxd3RwTFNRYm11elg2X3haMGhpdGtVanY5VE5MbGFrczNxaXZkcGdfMWhVMWVjZWlwZXZQTFBGSnRmdmtDclgzblRDMGhlck1kUEZxMkI3M24xcjdreEVVdUlINUd2TmFXSDU1Qk9RTjJ2dVdzbXJHUmZGVWY5YWluUEM5b3lxUmc?oc=5"
-        },
-        {
-          "title": "High-grade Island Gold hits support Alamos Gold (NYSE: AGI) expansion plans - Stock Titan",
-          "title_zh": "高品位 Island Gold 价格上涨支持 Alamos Gold （纽约证券交易所代码：AGI）扩张计划 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWRrNENPdW91ekttVngyRk9OdUxJVFE5UDZ5cUFMcWd6amFVazVjU2RmYWt1M1NBNlkzTXQ3ajlCZ1RGS2Nrek8tci1JQkRWOGFxalVneGFzcGx3NDRfTVRBY0RONWJNN0tzUHgteWVCMlMxZGxkWE5fbzh0NkluS2k4MjJTbl83bDA0dVVmV2FFWVIwalMwWXJFYi1CXzg5WFotWURnOVRsOGpuODFF?oc=5"
         }
       ]
     },
@@ -842,9 +318,9 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkQxaEZpWGpMV05GVzVPZkxNNnk1LWNjVW0wSGk2bVY3Ty1mOUlNVkdHal9rQzdMOHQ4bG1ZdEhJWEl4RjRSdGhQQXdPaWRmSDNrcTZrVUI1WTRNM0JWNURwVk4zUnM2aTZNNlJBMVRzVTZ5RlB5MDh2cHM3OWd1NUQ0dVNYMmViMDM2d3Vmay1mZ05PZEMwT2VpalNRckdl?oc=5"
         },
         {
-          "title": "ASTS Stock Loses Orbit As Investors Get Cold Feet Over CEO Pay Tied To Satellite Targets - Stocktwits",
-          "title_zh": "由于投资者对与卫星目标挂钩的首席执行官薪酬感到冷淡，ASTS 股票失去轨道 - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmYtMmtQZnFUdnBhZGZybWQ3TDdaRUlibUxNYURCMFE5eFRYLV9ZVFhNaDlsdHdGdlVRNzl0N2c5ZjJKOGFaeXlMdXdOZ0VXZnY3MnR2NjFKXzZHVzhDcmNxUk1PV3lMN0pHWllwUDlEU1ZEZzhrR1hscDFQLUJxQXd5WEViQU9nMENxVER4V21CNk8ybHo4Vl8zWVpUbUpvVllteDdMcDR5MmNXcHVfQ2pR?oc=5"
+          "title": "Why AST SpaceMobile Stock Is Rising: SpaceX Deploys Next-Gen BlueBird Constellation - Barron's",
+          "title_zh": "AST SpaceMobile 股价为何上涨：SpaceX 部署下一代蓝鸟星座 - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFR2dWxoUVpUaTJmNTJRS1QxQXhGYXNkdTFSWFY3dXBXcU9Tc1lDc3VSQ2ZoWHpWcmxkSGVCbThpVmY2UThCYmxMV2RMLUN4T0daRUhUUG1sOG9BZGdTRkozOThPRXlYVnA1amljaFBENVBGQ0padWdkM1ROT2hsbkNfamJvVHV1Y19PN1Bud191WWRXUkZRVWE2QkJJSWt1RWpWck90V1gxYS1uY2c?oc=5"
         }
       ]
     },
@@ -994,6 +470,11 @@
       ],
       "news": [
         {
+          "title": "Note holders tied to NEXTNAV (NN) convert 5.00% 2028 notes into 3.99M shares - Stock Titan",
+          "title_zh": "与 NEXTNAV (NN) 相关的票据持有人将 5.00% 2028 年票据转换为 399 万股 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXZuODlPaWFJUDk3V3lVZjhjdThJRFVTVndQVDg0eG1DaUtHclYxcU91cDlfQlVWLU4yZ1YzcTM3OVdMTWxIS09UajJUWXRYTEctYUtOeW9UOV81OW5CSS1hemxNd2JCQlppOThzdVRGcEJoYWxwUG85eUVMaW5URHpRNnRRRkhKQXplaHV0UXd3M3pWNXpYa0VETmdaVHg2TXBVdGFB?oc=5"
+        },
+        {
           "title": "NN Stock Hits All-Time High: Oppenheimer Upgrades NextNav, Sees 47% Upside - Stocktwits",
           "title_zh": "NN 股票触及历史新高：奥本海默升级 NextNav，预计上涨 47% - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPczVWblJZV0R2NG5JdmcwQlc2RkZvbk1yRjdiUVpLVmgzOHZJZWo3S24zTy1xMy1jSGpxU09GTGNRRHJtTG5XREhHRWFRaUE1TExCakJCY3FtUDR5c3cxcm9xNXJ0SjJNN1d1VVUtVWE0SldIQ2tJTm5mUVBvWFVCSll4cEU4RzE4a080VkNYNXhIRkVMRGxDTjJsTUVFQUJSWUdTZWpYTmN3ZlFDeWN0ZGk2MWdrMzB6N0lpQ2o5OWxFZWlZX3Q2TWM0ZFN6QQ?oc=5"
@@ -1002,11 +483,6 @@
           "title": "NN News | NEXTNAV INC (NASDAQ:NN) - ChartMill",
           "title_zh": "NN新闻| NEXTNAV INC (纳斯达克股票代码：NN) - ChartMill",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZRjMyMXplbmJwVExaRm1ERnQyZHlnbDg3NHFfR1lLZTd3NzBrZFBlaF94MWRVN2xTUlo4M2U5SDJEbkRucEhLRE5INzBKS1oxV05FNFkyYXQ?oc=5"
-        },
-        {
-          "title": "NextNav (NN) Up 49% as Firm Seen an Acquisition Target - Yahoo Finance",
-          "title_zh": "NextNav (NN) 上涨 49%，因公司看到收购目标 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGRaQXdMbTNQZURjRXY2bVJLWHlTMkRBZzdJcEIyb0ZoeHdrWlUxYWdEQm5CY1l4b1I5eTdjTmFPX0FGakQybkZQRTdWSlVNbG9wN1llNjduZUctUzVUcWJhSnV2YzBRZnNOMVBoWUdQVEhlcXNWeTBmSG1rTzRINnRHTlZoaEM2RHY1WnphbEp6Zw?oc=5"
         }
       ]
     },
@@ -1050,7 +526,7 @@
         {
           "title": "Six Flags Entertainment Drops 5.5% Amid Sector-Wide Selling - AlphaStreet",
           "title_zh": "六旗娱乐因全行业抛售而下跌 5.5% - AlphaStreet",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmFZdzNpb0tLRUloRC1oMklFdU1zdlk5OGpaNTVOOTNUd1Qwelc3OEE3V0xRYXRHYkpFSWlvenRvVlREellobEs0c0Z0cjhiRkRwb0tXLTlNd2lzRkFsZUxuTGIzVENNVUdLRzNRdlZtX1FvMGNSQmo4d0RNT0JmUlBjb05yMWtnYl9mbmw1OGZTQdIBkgFBVV95cUxOdmFZdzNpb0tLRUloRC1oMklFdU1zdlk5OGpaNTVOOTNUd1Qwelc3OEE3V0xRYXRHYkpFSWlvenRvVlREellobEs0c0Z0cjhiRkRwb0tXLTlNd2lzRkFsZUxuTGIzVENNVUdLRzNRdlZtX1FvMGNSQmo4d0RNT0JmUlBjb05yMWtnYl9mbmw1OGZTQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUxWOFJCRjZsMjh4d0hIQk1TSXhDWkQ3VU1ZSWFkazJDSmRXaVQyZ0pHeTM0QXdRTHFXZG9sb2JFR2g0ZHdfcGc4SmJ3MGxYTS1SdnNNZ0dhWDZaUmtWNkdfVFFiSjhOUGdfajJjV1ExUkduWVp1ZGhBOUJub1pTUmx5VzV3bVZQMnZHS185NjFLQ05uc1NJ0gGXAUFVX3lxTE5NTFY4UkJGNmwyOHh3SEhCTVNJeENaRDdVTVlJYWRrMkNKZFdpVDJnSkd5MzRBd1FMcVdkb2xvYkVHaDRkd19wZzhKYncwbFhNLVJ2c01nR2FYNlpSa1Y2R19UUWJKOE5QZ19qMmNXUTFSR25ZWnVkaEE5Qm5vWlNSbHlXNXdtVlAydkdLXzk2MUtDTm5zU0k?oc=5"
         },
         {
           "title": "Is Six Flags Entertainment Corporation (FUN) A Good Stock To Buy Now? - Yahoo Finance",
