@@ -1,6 +1,546 @@
 {
-  "updated_at": "2026-06-22T23:08:39.985882+00:00",
-  "us_gainers": [],
+  "updated_at": "2026-06-23T00:20:17.245770+00:00",
+  "us_gainers": [
+    {
+      "symbol": "DFTX",
+      "name": "Definium Therapeutics, Inc.",
+      "price": 36.67,
+      "change_pct": 49.8,
+      "change": 12.19,
+      "volume": 20031362,
+      "name_zh": "地芬尼治疗公司",
+      "spark": [
+        38.49,
+        37.01,
+        37.06,
+        36.024,
+        35.89,
+        36.625,
+        36.72,
+        37.0201,
+        36.74,
+        37.105,
+        38.07,
+        37.941,
+        37.195,
+        36.875,
+        38.035,
+        38.36,
+        37.322,
+        37.61,
+        37.24,
+        37.7367,
+        37.48,
+        38.0099,
+        37.7765,
+        36.99,
+        37.2,
+        36.645
+      ],
+      "news": [
+        {
+          "title": "This Biotech's LSD-Based Drug Just Treated Depression. Now The Stock Is Sky-High. - Investor's Business Daily",
+          "title_zh": "这种生物技术的基于 LSD 的药物刚刚治疗抑郁症。现在股票已经涨到天价了。 - 投资者商报",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWs1V3JFYnA0b2pUQThBTER6MVh1ZFhoSFdLaUZBbkZ2Ri13Y2ZJRmRJUGxJMTVaeFcweEdUMGg1OUgtX2lMcUNTMU9VMjZLTkxtVjZfejQtT3l2Uzh5WTR0MWlPOWJnbHVyNEJfMVdIRDRDLTlocTlFR1c2Q2ZjWTExa21penpHWjBMamp0UGduaS1BQWt3M3oxcw?oc=5"
+        },
+        {
+          "title": "Definium Therapeutics (DFTX) Stock Could Be 30.5% Undervalued After Positive Phase 3 Data - simplywall.st",
+          "title_zh": "Definium Therapeutics (DFTX) 股票在第三阶段数据积极后可能被低估 30.5% - Simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY3cyQWYwQkRHSGVsaU5ERWlLWENiZzZVZHZiRktCeERiWTRTbzVpREVsWWkxN0lzOXNsOFh3TkZlVk5uQ1ZRVHRyQVZSQzh6bzhocGpPbkZmTzJGa0VPV1cxaHV2QmRaeW1GNktvNjQ0clV1bmczZmxPSHNYdEd0ZWJFX2d0Tzl3djU2QWtQLXppZ1hvTEFFc0xsTmFWZnhqMFNNVUFRQXpFbjl3TXNwRnFxWkVFT2lYWkdoRWZKRFpyWTRRY3hna1g3b1pLbTA4cjktQndfTDJzQWxXakxrUWtxT1RJaWpkM0t30gHwAUFVX3lxTE5zVG1aUDVoNVBpZ253ODFlVU9MWVAxenFNckE5RGpsM0RIbkw2enphTmtKckVJM3dLcHlpVkNCN1NXNFdwZjFVNEs4MjFGUUxpNGxWMGFpcVREM0N2alZSVFlQcWFXOF9CZXc2M2ZkeXRwaTlNQk5vZEJZTjlVcmNrZlprbmhFbGx2ek1zNmoxWmRkME96U1NEVTJSM2NuMFRkQmEycGlrczV3a1l1aWRERThwREd4bHBKbndCeTR4dHg2NVpIdlJoSWRhNVpPbjV4bTBLZkpfUkdDcEJYZUJkcFpVSE9scHlWbDA1Z1V3aA?oc=5"
+        },
+        {
+          "title": "Definium Therapeutics seeks $500M in a public share sale - Stock Titan",
+          "title_zh": "Definium Therapeutics 寻求公开发售 5 亿美元股票 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEdZSVJYUlNEUk80alhqTVFlbXgzdEs5YVY4QWQ5c2xJWUR0SkIzUDJmYWxlNVhhZjRJTmhLbTBrNHZFTWZyRlVITzlsR1JWazBtVU5ZdTItNkdJRFJaamtyQ2NRdWJwUlZFQnJMOHdsWW5mZFZqdnpLZXR0RXdLR3FQeWVsQ015Q0FkRmNmMGoycUtYT3hFVW15LVdlTVVFWWk3UGpIWnk2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "APGE",
+      "name": "Apogee Therapeutics, Inc.",
+      "price": 132.55,
+      "change_pct": 46.66,
+      "change": 42.17,
+      "volume": 61218507,
+      "name_zh": "Apogee 治疗公司",
+      "spark": [
+        132.74,
+        132.7,
+        132.7,
+        132.655,
+        132.63,
+        132.665,
+        132.7,
+        132.635,
+        132.695,
+        132.65,
+        132.615,
+        132.645,
+        132.685,
+        132.645,
+        132.67,
+        132.605,
+        132.65,
+        132.62,
+        132.615,
+        132.605,
+        132.575,
+        132.635,
+        132.605,
+        132.61,
+        132.635,
+        132.585
+      ],
+      "news": [
+        {
+          "title": "Apogee Therapeutics, Inc. Stock 12‑Month Price Target Cut to $119.07, Implies 32% Upside - TradingView",
+          "title_zh": "Apogee Therapeutics, Inc. 股票 12 个月目标价格下调至 119.07 美元，意味着上涨 32% - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjVzNlJGWnR5b3lseEdsZlU0bjZvVVVjRUEwLVhvVWlKakFSdTIwZ2hvYzNsMnRlVms3YkNjOExGdmxiWndmVjJDUE1jWVQ2MWwzLW5wcTVEa3lnWWllc2lyVDdSTTduZ1hqRi1jUC1qa1lQU3VPX0VKaUVjR1dzbHBrNlQwMGNhczgwRTJRWHozLTUxa29kV0VRd2VkeDFhZ3BvMjlKcWNRclN5U2IzS1lneFNPbVk0LXBiTDNTcllMeHN2b3BwVUFtUTJSV3M0cUhUSVowTG5KaE5zR1E?oc=5"
+        },
+        {
+          "title": "APGE Stock Surges As Street Backs Zumilokibart Breakout - StocksToTrade",
+          "title_zh": "随着华尔街支持 Zumilokibart 突破，APGE 股价飙升 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEo0MldxeUZKaVRTdEdaQ1pSTW5KNmZpblJETkdoVkdOa09fNVhrbUR0V3BmcVZIc0FQT0RBRFY2aHV5bGl5ZUNZT1VWa2lpY1hlNF9Od1M3M2tCOFdENGtqNkVEZ3NOS3dEMkhmcGNoczRBNURNX0Y3WXpRY0cxbXZWSGs?oc=5"
+        },
+        {
+          "title": "APGE (NASDAQ: APGE) files Form 144 listing recent 10b5-1 sales - Stock Titan",
+          "title_zh": "APGE（纳斯达克股票代码：APGE）提交 144 表格，列出最近的 10b5-1 销售 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYURqdHJzZ1Y1WmJYNTVWcTg5R3A0emYxV24yVk5XbE9LaFVRYUV2cUhjVVhmT0FCYmhockw4ZXEzNmJOdFJCTnhSSXEzbmw2cjZ1V2ZDSEl2WWZSWnVJa3pxdUszV25ld3ltZ2gzQjNuMHpMNHYxVEVuc0RqaUJRMFZPYUpuNFAwUUFkQ1c2bFFUNHAxOHhNcWR5RG15R3k5MkE?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "ORKA",
+      "name": "Oruka Therapeutics, Inc.",
+      "price": 85.38,
+      "change_pct": 18.03,
+      "change": 13.04,
+      "volume": 4200169,
+      "name_zh": "Oruka 治疗公司",
+      "spark": [
+        83.55,
+        83.495,
+        82.445,
+        82.45,
+        82.085,
+        82.83,
+        84.145,
+        84.06,
+        84.95,
+        85.105,
+        85.295,
+        85.67,
+        86.02,
+        86.94,
+        88.135,
+        88.19,
+        87.055,
+        88.0699,
+        88.555,
+        88.0,
+        87.07,
+        87.53,
+        87.89,
+        86.455,
+        85.86,
+        85.9
+      ],
+      "news": [
+        {
+          "title": "ORKA Stock Rips Higher As Bulls Press Momentum - StocksToTrade",
+          "title_zh": "随着多头推动势头，ORKA 股价上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWExTalVuOTBidUpycEs4bkV2ZUVnUGlVNTRPdm5WZXdEVl83anlmUjQ2eUhKSjZRYzJyeG5ralZQelBrQ1p6RkNSN0hTN05WRjNhbTRxWTN1NWQ2MDBiSVNFNDVKWWowdC1BRExETksycmtpUDhXeTQ4NEZiOWJpbW1qdw?oc=5"
+        },
+        {
+          "title": "Oruka Therapeutics SVP Arjun Agarwal sells $128,468 in ORKA stock - Investing.com",
+          "title_zh": "Oruka Therapeutics 高级副总裁 Arjun Agarwal 出售价值 128,468 美元的 ORKA 股票 - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDE0cldyV003Mk5LLXBuYldWOFFWbVZnSm5Uek1qTWppQmVIMUs0cEtaQzB5dDU4eFgzZHdocEZLYVBNT1FybzZabzhmSlJJc2NzMUU1bjJHazhtYXRJU1dZM0FjMVAzaWJOZldWYzdyelJac3RSTHQxTThIQkk4WFVKVEZBMTVQRElTZnlfYTY0ajFoZ3lsSW1YeWsxTDQzMnd5LXRsd1VPN0p3OTI2aVZDS3N4ZnY0NExDOHNiVG41cEpyRFJn?oc=5"
+        },
+        {
+          "title": "ORKA Stock Powers Higher As Traders Focus On Cash Runway - timothysykes.com",
+          "title_zh": "随着交易员关注现金跑道，ORKA 股票走高 - timothysykes.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLW1vTEtXenIwZ0tSQkpBQzkzaUlKX3FISVFXLVhuZHg1TzlQZjZEY0VmZENHeXMwb1p6UERieFhMbjAxUUdqMWlXVlRkd0hLbkU0NUpaci1oMElUbWtZeUY4QUhFWmxxRV9YREs3MTdmaFRXWHRxMTVqdXh0Rm1wek9ueDExWjg?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BWIN",
+      "name": "The Baldwin Insurance Group, In",
+      "price": 23.52,
+      "change_pct": 16.21,
+      "change": 3.28,
+      "volume": 4705165,
+      "name_zh": "鲍德温保险集团，在",
+      "spark": [
+        23.1964,
+        23.7792,
+        23.715,
+        23.345,
+        23.72,
+        23.92,
+        24.19,
+        24.675,
+        24.915,
+        24.46,
+        24.095,
+        24.63,
+        24.44,
+        24.545,
+        24.6,
+        24.645,
+        24.485,
+        24.59,
+        24.475,
+        24.6,
+        24.65,
+        24.53,
+        24.13,
+        23.77,
+        23.455,
+        23.54
+      ],
+      "news": [
+        {
+          "title": "Why Baldwin Insurance Group (BWIN) Stock Is Trading Up Today - StockStory",
+          "title_zh": "为什么鲍德温保险集团 (BWIN) 股票今天上涨 - StockStory",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHd5cVViMjU3b2xEZzdXSGxGZEpYZnN5SjRkOEE0ZzdWOFpKYUpWLXN2UklSNE1FeWR6X3o3LWNsNWpHM1l0RnNEbVQ5d29CcnZQcHQ2c2kzSnVQS2Nzb09pb2FtVV9DUWRfNDl2RjV1ZDlGSzc3MEtXb0ZsdF80UTVwOG5DLXdoeGI4bHpIYjYwOEI5ZTgwVFhWUEx4UjdtdGx0UWM4TTFKYVVRZXB5U1lGMzNnNjhPRjF4cw?oc=5"
+        },
+        {
+          "title": "The Baldwin Insurance Group (BWIN) Moves 16.8% Higher: Will This Strength Last? - Yahoo Finance",
+          "title_zh": "鲍德温保险集团 (BWIN) 上涨 16.8%：这种强势会持续吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNG1VNGhEbjhsdHBEbkVnVktNNXpJUS1yNFVDOFR6SmtpWm5vTnE5bnNDTExMRWNKNnQ0ejY3QTJ0cklFN3FzQjhYRFRoNkNGMTA2TUJiQm9hTUk0ZzlITUFZZ2VGb2l5ZmJuTlFfV0l6UWhiLUlHQW1KWFgtODhFWXNCcHY0VHZWdVhVOGdOVU02Wnk1cURkMFVIa2k3dWVF?oc=5"
+        },
+        {
+          "title": "Baldwin Insurance: Go-Private Rumors Appear Credible (NASDAQ:BWIN) - Seeking Alpha",
+          "title_zh": "鲍德温保险：私有化传闻似乎可信（纳斯达克股票代码：BWIN） - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFl3dE5UemhJdzBSZVUwaTh5WkRqQUlPalA4ZWVXRkJLaEtTbHU4Rk9wNlRVc2V4MHhWUnJzaDlTWGZENDlJMDRxS21ac1Qxckl0Q1F0eTlQSjcyU1pBelRUZ1V0d2xMLXpURUk1ZlRuSlZQYTEwbDNtcVI0RE52aW9GRUVqTm50MThnSzV2bGpqQ290Ny1j?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "price": 35.46,
+      "change_pct": 15.66,
+      "change": 4.8,
+      "volume": 124395469,
+      "name_zh": "超微计算机公司",
+      "spark": [
+        33.675,
+        34.865,
+        35.48,
+        34.2972,
+        34.29,
+        34.18,
+        34.96,
+        35.2911,
+        35.7499,
+        35.26,
+        35.02,
+        34.945,
+        35.28,
+        35.5,
+        35.495,
+        35.405,
+        35.32,
+        35.975,
+        36.6901,
+        36.465,
+        36.285,
+        36.175,
+        35.895,
+        35.7385,
+        35.705,
+        35.465
+      ],
+      "news": [
+        {
+          "title": "Why Super Micro Computer Stock Is Skyrocketing Today - Yahoo Finance",
+          "title_zh": "为什么超微电脑股票今天飙升 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXBwUnZKcktFVDBpSG5XWS1DODFiWTQ3Yk9TekxXeWZsUmsxSXB3Rk5feTc2MW9tZFNaNTRKZ252LW04WnBwSnBmWnl6TUNVdkZ4T1NFaTQ3bk44SkR3cmlmZ3VLS1VtSHVtbk5idVNMeHdXZVoyZ0dweXotb0hrb3RveFpYY2RtR1h6Z2dRNE11Q29UaDE3dHYyNA?oc=5"
+        },
+        {
+          "title": "Super Micro rises on back of GF Securities upgrade (SMCI:NASDAQ) - Seeking Alpha",
+          "title_zh": "广发证券评级上调超微股价上涨 (SMCI:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkt1Z3VaVTJNay1MZW5NOHdMSzl1NzBKQktBenJpZ0xLeGJEWkltX2pmNlJTX0JFVDlSZ1Bhd2NLZktJWGlwUEtfWjQ4Y3VHU3dOVTFLb3A1V0NyTzZYQmg4ems0dUM4c0FYcFRMVlh3eC1vQUVDa1IxR1UxMi1mRV8wM3hRYjkzSGo0TmxiWU9LQQ?oc=5"
+        },
+        {
+          "title": "Why Is Super Micro Computer Stock Soaring Monday? - Benzinga",
+          "title_zh": "为何超微电脑周一股价飙升？ - 本辛加",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRENLUXFJYjNQd3ZlOUQxaUp4VUE1UjdnOU1ka2t5T2c0NDV2cWtyelItU0hFc2RiQkpxZlhXcUo4VHFMLXh4LWhNNjhzQkctTzZrUU1QWElRVWEyTzFzVlNHZ3FocTg3cGdhWVg2UDZDTWVpcWtNS1ZfWHFvVU90SUlROEpnZVZqdkYxT1hPYUhsRmVuWkx3bUExLXlfbnZtY2FF?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "KLRA",
+      "name": "Kailera Therapeutics, Inc.",
+      "price": 22.88,
+      "change_pct": 14.97,
+      "change": 2.98,
+      "volume": 712899,
+      "name_zh": "凯莱拉治疗公司",
+      "spark": [
+        20.8,
+        21.13,
+        20.92,
+        21.16,
+        20.76,
+        20.88,
+        21.63,
+        21.42,
+        21.245,
+        21.68,
+        21.69,
+        21.605,
+        21.59,
+        21.74,
+        21.77,
+        21.74,
+        21.8,
+        22.025,
+        22.125,
+        22.425,
+        22.41,
+        22.4663,
+        22.88,
+        22.4781,
+        22.66
+      ],
+      "news": [
+        {
+          "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs - BioPharma Dive",
+          "title_zh": "Kailera 在生物技术有史以来最大的 IPO 之一中净赚 6.25 亿美元 - BioPharma Dive",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTZwdFF0bkVNbjdPN1VpSVVKeGNvMkVYVnlCa2NveWtmRUUzLTktNWxwTnFrYnZEb3NEZUxmQXY2M1RHR1NIeS1WUXNFTDBRXzROd3RSazFxeFpDQmFxMjE1cW9NWWJNUDU1Q2MxTXY4Y3djZmZWdDBReDB5MFd0a1ZCWDVwSkVvMmMwWHVVWEJBRmloQlRETw?oc=5"
+        },
+        {
+          "title": "Is Kailera Therapeutics a Buy After Its Sizzling IPO? - Yahoo Finance",
+          "title_zh": "Kailera Therapeutics IPO火爆后是否值得买入？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXJvdWJZNDJWQnZJUG5IaC1PenEzbi0ycHRyc1psRG9aNS1TY0JXNnFCNTFaRDZnNUZhMTQyYkxnMFZOVEljT1NuZ2lXRUpRMXBUMXliSTRQNGc0enJOVmhyTlJsdmF6MmFQb1hUNlk1MDJDYkZWYVZxTVRlYkY1YUJhalc4NFFVaEY3V1A1MnRVOUR1b1hHQ1BNd0dURk81c3lyNw?oc=5"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "symbol__ 股票报价和预测 - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pR08xOW1ZYVJwSEktQTZQRTkwMmJaS2Zqc3pMOWs1dFNOZG5KZUxwd3pQcmxycmtvSEZmSm5rNzZVWjlxd3E4UVVnT1hQX1Br?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BHVN",
+      "name": "Biohaven Ltd.",
+      "price": 15.5,
+      "change_pct": 14.22,
+      "change": 1.93,
+      "volume": 5330606,
+      "name_zh": "生物港有限公司",
+      "spark": [
+        14.63,
+        14.865,
+        15.34,
+        15.34,
+        15.45,
+        15.46,
+        15.305,
+        15.32,
+        15.28,
+        15.38,
+        15.44,
+        15.5,
+        15.48,
+        15.59,
+        15.635,
+        15.5,
+        15.34,
+        15.41,
+        15.34,
+        15.4834,
+        15.465,
+        15.41,
+        15.2891,
+        15.1699,
+        15.03,
+        15.29
+      ],
+      "news": [
+        {
+          "title": "Is Biohaven (BHVN) the Best Stock That Have the Potential to Rise 1000%? - Yahoo Finance",
+          "title_zh": "Biohaven (BHVN) 是有潜力上涨 1000% 的最佳股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3RXZHpfY0ZNTGJYdzdPdjlpY1dOQzJIemtDMjBENG5uWmkxVUtkTUd3WjNvOWdnczNfamhMWDR1dlVUdEFUUnN1WkQ0MjNfRTBYMTZQOVNwc1dDdllhUTNOSjZoVmU2TmZRd1ZrMXVPcTROLVVTUGUzbmpxVjUydVdMX0RiTm5kbUdSaG4tOVhfZ1NZOGZ5WkhTdXN0TTRn?oc=5"
+        },
+        {
+          "title": "Biohaven Ltd. (BHVN) Stock Price | Live Quotes & Charts | NYSE - StocksToTrade",
+          "title_zh": "Biohaven Ltd. (BHVN) 股票价格 |实时报价和图表 |纽约证券交易所 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRjdCZTZhbUFPY1VjTzM2dFhydkVnSld4TDNtUkl4UldXV3RxRXZWX01jdW9NZXotTXJQZXVVeFZmV01VS1EydUdJYlJZZw?oc=5"
+        },
+        {
+          "title": "Biohaven Ltd. (BHVN) Shares Slide 6.7%—Pressing Key Support at $10.00 - getLinesFromResByArray error: size == 0 - lwvtexas.org",
+          "title_zh": "Biohaven Ltd. (BHVN) 股价下跌 6.7% — 在 10.00 美元处按下关键支撑 - getLinesFromResByArray 错误：大小 == 0 - lwvtexas.org",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGhJZHlOS1VQdkNLeEg3VjNRYUNRWnZWQVExdlR4Qzc3YS1xRnRNc1lmQUdYMzhmZG9MOXlsekFsYmhfVFVVTTFKdnNRMVVBWkJVNGFUVzFKR09OaXJQbTg0cVpTUDBuWndpYXZITllRWU12T0F5M3BSM0Y4b2lzYV9aaG5QSnFLWmRTN3Z4YzZCYjFtRXZ4OWN6S09RREhsYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "UMC",
+      "name": "United Microelectronics Corpora",
+      "price": 27.5,
+      "change_pct": 14.2,
+      "change": 3.42,
+      "volume": 23687498,
+      "name_zh": "联华电子语料库",
+      "spark": [
+        27.65,
+        27.81,
+        27.745,
+        27.81,
+        27.85,
+        27.86,
+        28.16,
+        27.665,
+        27.695,
+        27.79,
+        27.53,
+        27.645,
+        27.61,
+        27.68,
+        27.735,
+        27.655,
+        27.575,
+        27.555,
+        27.585,
+        27.55,
+        27.595,
+        27.5499,
+        27.555,
+        27.49,
+        27.42,
+        27.34
+      ],
+      "news": [
+        {
+          "title": "United Microelectronics Corp Stock (UMC) Moved Up by 14.18% on Jun 22: What Signal Does It Send? - TradingKey",
+          "title_zh": "联电股价6月22日上涨14.18%：发出什么信号？ - 交易密钥",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXNnek9HY2RXQW92MWZfRjdjUEp2WUQ2bUFqbW81MjRYZVpxU1ljS3NKMlFYQVFZd1g0em5tVmlJQ2VVOGVrQWpFZWVGclZqN0RVeWFSaVFmQnNreUVuR2dNLTRzRmpVT3hWMDhGRzg5OHVVWkVfdEtpU3RHSk5pRTgyTU4zMzZqYlE?oc=5"
+        },
+        {
+          "title": "United Microelectronics Corporation (UMC) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+          "title_zh": "联华电子 (UMC) 是一只势头强劲的股票：您应该购买吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXZPcldtaXZIckktUGJweUhCdkN5YmlBSGc2ZGFwRWF6YU1OZGJyOU9ReGM3NF9OaXdFOV9KNW9Xb0RZU2pJOEdpd0NYakxHMzFpMHBXWlAxVi1Cb0xPTnNpNm44TkVVRVg3eFQxM3JNeFViWnc5dE5rQWVzbHRKbXRzMzgxcWlXLUI3eU9LaVBwUXkyUmIzOUJsdkR6ZFFtNmU5ZXozV0FYc0s5bTdJ?oc=5"
+        },
+        {
+          "title": "United Microelectronics Stock Hits 52-Week High - Here's Why - United Microelectronics (NYSE:UMC) - Benzinga",
+          "title_zh": "联华电子股价触及 52 周新高 - 原因如下 - 联华电子 (NYSE:UMC) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWhSVnEzVE5fRWxjbU1ibGZJeUh4dU9VaExfU3FVZG83QlJxRkJMWDhCSzZpWGdsTlZuZGN6WUxHcXhEWTlZSnk5TXM3YkRmTVhHQk9uMm52Z0xKbXMzYUZnTlFCSzB3VmxSc2xWaHFJUW9aOWFvNlFCZGw5UnRGZVRSS1Uwem15NWEtT05BOE5xV21GdzlhUjMxZEhJenpQdTlUdWRsVVJEZWtDOEVJ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "SYRE",
+      "name": "Spyre Therapeutics, Inc.",
+      "price": 100.32,
+      "change_pct": 13.56,
+      "change": 11.98,
+      "volume": 2768929,
+      "name_zh": "Spyre 治疗公司",
+      "spark": [
+        95.9516,
+        96.995,
+        99.835,
+        98.45,
+        96.83,
+        97.365,
+        96.8,
+        96.6169,
+        97.23,
+        97.58,
+        97.61,
+        97.85,
+        97.73,
+        98.49,
+        98.86,
+        99.87,
+        99.34,
+        99.62,
+        99.815,
+        100.54,
+        101.19,
+        101.23,
+        100.5652,
+        100.275,
+        100.545,
+        100.15
+      ],
+      "news": [
+        {
+          "title": "SYRE Stock Climbs As TL1A Data Ignite Analyst Upgrades - StocksToTrade",
+          "title_zh": "TL1A 数据引发分析师升级，SYRE 股价上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2t5X3EtQzdVT1V3TXJEV1RfSHdLOHM3Q0tHczdHT0pybEpwRU94eXdxWG1nMW42MG94N2VFcklsU0NzUVYxcG4xYTBsTHVKS2t6bXZ1d0diQXZKUW5hZVlhU2RpNFJpaHlWVnJaODV1SnhzU1NCdXFzOEZJZThUMjVsVQ?oc=5"
+        },
+        {
+          "title": "SYRE Stock Climbs As Analysts Race To Hike Targets - timothysykes.com",
+          "title_zh": "分析师竞相上调目标，SYRE 股价上涨 - timothysykes.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHM4UFEtc3F3NzZwVG8zRjQxSndWdENHdnFzc0t3RXdhaFNVazYzWUN0ZXJOVlNVd1Fub1FKOXVuVmprQW93bzN1UlhENzJ5c0VKaVc1T01HUFVYVDdhRzdQSWZ2aWpBbFRMZS1SWGh6X0czYnM2WWNoVVRCZWxCQ2RHWmk?oc=5"
+        },
+        {
+          "title": "SYRE (NASDAQ) Form 144: 20,000 RSUs listed; insider sold 80,000 on 05/08/2026 - Stock Titan",
+          "title_zh": "SYRE（纳斯达克）144 表：列出 20,000 个 RSU；内部人士于 2026 年 5 月 8 日售出 80,000 份 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JmUHZJazRuOFc1SzhKcUVreGhDTnp1QTBWUld5a19nOHlkRTFSTXhUSVpoeHZDWmxpb0RtZjhpM3E3MkNhU0UzN1lfNklwVnhpQUNWdlgzclNUX01SMWJsZ3MyelU3VklhckJkVXRkamE1dUg4SFNtY3dmY3JGUllmTE5ybXlNWlVWZlljZUpSeGNtMVZvYU0ta2ZQU1Vm?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "VIAV",
+      "name": "Viavi Solutions Inc.",
+      "price": 52.94,
+      "change_pct": 12.23,
+      "change": 5.77,
+      "volume": 9252235,
+      "name_zh": "维亚维解决方案公司",
+      "spark": [
+        48.22,
+        49.5,
+        49.035,
+        49.1,
+        49.46,
+        49.66,
+        50.1,
+        49.9651,
+        50.29,
+        50.085,
+        49.785,
+        50.28,
+        50.49,
+        50.908,
+        51.57,
+        51.805,
+        51.855,
+        52.07,
+        52.31,
+        52.45,
+        52.8,
+        52.76,
+        52.71,
+        52.535,
+        52.42,
+        52.59
+      ],
+      "news": [
+        {
+          "title": "Why Is Viavi Solutions (VIAV) Stock Soaring Today - Yahoo Finance",
+          "title_zh": "为什么 Viavi Solutions (VIAV) 股价今天飙升 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTFPNXBwcjRRR0xBV28tRm5zSXllVm1KY2dHU3AyeWhRNFhjNXFhck5IZVM1dXEyVGVnTmkxR24tRFlabnotLW9XNm83UUZsZFhTelVMZEdfTkZqQ0JJV2NneHkxWXdVWENyTHFKU2txaE1LMVpNYkM2ZXZiZTNDVTk3TjZTMmduUHhDc1Y1cm9uQ29qUXlKQ2FGWQ?oc=5"
+        },
+        {
+          "title": "VIAVI SOLUTIONS INC (NASDAQ:VIAV) Poised for Breakout with Strong Growth Momentum and Technical Setup - ChartMill",
+          "title_zh": "VIAVI SOLUTIONS INC（纳斯达克股票代码：VIAV）凭借强劲的增长势头和技术设置准备突破 - ChartMill",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUTRiaTZTclRJeE81UldOZG9tdjk1N2xTZzZRb3ItSnNITmFhWHFfM1ZjQTBDTXduM25tTnVLZ3FMZFhJUFZacGVFRFh2XzlCVmNCb0dOUllhZVJLR04yZmR4enBzV0lPd3I3UlRWU29DR0dveU1nZHA5eFVWRFRHbHA5d29kS3YyejBmVW9SUkF5Wnh6alhhcXhzN2luYUdtRXBqR19QejM5TmFiT2w5ZUVGQ3p5bDREUkVXX1Z6R0N5MUVnM3o5YVR6aFU3a1NMcXZ3M1BTdGFNczJJQzZUSkdzMDk?oc=5"
+        },
+        {
+          "title": "VIAVI Announces Proposed Public Offering of Common Stock - PR Newswire",
+          "title_zh": "VIAVI 宣布拟公开发行普通股 - 美通社",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldmWGZlMXNRNlU4TlFKYk1GUEV4ZEhVcm81UkJKazU3dXJKNW1FcFJyaldNSXBzRjFaUjFZVTJueURfSGtTRlFzMnVLV0txVWg4bmktSzl5aEdMbG1WajBlbzlaQ0JiTldKNkhKMGJWamlKY2NMMkk4b2ZsN1U5RExDXzI1b3AzTkhVc0lMRXR5UTlXZHl3REhsendoWGltTUhETmZEOUVBQWVLRW9wUjVR?oc=5"
+        }
+      ]
+    }
+  ],
   "us_losers": [
     {
       "symbol": "SPCX",
@@ -97,9 +637,9 @@
           "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaUlkbXRINXFaeWV1YW1RdXoyVEU2NjFXaklKb0ZMM3NRalNCT09ZMk54RVdvM3lxd1Rxd0YwOWs1SnlBU1I0RDUweC0yNEtlOWtqRXNMckxKQVpnVFY3aVA5OFJFQ21rbE1kRDhtaVV1MXZ1YWVaeXNjeVR2RWhwVl9sR09KQnBqM0N2VXdzUXR5R0hVdjUzNE1uS1lqTGV6X0t6UFhQLTdEU01DZnQwMHJEblRnWEthbDVzYzg1WVctSzc2RzZxLU5hUUJQRjBXZzNReTNoUE1neUZoSmhaT0x3cXNZTFNnRElESklIeV9WMmZFUHhUbjZldUhaa0c0dThJYTIxVFlnOXFkeFhJMlhlLW5NWTF4bmUwWklzQ1A3eW5tM1FCMGx3?oc=5"
         },
         {
-          "title": "RGC DEADLINE: The Gross Law Firm Reminds Regencell - GlobeNewswire",
-          "title_zh": "RGC 截止日期：Gross 律师事务所提醒 Regencell - GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPUkJEZG95aU05bG1QWXNuZ1c1eWJxdENQMHVlSlowZUR1b21oUGpnUHlCNFI5aDhjWmdKdUhReWxaTkc2VHdHM0ktbEdzcjBlMEhvc3pCVjlQamdBem0tQWM3RkJ2cms0YkR2Zms3MnhDN1dfSW8xS0k3Sld6Y0o5RWRsS2k1VVloX21TTlI1MDZ3ZGV1Q3EwbWgyX09fYTZqeW5VclRFLXdibDRjdHNVZk1TQXpmeUpVc2VHajJiZ3hvalV1NExQU1k0ZEFLWHhXSTE2SUt2Q1lka0hDZnc3Z0tPNGhUaldwV1ItUkRXMi1CYU9fSzVYLUhLSldGay01MXhmREJUT3hoOEc4OXpENmFpZ1FHS1JzbXpORzBzLVI1NFRlZDV4TUtsdzc?oc=5"
+          "title": "Deadline Alert: Regencell Bioscience Holdings Limited (RGC) - GlobeNewswire",
+          "title_zh": "截止日期提醒：Regencell Bioscience Holdings Limited (RGC) - GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQX0hRbFktMG55NkRlaDkzcHRXLWRuaGtSN0xiRERLUnhWSzlBLXpTWjR1dXJhTzhhQ041UE03aTJ2YkdpUlh4dTZ5eXVzdnQtMTQ1Q2JvQTEyYkdNaXFLb0JxUHdaYlpHb0RkRGp4ZkloOERTeVdacDRCRmxhdEFfNkJib0RtMmVTUzZXZld5R2kwOFZHN0U3V3FfZ1pxRWRtM0dXQjNCVEgxRmZqVWk2TzJEZ1VtcHdyb1pTSFU1dGF5Y09uWEsydVVtSmVUdFNoN1ZfNk9INTNnUkdUMUttMGFmOTNfVVAxWkIxUmRvSVliTFdIMmx2c2FTRWpiT0tXN1NjVVpXd3c3RmozWlMtd2lXLTc3UkxKVFZ2eUlRS0Z3ajJWVjY3V0pwNnoyZWRMMW10RkNjY21McVVYeVJYUEd0NGVGdEg1Ri1ZWDN5RW9RQVpjZUpxNjJjQ0Q?oc=5"
         },
         {
           "title": "RGC UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds Regencell Bioscience (RGC) Investors of Securities Class Action Lawsuit Deadline on June 23, 2026 | FinancialContent - FinancialContent",
@@ -205,14 +745,14 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWZhakVfZGVidXJ3My1NWUROcHdlRlEtdUZyZ2JPcXRkUE1qWU9uQlVSWHE4NVFGOWJBQWVPaGxobUdUZXhFV0IxOTR0WGlZbGstR3owVFA2dE1vT0tFSy1iQVhXZDd2dXo0Y1Q4dG1aVGNtbG0taDlGQTBuUDB2SHhOblc0TzJZWngwcGlUWWU4cDZNblVIMEM2dlhjc2J2?oc=5"
         },
         {
-          "title": "AeroVironment Stock Dips as U.S.-Iran Peace Talks Continue - Benzinga",
-          "title_zh": "随着美国与伊朗和谈的继续，AeroVironment 股票下跌 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDBOOElPRUVKaFg0VzFNY0Rta1F6WWgxcXhSZXk4dG5DSUxzQjhuYVYySGN3WkNNOTl4akdCNTlPUElQbVFoS2RKN09iSzk0aDlOeXJqQy1JbUp4bTFVekp6UXVIUU51WndQVlZtX1h5OFh6OU5lMk9Pb2swbFNYaThRZVA4cDlSYWlMRmtaWlZhbnBSek9mSktQYWhGNFZWRUc0b0NxSGlLTVVEZnotOERxV2dwWFFWVGc?oc=5"
-        },
-        {
           "title": "AeroVironment (AVAV) Signs MOU with Ubiqconn Technology Inc. - Yahoo Finance",
           "title_zh": "AeroVironment (AVAV) 与 Ubiqconn Technology Inc. 签署谅解备忘录 - 雅虎财经",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUpjMEQwMkVkNTh0MjFVbGhialNQUnNsajJXWTBoOXFHWlZDdDYtWDRKSjlmZUhLUk5ZaG96dWJkeXFYT0p4UWM4RmNQTHFZTDBQWGVjRTVjakl1ZHdRVGFZNVd2ZWxRa2F5QUFhSGYzaTRsVndhT2ZqYjQ5LURHMHg5WEtqUTJJQy1VOE9RWHVCUjlDdU5ZYlc2THlQbURDSmNXUQ?oc=5"
+        },
+        {
+          "title": "AeroVironment Stock Dips as U.S.-Iran Peace Talks Continue - Benzinga",
+          "title_zh": "随着美国与伊朗和谈的继续，AeroVironment 股票下跌 - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDBOOElPRUVKaFg0VzFNY0Rta1F6WWgxcXhSZXk4dG5DSUxzQjhuYVYySGN3WkNNOTl4akdCNTlPUElQbVFoS2RKN09iSzk0aDlOeXJqQy1JbUp4bTFVekp6UXVIUU51WndQVlZtX1h5OFh6OU5lMk9Pb2swbFNYaThRZVA4cDlSYWlMRmtaWlZhbnBSek9mSktQYWhGNFZWRUc0b0NxSGlLTVVEZnotOERxV2dwWFFWVGc?oc=5"
         }
       ]
     },
@@ -318,9 +858,9 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkQxaEZpWGpMV05GVzVPZkxNNnk1LWNjVW0wSGk2bVY3Ty1mOUlNVkdHal9rQzdMOHQ4bG1ZdEhJWEl4RjRSdGhQQXdPaWRmSDNrcTZrVUI1WTRNM0JWNURwVk4zUnM2aTZNNlJBMVRzVTZ5RlB5MDh2cHM3OWd1NUQ0dVNYMmViMDM2d3Vmay1mZ05PZEMwT2VpalNRckdl?oc=5"
         },
         {
-          "title": "Why AST SpaceMobile Stock Is Rising: SpaceX Deploys Next-Gen BlueBird Constellation - Barron's",
-          "title_zh": "AST SpaceMobile 股价为何上涨：SpaceX 部署下一代蓝鸟星座 - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFR2dWxoUVpUaTJmNTJRS1QxQXhGYXNkdTFSWFY3dXBXcU9Tc1lDc3VSQ2ZoWHpWcmxkSGVCbThpVmY2UThCYmxMV2RMLUN4T0daRUhUUG1sOG9BZGdTRkozOThPRXlYVnA1amljaFBENVBGQ0padWdkM1ROT2hsbkNfamJvVHV1Y19PN1Bud191WWRXUkZRVWE2QkJJSWt1RWpWck90V1gxYS1uY2c?oc=5"
+          "title": "AST SpaceMobile, Inc. (ASTS) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance Singapore",
+          "title_zh": "AST SpaceMobile, Inc. (ASTS) 遭受比一般市场更大的跌幅：关键见解 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVdLLWdNeXlsZFNOUlFRMlVpeklpSjJaTDQyTFR6QzJPY0lGMGxENWZuSUVQd3BfMGs4SXR6UlJLTmxQLXlmQUJxMzhsSDJ1VmIxMVV3OGVvRWUtSUVNRWxhYnlyYzJUZWFieHVXb1plM09yYTNiLVlsWkVTYV91M2o3czRBaElO?oc=5"
         }
       ]
     },
