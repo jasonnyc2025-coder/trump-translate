@@ -1,376 +1,60 @@
 {
-  "updated_at": "2026-06-23T14:02:54.361328+00:00",
-  "us_gainers": [
-    {
-      "symbol": "QNT",
-      "name": "Quantinuum Inc.",
-      "price": 78.1,
-      "change_pct": 14.39,
-      "change": 9.83,
-      "volume": 1631760,
-      "name_zh": "量子公司",
-      "spark": [
-        70.3,
-        69.8392,
-        74.0048,
-        75.8,
-        77.495,
-        78.48,
-        77.63
-      ],
-      "news": [
-        {
-          "title": "Cambridge Quantum, Khan & Shiraz disclose 71.5% stake in Quantinuum (QNT) - Stock Titan",
-          "title_zh": "Cambridge Quantum、Khan & Shiraz 披露持有 Quantinuum (QNT) 71.5% 的股份 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzc4SWV3dFAxTHZGV1VTSTZ6NnFpcWNGNmhJOTN0OGM4VEhrUFFFcmxGdWItOGN6UlJvMEYtTTZZMWRsZUJQR0ZSdDZnbGMwV0pUSGRla0tqSXJheTQ0bWFhODJmOWRsZnl1RE9Cc0w2QkY2cmxTdE15Qmg5ZnB3emNSVkhDeHhnNE1GdktMcTlQZjVqbU1ONm53SHA3ZHptVld0dzNrTzRqVWRPajFMOXEtWERNQmJJRzV3ag?oc=5"
-        },
-        {
-          "title": "Quantinuum Announces Pricing of Upsized Initial Public Offering - Quantinuum",
-          "title_zh": "Quantinuum 宣布扩大首次公开募股的定价 - Quantinuum",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcC1zMk5RdUI5Vnh3LVJWQ2lUamZTbXl4VTJtNzhZTlNyUDZMd3huR0Z1Sm1jQk5OWlNxTElYSUxYa0tkZ2VVTjhKRV9OYWJTWi1xRHdfanNPXzQxYU9IWURLY0lqeXB6dk9FUTY4dFIybEdzSk9mUW5lMUNhQ0JKZkVuY25wWi16RzYxZVF1YU92SVdWTWpOTkhKRWpGUVBoQlFITl9fbTU?oc=5"
-        },
-        {
-          "title": "Quantinuum IPO: QNT stock is listing on the Nasdaq today in a closely watched quantum computing debut - Fast Company",
-          "title_zh": "Quantinuum IPO：QNT 股票今天在纳斯达克上市，备受关注的量子计算首次亮相 - Fast Company",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkd6MXYyTUkwMkEybzZjeGFVUUFib2xweWE2czlQUVl1b2pvVUVLVTc1WXdpOFBvcmtkZ2l5SzczenNQMmhaWkV3aHI0aWFCZHhVR0JFdDZsUlpqdm1makpOUDlTWkR2ek9ONFowaklQWmkzLVFLUExKNDE2RVNUbmliRXhFTGFyeHA0TFdYTTZscWVUWHczSk45OExpdw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "INFQ",
-      "name": "Infleqtion, Inc.",
-      "price": 15.94,
-      "change_pct": 12.17,
-      "change": 1.73,
-      "volume": 11897437,
-      "name_zh": "变形公司",
-      "spark": [
-        15.447,
-        15.285,
-        15.47,
-        15.55,
-        15.445,
-        15.91,
-        15.965
-      ],
-      "news": [
-        {
-          "title": "Why Is Infleqtion Stock Gaining Tuesday? - Benzinga",
-          "title_zh": "为什么 Infleqion 股票周二上涨？ - 本辛加",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1o1UDhQSFF0alFsdG1zUGRBeVdJSWR6OFZUNEJCZWwyU08zZDJSbEMyWmh0cl9uVVdJN0preERCdlYxZHVIV0Q5cHdPV1ZPYjQzTUVRVlRPQUFwZVZXZjdDODA0RkRGc2oteWhCZ2FNaE1iaExad3BhZGJJeUd6N3lmc1I4ekhjTlMwNWZ2UllmSmt5ZTFj?oc=5"
-        },
-        {
-          "title": "Infleqtion CEO joins White House quantum signing ceremony - Stock Titan",
-          "title_zh": "Infleqtion 首席执行官出席白宫量子签约仪式 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzVzSVdfR3c2UjFMeHpjUENheXUzLTgyTmVQQlhKSHhlWUpSWHJNNkhlcFBHdU9IWXlnTUNIdnNaSG5ndGZrQ25WOVlEWmYyYnZRSjYxbVNVUllHQ0JJMFE4cGtpdFlXeHYwdnV3TVVsQ1ZNQS13SlBidGthbm9oN1piV2VGUFhwVUMwalZQNGpnVXhjNGYybWwyb2JMNnhYY080?oc=5"
-        },
-        {
-          "title": "Infleqtion Stock Rises After Quantum Space Announcement, White House Moves - TechStock²",
-          "title_zh": "量子空间宣布后，Infleqtion 股价上涨，白宫搬迁 - TechStock²",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWhDM1lMZ2hfRGFGMjlISXVXVENIYmU2XzlSdUhkLXdzT2dvYmJSeGNkZDYwMFE5ejlramJHRXJUc2Fhc0o4SVJ2Rzl0MWlORFh0Y2tfVjVoaU80ZGFNeXV0UlVXQVdWQTVqMk1aaXBvajcyT3o5Z0J1cTFMblhTOFhFY3JyRUo3eFRoTXdZOTQxZkpYb1F2ajB3?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "QURE",
-      "name": "uniQure N.V.",
-      "price": 48.27,
-      "change_pct": 8.74,
-      "change": 3.88,
-      "volume": 551501,
-      "name_zh": "UniQure N.V.",
-      "spark": [
-        46.44,
-        47.5476,
-        47.04,
-        48.015,
-        47.78,
-        48.26,
-        48.2919
-      ],
-      "news": [
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "title_zh": "symbol__ 股票报价和预测 - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGYmw2eVNxUkNRekZDR19RSnJOU2NfSF8ydUY5YmlTVGUzSUowYjhpOFAwV2lfbXZMVmtmZlNvRkx5VVI0d3dac1hQQjBSUEhX?oc=5"
-        },
-        {
-          "title": "uniQure starts $150M share sale, with $22.5M extra option - Stock Titan",
-          "title_zh": "uniQure 开始出售 1.5 亿美元的股票，并附带 2250 万美元的额外期权 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVZuLWtBOUxpZS0wN2lPSkt4aFJaMFl6bDlXbjdSX05OVzdSZlYyUnY4LTJTR2xjQUlGRlR5eUsyMnUyTmU2Y0w2VjhFcXpISE9VTklabkpHc1F1X05BaXpXamh2WlpnWDRPRDB2ZEhIdkR0bDBJTjNvWFhQcmR4YUhTWmQzOE9yYi1yMzFscUJwZ1Ezd3RJLUxQWndnX0RUSmp3?oc=5"
-        },
-        {
-          "title": "QURE Stock Just Shot Up 8% - uniQure’s Much-Talked-About Huntington’s Disease Therapy Gets A UK Boost - Stocktwits",
-          "title_zh": "QURE 股票刚刚上涨 8% - uniQure 备受关注的亨廷顿病疗法在英国获得提振 - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0tPbUFINEhwMU9PRUNMMEVMNUF5UmplQTdhWTUtSU1hVnRQUUhzaklpdU5xdkN5aW9tdWpVR2EySDctYm5WQnJTc0NlTVdiOE93bkkyUzBVbERSZWoxdlhwY1NXRUVLVEVGbUo2VTg3VnFqU0d5U0cwOEJ2dFhpeTJxUlJ5clpNVldhbGc4SVdtS3dYUDlwalJoVGNtYVV4QXJ3NE9YamlzMzFpSlp0c24ydjIyRDJDamstRDdQM3pwc0NXZjh0aTNOZzI?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "QBTS",
-      "name": "D-Wave Quantum Inc.",
-      "price": 26.25,
-      "change_pct": 7.28,
-      "change": 1.78,
-      "volume": 13216043,
-      "name_zh": "D-Wave 量子公司",
-      "spark": [
-        25.4986,
-        26.35,
-        26.595,
-        26.05,
-        25.6999,
-        26.26,
-        26.39
-      ],
-      "news": [
-        {
-          "title": "D-Wave Just Unveiled a Major Quantum Breakthrough. QBTS Stock Looks Ready for Another Surge. - Barchart.com",
-          "title_zh": "D-Wave 刚刚公布了一项重大量子突破。 QBTS 股票看起来已准备好迎接另一次飙升。 - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDFhbDVoaGRsRHlpWloxOTIzbXhTb1cwcUF0Wm9ORE5MR3RnU0hoemEwR0lDZEI3amt5WnN2bUNpN1d6S0pDM24zaFlhZDZFNWJCMVhGdS1IYzd1cVVqS18yM0Zoa1V5ZVZ0Ukx6MzdpT25Jd2tlRmtHQVRiMGthQkU1UzFlc1lBNTB3S2psRGd4bEhfckpNVmNRRFlScklETHk5SUlHbFJGeXF0bnFlRGZkSVc5X2RFWWtMVmpSUXVFa09VUC1JdnJBc0pyOTQ?oc=5"
-        },
-        {
-          "title": "Mizuho Raises PT On D-Wave Quantum (QBTS) To $35, Maintains “Outperform” Rating - Yahoo Finance",
-          "title_zh": "瑞穗将 D-Wave Quantum (QBTS) 目标价提高至 35 美元，维持“跑赢大盘”评级 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3pUZTZJTXpuZVp4VmpMV0x2WkNWUll3YVRJX3d4dkF1SkdLNVNEM3FQSlBRR0dBN1ZCTERTOFFWam5NV0JOMnI0bllNbWp2WnBCUG1yU1B0dkZJdGluYzgzTTAxeTFFSHEtN0N4WUNrcTBHZXl4MWI2SFhCcHJtN01tQm9DdXk1OUtqbg?oc=5"
-        },
-        {
-          "title": "Quantum Computing and D-Wave Quantum Jump 12%, Rigetti Climbs 9%, IonQ Gains 6% Amid Risk-On Optimism - 24/7 Wall St.",
-          "title_zh": "在风险乐观情绪中，量子计算和 D-Wave 量子跃升 12%，Rigetti 上涨 9%，IonQ 上涨 6% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVS1UbWxLSHdzd1ZuZy1XY1hHT1loWGw2eF9oZHpxUnRPcElzZFFES05NbTFKaGp0dV9LUFR3aHdxSUhXTFFiQmIzQXlfQzNhSkRpTGFwMUNQbXl3RlhzNkJueXlNWGR2dmk4UHRZZjZzN01acHU0THpaSVhLeC1mU3ZqQlI2N0swME42bDFHdGRmSl9zT25iSHJqY0ltVjE5UlpvcHh6ajdDRV94VzZQbWZRcVZaZXhfb2NWNWFCSTEyLVVUbTAwdW9MdDBLSVZ0RExDSi1qNA?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VKTX",
-      "name": "Viking Therapeutics, Inc.",
-      "price": 34.56,
-      "change_pct": 6.78,
-      "change": 2.19,
-      "volume": 638398,
-      "name_zh": "维京治疗公司",
-      "spark": [
-        32.8,
-        33.08,
-        33.19,
-        33.75,
-        33.85,
-        34.575,
-        34.59
-      ],
-      "news": [
-        {
-          "title": "VKTX Stock Has Nearly 300% Wall Street Upside — Is Viking’s Oral Obesity Pill The Next Novo Nordisk-Style Breakout? - Stocktwits",
-          "title_zh": "VKTX 股票在华尔街上涨了近 300%——Viking 的口服减肥药会是下一个诺和诺德式的突破吗？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNzR3UDloSVJaalp4cXFKdWFzeVNrRU5hTkZzRTZza3hhWXg3MGJVejM0OEUwbzlGSzZMRkVKOEhQREpPQ2FWcFMzdUp6WkRqMnFoWVNBMzcyRjFycmRvZHFBUjRUMDZNX2stQ2RxbkZpYkszalN6S3BiWTJqclpTLWlTWmZFT1plNWxKTEhpaUF5aUtSQmxPMWtJbTk5MkVvdVc0ODRyOHdVQzMyTmV4cFh2b09vVVVFRVdCRDliRXFGamJCZmJhR3c1RDFPWDhRUGd1aXFJZWNqWnNMRWc?oc=5"
-        },
-        {
-          "title": "Viking Therapeutics, Inc. (VKTX) Gains As Market Dips: What You Should Know - Yahoo Finance",
-          "title_zh": "Viking Therapeutics, Inc. (VKTX) 随着市场下跌而上涨：您应该知道什么 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcl9TYkhuM0FUVXZxLVE4a0tKNzRabU1xX253MDZvandTUlNUcE44S1NIS3BOYzVoMEl2bzhpVE0zdlI1R1pHNzVTYnZYd3ZpOVdsMmVXUGtseDV2djQ0UmxqSU9NZ0RpWmp6UWl1OUN2blJ3aFFTZWJpbmF6aFprUEoxVWQ4dnVDV0JyTHVwTG5TTXBsVXdyWmhnMG4zR0JF?oc=5"
-        },
-        {
-          "title": "Viking Therapeutics (VKTX) Stock Could Be 67.2% Undervalued After Analysts Back VK2735 - simplywall.st",
-          "title_zh": "分析师支持 VK2735 后，Viking Therapeutics (VKTX) 股票可能被低估 67.2% - Simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQalpvZW9XSV8zTHJMVXlaTEtDVTZ1QjItVG1EaktCSFhTSF9qdnhrLXp0cF91MFZUR1dRa2l0MFp1RHBKXzdtNEJIRERCWE5hbEhaOVFDWHZxX3VKM1VtcTRkU3JDX08zUUJQUU90WHVPcHhDTUlrT2xQNHM5SkRsbDNwOF91Rk05YkpvVUNSY0NIcWxjajhVeGlCLVJVZEtpUTVMbU5aNzRJc2VuNXhPMmw5dVdCWmhiZkJHZENMX0NJeG9MNjY5MlJUNE13SUJXRlpISlFnQ0N3eFBZOGZ6MkJDSzB3LTl40gHuAUFVX3lxTE5XZFFKT2VjWWJBV3ktTGxsRXlzdU9SaTRQdXdkS2laX1lOMkFOYWJpeDk0aE9XSGpIQXU2T2pHRTRabjJMSmZEV3ZiVS0tZjFwOHkxUUhQSFBpR3MtbnF3TGVtdkdudFRRU0JRTFg5aEhXUEVLdHBTNkxvbjY5T2hZaF9xOVdhelJ4aHlYVjQxMUtaVGswQmRzcnRRY1FnT3U1UU9lX3dyM21YSWZDVF9wZURWU0taTnhJdUdLMDZreVl3Z1I3dmVrSm9LcG4zNjVIWlA0ZzFxU3dmNk1fVW54YU14aGpXQTR2NVpaSHc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ZETA",
-      "name": "Zeta Global Holdings Corp.",
-      "price": 19.69,
-      "change_pct": 6.62,
-      "change": 1.22,
-      "volume": 5016253,
-      "name_zh": "Zeta 全球控股公司",
-      "spark": [
-        19.72,
-        19.62,
-        19.72,
-        19.42,
-        19.63,
-        19.77,
-        19.705
-      ],
-      "news": [
-        {
-          "title": "Palantir and Zeta Global tie marketing data to Foundry - Stock Titan",
-          "title_zh": "Palantir 和 Zeta Global 将营销数据与 Foundry 联系起来 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2MtcHpqenIzUFpiMEg1MjNicXRfNUl0Q3U0cFc1N1J3SFF1NnhVWUozVjdjdUZpUTlvN0g2OE1PRHRXX21hY3A1MDFJMDBQNEFYYnVWdmlvM1V1LW1kVzd3S2pWbk50VklUN2hBVVJicnRuNmZrYVdIM250R2x5azc2a2kxcEp2UWxmeGNLdC1RcG5wa1hOdW5EeGhJX3lJTnBFc0xkb0o0V1hoSWRuTjlpeUR1VEZSeW0yOG5n?oc=5"
-        },
-        {
-          "title": "Zeta Stock Jumps After Palantir Partnership — Deal Could Drive $100 Million in Annual Revenue - Benzinga",
-          "title_zh": "Palantir 合作后 Zeta 股价上涨——交易可能带来 1 亿美元的年收入 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWVBajk3ZWRmWEVCNVRPWmoxUTJkRXBkbTF4WnFoTHQ2eWhwRFBZd2hrU2E1WnhCR3NqdXpveUtjZzJFNjVHbUxWTW5VMHRkajY1UnhESUFtbGhkTmp0UGVSWDNjMUpHVHVOd2R0STJMTnNacVo0MUFPLXYteFlSd1Z4VlNvcmJGMEtkV09wTm90RXVQR0VFYjZUZWx2TFN1NE1WUlZwb2h4VWRVOWFSZTVVNm1IQWI0Zm94UnB2OEhQQzNVbFZtcFZfUEdwNWNJMkVqZVFITThrdVNtTGNlbW9kcmxJZw?oc=5"
-        },
-        {
-          "title": "Is Zeta Global Holdings Corp. (ZETA) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "Zeta Global Holdings Corp.（ZETA）现在是一只值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3hfYzNKaFlyU1JuaElzZ085NTlkSDhERDNGMWtWTEZQQ09CVWpVd0RGaFBKODlxMGNKNUtNSTFkaVpDNVZBWjE2cEx0ZGxuQ2xEcHV5ZzJMNThkWUQyWnhYQlNhRWlqbnpwd1JXOUtXd2pseFI0TUJoZkFVN2lHbXM5cXdJY3JWQmhzMlg1YnZ1RWFnODFRdzE1MA?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "MRNA",
-      "name": "Moderna, Inc.",
-      "price": 63.03,
-      "change_pct": 6.21,
-      "change": 3.68,
-      "volume": 1487468,
-      "name_zh": "摩德纳公司",
-      "spark": [
-        59.95,
-        61.565,
-        61.7455,
-        62.645,
-        62.16,
-        62.82,
-        63.55
-      ],
-      "news": [
-        {
-          "title": "Moderna (MRNA) Climbs 7.5% Ahead of Next Week’s Key Updates - Yahoo Finance",
-          "title_zh": "Moderna (MRNA) 上涨 7.5%，领先下周的关键更新 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGpDMFdVclM1SE91V2x0cnI1UjVwVWlaaUxiMl82TGlOYzVPZHUwbnJkQ2Ita21PQlpLS0xrdC1BZFg4TFo5ZndEX2hZdjU5YnJGOXNPMXNPRDBfQlFrSUtybGVkaFc3dTZLZERQVkNVSGpHcnY0SWxYUjFGcjdjOHNxVFBkU2NkTlQySUFZN09uQQ?oc=5"
-        },
-        {
-          "title": "Moderna, Inc.’s stock price dips to $59.34, marking a 7.22% downturn: Is it time to buy? - Smartkarma",
-          "title_zh": "Moderna, Inc.股价跌至59.34美元，跌幅7.22%：是时候买入了吗？ - 智能业力",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVNDT2Nramd6NXZnQktqc21IQWlyNGM2dEExdlFWVXVWR180eERvSlAwRjVrRy00elhzMkE3S2ZZMkpvemhBZFEyTE1adjRXRm1GZGwtRkpJYUc5UnhEMnR4SmdUOGlkcVZBYl94Q0lGck9RZFBGM2w1WUZ0UGlWNjN4bi1WSHZ1N1ZYZ2ZGZXVQZG40STEtWUw4S1ZnV1hZUTNhYThtRWQzMFVWQlpTQ0VRcG5KdlBTSkc2YVhFQ3MtOHVIWTVj?oc=5"
-        },
-        {
-          "title": "Moderna, Inc. $MRNA Shares Sold by Tobam - MarketBeat",
-          "title_zh": "Tobam 出售 Moderna, Inc. $MRNA 股票 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREg4N1EzUS0xRVFZcU9NN2duVzdWRDBBU095TVNlaDBSVEt3VlZNR3ZtMzdNMGlmbHlyekcwSkFkOHNHMmNqcngxX1ZnVXhKeW5KTm9pTE1CazdXMG9hQTE2RkZyT0ZOVk9YZlJwODFfQzNBZDBiQUZ6Sms0cmRDOUhyS2drSElFUk1XNG9oQmNHSEJsNGYxNkphWU54d1k?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AXON",
-      "name": "Axon Enterprise, Inc.",
-      "price": 432.74,
-      "change_pct": 5.54,
-      "change": 22.71,
-      "volume": 136743,
-      "name_zh": "轴突企业有限公司",
-      "spark": [
-        418.605,
-        426.99,
-        429.76,
-        429.47,
-        429.66,
-        433.98,
-        432.8056
-      ],
-      "news": [
-        {
-          "title": "Is Axon Enterprise (AXON) on of the Best NASDAQ Stocks with High Upside Potential? - Yahoo Finance",
-          "title_zh": "Axon Enterprise (AXON) 是具有高上涨潜力的纳斯达克最佳股票之一吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHBLVWtFWDhYanhIQmhXMWZlOGhhdm02WnFvVkhkQ1lTZ01PdzdiWndkcTZGSHdDa1M1VU5aRGdObmhqWDl6NmZhWjl5MDcyUEQtU0ZMU0luYXdyODV1MUxXSktKWGJwUTc3Tzk2aW1RcVI3czk5bXg3WlM4NVlkUHpSY1draDFoM0ZLLTBVNHR2bmw0UnpodFZxRUxsZw?oc=5"
-        },
-        {
-          "title": "Axon vs. Kratos Defense: Which Aerospace & Defense Stock Should You Bet On? - The Globe and Mail",
-          "title_zh": "Axon 与 Kratos Defense：您应该押注哪只航空航天和国防股票？ - 环球邮报",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRmZfeFgzaWQwQ2ZnZGQyT0dHVEFzVUlKX3FoUFVVQVNjdnJNR3dvMjRienZqMFE2aHlibUZUTHBWdHFrdUlhd3hoRWJuaDAzbzhaMmpCTWpIV0hud0o0U0NPOWtkS21HTFY2bFJVRVpkX2d6eDhBeF9jVU1zQUY1U2dzOTFzVGdaWTdKQVF0VjdDNWlKT2Zob1ZHNTJGWGg5WnZWN1dDcmRzMVlVVm9hRGllLThZaHBOSW54WVBkbDdvcUkwNmc4eDVsTzFTVnN0a3EzQ1lQUXBfaXV1MEJ6VjgwX0VONTFJT3Jj?oc=5"
-        },
-        {
-          "title": "A Look at Axon Enterprise Inc (AXON) After 3.2% Decline -- GF Va - GuruFocus",
-          "title_zh": "看看 Axon Enterprise Inc (AXON) 下跌 3.2% 后的情况 - GF Va - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVlYaVczdDdLNlNHSXFnNW9GdEwwbzhNcUZUYTJvNkRGS1lob3hULWdVcXBvdHlBX3d5UG9Mam9JTG9tR0Z2cHpWREpLRzRadUFmb19oVHJlZnNBUUFOOEp0cmNKVUZJRmJzSnYxWWg5X09WaDRIZlJramFsUXFTYkV2dXVJVlpieTIwZ1F1VngyeVhwdl9HWktFd2ZQZVBSeVVfR2FGeWt4M0staUx4N0QySk1Ga09DMkxMXw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "EZPW",
-      "name": "EZCORP, Inc.",
-      "price": 33.15,
-      "change_pct": 5.2,
-      "change": 1.64,
-      "volume": 106300,
-      "name_zh": "易兹公司",
-      "spark": [
-        31.19,
-        31.855,
-        32.545,
-        32.83,
-        33.19,
-        33.21,
-        33.22
-      ],
-      "news": [
-        {
-          "title": "Is EZCORP, Inc. (EZPW) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "EZCORP, Inc. (EZPW) 现在是值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0U1WUdqTFdQZWVPQU83RlBQWVpvaEx1UzJXV0thaVQ3eUVYcWxkNVdleGdFTFNSSWNJT1dIRWdvdl9PeW83a0tXeHJYUS1LZ2g0VUh2RlN2aGxhRzR3UVVTcnNfRzRjemMwS0l5S3JYZHlraG81ZEpMN3pIRjF4MEh4VnJfN3ZGNmhtM2pyYWNYRjF6Vnc?oc=5"
-        },
-        {
-          "title": "EZCORP INC-CL A (NASDAQ:EZPW) Passes High Growth Momentum and Minervini Trend Template Screen - ChartMill",
-          "title_zh": "EZCORP INC-CL A（纳斯达克股票代码：EZPW）通过高增长势头和 Minervini 趋势模板屏幕 - ChartMill",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWpScDhsY1JFcl9YVmprSVkyeWNYaU5Ma05YTl92TkFrd3NvcVFwelhyaFl4ODQ2R1pWOFBjQkN4djNSY0lQRXdzUWtDZ0pmQlhZRXJuNmNUazdyNG5Ya1VHLTQ0UE9Db0ZpelcyQmdhQmM4YXVGUzlQb0pyZTdSTnBmY2tIUFppSGh1T3FfRzRMa2wtc2RaTnlVUlFXaFdOQWx6Q2YyYjE3S2VEZ1RudkFOejNWb2w2ZjVaYW55N3hOU1gxa0RQeVIwSFhQWUhhUnpTczhhblQ0QQ?oc=5"
-        },
-        {
-          "title": "EZCORP (EZPW) Gains from Consumer Stress and Elevated Gold Prices - Yahoo Finance",
-          "title_zh": "EZCORP (EZPW) 从消费者压力和金价上涨中获益 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFg4NXNaalg0NkFnWG9kTFowcVBKZ3dmRWVNVW4wakIzTTRvWmlCVDBzdUljZjZtcHNBMGNwcDBYbDRsSVhlYXhiUXd4OHZoU3FXeXhGVjhOS3A2VWpIVy0wV2p2NGdQNFRaS0JwYjNxVklaNW9kNXFjTDVUODF3MUdVWnZKbG1SWU1neW5xWWZta2pUWElSNTk1blJIcjA?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "price": 76.47,
-      "change_pct": 4.48,
-      "change": 3.28,
-      "volume": 5664331,
-      "name_zh": "AST 空间移动公司",
-      "spark": [
-        72.5848,
-        73.855,
-        73.82,
-        74.6099,
-        75.56,
-        77.135,
-        77.215
-      ],
-      "news": [
-        {
-          "title": "AST SpaceMobile, Inc. (ASTS) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance",
-          "title_zh": "AST SpaceMobile, Inc. (ASTS) 遭受比一般市场更大的跌幅：关键见解 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2VFNEUxSnNEU2JrVndDN29VZjhscTJ2LVNrOHF4ZHZ3RTV2b0R6UVVJVUppY2tIOXA5dTJWaGhDZy1neFBlcmlOSDcxZkhVcFZWM0FfeWlaeEYzRThoSDhSN2ZERnNFaTBKS3A1OTlWRDM4Zm14cUNCbUxxRGFKTlQwSFVmWjd2SVZtdXczSWIzdjlDa1VMZHZudTJyQQ?oc=5"
-        },
-        {
-          "title": "AST SpaceMobile (NASDAQ: ASTS) CEO’s entity inks $146.7M prepaid forward on 2.5M shares - Stock Titan",
-          "title_zh": "AST SpaceMobile（纳斯达克股票代码：ASTS）首席执行官的实体预付 1.467 亿美元预付 250 万股股票 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzNLTGVjWWxHT09IZ2JmRm1rc0dROVhMVDB5Mkk0TTZ3MWFvSVdpdVFiMnZlU0hwdXJucXdreDNlM3dIZWNGX0pPSlhoREUtQ2cyUkswRC00YjYzNk1VbUJSTTN1WWxsWDJyb21HMUczTGpoMDZBRzhEdmdtSkgzYmlJdUJRSUtieVZnOUFNaVNZN21BVTI3ZkRnUHo2bUF2T1BJSXo4bTFDYXpZeUFDbG5TUW4?oc=5"
-        },
-        {
-          "title": "AST SpaceMobile: My Bet On The New Telecommunications Order (NASDAQ:ASTS) - Seeking Alpha",
-          "title_zh": "AST SpaceMobile：我对新电信秩序的押注（纳斯达克股票代码：ASTS） - 美股指南",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkQxaEZpWGpMV05GVzVPZkxNNnk1LWNjVW0wSGk2bVY3Ty1mOUlNVkdHal9rQzdMOHQ4bG1ZdEhJWEl4RjRSdGhQQXdPaWRmSDNrcTZrVUI1WTRNM0JWNURwVk4zUnM2aTZNNlJBMVRzVTZ5RlB5MDh2cHM3OWd1NUQ0dVNYMmViMDM2d3Vmay1mZ05PZEMwT2VpalNRckdl?oc=5"
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-23T16:33:06.087927+00:00",
+  "us_gainers": [],
   "us_losers": [
     {
       "symbol": "PRIM",
       "name": "Primoris Services Corporation",
-      "price": 73.63,
-      "change_pct": -32.04,
-      "change": -34.71,
-      "volume": 2603351,
+      "price": 84.46,
+      "change_pct": -22.04,
+      "change": -23.88,
+      "volume": 6310506,
       "name_zh": "普里莫里斯服务公司",
       "spark": [
         66.85,
         67.78,
         69.725,
-        71.43,
+        71.45,
         72.7,
-        73.37,
-        74.395
+        73.32,
+        76.195,
+        77.5,
+        78.95,
+        79.81,
+        79.9152,
+        77.3,
+        78.0138,
+        77.87,
+        78.135,
+        78.565,
+        79.245,
+        80.2201,
+        80.1,
+        79.675,
+        79.49,
+        79.87,
+        80.26,
+        81.56,
+        81.25,
+        82.745,
+        82.645,
+        83.56,
+        84.01,
+        83.7301,
+        83.46,
+        84.14,
+        83.57,
+        83.9204,
+        84.3,
+        84.435,
+        84.46
       ],
       "news": [
+        {
+          "title": "Primoris Services Corp. Stock Plummets Again; PRIM - GlobeNewswire",
+          "title_zh": "Primoris Services Corp. 股价再次暴跌； PRIM - 全球通讯社",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNakJueXpic3RzY0M2cUhsZzViN3h6V3pYWmNmMGlaQmtvUVdReXNfYXZtSHRveTd4RllFMkZqbVVWRkFVQVZRVk94VHR1MXdNV1hGS0VuQ0NWd0x1bE00azIxOE5TTk1DUDhnWi1hdU82Tk4zMFMzN3lLc3dRZS1vYjdBblhqYzRhTmVZR29OV0pOUXllQmdMbGtwaWNRQ2lVM0xVdEItZ0hERjNSSDk0dlBvd2ljM0x2TWU4Z0pqemlvbHZuX1REUXhXYjdIWjd0SW5EOUhTZndXdjlVbFBZWF9weFp0eVJBZV8tS2o2Z1BOVE5vWmo4TmQzSlFJaUtITjh6RHlSTG91OEczSGJHamJOTDR0anpIZ0NINGxqNUlSZlB1Y3RN?oc=5"
+        },
         {
           "title": "Primoris CEO takes over COO duties as $2B in awards lands - Stock Titan",
           "title_zh": "Primoris 首席执行官接任首席运营官职务，奖金达 20 亿美元 - Stock Titan",
@@ -380,21 +64,81 @@
           "title": "Primoris Services Corporation (PRIM) Faces 37.2% Pre-Market Decl - GuruFocus",
           "title_zh": "Primoris Services Corporation (PRIM) 面临 37.2% 的上市前下跌 - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHJkT0VZSFlOTi1wbldEYWcwQnRwa3ZTTU5CeEw5MDVvZDBUR21DUll6bzZmRUF2TjZ4cmJIR09TSGRwSVZfTWR5c1ptTXN3ZFVKUUJ2Zk8yWHZMaWpSMGNoX0Q3SjdJSVFOZE5fWlpFdzVmSmpaM21KeGpZZGdfQVJVOUdTam54WlVwZXBReWFvUnJrX3dEWmYxRVp0RnlPelZB?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 80.01,
+      "change_pct": -13.45,
+      "change": -12.43,
+      "volume": 6082956,
+      "name_zh": "AXT公司",
+      "spark": [
+        87.14,
+        86.94,
+        86.92,
+        84.41,
+        82.985,
+        84.09,
+        84.0739,
+        83.945,
+        84.2901,
+        84.355,
+        84.49,
+        83.57,
+        83.25,
+        82.83,
+        82.475,
+        82.63,
+        82.48,
+        82.49,
+        82.88,
+        81.84,
+        81.8883,
+        81.42,
+        80.59,
+        80.5821,
+        80.74,
+        80.435,
+        80.53,
+        79.9451,
+        80.28,
+        79.95,
+        80.075,
+        80.215,
+        80.4,
+        80.08,
+        80.45,
+        80.3999,
+        80.05
+      ],
+      "news": [
+        {
+          "title": "AXT: Market Is Pricing A Monopoly That Does Not Exist (NASDAQ:AXTI) - Seeking Alpha",
+          "title_zh": "AXT：市场正在定价不存在的垄断（纳斯达克：AXTI） - 美股指南 - 美股开户 - 港股开户",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1k4N2wtTm9UQmQtZkZoa3lxcXdjb3BEOGlsaWxjSHAycG5ibnY2bTJCU3ZTS3B5ekxpV0xUSUNjaEdqbXlEaHpxYTVURG5pWlNRUG10TzFpYk1yZVRqbFlNb2I1bFd5UVdBMVJFWUpBeTRIWUtBME9iREpxWW5uaE5lSjZpZUtSQl9kQUFhN3R2LXNuR2tnNA?oc=5"
         },
         {
-          "title": "Primoris Services Stock Falls After COO Departure, Fiscal 2026 Guidance Cut - Benzinga",
-          "title_zh": "首席运营官离职后 Primoris Services 股价下跌，2026 财年指引下调 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRThnRGFpcVNUdG1NdEIzQUxjbkZUdjFBd0t3UmlRdW9JaFJlU3N6cWYwUFBHZzJ0aFQ5TUJOZEdSRjBXczRyd0R4aWZMZ1JKcG1Ldi1sLUdlM1NuUDBfUS1IdXRWNHowS1J6N3NWZGR5VGp1Ykl2VkkxZ05tUWp6cm0xUWZPM1o1aDNNcTBUQ0pGU1pQYjZKRWNFN2x2VFBaNlRsOFEtaVdDUDE5bjR1eDhsMkFSMEZ1RThna1hKdDJrZFoyU3lvanlRTUhpLTdN?oc=5"
+          "title": "Tracy Liu joins AXT (NASDAQ: AXTI) board as fifth independent director - Stock Titan",
+          "title_zh": "Tracy Liu 加入 AXT（纳斯达克股票代码：AXTI）董事会，担任第五任独立董事 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTItV0djcUI3ajkwaUVmb0lybThIQW9CM2p3SlBjWmNDM2pqeEhxVkVGLVI3bDFwQzFkZnczUm81U0xiYTVhMng0SGRneGxZMDhpbkFOcUROOFFmQWZGejc2UFlMTHo4WnZlTTBHUzhFQXdZNkUzUXBHeUZXUE91N2d0YjBkaC05TkxTQS1zalhYLXprR1hEdTdMNFk?oc=5"
+        },
+        {
+          "title": "Is AXT, Inc. (AXTI) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "AXT, Inc. (AXTI) 现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pqVGJQMlhNSkhfTTlZZVFEV0N6emNlb0dFYzJlSlVOT0wtbHFLOXBjT1pkMVhKQjU4enlnT2hyMGs5dWpyOUxrUWt3dVdfUXZVWFlDTFp2RDlsZDhTUE5kbzYwZlRVdHpsYnFhN1g5UEIwS2NvTE5IZ3NnUnYwM2l1RjFNajdUM3hUUkRkR2hwdw?oc=5"
         }
       ]
     },
     {
       "symbol": "SNDK",
       "name": "Sandisk Corporation",
-      "price": 2007.51,
-      "change_pct": -11.71,
-      "change": -266.22,
-      "volume": 3741113,
+      "price": 1997.35,
+      "change_pct": -12.16,
+      "change": -276.38,
+      "volume": 7851695,
       "name_zh": "闪迪公司",
       "spark": [
         2019.59,
@@ -403,7 +147,37 @@
         1978.23,
         1999.33,
         2006.2131,
-        2012.97
+        1993.11,
+        2005.64,
+        2019.5101,
+        2040.01,
+        2047.99,
+        2030.38,
+        2013.3641,
+        1998.9879,
+        1989.8,
+        1992.85,
+        1995.46,
+        2004.155,
+        2005.265,
+        1997.65,
+        1990.755,
+        1985.21,
+        1984.42,
+        1987.715,
+        1991.45,
+        1987.89,
+        1987.5,
+        1986.42,
+        1990.795,
+        1986.7198,
+        2003.1801,
+        2005.16,
+        2011.8,
+        2013.35,
+        2011.99,
+        2003.5302,
+        1998.17
       ],
       "news": [
         {
@@ -417,19 +191,84 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkRET2RNaGM4ckxBTDBpVWVMamJJd0NWMGcyUzVkRWRyOWRIYTA1UUFzTXY4OEZTaDhIWXZqTzAxTEd0SzN5U3VmQnc1MDB3Ung0cmhjMGxicm5xNFh3VFR2UkpzZC1USkxKLTJoQkZpQ0JHRURiLVFXdWRnRlE2dFpVX2VfcUp2Y3kzU3NsdUUybFdXeDctTEl1TUlUUU5ob1hVSUJxYkFGdw?oc=5"
         },
         {
-          "title": "SanDisk Corporation Stock (SNDK) Opened Up by 5.09% on Jun 22: Facts Behind the Movement - TradingKey",
-          "title_zh": "SanDisk Corporation 股票 (SNDK) 6 月 22 日开盘上涨 5.09%：走势背后的事实 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTR1Z0hSVXVsRTJ0OXI5d201R2NNcHhsa2E5b2NHRm5RSXlITGp4eThUUHJ1ai1vSnlzVHdFRDVnUU45TElHSExrd1htb21BR1JLM3JfNWdBY0gxNkpUMHVCSkN2OWp2WTNIQk9wSldybVJELVA2YjZNS1pOX3RyTWotNFJjSS04MUpZ?oc=5"
+          "title": "SanDisk Corporation Stock (SNDK) Moved Down by 12.49% on Jun 23: Drivers Behind the Movement - TradingKey",
+          "title_zh": "SanDisk Corporation 股票 (SNDK) 6 月 23 日下跌 12.49%：走势背后的驱动因素 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlVNT29RUnRjSHZjRkp1UDhORXhwOE5aaUFTRU55ekNnX04xam1EdFhvMllaUjVsdkJjcWVGTTlEWGpyN2g5MHFfM0hEZmpiQllTQnRvUFNYMW85eGJKVjV1LWhfYnRNb0o4MFBlUzFRMVF2cWdkREhQenhDeFBON3ZSdThtU2NmM0Rv?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CAMT",
+      "name": "Camtek Ltd.",
+      "price": 172.93,
+      "change_pct": -11.64,
+      "change": -22.79,
+      "volume": 282968,
+      "name_zh": "卡姆泰克有限公司",
+      "spark": [
+        179.78,
+        176.0,
+        176.1475,
+        176.02,
+        177.92,
+        176.355,
+        177.465,
+        177.16,
+        178.135,
+        177.76,
+        177.2,
+        175.61,
+        175.11,
+        174.855,
+        173.85,
+        173.92,
+        173.2,
+        174.03,
+        173.33,
+        172.81,
+        172.015,
+        171.47,
+        172.06,
+        172.49,
+        173.495,
+        172.88,
+        172.485,
+        170.57,
+        172.36,
+        172.83,
+        171.75,
+        173.27,
+        174.13,
+        172.45,
+        173.18,
+        172.87,
+        172.93
+      ],
+      "news": [
+        {
+          "title": "Semiconductor Demand Powered Camtek Ltd.’s (CAMT) Strength - Yahoo Finance",
+          "title_zh": "半导体需求推动 Camtek Ltd. (CAMT) 的实力 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pVR184dGR2ZjVhY1h2TUlsZGZLamw4VlNoWFItY1FKZDVEUUpfbFFfVWRPQk1kcW5jd2k1M29lRk9ibUhYUDV6WXluNkJxenNhTVRwRDhLMjJsVzBmTmk2U0NQOGtmNjBWZXd3MHR0ekViX0RCYTM5RWd2RHJuUUpEQWJmTTFobjhBTUIwS0lmSzl5YVVVZF9taEVacFBiUnJVZ0N1OA?oc=5"
+        },
+        {
+          "title": "CAMT Stock Price Prediction 2025-2026 | Camtek Ltd Forecast - 24/7 Wall St.",
+          "title_zh": "2025-2026 CAMT 股价预测 | Camtek Ltd 预测 - 24/7 华尔街",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZk5nZF9PUFA3NFZaanl6LUZpczRXWDBtRWJOQlplVUJRSlozMUpmb3JTaXVBaEdlZnhBcHcza2tFTGMzeERKQTVrUlN6Zi01QWY2aFd6Sjh0blA0MkJnTG1OM2M?oc=5"
+        },
+        {
+          "title": "Camtek locks in over $105M AI orders, all shipping in 2027 - Stock Titan",
+          "title_zh": "Camtek 锁定超过 1.05 亿美元的 AI 订单，全部于 2027 年发货 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVY2Rm52SXljNFFIcEg5M052aU8yUFNBQ2s4NThBTWRuZm5sT2piNEthelljWE9LeWJPTy1ySF9VdnVmSTkwcHFVclpaZVV5YlBTSEFuZjRjU0ItSnNoUFZvUzkyTTFpa2o5RFhzdjFTMEZvLTQ4Z1Q3M2JTRmZTM0djYVFjUDluaGRDRmZSTzFXODVtWjdBby1iSm9JY0tsQUpLal9CTEhKOHd3emYxbzVyZElZVFpNLWdVN0lR?oc=5"
         }
       ]
     },
     {
       "symbol": "FLNC",
       "name": "Fluence Energy, Inc.",
-      "price": 22.42,
-      "change_pct": -11.0,
-      "change": -2.77,
-      "volume": 3673516,
+      "price": 22.38,
+      "change_pct": -11.16,
+      "change": -2.81,
+      "volume": 7705219,
       "name_zh": "福伦斯能源公司",
       "spark": [
         22.93,
@@ -438,7 +277,37 @@
         22.63,
         22.15,
         22.39,
-        22.61
+        22.595,
+        22.27,
+        22.52,
+        22.51,
+        22.505,
+        22.52,
+        22.375,
+        22.31,
+        22.215,
+        22.24,
+        22.21,
+        22.31,
+        22.3001,
+        22.1498,
+        22.115,
+        22.005,
+        22.0,
+        22.015,
+        22.05,
+        21.99,
+        22.05,
+        21.93,
+        22.07,
+        22.095,
+        22.3,
+        22.36,
+        22.53,
+        22.36,
+        22.42,
+        22.4001,
+        22.3799
       ],
       "news": [
         {
@@ -459,47 +328,142 @@
       ]
     },
     {
-      "symbol": "WDC",
-      "name": "Western Digital Corporation",
-      "price": 660.25,
-      "change_pct": -9.88,
-      "change": -72.37,
-      "volume": 2879415,
-      "name_zh": "西部数据公司",
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics, Inc.",
+      "price": 152.72,
+      "change_pct": -10.81,
+      "change": -18.51,
+      "volume": 7095472,
+      "name_zh": "应用光电公司",
       "spark": [
-        675.54,
-        671.43,
-        662.645,
-        661.565,
-        654.5,
-        658.42,
-        665.23
+        158.97,
+        157.635,
+        155.605,
+        156.745,
+        157.59,
+        158.229,
+        159.17,
+        158.71,
+        158.67,
+        158.59,
+        158.1,
+        156.905,
+        157.16,
+        156.205,
+        155.46,
+        155.45,
+        155.18,
+        154.75,
+        154.75,
+        152.98,
+        153.525,
+        152.18,
+        152.13,
+        151.9134,
+        152.65,
+        152.32,
+        153.083,
+        151.865,
+        152.76,
+        151.62,
+        152.2501,
+        152.375,
+        153.575,
+        152.35,
+        153.2999,
+        152.76,
+        152.7
       ],
       "news": [
         {
-          "title": "Western Digital (WDC) Stock After 200% YTD Surge Is There Still Upside Potential - Yahoo Finance",
-          "title_zh": "西部数据 (WDC) 股价今年迄今飙升 200% 后仍有上涨潜力 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXlrbXpwY0M4bnZJaTFzVDJoS2o1SFBaRXdTZzl0Yk00UEFxcE1pMDVwYURWVjhvOTNFNDVhZXdlSWxaa2VXM2tZcEhlRUZtYTBBcml4NE9GelQ3d2JCNzNZX3dpbWxKWWFNeXpVQTgtb3ZKaDNlMVBjVVU5QXl4dTRrbm00RWZSbnNUTWpMZmxvd2RlRzFyZ0ZR?oc=5"
+          "title": "Is Applied Optoelectronics, Inc. (AAOI) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "应用光电公司（AAOI）是现在值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXpQX3RpdDBPM2tybE40d2ItNDJiMTI3YXZHdnQxMU5DamJOcDJwaWlpVXBrbUQyckxxRXBCdFlSX3pwVV9ib2lDVy11ODZ0eXpfNmxndW5HQ1BKNmJnNG1mWFRReHByY1FuajBOc0d1MWZtcmRvUVl1X2JJdkhkQUVSdXJDYnBFcHJuSGtBQTVNR0ZlNEpGYUZQMnlhNEJqdnJkOQ?oc=5"
         },
         {
-          "title": "Western Digital Corp: The Next Micron (NASDAQ:WDC) - Seeking Alpha",
-          "title_zh": "西部数据公司：下一个美光 (NASDAQ:WDC) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0FHR2Q0dFZmNG5pZ2RFSkE5aTg4WS02QzMtTktvMjVYTUFVdkxuSDI0dVNvX2xnYWktU3Fma2VWNlRUbURpd1NZOVk3ZTNnU1YwVE9ELUQtazZ4LTVJcTVORzQwUDMwWEtFbDVMOFpaVlpYQlh1a19vc3YxcEFOYzNDcw?oc=5"
+          "title": "Applied Optoelectronics Shares Are Sliding Tuesday: What's Going On? - Benzinga",
+          "title_zh": "应用光电股价周二下跌：发生了什么？ - 本辛加",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU0xZbTItNGpvMmZldzlxWC1KSHV0TFZfRXZaTloyMTE0ZzlvcmdFTTBfaUE3RWxkRFhxdDRBRzh4NXJpSXR5TDQxWG9nSEFCMDZ1NGo0V0VCeUhYaVFCYkpUMld1YWtRa1gxN3I5bnhNSmt0NjRvVkZ5cEhUM3kzSHd0dzRMMnBNb21wNE5nQ2F3Q0x5RkNXX2pWWlRHZWZ3U3NuclJZanFkWXpyY3VnWmRSQVZveERha1hrQ3R4TUhfTGo1?oc=5"
         },
         {
-          "title": "Western Digital Joins Micron’s AI Memory Rally As Chip Demand Supercharges Storage Stocks - Benzinga",
-          "title_zh": "芯片需求推动存储股上涨，西部数据加入美光 AI 内存涨势 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTGh3RjdrLV8tYnBsZ1Y1dlRMQlhUVmRJd2RTdjJIVnQxNklSU2JPN21oalFDd3dFZjZoVzZRQmNIN2ZQMzJjUU12SEVBOExVLUNLM1ZoRGF1MXBsMnRGdWxDU3ZhSnBhay00TUYxVkVDb1ZrWjFCRks2Y2NEbGZDQlhwYjlMMTM0MndFSkxXUXkzTnR4WDNiby10QmNlRWlWTzYxbjBtQ080dWwxRzlfLXJrS1EzOWpSUENUZk5Bd041aDRLN1dyQS1lRUtJbTY3VXhJWl9wMkU?oc=5"
+          "title": "Applied Optoelectronics Target of Unusually High Options Trading (NASDAQ:AAOI) - MarketBeat",
+          "title_zh": "应用光电公司期权交易目标异常高（纳斯达克股票代码：AAOI） - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW8wOW43UHczV0ZLZDc0clhZX0thNm0wMXZyMmlWdFl0RzI2TEhNc2w2YWNYVHVscEVsS3hpdVo2S2tiME5UQkk0MGJOX1NBRDFaQ1RzMUdXSDcyM0llX1BLSGxYczRYRWNiM1UxbjlPWU02R3k5YWt3X2FmT1ZCTEtVTmFNdnhPUnhsa2JCZTMzaGFTVzhNenNhMmFxMjZnOUwxUUtWZ0IyUWlaOHMwam1TYWYxb0c3SFAyRklhU2p2NVRrbE4zOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding ",
+      "price": 270.78,
+      "change_pct": -10.49,
+      "change": -31.74,
+      "volume": 5410223,
+      "name_zh": "信都科技集团控股",
+      "spark": [
+        275.595,
+        276.14,
+        269.4037,
+        268.47,
+        272.49,
+        274.46,
+        275.965,
+        275.48,
+        274.21,
+        273.365,
+        273.525,
+        271.32,
+        271.645,
+        272.0,
+        267.705,
+        268.35,
+        268.205,
+        270.18,
+        270.0,
+        268.695,
+        266.755,
+        265.93,
+        266.8,
+        267.655,
+        268.065,
+        269.18,
+        269.08,
+        269.16,
+        272.815,
+        273.39,
+        274.5,
+        274.725,
+        275.335,
+        270.8401,
+        271.945,
+        271.32,
+        270.795
+      ],
+      "news": [
+        {
+          "title": "Credo Technology Group Holding (CRDO) Stock Could Be 109.1% Overvalued After Its Recent Run - Yahoo Finance",
+          "title_zh": "Credo Technology Group Holding (CRDO) 股票近期运行后可能被高估 109.1% - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejcxaHE3eFNHZkVXUHNTQVdKX1M2bGlJcVhIeU4tclNUUV8zMEdjU0I4Zjd6QWlrQW4tVnR2bHF0MDNMMHVMWW8zdUR5UVdmd3d3WUpOM2FVWFdNTUY3azgtLWFUSGZ4U2dfX1dEcW1VRmh2Q014NzJqQ3EzRmIwVTNuWFZhelJHN1hvQUNOZDhxY2xEZ3VpSGsySXg5WkZ0cWc?oc=5"
+        },
+        {
+          "title": "Credo Technology Group Holding (CRDO) Stock Could Be 109.1% Overvalued After Strong Results - simplywall.st",
+          "title_zh": "Credo Technology Group Holding (CRDO) 股票在强劲业绩后可能被高估 109.1% - simplewall.st",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajFDMmsxOVEtR2E0Q21fd280Q3YtRFhKbG9lTjk2TmhFbjBRV05UeDhTY0dCbmtva19wNVRvN1EzZjRIRnBHRlBCbkIyS0ltblR3VjN1OTFnUnFRSVVNWURIbWRKVm1JNHB3ZFVXcjVWcFhBdWxIU1J3aGc4c3pkYmJOU1FCdXdZM2NEQTI1eEtJT01nXzFmQ29BVHNKMUZJV1hodHV1bGhwbkdtR21ZTnBXc0NNdmVJNW8tcTBRTVc0bmRFcUNZQW91V2N4MktCRHdSMVA4Mk9rOGhBamFKbU1LWlBraXoxb0lB0gHwAUFVX3lxTFBfcjhQZUJkeHpXbmc0THJDUkh6SzROcnczc3dZT0VvcXRjMFBlbjJjcGh4N2tSajlsczh0clRfcUhWanQ1M3BxSVh0U1FpcDNlcUhhWGdfSkJaU1l0UjZXcE5semNxSmxnQnFMMVd5WERsc0dvVmQ4UXBHZFFGY1Z5c0xTcG9OeTJFRGwwM0VWVTB0Mm0zdWdFeGZPdTNwQTY2TUVXQkZ2elhjOThsTm9KdUtKMUM4OHlkZ2ZyaUlxZ3RjdTVVTmstWEtjcDZseHhuYkpfbXRkVHd4SEo0VjdBVE9FN2RMaWlKdVk5MExCMw?oc=5"
+        },
+        {
+          "title": "CRDO Stock Rallies As AI Earnings And Targets Surge - StocksToTrade",
+          "title_zh": "随着 AI 盈利和目标激增，CRDO 股票上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOW85ZXhqQUhhV19lVThkdjNIcVlXZmhTUzdLQjNKR0dZWmNBZFFEalBPWXlZNl9PUkJIWkhvODRnQTBxdGluLVZtM1UtWnc2Z1o5cmdkY2tKTnk4d2VjbjltWV9ET3J1Zlg2REJ2cE1Wcnd4WmhYSVZ0Vy1DdGdMaVl2UzJXTzE2MVZvLVFYdVhQdGs?oc=5"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
-      "price": 1095.1,
-      "change_pct": -9.6,
-      "change": -116.29,
-      "volume": 15394874,
+      "price": 1083.49,
+      "change_pct": -10.56,
+      "change": -127.89,
+      "volume": 31337684,
       "name_zh": "美光科技公司",
       "spark": [
         1076.75,
@@ -508,7 +472,37 @@
         1071.58,
         1092.0,
         1090.875,
-        1104.1899
+        1101.16,
+        1101.16,
+        1107.8149,
+        1119.475,
+        1115.63,
+        1104.35,
+        1098.62,
+        1092.3501,
+        1084.645,
+        1086.37,
+        1083.865,
+        1089.335,
+        1088.8801,
+        1083.25,
+        1082.115,
+        1077.6899,
+        1076.89,
+        1075.7499,
+        1081.03,
+        1077.75,
+        1077.6801,
+        1073.5551,
+        1083.275,
+        1082.0801,
+        1091.87,
+        1090.875,
+        1095.0,
+        1089.0551,
+        1089.505,
+        1085.55,
+        1084.5
       ],
       "news": [
         {
@@ -517,189 +511,144 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZNNUZLNEFHdWpZTGZRd19tbTBOT0Y1a3ZaX3ZDaXBUQmxwS0dnb09RZWdVSjFoemZhcGxhdGJZWnQ0RTliT29saEtDQnNXUERUQmlpMUJPbElCQlJERm56WktkRmRPakpkQml3cklJM05ZTmJNajhmUXpiYnh0cDR5X2Z1VTZRek9MRnNfZHdIUC1MdW9kd1FGTkU0d0k?oc=5"
         },
         {
-          "title": "Can Micron Technology Stock Turn a $10,000 Investment Into $1 Million? - Yahoo Finance",
-          "title_zh": "美光科技股票能否将 10,000 美元的投资变成 100 万美元？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUt6V2tIeHctOFJfLWdIcS1WQnZOWG5Ua1NWaFJfWml4c1RfMzJFZzV5S3Naa0NjVjU2RnM5OWhpS2FjRDdsQ21nSG56ejIwOFg4NDZzYU1TaDVSNWNmbDdadkI5YUk5QUY4RndEMGVrNXRsdXpCSHpMeTRyMXlqZFhEYU9mUE9VTDB6LXduWjZ3S2E3ODlOMER3WVE?oc=5"
+          "title": "Micron Technology Rallies As Prominent Wall Street Analysts Issue Stock Price Target Upgrades - TIKR.com",
+          "title_zh": "华尔街知名分析师上调股价目标，美光科技股价上涨 - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEkzMWE1RXhiTmt5Uk93VEwxU3V0Z21PYmtGdW9xODJjZFk4eVZTRHBrTmx0SXdnQ0I3SHR6Sy1MYXR0S3hwTjQ0RWkwaW9HUmg4U3UwMWVwRG9fVDNPQUtTMlNCdWlSM1pkYV9mOG5wVDZkRlVDRFVVZ2R1VjNfUzVCUm1HZWhyT3VZel93U2w3SEZxSXpTaTQ4X29OUXV3MjJQTzBFd2RfV2RiMy1KMWFnTnk2MWZyakhWNVp6bw?oc=5"
         },
         {
-          "title": "Micron’s Stock Keeps Hitting New Highs. Here’s How Much Traders Expect It Could Move After Earnings - Investopedia",
-          "title_zh": "美光科技股价不断创出新高。以下是交易员预计该股在财报公布后会出现多少波动 - Investopedia",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzE5bzBteEpITUVBTE5PM0dVRVc5X2FiTmdtQmVJeHdHTkdHM1ozWWltdWdacFEyaU1ZV2p6WjZvbHFrclFoQ2M4X3pfem9ZSXNTcndZX0NId3dZeTMwNXk5TWNwZlNtWUhpYWRxN01yQXhvY2JKR3MtZmFieEFBZnNqSEdCa3RkVzQ0SmRnSmFCTFBQS2ZGNXpFN215OWRhZENEOGgyblMweUFCZWM0ZlliNlBXdWRxUUUzR2cwM1VnME9JMHVCckVPcjM3NkdxQmpBdA?oc=5"
+          "title": "Micron Shares Slump 9% After Blistering Rally That Ran Over Bears: Short Seller Tracker - Moomoo",
+          "title_zh": "美光科技股价在大幅上涨后暴跌 9%：卖空追踪器 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1RYaURiRXI1NHJ6RHRRYmppRjgxMkRSTVI4V0VnR3RwYjVSVjR1MVhfSXltQ2hQUkhtdjY3QlZGaTRpZG4tbFhMc0xKWnBtLXFPNENlbVphNVliN2pQaF9ic0VVQTlBVTRFNzBXWmI0T0pDa3hBd1pLcmhPczJaM0ZXaHNkQVRYdjFPM2hlY3B0a0prRFBpa1BJekpjTDhuWWNmcTVvRHBWYkN5YTdpYnB3?oc=5"
         }
       ]
     },
     {
-      "symbol": "TSEM",
-      "name": "Tower Semiconductor Ltd.",
-      "price": 287.02,
-      "change_pct": -9.41,
-      "change": -29.83,
-      "volume": 528258,
-      "name_zh": "塔半导体有限公司",
+      "symbol": "UCTT",
+      "name": "Ultra Clean Holdings, Inc.",
+      "price": 112.0,
+      "change_pct": -9.05,
+      "change": -11.14,
+      "volume": 639409,
+      "name_zh": "超清洁控股公司",
       "spark": [
-        285.44,
-        283.69,
-        281.705,
-        280.01,
-        284.63,
-        286.06,
-        289.4299
+        113.5,
+        112.005,
+        111.545,
+        112.145,
+        112.0,
+        111.765,
+        114.1447,
+        113.19,
+        113.93,
+        113.51,
+        113.58,
+        112.5094,
+        110.915,
+        110.99,
+        110.315,
+        110.42,
+        110.55,
+        111.82,
+        112.43,
+        111.5,
+        110.715,
+        110.56,
+        109.97,
+        109.915,
+        109.75,
+        109.81,
+        109.68,
+        109.99,
+        111.495,
+        111.1,
+        111.8199,
+        111.82,
+        112.63,
+        111.625,
+        111.79,
+        112.03,
+        112.14
       ],
       "news": [
         {
-          "title": "Is Tower Semiconductor Ltd (TSEM) Overvalued After 10.5% Rally? - GuruFocus",
-          "title_zh": "Tower Semiconductor Ltd (TSEM) 在上涨 10.5% 后是否被高估？ - 大师焦点",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlZaSExNbEt3VFNtakplSXo3RFBkRDFDRWozd2lnU1l3UEpVdDh5bERPY0I2R1h6dV84dzV4OGZ5V1VqWFFVMUFOcGFuU2VwRG1iajJtU2RMcHZaTDNRVFRMNHhValJ2S24zaHQzZjZwelBZaXlTbHY1SzZEbE5US3ctVXhnNkdkT0xWNG1fenJlRHRPNWlDTW03MDd2V19ybERvb0ptY29XNWc3eGtNa2NJRDRvb2lPdWZFRGcxNA?oc=5"
+          "title": "Ultra Clean Holdings (UCTT) Stock Could Be 18% Overvalued After Its Sharp Rally - simplywall.st",
+          "title_zh": "Ultra Clean Holdings (UCTT) 股价在大幅上涨后可能被高估 18% - Simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTmhZMGxGYjNVVDFxNDNHNmpnUnlLcldqdUFFdHVHQkk4dDhuWDg5ZVM0QjJlekFHVklxRnhOUDkwNTBWZWNQMFdOZjRsMWJJYUswWVRHSmFFdU4wb3hwQ0JDVUVCUTZQUWp1eGxZZUNHTWp0MWRJMHY1RkFtNk5mTnNHbzlrZnROXzhWSmJGRjRHS1c4eWRKTGRRQTc1b19iUjBCYTlqVFl3dmp5ZkRURkVuU3ZlMHJVaWRRWTN1Q2NlWGwtdDZhOUtsSThsWVg5b2RjYjhyYkdiNEduX0HSAeMBQVVfeXFMTWR0dVNHbVZkTXJ4S0E4UEJmX0RNcXotMmJ2cVkyRTRwd1dnRjd3ZV9MU3pGN0lzM1F5OEhtSnZTSWh2RHNzajdoWmIxcmNraWpINEVuWjNLQ2dPdWNXYzFKQ2pic1BNYlV2dzY5aDJvRkhteWdEbjhsZm5oRUtDTjZPMVkwSjh3d2k1TUJBRzlUYXRwdzdScEJxRjRKemJtQV9CWHNZWUg1RHVmdXZPLWlxX1IxcUJBcFBVRHRHSFJIZmN1eHY1TEpuNE9KVVFaLU1hekRjV3dBYkprcUp6WERzd28?oc=5"
         },
         {
-          "title": "Tower Semiconductor Ltd. (TSEM) Forecasts Upbeat Quarterly Revenue - Yahoo Finance",
-          "title_zh": "Tower Semiconductor Ltd. (TSEM) 预测季度收入乐观 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlVDbUU1Ym1YclM5amdNWGk3VFd4MmJCU3FXMWFMR2M2Q1JNVGJJeS00d3N3X1ZLMDctN25ERnQ3aVByLTdESGFqZnRteURpUUllRmQzOUpMUC1NWUpPZzJzWDBsUjFpOFdUbko0MjI3WXQtZDZNTlcxSHM2TnUxb0F0bzVyVmhRYU1ndGVYdENPblY5dHN4MVdjRkkydldHenRxU0Zn?oc=5"
+          "title": "What Makes Ultra Clean Holdings (UCTT) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+          "title_zh": "是什么让 Ultra Clean Holdings (UCTT) 成为一支势头强劲的股票：立即购买？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUFtY1VvdkhDWmZCcnlfTEdQTzhLMXNqWVBzTVJWN0Z6R2phUFFRWHBodm5ZeEhBWWtmdmxtekN6RVZQU2N3YVVycHJxY3JUckdmVEUtakZGR0ZLcWxIMjZORlBBdHYyaDJFazVUNHByWnd4WU5EV0oxNG9CVTN1cUV3NG5mYXJCclM1OWw2WDRMUlZuY2l4TF9HbFk?oc=5"
         },
         {
-          "title": "Taiwan Semiconductor, Primoris Services, Micron And Other Big Stocks Moving Lower In Tuesday’s Pre-Market Session - Benzinga",
-          "title_zh": "台积电、Primoris Services、美光科技和其他大型股在周二盘前交易中走低 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHVsbXhyMU9RMU05UEZlaWVGY0xqcE9FVUtNc1Rpb21GTzZOMXkwanlwY0ZlQXJPRUJNdHg3REVWU3N5WjJTSFZ3elc3bEdyM3NyaWxqR2dZWmtoRjFFSnJHNGs5bjNFejBndjJ4RjhrbW1QZEZtZlF0cmU5eW8wRTN4LWZjbF9Wb0lLSDhQdkVhaHZFY1dmTXFRdkJMdmpmSUtnMUZ2OFZ0dmFrdm84R1F5b3N5a2hJZlMxQUtIUmxoRWJpUHp3eUJhZ1h2aFJheUdpZUljRzQ5anY4LWM3aWp4VFV0ZWNvSk1ERzY2dU0yYVd3d3RCZ1hXMGJFbkdm?oc=5"
+          "title": "Ultra Clean Holdings Inc (UCTT) Stock Up 8.7% but GF Value Says Overvalued -- GF Score: 67/100 - GuruFocus",
+          "title_zh": "Ultra Clean Holdings Inc (UCTT) 股价上涨 8.7%，但 GF Value 表示估值过高 - GF 评分：67/100 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2pUQ1RrV1RLV3VPVTRNYzROX09BdWRRNGRIa05OMFNzUG1iRER4dTVVSEZreWx6c0E0clROeGh4R3cwc0hHd3h6RzlyYXR1TEtsbmlIWkJZTjhPeC00YjVtN3MwVERGc3lnSG42dnVfME9ZaldRbjNfbk1Vb2I1Tl9pSFZLTERIOE9TOVJxRy1sVUFSaklqc1I1Z21aci15MnY3MTFBalphZ1lGZm9UNnRMcUc5TlNqczBUREpFMDZLTmhVWHBpdXc5ZlgtRU5ZT0E?oc=5"
         }
       ]
     },
     {
-      "symbol": "FORM",
-      "name": "FormFactor, Inc.",
-      "price": 143.34,
-      "change_pct": -8.5,
-      "change": -13.32,
-      "volume": 303983,
-      "name_zh": "形式因素公司",
+      "symbol": "ON",
+      "name": "ON Semiconductor Corporation",
+      "price": 118.94,
+      "change_pct": -9.59,
+      "change": -12.61,
+      "volume": 4517036,
+      "name_zh": "安森美半导体公司",
       "spark": [
-        143.695,
-        142.38,
-        142.13,
-        141.98,
-        142.4,
-        142.235,
-        143.96
+        122.57,
+        120.35,
+        120.69,
+        120.4936,
+        121.1,
+        121.02,
+        122.11,
+        121.45,
+        121.615,
+        121.4,
+        121.0,
+        119.61,
+        119.4983,
+        119.46,
+        118.7196,
+        118.47,
+        118.48,
+        119.13,
+        119.02,
+        118.5,
+        118.13,
+        117.93,
+        118.0871,
+        117.74,
+        118.37,
+        117.825,
+        117.715,
+        117.44,
+        118.34,
+        118.27,
+        118.97,
+        119.16,
+        119.9899,
+        118.95,
+        119.12,
+        119.07,
+        118.86
       ],
       "news": [
         {
-          "title": "A Look at FormFactor Inc (FORM) After 4.9% Gain -- GF Value $51. - GuruFocus",
-          "title_zh": "看看 FormFactor Inc (FORM) 上涨 4.9% 后的表现——GF 价值 51 美元。 - 大师焦点",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0hHbG9PbGNJZjdRQ1k4TWFrQlZ5bmRYaXBYQXByWHNXSGVaMkZUS1RLWHotUFNhSFpkaGwzTjJ1bXp4RThoVlFMT0NoOXVrSG42UWhmaFo4Z29EQnZfNXZDS2YxZGczS3Q1ZlI3UU9ZNzlOMF9oSkJWQy1RUHZBUkdlT09IX2ZJdFFSdjg5b2twd1BibG43SU56eHQ3M0NvUDhxQ2prMk5yMmJpOU93Zg?oc=5"
+          "title": "Own ON Semi For AI Power? NVIDIA Is Growing Faster And Costs Less. - Trefis",
+          "title_zh": "拥有安森美半导体的 AI 电源？ NVIDIA 的发展速度更快，成本更低。 - 特雷菲斯",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzNNT3NKMmdoY0xGUTNBWHYtb1ByTFNrdFZPT29haUhQNHVhUnFUZmhDSGp2cS1HWEZ3UHFCdFB6dkRVZVNMLVRxVDJraTFZeEpVMFpqY3lSQk1PZTdxTFptSGFLN0c1OGszdnRSa3RDcGtNbEpOUGFReExub0l1TGtkNWZhTE51bXhoQnprS0ljZlVyS0tKLW5aOHR4cDZhcDdlY0VGNlNZQTdxR1FGQmRKZUtyUjZwUHRiVzhVNlE?oc=5"
         },
         {
-          "title": "Is FormFactor, Inc. (FORM) One of the Most Buzzing AI Semiconductor Stock to Buy? - Yahoo Finance",
-          "title_zh": "FormFactor, Inc. (FORM) 是最值得买入的人工智能半导体股票之一吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2RaUjJleXR5TGowMXpqOWJ1UDlMZmVNVHFWN0FyMHFNRGFwY05VVWYxQ3BJMUd0NkZfS1lnOC11SnhEaThqVnl0Z21DNkM1NUJ4N2tIN2JIRlk3aW5ELUhJbDg1RkpRZTBlNXJxcGZHdmc3NE9VNGVwcVFZSFVhaDhpWGpVa2VxNFcwQ3pLRHFjaHBhNnJBWg?oc=5"
+          "title": "ON Semiconductor Corporation's Stock Price Skyrockets to $131.55, Marking a Stellar 8.16% Increase - Smartkarma",
+          "title_zh": "安森美半导体股价飙升至 131.55 美元，涨幅达 8.16% - Smartkarma",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2lRRFcyb2JsRHRWTHpiQkZCWW85eWlqZ1BkTnpJR0ZiT2J0ZW9oWi1vZGRqcWlFWk0xZzFXYmpJLVgyWm83TkZoY1lrR2YzUFN0dERSV0JIVmRGdWtqMUt3V2h3c0VvOFoxVHRQRXUtNG5pbHNfSXNjWlNIdENzTm1PZ1pKQ0VFNGh2U2VmLU96cnBtbjVON0R4VUtHWUJ5dG5oUjFQYW5odGVaLVR0OGd1cTVHbF9iRHUyYXFDUHhzWGZISmVjUTZ1RVBlSDk2QjEySXFoMkQ?oc=5"
         },
         {
-          "title": "FORMFACTOR (FORM) director sells 2,800 shares and gifts 740 to charity - Stock Titan",
-          "title_zh": "FORMFACTOR (FORM) 董事出售 2,800 股，并向慈善机构捐赠 740 股 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE9nc0hULVF5WmM2Sk1LVFB6OURaOEo2emNtakgxS2RCYWFJSE5iZkJoVDNYLUxqZlhRUXJlVTE1cWxJcVE4RERiWVNvcERJRHd3dlNodmF6UlVBX1ZiMWpKRVJLRnFhcUotSFlNOE1BaFZKbjRPSTRtb1dpZldVUFU5M3NVWEtXWWFwT185eUNBMEtFR1BNYjhkckEyaDJ4Y1lfMWh3b0o5X2Zy?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CAMT",
-      "name": "Camtek Ltd.",
-      "price": 176.88,
-      "change_pct": -9.63,
-      "change": -18.84,
-      "volume": 116117,
-      "name_zh": "卡姆泰克有限公司",
-      "spark": [
-        179.78,
-        176.0,
-        176.1475,
-        176.02,
-        177.92,
-        176.355,
-        177.57
-      ],
-      "news": [
-        {
-          "title": "Semiconductor Demand Powered Camtek Ltd.’s (CAMT) Strength - Yahoo Finance",
-          "title_zh": "半导体需求推动 Camtek Ltd. (CAMT) 的实力 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pVR184dGR2ZjVhY1h2TUlsZGZLamw4VlNoWFItY1FKZDVEUUpfbFFfVWRPQk1kcW5jd2k1M29lRk9ibUhYUDV6WXluNkJxenNhTVRwRDhLMjJsVzBmTmk2U0NQOGtmNjBWZXd3MHR0ekViX0RCYTM5RWd2RHJuUUpEQWJmTTFobjhBTUIwS0lmSzl5YVVVZF9taEVacFBiUnJVZ0N1OA?oc=5"
-        },
-        {
-          "title": "Camtek Ltd (CAMT) Shares Surge 9.6% -- What GF Score of 91 Tells Investors - GuruFocus",
-          "title_zh": "Camtek Ltd (CAMT) 股价飙升 9.6%——91 的 GF 分数告诉投资者什么 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXZaTkxJZkU5aHV4WldfV1Z5Z1N3RFdjNDlFdWJCTEdQenl5OTNvWGJzWjBEV1BkV3VLSTFvWGJLdm9hUkNfT0VPOVI1M1A0WGItNE5XSTFZWnpwNjlNaVZwc2FZSERVa0RHSks3djd3dWRSZWFac3JTUFlzV2w2Vld5OXhFYzd5S1A2U1J3Y0I3cy1nYjAzZlV0MkExSXBzYjktZzQ5cXp2Zw?oc=5"
-        },
-        {
-          "title": "CAMT Stock Price Prediction 2025-2026 | Camtek Ltd Forecast - 24/7 Wall St.",
-          "title_zh": "2025-2026 CAMT 股价预测 | Camtek Ltd 预测 - 24/7 华尔街",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZk5nZF9PUFA3NFZaanl6LUZpczRXWDBtRWJOQlplVUJRSlozMUpmb3JTaXVBaEdlZnhBcHcza2tFTGMzeERKQTVrUlN6Zi01QWY2aFd6Sjh0blA0MkJnTG1OM2M?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AMKR",
-      "name": "Amkor Technology, Inc.",
-      "price": 85.78,
-      "change_pct": -8.31,
-      "change": -7.78,
-      "volume": 1300224,
-      "name_zh": "安靠科技有限公司",
-      "spark": [
-        85.145,
-        84.68,
-        84.4577,
-        84.2,
-        84.72,
-        85.4,
-        86.56
-      ],
-      "news": [
-        {
-          "title": "Amkor Technology Inc (AMKR) Stock Up 3.4% but GF Value Says Over - GuruFocus",
-          "title_zh": "Amkor Technology Inc (AMKR) 股价上涨 3.4%，但 GF Value 已经结束 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0l2NnNyQ1Z2Q2FGU09SSmFXNFRIYkF5Z0V3ZThMT1IyX3prbEFZdmd3dHZZbkNsRHNLeE4xbnFxMjB1VmJsVUdNQU1ZckxwaWM1clQ5Y1FQVEdrTzFIMHV5bm45cE0tR1JsZTZpUFpxRVNsTWFOTGFwaWRmYjJ1QktQbDZ1Nm8tcUtDeWpHMXF2TTg4TWhhOElpMEpfaXZUUGROOHM5WU1CSjl2ek1RVmRjTFhCMnV6U2lfXw?oc=5"
-        },
-        {
-          "title": "Amkor Technology (AMKR) Stock Could Be 26% Below Fair Value After TSMC Arizona Deal - Yahoo Finance",
-          "title_zh": "台积电亚利桑那州交易后，Amkor Technology (AMKR) 股价可能比公允价值低 26% - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzV0aUZrQnd3YjdUN1poRXJGUVBrR0lTTFpxa2NzMEZaLVN1UGxCX2N5bWVJTmpnam1ibkl6cWx6N1dKR01UUXFsNVRqdkEtbG5HZ3pWZmRqdnBydnJRYkg5M0hVY3ZOdmluQ2gxemlOei1laDl3NGNHSk9MS2E3Q3JGd2hYc2ZYYmUyalM4NDRYNnJEZklpN1p6YnNsUVk?oc=5"
-        },
-        {
-          "title": "Amkor Technology (AMKR) Surges 8.65% as Semiconductor Demand Drives Rally to $82.74 - ETF Outflow Streak - lwvtexas.org",
-          "title_zh": "半导体需求推动涨至 82.74 美元，Amkor Technology (AMKR) 飙升 8.65% - ETF 连续流出 - lwvtexas.org",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVhJeVNVZmtyWk5DRVZyUk1WLUcyYzVPZDYwd1RrM0pBb2FUQ2paX3ZBZ0xVVFJaNGZtSTh3MTYzZ2lzWUNLcDVCR1RMMmlGU185SGptQzd1VU5NLTBpWXZ5LXlvYldUZ3VPVHNrSElfX2owbHlTTVhQVHZkWGpKTTlhTjdzY25LbzlxR1lPeHJ1RmpOUXp0MWZhLWpGb0RfREVWN20yN3VPZThpbFBCT19EeHYzb2kxbjh3VlRSdVM?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 84.31,
-      "change_pct": -8.79,
-      "change": -8.13,
-      "volume": 2447511,
-      "name_zh": "AXT公司",
-      "spark": [
-        87.14,
-        86.94,
-        86.92,
-        84.41,
-        82.985,
-        84.09,
-        84.88
-      ],
-      "news": [
-        {
-          "title": "Tracy Liu joins AXT (NASDAQ: AXTI) board as fifth independent director - Stock Titan",
-          "title_zh": "Tracy Liu 加入 AXT（纳斯达克股票代码：AXTI）董事会，担任第五任独立董事 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTItV0djcUI3ajkwaUVmb0lybThIQW9CM2p3SlBjWmNDM2pqeEhxVkVGLVI3bDFwQzFkZnczUm81U0xiYTVhMng0SGRneGxZMDhpbkFOcUROOFFmQWZGejc2UFlMTHo4WnZlTTBHUzhFQXdZNkUzUXBHeUZXUE91N2d0YjBkaC05TkxTQS1zalhYLXprR1hEdTdMNFk?oc=5"
-        },
-        {
-          "title": "Is AXT Inc (AXTI) Overvalued After 9.6% Rally? GF Value Says Ove - GuruFocus",
-          "title_zh": "AXT Inc (AXTI) 在上涨 9.6% 后是否被高估？奥维表示 GF 价值 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0RxUHJITmp5LS1BTl9tQVZtTXlIdEdWdVZEM3RWem1zdlJ4SFExUWl2emRTcXhCekI5SGRXSmxpY1FBZmRhMFM3RkROanFMNlNaemdtRi1NMlc1LVRDaHkzcU5VbGtJU3RJekRhRk9VYWxQZWdMWnF1b0NWSWdaTXljSGZSR1FSQncyelRqU2J4S2ZDcTY2Q0dlWGZ3M1hGcC1wN1NqYkk?oc=5"
-        },
-        {
-          "title": "Is AXT, Inc. (AXTI) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "AXT, Inc. (AXTI) 现在是值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pqVGJQMlhNSkhfTTlZZVFEV0N6emNlb0dFYzJlSlVOT0wtbHFLOXBjT1pkMVhKQjU4enlnT2hyMGs5dWpyOUxrUWt3dVdfUXZVWFlDTFp2RDlsZDhTUE5kbzYwZlRVdHpsYnFhN1g5UEIwS2NvTE5IZ3NnUnYwM2l1RjFNajdUM3hUUkRkR2hwdw?oc=5"
+          "title": "TSM Stock Quote Price and Forecast - CNN",
+          "title_zh": "TSM 股票报价和预测 - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRUno5cWdRaTZJNFVEUWZFNEFWSnIyZXoxMXo0aEwwMHZsbUl0MERWcTVVZXl3QkR0Q2U1TFkwY0NfQ2NLRVRWNGluT3NmZUk?oc=5"
         }
       ]
     }
