@@ -1,44 +1,41 @@
 {
-  "updated_at": "2026-06-24T15:56:13.257831+00:00",
+  "updated_at": "2026-06-24T17:49:34.222419+00:00",
   "us_gainers": [
     {
       "symbol": "RUN",
       "name": "Sunrun Inc.",
-      "price": 16.19,
-      "change_pct": 26.37,
-      "change": 3.38,
-      "volume": 31495432,
+      "price": 15.29,
+      "change_pct": 19.36,
+      "change": 2.48,
+      "volume": 39501701,
       "name_zh": "森润公司",
       "spark": [
         16.01,
-        16.0893,
         16.055,
-        16.5601,
         15.91,
-        16.05,
-        15.93,
         15.93,
         15.635,
-        15.56,
         15.6291,
-        15.725,
         15.815,
-        15.8101,
         15.835,
-        16.1397,
         16.3799,
-        16.31,
         16.4243,
-        16.425,
         16.295,
-        16.335,
         16.4101,
-        16.475,
         16.345,
-        16.28,
         16.29,
-        16.22,
-        16.1901
+        16.215,
+        16.03,
+        16.1,
+        16.189,
+        15.97,
+        15.79,
+        15.755,
+        16.215,
+        15.93,
+        15.6293,
+        15.595,
+        15.395
       ],
       "news": [
         {
@@ -61,41 +58,38 @@
     {
       "symbol": "DFTX",
       "name": "Definium Therapeutics, Inc.",
-      "price": 43.95,
-      "change_pct": 21.48,
-      "change": 7.77,
-      "volume": 8545784,
+      "price": 42.77,
+      "change_pct": 18.26,
+      "change": 6.6,
+      "volume": 10247879,
       "name_zh": "地芬尼治疗公司",
       "spark": [
         41.5,
-        42.31,
         42.02,
-        42.1351,
         41.85,
-        42.42,
         42.85,
-        43.3901,
         43.21,
-        43.68,
         43.61,
-        43.34,
         43.495,
-        43.55,
         44.07,
-        43.335,
         43.75,
-        43.8599,
         44.015,
-        44.34,
         44.18,
-        44.41,
         44.32,
-        44.5188,
         44.1199,
-        43.75,
         43.71,
-        44.2,
-        43.9551
+        43.885,
+        43.99,
+        44.24,
+        43.82,
+        43.595,
+        43.9,
+        43.475,
+        43.655,
+        43.41,
+        42.84,
+        42.6,
+        42.895
       ],
       "news": [
         {
@@ -118,41 +112,38 @@
     {
       "symbol": "KBH",
       "name": "KB Home",
-      "price": 61.73,
-      "change_pct": 17.06,
-      "change": 8.99,
-      "volume": 2069231,
+      "price": 61.06,
+      "change_pct": 15.81,
+      "change": 8.33,
+      "volume": 2732367,
       "name_zh": "知识库主页",
       "spark": [
         60.0,
-        60.145,
         61.38,
-        61.385,
         61.2501,
-        61.39,
         60.945,
-        61.18,
         61.2401,
-        60.985,
         61.35,
-        61.19,
         61.175,
-        61.105,
         61.16,
-        61.2899,
         60.98,
-        60.965,
         61.26,
-        61.32,
         61.69,
-        61.85,
         62.105,
-        61.78,
         61.79,
-        61.725,
         61.54,
-        61.52,
-        61.7
+        61.69,
+        61.63,
+        61.62,
+        61.73,
+        61.995,
+        61.975,
+        62.13,
+        61.825,
+        61.6,
+        61.32,
+        61.33,
+        61.0
       ],
       "news": [
         {
@@ -161,169 +152,106 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnBrelU0ZVJQaUozTmdUOHh1aU51N2RJcEtiT19uMzhvY1RDclVsLXVlNklMVFJjM2Y1bVFrNmVnMUctVnRSUkY4TVN5ZTAwWVNyY0c1cE9MbzRkOWJDRDZYSUl1QlpGanRKalJYeW9rYXZYT2c5TGtjZjhxeS1LemdrelRiQWZEOTQ2TWZ3TzBrSFFuU1dCbGRnMGdDRU10MFFZaVd5NzhKMFRZSXpXbW93?oc=5"
         },
         {
-          "title": "KB Home Delivers Mixed Q2 Results, Shares Rise - Benzinga",
-          "title_zh": "KB Home 第二季度业绩好坏参半，股价上涨 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0dKUDVUaWFQLTQ1ZG5lMk85Um8zU1lpWDE2dnBfeFYwbmtEWmdfU2tjZWhWQVBhM0NPMlI0RTh2RkpXWXlNQlJkdlBMMFRURW5xa29fbzNqY0Nxc0RTcV9OeVZJS19tZGpLcG4takxBd1FaSVVleHg4TmpPRGZLNjZ1eExlUTE0aDFTZ2YzYnVJaGpoQ3lnS2c0M0ttQ3lXanE3bw?oc=5"
-        },
-        {
           "title": "KB Home (KBH) Q2 earnings meet estimates - FXStreet",
           "title_zh": "KB Home (KBH) 第二季度盈利符合预期 - FXStreet",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlc3c25qdVE1eGhiUjZtbkdFcVdzV1gtQWpIeDhscVhmQjhkSU16akxQeU5YN0UyT1VXY0VnNkxMUHFXUEJCNERlSjA0NDFvR3p4Q0lLVUZhXzNIY0dZaHQ5aTJRMkdqNXlXVWVIclI5SnlqaUFXTU5mNm13clFYc3BMeWNHTjVE?oc=5"
+        },
+        {
+          "title": "These Analysts Increase Their Forecasts On KB Home After Q2 Earnings - Benzinga",
+          "title_zh": "这些分析师在第二季度收益公布后提高了对 KB Home 的预测 - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSDk3UEpfTGhYdHJLeExacUZzRGt5SWRmcTBWU2E4MHlDZThpSzkyV1lNZHF2UHRuQkRlREFYR3R6bExWeV9XMlN0eVRLVnp5eUluWTNrcTRldU9mRTRLd25zQVItSzZFckYzWXVwbEVQeXgwRVpsR2FCVGVBcDdHc2pGblZaY2puLTl6ZVJCZXdDWW04eDk3UTltVjRuT193QmtPMks2cFlhVWVkd3VhYWdFenhVMWNOQTE4ZHB4NWZZZlJCc3YwVGV5NlBldVZSWjM4RmdxV3Y3TjA?oc=5"
         }
       ]
     },
     {
-      "symbol": "RKT",
-      "name": "Rocket Companies, Inc.",
-      "price": 15.29,
-      "change_pct": 13.47,
-      "change": 1.81,
-      "volume": 23648011,
-      "name_zh": "火箭公司",
+      "symbol": "ADPT",
+      "name": "Adaptive Biotechnologies Corpor",
+      "price": 19.55,
+      "change_pct": 13.49,
+      "change": 2.33,
+      "volume": 2469647,
+      "name_zh": "自适应生物技术公司",
       "spark": [
-        14.27,
-        14.585,
-        14.59,
-        14.6284,
-        14.705,
-        14.585,
-        14.555,
-        14.76,
-        14.72,
-        14.75,
-        14.895,
-        14.885,
-        14.835,
-        14.8798,
-        14.995,
-        15.005,
-        15.032,
-        15.0701,
-        15.1023,
-        15.155,
-        15.275,
-        15.285,
-        15.335,
-        15.275,
-        15.175,
-        15.215,
-        15.235,
-        15.335,
-        15.2864
+        18.205,
+        18.44,
+        18.72,
+        18.54,
+        18.6,
+        18.84,
+        18.8505,
+        18.73,
+        18.57,
+        18.63,
+        18.515,
+        18.565,
+        18.635,
+        18.67,
+        18.73,
+        18.7153,
+        18.83,
+        19.04,
+        19.05,
+        19.0418,
+        19.25,
+        19.31,
+        19.24,
+        19.14,
+        19.38,
+        19.56
       ],
       "news": [
         {
-          "title": "Here’s Why Rocket Companies (RKT) is One of the Stocks with Potential to Explode in 2026 - Yahoo Finance",
-          "title_zh": "这就是为什么 Rocket Companies (RKT) 是 2026 年有潜力爆发的股票之一 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXd0U2ZGSTJzQXBPbFE2b0d5a3hKTTFWT0duMk9FNFE3azdfR3RpblNCTnVOR3hBdlVHS2l0Xy1YT3ZVZ1NieFc2RDc1WC1MWnBSdmJpRVJLMFhyd01IdlNaelB2U2xDYUFxWmZTQml3ekh5R2FvQXkycWxKc2UzWHFZX2xHaFB2RmpRdFhhYUQ4SVRGVDFNbQ?oc=5"
+          "title": "Adaptive Biotechnologies (Nasdaq: ADPT) sells $345M 0% notes and repays OrbiMed deal - Stock Titan",
+          "title_zh": "Adaptive Biotechnologies（纳斯达克股票代码：ADPT）出售 3.45 亿美元 0% 票据并偿还 OrbiMed 交易 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTl2MlRIcmwzZDl6QWxNWWpDQ2xxZTRhb1VIWUZxTGhHVDBvR1hoNHpQUWFWRFVVajBqWFdZNjlMVkxYLXpFeld5clp4Q3h3WVczS3dSM3k0WEdrQVJnX1IwRTRqWXgwY3NsbzZuVzh5d18yRERGcy11ZjltejI2SG1XTzhEMml3eFV6TlRlbjRfcnhpNVQwNWstUGpNbkN1bzdodDZwVDlpNWpGUVU0Y2F0TUEwNElVU3c?oc=5"
         },
         {
-          "title": "Rocket Companies: The Value Case Grows Stronger, Despite Stubborn Mortgage Rates (RKT) - Seeking Alpha",
-          "title_zh": "火箭公司：尽管抵押贷款利率 (RKT) 顽固，但价值案例变得更加强劲 - 美股指南 - 美股开户 - 港股开户",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFF5QVdhREEyNUwwUTFCem11dDJqU3RILWpoX0tkTG5ib01qUVFTc0VTUHFiMmhUYkhDTFRVYUFlQ19oQjlqejd3Sll4SlltbWJjSEcwRFctMGh4dmVzazhPTnZ0MzhDaUJYZ1NENXc2NjVoRy11emRQSldSeHlNUElxUDdDM3Z5cWw0M19VUTV1dUhyclRkX1ZwemE0M1RYUjN4aURpaHh6UlItLWVjdU1OcGl1LUdLS0ZN?oc=5"
+          "title": "Adaptive Biotechnologies (ADPT) Moves 9.7% Higher: Will This Strength Last? - Yahoo Finance",
+          "title_zh": "适应性生物技术 (ADPT) 上涨 9.7%：这种优势会持续吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHNaNHJZTmk5SnVxdk85cWw1SnFnVEc1WnA4WG5tWFYxVDRmVTdEemNZMWw3OTZwLTR3MUZIUkpzUGZkZnoxTHZqb2twaGprRS1RZzRUT1Q3M1k0Z3pQX01pdW9wVlYyVXMxS3RuMk1uZFZ2N2wtWEQzUVIxdXVwaUg5NlBQRElsQnVta09xenhuWHZ0NUdxREl3YlpIM2tLRFZ3bQ?oc=5"
         },
         {
-          "title": "RKT Stock Slips As Downgrade Collides With Weak Housing Data - StocksToTrade",
-          "title_zh": "由于降级与疲弱的住房数据相冲突，RKT 股价下跌 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oc1hadXhnVTZRUXhMN1NKZVQ1bFc3Y24tN0FIVnIxTHNBV29jUUU4dUd5VmZNcWUtYUo3TkN2QnVKZTREWUltbV9JVDV3NGlubGp2X01zR2hzNjVSbkt4TkNjOEo2b0NLMVJ0SXZYM3l6dTZnMGx1b1ZjZzc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CCS",
-      "name": "Century Communities, Inc.",
-      "price": 70.28,
-      "change_pct": 11.95,
-      "change": 7.5,
-      "volume": 159670,
-      "name_zh": "世纪社区公司",
-      "spark": [
-        66.43,
-        67.02,
-        67.14,
-        67.91,
-        68.58,
-        68.21,
-        68.17,
-        69.16,
-        69.5399,
-        69.0,
-        69.34,
-        69.14,
-        69.6078,
-        69.63,
-        69.625,
-        69.785,
-        69.775,
-        69.67,
-        70.09,
-        70.17,
-        70.2,
-        70.53,
-        70.635,
-        70.71,
-        70.565,
-        70.295,
-        70.295,
-        70.25,
-        70.28
-      ],
-      "news": [
-        {
-          "title": "Century Communities opens new 1-acre home phase in Parker June 27 - Stock Titan",
-          "title_zh": "Century Communities 于 6 月 27 日在 Parker 开设新的 1 英亩住宅期 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWtYY2FsTzVENVRhbWVLbkN3elR2eWxxS2wzZ1NMZzNVSER5MnIxTG16NG51MU03VDNjLXhrNkJMaEFWdDVFNml3QTBjR0Q4eDVyX2piQ0piaTEtdGN5SFk4eF9vUzZhdDliTy10X0JZa3FPeDBKLXBaVHItOXI5UlgzODg2aDdCMmZIVDdUTUhFZHRkSjZiZUhmeGpBZzkxeDczV3Njd0FWUTN5cGhHMk5VRQ?oc=5"
-        },
-        {
-          "title": "Century Communities (CCS) Stock Could Be 5.6% Undervalued After Cedar Hollow Opening - Sahm",
-          "title_zh": "Cedar Hollow 开业后，Century Communities (CCS) 股票可能被低估 5.6% - Sahm",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSHBwRlpyT3o3TnBnSk1KYkxfUElVcXpyeFA4ZWM2QlhjRENRN2QwS29VSHJZclNzci1HdjlnVFpoZ2hvRnlBazV3Q2d1WTVCTlBYUWtid0NJeDBWcjNwbEhrWEtvUHViQzEwMFNzVEpUdnpYTF8xNlRHY1pyZ0hjdEJzR1AxOXgwSG5mcUljZTRta3RGWmhJcnFSV3ZadGhHaGJhZDkyaEo3dXFZWG9iYldla1JmcDJ0SDRjeXhKQmdlRWNBVUE2T0Z0SF8?oc=5"
-        },
-        {
-          "title": "Century Communities (CCS) Announces Upcoming Projects in Florida, Kentucky - Yahoo Finance",
-          "title_zh": "Century Communities (CCS) 宣布即将在肯塔基州佛罗里达州开展项目 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTdnMUVrZUFsbjkyVHVrY3dTcDdZeUhHZjR0cVpRV2Z1UXRIcTF3N0dlNVFWX2hBa2d5TDh5bkRzVVZwVWtCT25RdFU5RHl2Uk5oZG1LSTBSaGM4U1YzYzBYM0Iwcm91RUJIMHhIWVBLU0gtVFFfcW8yM0pzM2p5aDVQRnhZOW9udkZ2OVkwOUpaa01lc2Rrb2lYc1NNb3RxeXo3M0ctM1dEN28?oc=5"
+          "title": "Adaptive Biotechnologies Corporation Announces Proposed Convertible Senior Notes Offering - GlobeNewswire",
+          "title_zh": "Adaptive Biotechnologies Corporation 宣布拟发行可转换优先票据 - GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc1liUkN4YnJ6cWlTc0dBdV84Vi1yZzEzV0hGTDdrRFdGUjZoODdLNW15b0YtNDZuX0tOR1hLa205NjJNZ0IweWs1dzlYcVJCOUpkN2ItOWt3eDljemxBclgwc1pWRFVCdnZ1OUpzN09YUEdTdFF3el9PZ0I3dk5IamtmaFlDMlI4bjVQSnlUMWRGTi1hQkZqcDlqYy0yRmZ4c1ZVWmNMOEVjX01UbjZJT05PMzhHOW5XeHk3WkgyeUFWdS1SejJETkZzbnRHX3h6MmxpSlRqamh0VmJFNVpOQ2E2djc5TFhiUm0tVXRKVUsyVU0?oc=5"
         }
       ]
     },
     {
       "symbol": "ICLR",
       "name": "ICON plc",
-      "price": 159.0,
-      "change_pct": 11.45,
-      "change": 16.33,
-      "volume": 874357,
+      "price": 159.91,
+      "change_pct": 12.09,
+      "change": 17.24,
+      "volume": 1211636,
       "name_zh": "图标公司",
       "spark": [
         152.015,
-        152.7102,
         154.27,
-        154.88,
         158.19,
-        156.75,
         156.3,
-        156.34,
         156.43,
-        157.4,
         159.25,
-        160.325,
         159.885,
-        160.5,
         159.73,
-        159.41,
         160.0,
-        160.235,
         159.65,
-        159.47,
         159.085,
-        160.02,
         158.705,
-        158.87,
         158.53,
-        158.9,
         158.615,
-        158.825,
-        158.88
+        158.83,
+        160.17,
+        160.045,
+        159.875,
+        159.97,
+        159.6,
+        159.3,
+        159.53,
+        160.505,
+        160.22,
+        159.6,
+        160.235
       ],
       "news": [
         {
@@ -344,102 +272,47 @@
       ]
     },
     {
-      "symbol": "BLDR",
-      "name": "Builders FirstSource, Inc.",
-      "price": 85.24,
-      "change_pct": 11.09,
-      "change": 8.51,
-      "volume": 1333319,
-      "name_zh": "建筑商 FirstSource, Inc.",
-      "spark": [
-        81.41,
-        83.49,
-        83.76,
-        83.76,
-        85.5199,
-        84.77,
-        84.256,
-        84.82,
-        84.395,
-        84.25,
-        84.89,
-        84.65,
-        84.7,
-        84.87,
-        85.19,
-        85.63,
-        85.45,
-        85.07,
-        85.4501,
-        85.43,
-        85.48,
-        86.25,
-        86.01,
-        86.08,
-        85.655,
-        85.5699,
-        85.17,
-        85.385,
-        85.15
-      ],
-      "news": [
-        {
-          "title": "Q1 Earnings Outperformers: Builders FirstSource (NYSE:BLDR) And The Rest Of The Home Construction Materials Stocks - StockStory",
-          "title_zh": "第一季度收益表现优于大盘：Builders FirstSource (NYSE:BLDR) 和其他家居建筑材料股票 - StockStory",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOFhpLTd6VzNQT0V1c3Q3cGlwMWFRUUxUSzVVblJoU0RDeVVFdU1fYXlJVU9Eb3A5NFY2SUxNa0NQc3M0WVNOZXpYaElETG45c1FESVhjeXZlZFVYYlRrTzl3TWZnUWhETEhHN0Nlb0ZRMVJiMXlQSHdodEM3UVdxbkxGNVZlME1Zcjd3dVZaYVBBd0pZc05uVFZYN3gxOVBnRkJoQ0tJU01Eb0thMHpFVVVvcWVZQVlRTUFRYlh3NjZXbEROWUJSbUVLblhrT3NXS2hGbEJkZDN0R0JFVUhNSExraUZJelhqRExTOFZxdnZoS3RyZ08tSWJCbw?oc=5"
-        },
-        {
-          "title": "Here is What to Know Beyond Why Builders FirstSource, Inc. (BLDR) is a Trending Stock - Yahoo Finance Singapore",
-          "title_zh": "除了为什么 Builders FirstSource, Inc. (BLDR) 成为热门股票外，还需要了解以下内容 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVdrdF9rbmJSb0lFVmxSdHZKcDEzUE50STNNWGJtYjhMeERSS2hsRm5uTmw0WkhxWF92U0V4bWR1Z2gxb0N1ZUhtTjN2WXVrR05VZmVGbG9NVU5zOTR2TlNyYXFtam82U05xY3pCNDgzMnRLNkhHMGhvc2s3ZjR5bm4tdHBEenpqR3FGRGZB?oc=5"
-        },
-        {
-          "title": "Builders FirstSource Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-          "title_zh": "与竞争对手相比，Builders FirstSource Inc. 股票周一表现不佳 - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY25UZzdEc1p2RVZWdk94R1ctYXhFQmRBYVJhU0ZxdnIzQmtwYWh1MXdzQWljT1V0VU5kQnJ6d3VFNWw4U0pLWk16TUprUGk0NklVY1VGcTRCdnNmZW9LT0NYZWN3dDFBS3d4bkpIalZqNC14b0pibTVGSFdST09EN21wX1ZKOWI2N081aGs5YUFnWmRacERkdmNtNlZlS2NuWnNQWTdmc2ZyRTZHMFNsUzdTeWg0WWNZUVAwUl9GaEMwTWxxUEg0YldKTjI1eWhpUFZ4cTEtRk12eG5kMkhHVFl6RDA4TF9HQVc2SWotTQ?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "FOUR",
       "name": "Shift4 Payments, Inc.",
-      "price": 43.09,
-      "change_pct": 11.43,
-      "change": 4.42,
-      "volume": 1062970,
+      "price": 43.06,
+      "change_pct": 11.37,
+      "change": 4.4,
+      "volume": 1437687,
       "name_zh": "Shift4 支付公司",
       "spark": [
         40.0078,
-        40.82,
         42.13,
-        41.37,
         41.61,
-        41.58,
         41.305,
-        42.005,
         41.79,
-        42.455,
         42.58,
-        42.635,
         42.75,
-        42.635,
         42.78,
-        42.95,
         43.02,
-        43.2306,
         43.47,
-        43.52,
         43.82,
-        43.98,
         43.97,
-        43.76,
         43.11,
-        43.32,
         43.05,
-        43.155,
-        43.015
+        43.015,
+        43.0,
+        43.235,
+        43.39,
+        43.14,
+        43.28,
+        43.35,
+        43.39,
+        43.415,
+        43.16,
+        43.05,
+        43.065
       ],
       "news": [
+        {
+          "title": "Shift4 Payments FOUR Draws Cautious Truist Price Target Cut - StocksToTrade",
+          "title_zh": "Shift4 付款四吸引谨慎的 Truist 价格目标下调 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GY255a1puS3NhYTBjSHo4Y1VBNXNqczFvRHI4M3lxclU0TWRJOEZNTTFVbC10a043NDI3ZmYwWHEzSFZDZUtOS2gxQ1dYdWdZbnV0VUczc1ZIWmR6YUlHSlIyYkpjaGR1bk1VZVBzRDhaTlQ3WmFKRWlRRTQ?oc=5"
+        },
         {
           "title": "Is Shift4 Payments, Inc. (FOUR) A Good Stock To Buy Now? - Yahoo Finance",
           "title_zh": "Shift4 Payments, Inc. (FOUR) 现在是值得买入的好股票吗？ - 雅虎财经",
@@ -449,137 +322,718 @@
           "title": "FOUR Stock Pops As Founder Isaacman Loads Up Despite Analyst Doubts - Stocktwits",
           "title_zh": "尽管分析师持怀疑态度，创始人艾萨克曼仍大幅上涨，四只股票上涨 - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUExRbGMzUDdBRTJxWmN2NWp5RWJsdzVQaFFXYzk4aW5hV3ZEMEM4ZGpGVGJRNzF6TlhfbWJfZUQ4bmM4OW9RR0RJc21vRkJNMDV3NXJva19mZUF5dXloQ21qUjBkWGpYOTZVamxiV3E5UngwUzRBTnJFWkd0dnVmMlhzRHByRGNyWFNXbDdBcERaUk9vYWE2VndsbVJveVkwMThoTzhYSUstTk1XTGNyUmpKSlB6eFFla2hXSGxkaE81eXpaY1FyU1Z2dw?oc=5"
-        },
-        {
-          "title": "Shift4 Payments, Inc., Now a Single Share Class Company, Removing Super-Voting Stock, and Eliminating Tax Receivable Obligations to Founder - Shift4",
-          "title_zh": "Shift4 Payments, Inc. 现已成为单一股份类别公司，取消超级投票权股票，并消除对创始人的应收税款义务 - Shift4",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUtzbElfM1ZsTG9rekhXRXRfd09aOXY0RU5CR2pGYkhmZmdIa1hqQkFVXzFGLWUwZEcxX19lRXc0b1NzRnVzNXFEWmV0QXBTSmF3RlA0bUt3RE5GdVlNQ1lzSGxuRk1JNkJvSUZRV3Z5d2lJaDRpckJWRzBLMkpUZHE4VXl6cXgzZzhoWWJPdEY5WXZwUmt5dG9FQnY0SFhZYnRpVkpRQ1o4enlXX0pIN1AtMkhjVmhwMFVxY240c2lUSGJscXF0ZG40SkdVd2NEQk4tcVN1LVZXcHRWVTUtamlwdWZXSTJmQkNkMzVZUlYtQVY3YlhFSHJWNmZFbEROSk5mazRlR2dBYUgtTHc3Mk10ZjB2dTFNYW9VamxIcGhPdnE3Yl9meA?oc=5"
         }
       ]
     },
     {
-      "symbol": "GLW",
-      "name": "Corning Incorporated",
-      "price": 215.06,
-      "change_pct": 10.82,
-      "change": 20.99,
-      "volume": 9462357,
-      "name_zh": "康宁公司",
+      "symbol": "RKT",
+      "name": "Rocket Companies, Inc.",
+      "price": 14.99,
+      "change_pct": 11.28,
+      "change": 1.52,
+      "volume": 38731094,
+      "name_zh": "火箭公司",
       "spark": [
-        198.72,
-        194.463,
-        193.575,
-        198.44,
-        202.67,
-        203.79,
-        203.0001,
-        204.81,
-        206.48,
-        203.945,
-        206.035,
-        209.3034,
-        211.1,
-        212.44,
-        210.68,
-        211.42,
-        214.19,
-        216.13,
-        215.95,
-        215.095,
-        214.295,
-        213.32,
-        212.815,
-        212.425,
-        212.59,
-        212.05,
-        213.49,
-        214.55,
-        215.25
+        14.27,
+        14.59,
+        14.705,
+        14.555,
+        14.72,
+        14.895,
+        14.835,
+        14.995,
+        15.032,
+        15.1023,
+        15.275,
+        15.335,
+        15.175,
+        15.23,
+        15.28,
+        15.21,
+        15.325,
+        15.255,
+        15.265,
+        15.245,
+        15.205,
+        15.13,
+        15.075,
+        15.12,
+        15.085,
+        14.9899
       ],
       "news": [
         {
-          "title": "Corning Inc Stock (GLW) Moved Up by 4.19% on Jun 24: A Full Analysis - TradingKey",
-          "title_zh": "康宁公司 (GLW) 股票 6 月 24 日上涨 4.19%：全面分析 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVg0N3BQWGUwODZfQlNuM0V1LUxPRFNuR1ZXSWxrNjZDRWJVUXBwSDlfUTVmdHl4cGJfcE90V2R3NVo5ZE01b1l3ejdLZlVLRXdkT1FZaTc1dml0ckplUUdhV2xuVjJscG1kRFVOcDkzY0NBcndWRExabmxYNlFuWmxKZTA5NmptT2c?oc=5"
+          "title": "RKT Stock Jumps As Housing Data Fuels Momentum - StocksToTrade",
+          "title_zh": "住房数据推动 RKT 股价上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Iby1XM09HelRVNkE2c0E1cjRjN2RINVg0U0dnTWdxbXdGTk9yODRldXROdFBYNktycE1NVm5FMno1N3YxSUFnM2VIRXc2SzZpSEFmSFJIOURFdExMaC1EaXRrOWtQZjNleHpJU2hDUWRub1BPRFdaRjhNbFM?oc=5"
         },
         {
-          "title": "GLW Stock Jumps As Amazon Data Center Deal Fuels AI Fiber Boom - StocksToTrade",
-          "title_zh": "亚马逊数据中心交易推动人工智能光纤热潮，GLW 股价上涨 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fQ244Vnh1NUJkOWg3dzEyV0JWQnVVV1QwMkZsT25sd1BTbWtTaDBCZ01tRjJjQUN0TFNvbVFfXzJvOU1rQjhZZG9kUVZiU0xPQUR0YjVmdWFvMXBOUjh6aTJnQ1RUMUpfa3RoNDZ0MmRTMVJaMzJnZlJXMVE?oc=5"
+          "title": "Here’s Why Rocket Companies (RKT) is One of the Stocks with Potential to Explode in 2026 - Yahoo Finance",
+          "title_zh": "这就是为什么 Rocket Companies (RKT) 是 2026 年有潜力爆发的股票之一 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXd0U2ZGSTJzQXBPbFE2b0d5a3hKTTFWT0duMk9FNFE3azdfR3RpblNCTnVOR3hBdlVHS2l0Xy1YT3ZVZ1NieFc2RDc1WC1MWnBSdmJpRVJLMFhyd01IdlNaelB2U2xDYUFxWmZTQml3ekh5R2FvQXkycWxKc2UzWHFZX2xHaFB2RmpRdFhhYUQ4SVRGVDFNbQ?oc=5"
         },
         {
-          "title": "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks According to Short Sellers - Yahoo Finance",
-          "title_zh": "这就是为什么康宁公司（GLW）成为卖空者认为最被高估的量子计算股票之一的原因 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXlvMDBQRUV5NnJDT1I3TldhZDdPWTM0WUY4ay14UmsyeFVWajlKV2VIU3d0TDgyaC1FWTR4TE1TNENrajdzSUsyNmhSeXlXVUJBZk85Ym9qTy1ZVGl0aHNzNGE2aWRTY0JsVUpWRWw4YXVUemZrZWE1T210d21hUUJNTVgycS1oNXltUmZPR3FtSTFxbFZKM1FZcmhFeGx4?oc=5"
+          "title": "RKT Stock Jumps As Housing Data Show Tense But Trading-Friendly Market - timothysykes.com",
+          "title_zh": "住房数据显示市场紧张但交易友好，RKT 股价上涨 - timothysykes.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVFrNU92Z19PT2U3MDJmcEg0YnppSGZBc2VsQ1lMNHdSS2w3NmRvUzAyX1JxdlNWRDJwS2FKczlJSU5ac1JidURnNXR6QWR4THdnS0locTNudGJWVy1RMXJkMWwyYzdZYl8yMkVBRGR3cE9YLS1qRVRmOV9Jcm81Tg?oc=5"
         }
       ]
     },
     {
-      "symbol": "RH",
-      "name": "RH",
-      "price": 156.22,
-      "change_pct": 10.22,
-      "change": 14.48,
-      "volume": 463955,
-      "name_zh": "相对湿度",
+      "symbol": "MMYT",
+      "name": "MakeMyTrip Limited",
+      "price": 51.48,
+      "change_pct": 10.54,
+      "change": 4.91,
+      "volume": 1324983,
+      "name_zh": "MakeMyTrip有限公司",
       "spark": [
-        151.11,
-        154.095,
-        155.35,
-        155.9499,
-        156.4,
-        155.93,
-        152.83,
-        155.31,
-        154.03,
-        153.5,
-        155.28,
-        155.92,
-        156.81,
-        155.6,
-        156.18,
-        156.6,
-        156.11,
-        155.72,
-        155.76,
-        155.52,
-        156.11,
-        156.8801,
-        156.6,
-        156.52,
-        156.65,
-        156.14,
-        156.59,
-        156.505,
-        156.28
+        48.13,
+        48.75,
+        49.17,
+        49.01,
+        49.465,
+        50.5,
+        50.69,
+        50.705,
+        51.0,
+        51.19,
+        51.145,
+        51.2,
+        51.12,
+        51.1201,
+        50.6,
+        51.015,
+        51.33,
+        51.745,
+        51.845,
+        51.76,
+        51.9,
+        51.76,
+        51.15,
+        51.1,
+        51.3,
+        51.495
       ],
       "news": [
         {
-          "title": "RH Stock Falls 17% Overnight As Q4 Earnings Miss Estimates: Why Is Retail Still Extremely Bullish? - Stocktwits",
-          "title_zh": "由于第四季度盈利未达预期，RH 股票一夜之间下跌 17%：为什么零售业仍然极度看涨？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNlZWUGVRVlB2anJmLWtiY1pnRG9DX1diWWkyWk5xX1RPSVI0a1ZxV214eUdaMTNJc0dHRWlpT1dIejZCSElPV3ZmWE16QXVaeXljM1N5c3ZBMkJ2MWtmUDJ0UExyaG95UHFWeXdxSFh2aElDRVQ2UktHLUIwVkxfc0ducGxtVVVaQWVRMjNUUmdzQ3Vyb1Z4TktPdzYtYlUzdmY0MGpZQVFhbldrbVc0YTVxZEV5QUR6TmtJS2d1S3hWWkRLZ3pXZFExc0p4a25jaU9qX2lqQ3JhTmxEdzJJRTFmZEpIMVRjVkJoSQ?oc=5"
+          "title": "MakeMyTrip Ltd (MMYT) Stock Up 3.4% and Still Undervalued -- GF Score: 63/100 - GuruFocus",
+          "title_zh": "MakeMyTrip Ltd (MMYT) 股价上涨 3.4%，但仍被低估 -- GF 评分：63/100 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM09JTDdsU2JOSHQ5WkZlM3QybWdiLS1tbThPc3dGWjNtX2FVaWZMMEhnYjlKdC1FaU1QY0pXSEw0cHZzbE9ZemhIMHBKa1hBSEZsSlVTekJSTy0yR3Z5OEg2akdTOERWS0tFdTczOXJkZFNtSzZTWXBGZ01mMnM2NHZVWjJady1mb25EOElSVjQ2ZTZyQU01UnlrbkNsVEpucjlvb09zUGY2bmFLeDlRMjhZckdhZWczZGdR?oc=5"
         },
         {
-          "title": "Is RH (RH) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "RH (RH) 现在是一只值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEFzd0c3N3puUm9BTVU0eks1bXZsNmg0SktySGhRU2x4cTlsLTBWeE1ock1SZnNNQjlzNjByaDctR1I2dXZZbUZYMi1VLTI3M1JxV3pCRUxZclYxV0szeHN4eEZ5ZzY3cnBQTUJwUy1QQ3NRLWszVzRJSjZIZGNCeU1fTDBPRl9oVktnWC1R?oc=5"
+          "title": "MakeMyTrip will post annual results May 19 and host a webcast - Stock Titan",
+          "title_zh": "MakeMyTrip 将于 5 月 19 日发布年度业绩并举办网络广播 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmFtM3pjM01keUpzT0tUaGFWQ3Y4RVI4MlpoTTgxVHRJTTA2a09Xb3NaeDUwdGxSRExORmhlMC1KRlNQaHFVSUg3LVc3RExnVnhYVjFZNnl6WGZ3V181YXlPeHlNM3pzdTFzZTJXSUNYZWNzWlowMUY4aFFyenJDV3MwUU5lTWlZdHI4RXdNbTg3YzhZT0VQc3FoXzdJeHM3ZHZ0dTdpaVBIZzljV0JtTkJ3WlFOWWdGYlVvNnBR?oc=5"
         },
         {
-          "title": "$RH stock is down 5% today. Here's what we see in our data. - Quiver Quantitative",
-          "title_zh": "$RH 股票今天下跌 5%。这是我们在数据中看到的内容。 - 箭袋定量",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFBHZGEweS1tSGNOZUo5V1h0ZEpyX3hmWHJKVGFBQWFjbURyOHZWQ3ZhNjVBRUhWYnFkWVFBZk1Bcld4VWREWE1VTVcyTjk3aG1RVGVYUHV6c2E4RTdsTFA4UENXNlJTR0FsVnhoc2VTS08xVHJVUzZCa3V2Si0ydVV2V0JEbF80Mjl5eHBGZFZZX0dGdUllVkpUek05OFE?oc=5"
+          "title": "MakeMyTrip Limited Stock 12‑Month Price Target Cut to $70.4, Implies 49% Upside - TradingView",
+          "title_zh": "MakeMyTrip Limited 股票 12 个月目标价格下调至 70.4 美元，意味着上涨 49% - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzJPSms0ZWg4ZlFyaFZFSG5OTkRwV0pjU09XMDl4Mm1JMTN0aXpoRExONy01YzZjdGZWQjR0RmZTOFVsTGhWc19URjVWOEZiM3Z0NG9zWVlYZkpwWGV4b29OVEZVdGwxR1R5Tk9DMDZlTXRJck9wejB6b0JlU0JLYlVaNDZ2MWp3cDZZTDhtWHZQSjdlc0hDWmcyZWFyQjJOZDRrT0NKSXRZNjQwZFdLb0F4UE1DNm1KcEVYTmF6VzJnMTd2LXlEelhrME5vT2dIV0Y3aA?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "price": 259.08,
+      "change_pct": 10.36,
+      "change": 24.32,
+      "volume": 1639850,
+      "name_zh": "纳特拉公司",
+      "spark": [
+        246.22,
+        248.61,
+        249.3,
+        248.155,
+        248.085,
+        250.015,
+        253.38,
+        253.375,
+        253.95,
+        253.9,
+        253.47,
+        253.89,
+        253.1812,
+        254.76,
+        254.16,
+        255.465,
+        256.455,
+        258.66,
+        259.105,
+        259.8,
+        260.33,
+        260.4725,
+        258.715,
+        260.195,
+        260.01,
+        259.305
+      ],
+      "news": [
+        {
+          "title": "Why Natera (NTRA) Stock Is Up Today - TradingView",
+          "title_zh": "为什么 Natera (NTRA) 股票今天上涨 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTMtR1hGQi1CVVJuaFpiU3Bza3B2dXg5WGQyOHBQVmVVQXZtUWdBSndUcmduc3dteTZtaHo0NXA0dmdrN0VGZFM1Yk0xRkxPUkJyY3JwdzAzWEdYM3pIRzZkZF9VRURYemFQZVZkN3VqYmV6T0ZqNDhRN2Q5WHpJcFRwQTdOYUZLTkpzQzNyQXpuWHRndjNMc3pB?oc=5"
+        },
+        {
+          "title": "Japan approves Natera's Signatera for colorectal cancer patients - Stock Titan",
+          "title_zh": "日本批准 Natera 的 Signatera 用于结直肠癌患者 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSF82dGhlYUtsZ0RzcWpmQmdibzE1VldXUmhIY1hiQkFaT3BOWjF0MDlXQ2xrbU0zOU55YTdTb2xxd3ZXazRKUkp1ZDlVR2NaeFNkZFQ4LTBfM3dkY2pIeGp1cGEyaWpaVDVLT2xzalRrYV9BVGE5RXlhWXRqVVY3SGR6bjJOTmZfMENaLW9CeFlCdzg2NXprTEdLSXo2OG1sT3hmdmJJZjltRFJKcUU3Y0pmRFpqUGxYQjk2VA?oc=5"
+        },
+        {
+          "title": "Why Is Natera Stock Gaining Tuesday? - Benzinga",
+          "title_zh": "为什么 Natera 股票周二上涨？ - 本辛加",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFBtM3FaT2NDU1RHWWJ6OTY1NDlpNlN6UGk1VTBmVmZOdy1vdURhU2V1bm10eGNRbHFRalllSVVNVE1hQnlIRVI4bGhzd0ZTdkhPYm9HYk1DYmJhZlVXb3I0d29vMzllcC1xN0trTjZXbHYxVTdveURTdFNhTVM0OTFtdFRxSDNXd2Z1czZkdTRxWVFFMmRz?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "RGEN",
+      "name": "Repligen Corporation",
+      "price": 138.98,
+      "change_pct": 9.98,
+      "change": 12.61,
+      "volume": 619447,
+      "name_zh": "雷普利根公司",
+      "spark": [
+        130.19,
+        134.115,
+        136.19,
+        133.475,
+        134.66,
+        136.35,
+        135.87,
+        135.21,
+        134.82,
+        135.36,
+        135.99,
+        136.295,
+        136.46,
+        135.67,
+        136.045,
+        136.89,
+        138.56,
+        139.5,
+        139.235,
+        138.965,
+        138.865,
+        138.74,
+        139.29,
+        139.01,
+        139.175,
+        138.925
+      ],
+      "news": [
+        {
+          "title": "Repligen Corporation (RGEN) Dropped Following the Earnings Release - Yahoo Finance",
+          "title_zh": "Repligen Corporation (RGEN) 财报公布后股价下跌 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjN6ZWx4eWhZMUExSmM0dGxyUkhNX2V2STJqMXFKbFZ5eFJfemhLdTY0WkFoZ2E3dlAybmJBNlB6NUVOdGRCMHMzT0U4MW5aU2pwTnEzZC15TjFDdzhSNFV0WTFXRmQtVmV0ZlAwZGdFWEZYSGJkZnVtRFJ2aVpRSW55aktCTHBJYmRHX0l6T0k4NTlHWEVvMUJwbl96Q3R6N0NpeHRVbGs?oc=5"
+        },
+        {
+          "title": "Repligen Corp (RGEN) Shares Fall 4.1% -- What GF Score of 83 Tel - GuruFocus",
+          "title_zh": "Repligen Corp (RGEN) 股价下跌 4.1%——GF 评分为 83 Tel - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXA2R0RvRDlyTFBsTEY2cmwxY1NTemcwYjRkZDVlRWFvX3Z6dDI3bU5mY1JpSl9Ca2I2dFNfUWpEYlRVSFFwV3VmMkhqaEtSbXAtVkpLMElHYUxkNUpsWHdoQjVQbDgxOThDVEx6a3hBZkVkWTVYdkYycHB5eVB2TENJeFA0Z2VyRHpIeVNtai1rMXVpU0tTRG4xSExlM29HTkJzOGgxRHowXzRlcVlDZVYyMVlJdFZJOXU3NA?oc=5"
+        },
+        {
+          "title": "Repligen Corporation (RGEN) Stock Analysis: Assessing a 33% Upside Potential in Bioprocessing Innovation - DirectorsTalk Interviews",
+          "title_zh": "Repligen Corporation (RGEN) 股票分析：评估生物工艺创新 33% 的上涨潜力 - DirectorsTalk 访谈",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYjNQQldfQXp0UjdxUm1uSkt3Tks1ZWpfWVdKUFFMMmVncVIxTGJMZ1FzQ0xybXBLT3Q0anVmRlVmNTFvdXl4NTlBajJBNHlHRjVuZUxBNEJ1MVR3MGMxX29TQU5CUUFrMDI2Ry1vSkF2S0hMMG45azJmeU8zdkxla2ZJb1UzT3kxdmNwdnRJdC1CZWxYNmdsVzFPeDVwd2dxSURoYVVGTzFHdll6dHBROGlGdW1TVDJDLWpreEIySXVCbXZPUktYdUdPaEFXY2ZKb1I3REFja2ttT2xUenVJRnFheDRRQQ?oc=5"
         }
       ]
     }
   ],
   "us_losers": [
     {
+      "symbol": "RGC",
+      "name": "Regencell Bioscience Holdings L",
+      "price": 8.84,
+      "change_pct": -20.22,
+      "change": -2.24,
+      "volume": 342322,
+      "name_zh": "Regencell Bioscience Holdings L",
+      "spark": [
+        10.63,
+        10.97,
+        10.72,
+        10.59,
+        10.52,
+        10.12,
+        9.6049,
+        9.29,
+        9.4599,
+        9.625,
+        9.515,
+        9.665,
+        9.88,
+        9.75,
+        9.5,
+        9.58,
+        9.36,
+        9.57,
+        9.53,
+        9.535,
+        9.215,
+        9.0,
+        9.1599,
+        8.91,
+        8.9988
+      ],
+      "news": [
+        {
+          "title": "RGC Shareholder Alert: June 23, 2026 Lead Plaintiff Deadline in Regencell Bioscience Holdings Limited Securities Class Action - Contact The Gross Law Firm - PR Newswire",
+          "title_zh": "RGC 股东提醒：2026 年 6 月 23 日 Regencell Bioscience Holdings Limited 证券集体诉讼首席原告截止日期 - 联系 The Gross Law Firm - 美通社",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa24wekR5Y1d6LVVWcU8wNlZPelRlX2Y1RUQzT0hSZ0toRmpvaV92cTgtdjllb3FLczBUS2FYMW9HREVVb0s1ek1tSTFhMFlPZlpQVnpvOU9nV0Z6ZTNqX0FYWHlRYW1FNFNhZlhldXFNNHJPRnRKQlh6M2laYVQ3Q2E3NDBEQ2tadWFkdjZmWUJrSllNTjFjeHVhNHpPUUhlbUJZekpXb1ZaanY4ZHBJOE02eEZpSm1PN2hjZFlPQ0hWNEpURXFIYTlwRkFORFRXOTdmMGhoN2k5ZkY1NWpsZ2xsclZHQzJyaFgzbDFZcWZZSGV0NDdqMFMxd3A1Z1Uta0UzZ3A3RHlfeExld3ZJc1RUaTAySkRVSGRoTDJscWQ3YXR4YXdTVU56d3lCTkxscGc?oc=5"
+        },
+        {
+          "title": "Investors in Regencell Bioscience Holdings Limited (RGC): Protect Your Rights - Contact Levi & Korsinsky Before June 23, 2026 - ACCESS Newswire",
+          "title_zh": "Regencell Bioscience Holdings Limited (RGC) 的投资者：保护您的权利 - 在 2026 年 6 月 23 日之前联系 Levi & Korsinsky - ACCESS Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaHU0WFV0ZzhHVHNJRFFKSEgxM2tCRWNXb2tZTlFxMlZRbV9TUExqLWYzV3gtY0RPYmhUakpKTi1CX0pKa2tVLWdZMTd3V2p3RThxRXpOQ0l6QzNBcjdQTkVqelkxMWJLVkEwemRCOE03ODRmUVIzM3NMRmZJcUpROHhKN2tPcVRmUHZBaGZhdFdtc3dwR0tqcDV6akhDMUI5TnNfV2xUcFlZODRlYjNMYXA4TW9wTGxQdFllU0gtZlZobnRHM2trT2VDRlR6RmUwUUpvRzB6SlROckxOR3NqMWlRUk0?oc=5"
+        },
+        {
+          "title": "RGC Shareholder Alert: Regencell Bioscience Holdings Limited Securities Class Action Lawsuit - Investors Should Contact SueWallSt - Morningstar",
+          "title_zh": "RGC 股东提醒：Regencell Bioscience Holdings Limited 证券集体诉讼 - 投资者应联系 SueWallSt - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWnM2dmNOSDh5TUZsV3lrQ3M4dzBjSzIzcW94bWZteENMblptTEc3ZDZJeXVXUzA3d0xudVJVTHBJM2ZXZWxBcW5TY1ZJS3BNNEtpeVlLZnVYRFh0Q2pIQjhBUWRLQ2RqSUdKSWdXVkVzSmtndEVtRGVSNWo5V2dNVzlaczBNTG1PbU90NXJBYTRCVGVXSGVCSk5qMUJWd1F1aWo0dXVtZzVycGdGaGtLQ3I0cDhCeDlHQXFtWHdMQnJkT3JFUFVyRVZ2bW5tV19HVTJKVzdPbGdtUkFfZTN3Z29ER3k3S1FGMUZDZnR0VEZrWmZfcTJpMDIzV2ZrRzdNMkFFQ1piUXI2X1NhOXIyZ2s2Q2ROdw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 187.5,
+      "change_pct": -17.3,
+      "change": -39.22,
+      "volume": 15323104,
+      "name_zh": "大脑系统公司",
+      "spark": [
+        200.0201,
+        192.94,
+        195.9897,
+        196.7085,
+        194.35,
+        189.68,
+        192.64,
+        190.9,
+        190.27,
+        190.12,
+        191.69,
+        190.6275,
+        190.875,
+        187.65,
+        186.4872,
+        189.345,
+        190.245,
+        191.09,
+        190.3536,
+        190.5001,
+        189.69,
+        190.6999,
+        188.915,
+        187.3,
+        188.11,
+        186.42
+      ],
+      "news": [
+        {
+          "title": "Why Cerebras Systems Stock Crashed Today - Yahoo Finance",
+          "title_zh": "为什么 Cerebras Systems 股票今天暴跌 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVZEaGc2dDZscXBSMmc0dVJtajJ1bmlFaVE2aXBFZFA2TGNsNXF0RWNOZno0X0dOdnpxTC1NYmQ2OU04VklBYk1nNkh3THlmTUs3Q0xsZ0tHc0wwUEFjZk93RDRUd0tQNGhCcEhIaURxcmlrRkxUQzQxV1Rvc1JqQko2NTktdlllY0VnSHlEWHVsTWZNc1h1aWhYZ0tCb040?oc=5"
+        },
+        {
+          "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings - CNBC",
+          "title_zh": "Cerebras 首席执行官表示利润率预测被“误解”，因为盈利后股价暴跌 - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QmpHdHk0dzd4NjB6UzN5bGlhTzk2VGNWa0prOElIa1Q1dm80bXFCSHdMR3VvMHA4ZXpxVUpCYms4eWFjbTZaSkh6NHZCNk1wUVhMMjZkTkxnaTVqWC1kbl9hQ1REU2pXckxOQ0tWTWRobjTSAXhBVV95cUxQMDFZZ2t4cGNzSkhQODJHZzZXV1pnZUlKakRrSDJtR3Fna1Y3czRzRHlzd3g0REsydHlsbGxuQ0pIajRyNWNvRjhDV3RHZnAxVkwzXzI2VW96X3FXT21vX1d6aHlxcDA4UXJsUC1MYVRtSjVjOGZ5VkI?oc=5"
+        },
+        {
+          "title": "Cerebras' First Post-IPO Earnings Beat Wall Street Projections. The Stock Is Falling Anyway - Investopedia",
+          "title_zh": "Cerebras 首次公开募股后的首次盈利超出了华尔街的预测。无论如何，该股正在下跌 - Investopedia",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVNRUkZvaV9OZGcxeTZSY1p1RWx6WkRiWndoM1Ewenh3dHBhdVVZLWhRMFFyRkRVTTNqaXp1bzhEeS1TUC1DOUk3WVJyTU5FelFyemNCXzhKM0Vvb0lBeUp5dFoweHRQbV80WWlLR3lwVmFYWWswVDRiaUtsSmxsTEtXY1Jpc3YtTTU4T2RxLTlUMkwzeFJtekVMMXFOWFoyU1FqZ1Y1Tk5sbzI3cFUwcFpVSUl3bjdOTll2bGNIMzNaTWs3ZEQ4anloa3o?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor Corporati",
+      "price": 17.93,
+      "change_pct": -16.21,
+      "change": -3.47,
+      "volume": 21727413,
+      "name_zh": "能源半导体公司",
+      "spark": [
+        20.495,
+        19.69,
+        19.804,
+        19.445,
+        19.06,
+        18.765,
+        19.11,
+        18.99,
+        18.93,
+        18.82,
+        18.72,
+        18.72,
+        18.795,
+        18.65,
+        18.745,
+        18.59,
+        18.62,
+        18.74,
+        18.4703,
+        18.3275,
+        18.31,
+        18.3688,
+        18.1175,
+        17.98,
+        17.91,
+        17.825
+      ],
+      "news": [
+        {
+          "title": "NVTS Stock Slides As $500M ATM Offering Takes Shape - StocksToTrade",
+          "title_zh": "随着 5 亿美元 ATM 发行的形成，NVTS 股价下跌 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2VDWjVHdUhNQUdtUloyYzlXamg3SGFVWnZyMUpyNWlrdktPVW5PNmRvYmtZaElsem9LaTFRcTAxWmNsTGxhS3JJZ29aWXZrOTl6SDh4RldNSVh1UjZUQzFCY0pqSEVDQU1XLXdMbHZuTFFhWV9tUmc1QTkwdlZSXzdXZkQ2ZndxRlZEVDdJTQ?oc=5"
+        },
+        {
+          "title": "Navitas Semiconductor NVTS Jumps After $500M ATM Offering - timothysykes.com",
+          "title_zh": "Navitas Semiconductor NVTS 在 ATM 发行 5 亿美元后股价上涨 - timothysykes.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeVFFaHVJc0F0QmdsRDhENEN2bkpPbFpFQXkycEVkNk8xemJNbHJKRXZkV0xSUkxteTZ3Zm1SLUs2VG9xMDRDVXMzdHBvblBFMHFxRlhWTEItaHVmUjVEcllKTUwtN1Z6RXVBVWZsNWxrSF9SVGhXRFZtR1Z0d0tmVU1STXV6elkwbURlNUo5eVZFVVU?oc=5"
+        },
+        {
+          "title": "POET, NVTS, SNDK Stocks Hit 52-Week Highs Today: What’s Driving The Rally? - Stocktwits",
+          "title_zh": "POET、NVTS、SNDK 股票今天触及 52 周高点：是什么推动了反弹？ - 股票推特",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSWxfSERyeEtHWTh0M2dKeW5UZzBCcVAwTHFWdGNWQlQ0dmNmODl5ZUJmLXFfbzM1Ym5icXpFM1JieUxXR1l2WE1Gbk1tanl6TzJWVGhwTk50anBQVm9LSENuYWJqVnBVd2VGYWZlcXg4ZG9uaWtqUzlxa1BZc0E1cTJIZm1peE40RjlQWDlHakduWW9OcmFXdmVFSzlPVUNsUlpCTWFmMF8wNndadFgtOVNJVkdVS0F1RTVBcllTdUxhUFphX2F6YWxyRGF2bG8?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CHRN",
+      "name": "ChronoScale Corporation",
+      "price": 22.0,
+      "change_pct": -14.81,
+      "change": -3.82,
+      "volume": 264128,
+      "name_zh": "ChronoScale公司",
+      "spark": [
+        25.19,
+        25.49,
+        24.5,
+        23.66,
+        23.83,
+        23.7,
+        24.11,
+        24.19,
+        24.0401,
+        24.27,
+        24.13,
+        23.84,
+        23.61,
+        23.6775,
+        23.73,
+        23.65,
+        23.59,
+        23.425,
+        23.19,
+        23.005,
+        22.73,
+        22.195,
+        21.78,
+        21.99,
+        21.67
+      ],
+      "news": [
+        {
+          "title": "Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company - Applied Digital Corporation (APLD)",
+          "title_zh": "Applied Digital 完成云业务的分离，将 ChronoScale 建立为独立上市公司 - Applied Digital Corporation (APLD)",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlTSGNVNlM3d0VsQ3hZMmpJUzhhb1E4Y3FETHRvYVVOVlBHenVJcXVwYWhmRDdvM256UG1POXl1aTczUkM3bGprNFlWVFZlUkpRN1FHdUV3cVV4LWN4cFJqRFZHMXhYd3liRkhZMkFrMlVaN09TajRKN3Fzb1c3anFTU1RiQVBDTkRBRFRacXlrd01LWl8yd3F0RHNUTkNSYVFEdXJOUFBpM1JUazR4RFlFRmxKV0lvUER1Z044bw?oc=5"
+        },
+        {
+          "title": "ChronoScale (CHRN) Sees Notable Surge of 18% in Stock Price - GuruFocus",
+          "title_zh": "ChronoScale (CHRN) 股价大幅上涨 18% - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1NveXdnV3FtNEFKZnNkZ3hzMVNwYXBLUVRjS2tPeVZCMFVsNGhxUVlmYzFoVVo5RVUwaS1lQy1LdGtwQUUyQnlHUkMxV3ZHTG9fUGE0U0tyd1VhXzh1THNaWVNQdHEtb0gyeWJrcUpIeTlZbGdCVXBtVGpjU0FJd25oM2g4QkNvclBBTzZDaVRLS2VyWHBSaWxYaWtkY0VNdmozZWJxZktZVW8?oc=5"
+        },
+        {
+          "title": "ChronoScale Corporation Common Stock (CHRN) Stock Chart and Price History 2026 - MarketBeat",
+          "title_zh": "ChronoScale Corporation 普通股 (CHRN) 2026 年股票图表和价格历史 - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84c0JmOE84WVVDbWNrbDhsQlphQjVsY0U3c2ZCZ2VpMjMzRUVLRDM2alJhaXVUalJjaVBMRmhEWC1wNFlwN1F4WVhNbGVYS0pzSko2Uzlmd0lZV3lBaE1rUUh3?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "price": 6.22,
+      "change_pct": -13.85,
+      "change": -1.0,
+      "volume": 3464632,
+      "name_zh": "诺瓦黄金资源公司",
+      "spark": [
+        6.98,
+        6.78,
+        6.815,
+        6.79,
+        6.78,
+        6.725,
+        6.7,
+        6.645,
+        6.62,
+        6.45,
+        6.4499,
+        6.45,
+        6.415,
+        6.345,
+        6.385,
+        6.405,
+        6.4601,
+        6.445,
+        6.465,
+        6.45,
+        6.38,
+        6.355,
+        6.315,
+        6.27,
+        6.265,
+        6.235
+      ],
+      "news": [
+        {
+          "title": "[10-Q] NOVAGOLD RESOURCES INC Quarterly Earnings Report - Stock Titan",
+          "title_zh": "[10-Q] NOVAGOLD RESOURCES INC 季度收益报告 - 股票泰坦",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFRNX2ktNFo2TFR6WHNwaC1PRzE2N0xQU09DMUpxN0RBNC16TE5CR3k0R3BoZkI3eGVnNHY2ODhXaGV1djEtdTZrbFRvbTlKVmV0SkJRLTA1LVJ0bFVmemkxd3dyeGdHdTVqZkt1akJfaDM3ZHNQaGo3ME40clF3RWtxRElLRWxKaVRmRzFFNGVENzBGWVhaSHZJTGlWNWhsVXpfU1Z3OXFtdndWOG95dDRHOA?oc=5"
+        },
+        {
+          "title": "Earnings Flash (NG) Novagold Resources Posts Fiscal Q2 Net Loss $0.06 a Share, vs. FactSet Est of $0.06 Loss - marketscreener.com",
+          "title_zh": "盈利预览 (NG) Novagold Resources 公布第二财季每股净亏损 0.06 美元，而 FactSet 预计亏损 0.06 美元 - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3VQdENyQXhJRVFVRWRjVUNsdmlWRllXMC1FMmRiak1VUF8xcEU4VzFRX09DZngzR1BGQ3BZLWFwR0xneUYyZDdCc2NxcUZTNW54OURUa2lodGhZakJzRFR4UjJiQ09VQXZwR01La3RuOHhjNTFBMENMQS1jN2drQTNlcldGU2VQTGZsWDhaTF9FbEhJWjlGVG5iVWdtQVZlbHNpQkxMNFVRZnJvc1ZhekRldHAzTnZmdThWa0YxMHAxWUJsVUZlelNNLUR4MVhuMDdXaWtyZTZjUUVMYzFMbQ?oc=5"
+        },
+        {
+          "title": "Novagold Resources (NG) Earnings Preview: Expectations Set at 7 Cents - GuruFocus",
+          "title_zh": "Novagold Resources (NG) 收益预览：预期为 7 美分 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREp0bzlXd1VCSmlxeXhjbFJuZ1RhMUJjN0FmdVJQbkQzeklzTmtSMW1JcGVidzBvb2J2TURzZXBXbzJUSlotNVAwdDB4SERKMGNfMHczRWxZVi1venMybGxtUV9kN0NkcUdleEYzRWcydzl3bi1NS3JFTFdOX0FKeTdONXJ1OVpKd0FVUXVlODl0Z25SUW5ZTnhLTk16Z3JVSlFyUkNfMHpyVl96dHZrVW5kcHBpTWRt?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "INFQ",
+      "name": "Infleqtion, Inc.",
+      "price": 13.9,
+      "change_pct": -12.91,
+      "change": -2.06,
+      "volume": 16532231,
+      "name_zh": "变形公司",
+      "spark": [
+        14.83,
+        14.16,
+        14.5072,
+        14.26,
+        14.2301,
+        14.155,
+        14.48,
+        14.3,
+        14.37,
+        14.41,
+        14.315,
+        14.235,
+        14.26,
+        14.155,
+        14.285,
+        14.205,
+        14.27,
+        14.39,
+        14.23,
+        14.14,
+        14.115,
+        14.08,
+        13.909,
+        13.73,
+        13.745,
+        13.795
+      ],
+      "news": [
+        {
+          "title": "What's Going On With Infleqtion Stock Wednesday? - Benzinga",
+          "title_zh": "周三 Infleqtion 股票发生了什么？ - 本辛加",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUYwamhET0VQcE92MEhSdzdad1RJM1dGWjF1WngwNnRkWTZLU1loY2lSbG80ZVM1c1JKaEtuT3hVNFQtSk96VHl4VVNMMHVfVkNhZUprUnB6YUJ0bzYxeUJ1ejRwLUJZRVA1MURoanRJTTFsWEZ5NnE2d2d4dElkdmdNMjZRTEYzcV8wV2QyNnFubWlTbldEeVMxVzhJYl82OUlDY1FKTXlrTXc?oc=5"
+        },
+        {
+          "title": "Infleqtion (INFQ): Social Media’s Favorite Quantum Stock With 10X Potential - Yahoo Finance",
+          "title_zh": "Infleqtion (INFQ)：社交媒体最受欢迎的量子股票，潜力高达 10 倍 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2JZQlZJMEtKaHBIMFh6eWxLY0pvR3I1TWdUeEc1VEdOaDBzTmxMQVdNZ2RVZlRJbHVsUnpJRGl5Q2Z6VzJIZHFXQThnRXhpNUJpNjd5QTdmaXc2d1h3a2psZzVFaDRwQ0tVNE4xRVRMVmE4QlcxZFdjd2RSNlZFeGxWS3NoZ19LbnZUb0tkUFlrUlh4WVloQzg5YzR4bW1XRjNUbw?oc=5"
+        },
+        {
+          "title": "INFQ Stock Pulls Back As Traders Gauge Cash-Fueled Runway - timothysykes.com",
+          "title_zh": "随着交易员衡量现金驱动的跑道，INFQ 股票回调 - timothysykes.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lUkQyWThfZU5uLXY1dC1ZMGFDTDFyZVJOUWdrNmZhNjN5SnZvSE5mY1ROMVlGaTNFM09nSFZ2MWRiYnVjb05RUUZ6VmRnNGRzN2hHVjJDUzNHT2RDT19HNDdhdmpPazJLdDRLZHQ4UkhJNWthcHBITWFn?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "SYRE",
+      "name": "Spyre Therapeutics, Inc.",
+      "price": 84.09,
+      "change_pct": -13.35,
+      "change": -12.96,
+      "volume": 2686912,
+      "name_zh": "Spyre 治疗公司",
+      "spark": [
+        85.0,
+        88.0,
+        87.3,
+        87.73,
+        87.31,
+        87.055,
+        86.28,
+        86.07,
+        86.24,
+        85.765,
+        85.71,
+        84.99,
+        85.79,
+        85.16,
+        85.795,
+        85.17,
+        85.35,
+        86.02,
+        85.95,
+        85.755,
+        85.165,
+        85.23,
+        84.725,
+        84.56,
+        84.28,
+        84.015
+      ],
+      "news": [
+        {
+          "title": "Spyre Therapeutics Shares Slide Following Large Insider Stock Sales (SYRE) - Yahoo Finance",
+          "title_zh": "Spyre Therapeutics 股价因内部人士大量出售股票（SYRE）而下跌 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0h2VXNSX3NCQXBvaWNub2tqbHRGMFJaT2wyVXB0QnlpWmJZa3ZoNDlob2Q3cXVPQ3ZVa3JFUmlHd0FWV0pEOFk5TU1jaUoxYmFWak83RGhTV1paamhTQVlXRENXTThCcUtSbDdVMV9walVCcnJPWEF2dV9BeTg4NlIzQjJCc182VFhEMVdjRFlVeG1mTUtIYjFmdk44QVVqU25yRjlWSU5yUQ?oc=5"
+        },
+        {
+          "title": "Spyre stock falls after $2M insider sale (SYRE:NASDAQ) - Seeking Alpha",
+          "title_zh": "Spyre 股票在 200 万美元内部出售后下跌 (SYRE:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbld6bDVWNWpoUEFRMV9wVVA1RGFyQmIzcWRXMlJLSFByaG5USU9SSV9NNERMcmV2a1RYQUMyU3VOU0Z4OTVEVXRGRWxHOXNDYjZjUTc4YnpyT1ROeHlRU0tMNzZ2UU5wdVhJXzkzQXJsSU9FbVJ6OFBVRQ?oc=5"
+        },
+        {
+          "title": "What's Going On With Spyre Therapeutics Stock On Wednesday? - Benzinga",
+          "title_zh": "周三 Spyre Therapeutics 股票发生了什么？ - 本辛加",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzZWNVR3TGIzYnNVZm9ncjdzTGZYSXY1ZFd6TlZVekp5a2RvazlORmxuSVhDcEZkTFpGZ2dQcUVKV3owbmZBTy1Salo4cllsWGVmTldsd3FmM3RpR3BVUDM5X3RlTXhFM0JMV1JiaTFvdTZXZHB3ckJkT1pfN3pwRm1OYjV4cFlPdmpuMzJZVUtoZDBKRjN6MlpJWXVYcEhwcUh0dXdnTjlhZDN1N2FVbnBlWjNFbkNVdDlTUFhrUXc2ZDlY?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 68.26,
+      "change_pct": -12.39,
+      "change": -9.65,
+      "volume": 9837012,
+      "name_zh": "AXT公司",
+      "spark": [
+        76.735,
+        72.2253,
+        71.638,
+        69.65,
+        68.845,
+        68.2301,
+        69.64,
+        69.51,
+        71.2001,
+        72.6,
+        73.08,
+        71.59,
+        72.4565,
+        71.155,
+        71.16,
+        70.73,
+        70.68,
+        70.65,
+        69.532,
+        69.18,
+        68.62,
+        68.86,
+        68.255,
+        67.812,
+        67.73,
+        68.025
+      ],
+      "news": [
+        {
+          "title": "AXT, Inc.: A Turnaround Story With Real Progress, But Significant Risk - Seeking Alpha",
+          "title_zh": "AXT, Inc.：一个扭亏为盈的故事，取得了真正的进展，但风险也很大 - 美股指南 - 美股开户 - 港股开户",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVJVX3dqbXlyQ3JMUWhtYndnSmQ4WDJiMmJiX05yZ2VkME1aMm1yTk1KWEF3dllXcUZLNHAxdEZDblVZa3ZZN3RrMVJfRUlPMlB0Z1FhMzFCTWR0UkJUYmdRZjhFQzY5SzMwbGI3XzE3UG5La3lqZjZzd1lRQlhFRzNJdTc3RzNpT1VSU2Z5TVVIMHRXTDk4S1VrN0VxcTNPRUplWDN3?oc=5"
+        },
+        {
+          "title": "Is AXT, Inc. (AXTI) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "AXT, Inc. (AXTI) 现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pqVGJQMlhNSkhfTTlZZVFEV0N6emNlb0dFYzJlSlVOT0wtbHFLOXBjT1pkMVhKQjU4enlnT2hyMGs5dWpyOUxrUWt3dVdfUXZVWFlDTFp2RDlsZDhTUE5kbzYwZlRVdHpsYnFhN1g5UEIwS2NvTE5IZ3NnUnYwM2l1RjFNajdUM3hUUkRkR2hwdw?oc=5"
+        },
+        {
+          "title": "Can AXTI Deliver Its Biggest Indium Phosphide Quarter Ever? - TradingView",
+          "title_zh": "AXTI 能否交付有史以来最大的磷化铟季度产量？ - 交易视图",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2pieVVMQkd2TTd1Ti1xdXVhUEdsQ3dQaUFBcEtST3RvU29DMm0zUVpwa2d5ZVVLSXZ2NHEyek1oaDdkb052THQ5SHNYZnBlSUptcmx3TDQtT3huRmo4M256VDh1bzlFSmw3bTdyNWdrUVlGR2xPVFQ3OUJMSVdYSk5BOXlWUzlNMl8tRTZGM3ZzWUlGM3BRWnJzb3A2OVFYallBa2JXN3kxaDRDV0pSWHZndkY?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "OUST",
+      "name": "Ouster, Inc.",
+      "price": 40.11,
+      "change_pct": -11.18,
+      "change": -5.05,
+      "volume": 3216251,
+      "name_zh": "奥斯特公司",
+      "spark": [
+        43.285,
+        41.3,
+        42.54,
+        41.1,
+        41.0,
+        40.675,
+        41.5572,
+        41.485,
+        41.6,
+        41.53,
+        40.945,
+        40.71,
+        40.975,
+        40.78,
+        41.483,
+        41.16,
+        41.05,
+        41.19,
+        40.965,
+        40.7741,
+        40.5,
+        40.56,
+        39.93,
+        39.76,
+        39.69,
+        39.78
+      ],
+      "news": [
+        {
+          "title": "Is Ouster, Inc. (OUST) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "Ouster, Inc. (OUST) 现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2U1cTEwZlkwcVcxN1JZTUpSMUpIQjdKMXlZTWNYY3BYZGJkY0NKa1Y5UklUWlc2aFg5WDZHLWNRYjdZN1FFUlQxekR3X29NTHlzNlFkT1JDYmZ6NGtrLXFkZjQzRThJYjBYUkNLLUVPNlprcmRqbGR4QXE2RG1HeUJrbFNIakktOHAyU2R3NnVuV3cyWXc?oc=5"
+        },
+        {
+          "title": "OUST Stock Hits 52-Week High Today — What Is The Counter-Drone Partnership With ARGUS About? - Stocktwits",
+          "title_zh": "OUST 股价今天触及 52 周新高 — 与 ARGUS 的反无人机合作关系是关于什么？ - 股票推特",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFNtX2pSUVZWWE1ieFdWVU9KamhwUXpDcHljNEdVc3FpMUV3Zlc0SEhjLUM2a1ROZ3F5bzZlUjlmYmhXb1gzTUhPMEIwLXc2MDJkYVpGaE1ta2NXazQ5TUpUb1pjYVVDMWJwQzJMSjJfTHZVME5GTmp5dlBWMHhjeTF6STZPbmw0b2JXWmdOZ0psajlPUkV1TFZJWmY2YVpmU0NzX3pmYkk0MlRrWmZybnpqSEN2cXBMOEM1N0hteGJnN3ZFaVdyRFBYNE8ydw?oc=5"
+        },
+        {
+          "title": "Ouster (OUST) director granted 4,725 RSUs, lifting holdings to 76,415 shares - Stock Titan",
+          "title_zh": "Ouster (OUST) 董事授予 4,725 股 RSU，持股量增至 76,415 股 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFnTkVYNTJISElpaGVmZmZJMzQxM2E5enAwUDJzQVJJcFF6aTZGSy12Z3ZkZ3BzS2p2Nm1UM3dlc01UX19Kc0lPNEFLb0lOcDBVQTlHLU00QjdLXzk0N1diNEhkQUxVNEtpTWdYWFN1ZkNrQnRwb29kMUVFTlZXM1VZb0FYSnl2Mm9udy0tRGhJRXBiTXJMVlNWOU11alE0RUNmTG1KVQ?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "MAAS",
       "name": "Maase Inc.",
-      "price": 17.18,
-      "change_pct": -19.11,
-      "change": -4.06,
-      "volume": 116620,
+      "price": 18.89,
+      "change_pct": -11.06,
+      "change": -2.35,
+      "volume": 143512,
       "name_zh": "马斯公司",
       "spark": [
         20.14,
@@ -607,7 +1061,22 @@
         17.975,
         17.915,
         17.57,
-        17.18
+        17.18,
+        17.18,
+        17.3662,
+        17.235,
+        17.215,
+        17.24,
+        17.405,
+        17.0124,
+        18.015,
+        18.165,
+        18.79,
+        18.1232,
+        17.8174,
+        17.82,
+        17.68,
+        18.89
       ],
       "news": [
         {
@@ -624,522 +1093,6 @@
           "title": "Maase Stock Soars 24%—SEC Filing Sheds Light on Chaotic Details - TechStock²",
           "title_zh": "Maase 股价飙升 24%——SEC 文件揭示了混乱的细节 - TechStock²",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDZDY3A4QnJNcEpDejRtTjZGa3NrSXdKYnJPdlJRZXIzOU9rcDRyTVZPUHBKMTVRS2hpLU9sakROY2FEaFRnellDTWVfLUNYWk9uUmZBWWprLWlYX2JDNWl2OWdodWNxbHVXbGRjUGxpOG5Fd3cxMm5mRE1XSWplcExtLVBkY2pDMTlz?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CBRS",
-      "name": "Cerebras Systems Inc.",
-      "price": 187.12,
-      "change_pct": -17.46,
-      "change": -39.59,
-      "volume": 12339186,
-      "name_zh": "大脑系统公司",
-      "spark": [
-        200.0201,
-        194.4,
-        192.94,
-        194.52,
-        195.9897,
-        195.32,
-        196.7085,
-        196.59,
-        194.35,
-        190.2,
-        189.68,
-        190.945,
-        192.64,
-        191.05,
-        190.9,
-        190.11,
-        190.27,
-        189.765,
-        190.12,
-        190.5891,
-        191.69,
-        191.67,
-        190.6275,
-        190.625,
-        190.875,
-        190.49,
-        187.65,
-        185.485,
-        186.496
-      ],
-      "news": [
-        {
-          "title": "Analysts set Cerebras stock price target for 12 months - Finbold",
-          "title_zh": "Finbold 分析师设定 Cerebras 12 个月股价目标",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFlxMUFpU2tUR21MeVQ1dUFtb0o1d0FVSEJMeExfRF9rZ3I3YzkxMDlhMHUwaEI5N2dkVmZMeGxzaUxqQlBMVXZjR0NKZU90Q3lKN3hUSmhYU1BjVGdxLVRwU0l5VkhQNzF3NXF5T1pDbjVNRkhTYXpYT3VLNlV4dQ?oc=5"
-        },
-        {
-          "title": "Cerebras Stock Slips After Its First Earnings Print — Here's Why - Benzinga",
-          "title_zh": "Cerebras 股价在首次公布财报后下跌 - 这就是原因 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWI3cmJ0ZWN2UkVuR1VVVlloNkxlU1E3cTJFUTQ2Wkwzb3MySFBSY2pXQlRRZ1hRekZoaGRFdlhFMDlQUk55TFFvTTkzbTBBbkQtdTk3SXB2dmhLcVR2d0lROUhOZGU3eFkyRE5aSkM3eDlBT0Exa2xpOTMzaWhzVnFxemRiRllqb0t6QkVHaWU5dnJ6ZjNKMDVtWGlEMERDYzRDTlVXdFRZelZGSmhrWEJKczA1RVhkMUE?oc=5"
-        },
-        {
-          "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion - CNBC",
-          "title_zh": "Cerebras 在纳斯达克上市首秀大涨 68%，将这家人工智能芯片制造商的市值推至 950 亿美元 - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tdTRxS3d0Z1pXY2VHeG13WHo4Z2dRUzluWDhqT0tyeUU5dVdiZUV6c01ZbTZVQXp2T0RWNEtEQ2NFSHlIVXJqSkJUalZwUERiNDEyaTE5TGJzTVUzT1RVSl9XUEFjX0o5MVVvNW9UNWtOQUtPbFBMc2h6U08td9IBgwFBVV95cUxPaTJEWlJwLTQxaWROcEhheThoV1ZGWGUwdDM1Q3p0MEF6ZFdabmpLS3dUQncyXzRMNjJCVmg4MlVSb2M2SXBxS29WNE5MTXl3TzNvOEFNdExkYUwtSVRIck9aa3BFRmM0dnN1ai1uWTlfR2ItalBwR3pCeUVtWWY2ZXNjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "RGC",
-      "name": "Regencell Bioscience Holdings L",
-      "price": 9.5,
-      "change_pct": -14.26,
-      "change": -1.58,
-      "volume": 249559,
-      "name_zh": "Regencell Bioscience Holdings L",
-      "spark": [
-        10.63,
-        10.43,
-        10.97,
-        10.685,
-        10.72,
-        10.615,
-        10.59,
-        10.61,
-        10.52,
-        10.3,
-        10.12,
-        10.0,
-        9.6049,
-        9.446,
-        9.29,
-        9.28,
-        9.4599,
-        9.3999,
-        9.625,
-        9.31,
-        9.515,
-        9.67,
-        9.665,
-        9.655,
-        9.88,
-        9.7157,
-        9.75,
-        9.66,
-        9.5
-      ],
-      "news": [
-        {
-          "title": "RGC Shareholder Alert: June 23, 2026 Lead Plaintiff Deadline in Regencell Bioscience Holdings Limited Securities Class Action - Contact The Gross Law Firm - PR Newswire",
-          "title_zh": "RGC 股东提醒：2026 年 6 月 23 日 Regencell Bioscience Holdings Limited 证券集体诉讼首席原告截止日期 - 联系 The Gross Law Firm - 美通社",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa24wekR5Y1d6LVVWcU8wNlZPelRlX2Y1RUQzT0hSZ0toRmpvaV92cTgtdjllb3FLczBUS2FYMW9HREVVb0s1ek1tSTFhMFlPZlpQVnpvOU9nV0Z6ZTNqX0FYWHlRYW1FNFNhZlhldXFNNHJPRnRKQlh6M2laYVQ3Q2E3NDBEQ2tadWFkdjZmWUJrSllNTjFjeHVhNHpPUUhlbUJZekpXb1ZaanY4ZHBJOE02eEZpSm1PN2hjZFlPQ0hWNEpURXFIYTlwRkFORFRXOTdmMGhoN2k5ZkY1NWpsZ2xsclZHQzJyaFgzbDFZcWZZSGV0NDdqMFMxd3A1Z1Uta0UzZ3A3RHlfeExld3ZJc1RUaTAySkRVSGRoTDJscWQ3YXR4YXdTVU56d3lCTkxscGc?oc=5"
-        },
-        {
-          "title": "Investors in Regencell Bioscience Holdings Limited (RGC): Protect Your Rights - Contact Levi & Korsinsky Before June 23, 2026 - ACCESS Newswire",
-          "title_zh": "Regencell Bioscience Holdings Limited (RGC) 的投资者：保护您的权利 - 在 2026 年 6 月 23 日之前联系 Levi & Korsinsky - ACCESS Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaHU0WFV0ZzhHVHNJRFFKSEgxM2tCRWNXb2tZTlFxMlZRbV9TUExqLWYzV3gtY0RPYmhUakpKTi1CX0pKa2tVLWdZMTd3V2p3RThxRXpOQ0l6QzNBcjdQTkVqelkxMWJLVkEwemRCOE03ODRmUVIzM3NMRmZJcUpROHhKN2tPcVRmUHZBaGZhdFdtc3dwR0tqcDV6akhDMUI5TnNfV2xUcFlZODRlYjNMYXA4TW9wTGxQdFllU0gtZlZobnRHM2trT2VDRlR6RmUwUUpvRzB6SlROckxOR3NqMWlRUk0?oc=5"
-        },
-        {
-          "title": "RGC EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Regencell Bioscience (RGC) Investors of Securities Class Action Lawsuit Deadline on June 23, 2026 - Sahm",
-          "title_zh": "RGC 股权诉讼提醒：Faruqi & Faruqi, LLP 提醒 Regencell Bioscience (RGC) 投资者证券集体诉讼截止日期为 2026 年 6 月 23 日 - Sahm",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUGh3MjFWTzdEcGpCcjdhWWJSQVl6SkdsZzEwc0hkYUpTdG0wVm1lSGZ1VFZzNEdxSlpHd1Nna0tuR0ZPOVNCX290Y2hOVFJpUTZ4cFM0cjFkZTdkQjJyclM3NWRVeWg0LTRibFpVYmo4T3UxZENPc2hGMDFqQjh0SkVJZ3d2TEw2dnlhLUh1M3A4b2NOX0FIQkt1dm51ZXFsWGwzNHMxMHFRbFl5WElzV1FLSUctRUYtcFpFVktGTW5XQXlhYVZJUlJuQ0tEb3h3dWhxOGs0SXozQnh5RWxRN18tX0IzdVdla0JrVjZBY2xyMFg1Ql9Xand4eUlYb1ZBY0dPVks4NUYtNkFGaUVfeVFvXzhsRURaLXUtWDAxdVZmZGg0aUE?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NVTS",
-      "name": "Navitas Semiconductor Corporati",
-      "price": 18.68,
-      "change_pct": -12.72,
-      "change": -2.72,
-      "volume": 15369523,
-      "name_zh": "能源半导体公司",
-      "spark": [
-        20.495,
-        19.9734,
-        19.69,
-        19.88,
-        19.804,
-        19.6101,
-        19.445,
-        19.3209,
-        19.06,
-        18.81,
-        18.765,
-        18.7108,
-        19.11,
-        19.095,
-        18.99,
-        18.99,
-        18.93,
-        19.01,
-        18.82,
-        18.835,
-        18.72,
-        18.78,
-        18.72,
-        18.8299,
-        18.795,
-        18.615,
-        18.65,
-        18.6508,
-        18.745
-      ],
-      "news": [
-        {
-          "title": "POET, NVTS, SNDK Stocks Hit 52-Week Highs Today: What’s Driving The Rally? - Stocktwits",
-          "title_zh": "POET、NVTS、SNDK 股票今天触及 52 周高点：是什么推动了反弹？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSWxfSERyeEtHWTh0M2dKeW5UZzBCcVAwTHFWdGNWQlQ0dmNmODl5ZUJmLXFfbzM1Ym5icXpFM1JieUxXR1l2WE1Gbk1tanl6TzJWVGhwTk50anBQVm9LSENuYWJqVnBVd2VGYWZlcXg4ZG9uaWtqUzlxa1BZc0E1cTJIZm1peE40RjlQWDlHakduWW9OcmFXdmVFSzlPVUNsUlpCTWFmMF8wNndadFgtOVNJVkdVS0F1RTVBcllTdUxhUFphX2F6YWxyRGF2bG8?oc=5"
-        },
-        {
-          "title": "Why Is Navitas Semiconductor (NVTS) Up 84.9% Since Last Earnings Report? - Yahoo Finance",
-          "title_zh": "为什么 Navitas Semiconductor (NVTS) 自上次收益报告以来上涨了 84.9%？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmhPakNuTUdqSUFlTGFaNGZFcDI2bEFUdTVuRWc1MTYxSm9rUjFIcG5jeDNHdC1pUU1zRWFhQTNTM21KMUcyOG1fbU5VXzd0SEx3d2lSdHA5YW1nZkRkaDBNaEE1eEdUOTdfZFhSTUV3NVFaZ1JZa0Vwc0ZCejF6WnNJT1Nob2FuTGJIZWt4aFZUZ2ppMThuWWc1SW45YkE?oc=5"
-        },
-        {
-          "title": "Navitas (NASDAQ: NVTS) completes 9.84M-share earnout under merger deal - Stock Titan",
-          "title_zh": "Navitas（纳斯达克股票代码：NVTS）根据合并交易完成 984 万股盈利 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVBuQ19sR3BVbVBGQTZ0eGJ6aHNyTmo3cWVTUHVfQ0RwYmtQd1FLZnZaMUxaSjFUcEFIMjN6TE1MYjQyN1paVWw3bUgzQ1QtZkdyeUxsYzdqZkJOMndvcHZiMHBrSmtneElpNTRaUFF2Uk9DWkk2M0pEU3FGaWxkRnVvWjk3QTVWcFlndkhBV1VvWDZwT2hWQ2o3LVFYeXdESi1MVm1hbWt1bzlaUDViaV9NZVlidw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "SYRE",
-      "name": "Spyre Therapeutics, Inc.",
-      "price": 85.73,
-      "change_pct": -11.66,
-      "change": -11.32,
-      "volume": 2147678,
-      "name_zh": "Spyre 治疗公司",
-      "spark": [
-        85.0,
-        85.545,
-        88.0,
-        87.4975,
-        87.3,
-        87.78,
-        87.73,
-        87.5,
-        87.31,
-        87.16,
-        87.055,
-        86.44,
-        86.28,
-        85.905,
-        86.07,
-        86.23,
-        86.24,
-        86.085,
-        85.765,
-        85.78,
-        85.71,
-        85.28,
-        84.99,
-        85.64,
-        85.79,
-        85.54,
-        85.16,
-        85.64,
-        85.795,
-        85.78
-      ],
-      "news": [
-        {
-          "title": "Spyre Therapeutics Shares Slide Following Large Insider Stock Sales (SYRE) - Yahoo Finance",
-          "title_zh": "Spyre Therapeutics 股价因内部人士大量出售股票（SYRE）而下跌 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0h2VXNSX3NCQXBvaWNub2tqbHRGMFJaT2wyVXB0QnlpWmJZa3ZoNDlob2Q3cXVPQ3ZVa3JFUmlHd0FWV0pEOFk5TU1jaUoxYmFWak83RGhTV1paamhTQVlXRENXTThCcUtSbDdVMV9walVCcnJPWEF2dV9BeTg4NlIzQjJCc182VFhEMVdjRFlVeG1mTUtIYjFmdk44QVVqU25yRjlWSU5yUQ?oc=5"
-        },
-        {
-          "title": "Spyre stock falls after $2M insider sale (SYRE:NASDAQ) - Seeking Alpha",
-          "title_zh": "Spyre 股票在 200 万美元内部出售后下跌 (SYRE:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbld6bDVWNWpoUEFRMV9wVVA1RGFyQmIzcWRXMlJLSFByaG5USU9SSV9NNERMcmV2a1RYQUMyU3VOU0Z4OTVEVXRGRWxHOXNDYjZjUTc4YnpyT1ROeHlRU0tMNzZ2UU5wdVhJXzkzQXJsSU9FbVJ6OFBVRQ?oc=5"
-        },
-        {
-          "title": "Director at Spyre Therapeutics (SYRE) sells 20,000 shares under 10b5-1 plan - Stock Titan",
-          "title_zh": "Spyre Therapeutics (SYRE) 董事根据 10b5-1 计划出售 20,000 股 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDVBa2ZQZURUOEdHUmhMVnFpMjQtczhvQmViQkRWWEE5XzdpM1d3LTVzUXo5RFZkREZ2c0V2REhZTElHTjQydlIzdTBDWUwtV2JRV2NhNTNQOXd2Q3VBZENWRlBHNGZiM3Q5Smd2TWdGX3VMc2xWM3ljQ1VsMnJELVl6clZuTGxwV3BoU0xLWU5JSmlBNWFYLUVLLTIwUUZMdF8yM0hMQ1daUjJURWpsQXRzRHB6Vm8?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NG",
-      "name": "Novagold Resources Inc.",
-      "price": 6.38,
-      "change_pct": -11.57,
-      "change": -0.83,
-      "volume": 2457678,
-      "name_zh": "诺瓦黄金资源公司",
-      "spark": [
-        6.98,
-        6.845,
-        6.78,
-        6.92,
-        6.815,
-        6.89,
-        6.79,
-        6.79,
-        6.78,
-        6.7401,
-        6.725,
-        6.685,
-        6.7,
-        6.635,
-        6.645,
-        6.665,
-        6.62,
-        6.495,
-        6.45,
-        6.462,
-        6.4499,
-        6.45,
-        6.45,
-        6.445,
-        6.415,
-        6.365,
-        6.345,
-        6.36,
-        6.385
-      ],
-      "news": [
-        {
-          "title": "[10-Q] NOVAGOLD RESOURCES INC Quarterly Earnings Report - Stock Titan",
-          "title_zh": "[10-Q] NOVAGOLD RESOURCES INC 季度收益报告 - 股票泰坦",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFRNX2ktNFo2TFR6WHNwaC1PRzE2N0xQU09DMUpxN0RBNC16TE5CR3k0R3BoZkI3eGVnNHY2ODhXaGV1djEtdTZrbFRvbTlKVmV0SkJRLTA1LVJ0bFVmemkxd3dyeGdHdTVqZkt1akJfaDM3ZHNQaGo3ME40clF3RWtxRElLRWxKaVRmRzFFNGVENzBGWVhaSHZJTGlWNWhsVXpfU1Z3OXFtdndWOG95dDRHOA?oc=5"
-        },
-        {
-          "title": "Earnings Flash (NG) Novagold Resources Posts Fiscal Q2 Net Loss $0.06 a Share, vs. FactSet Est of $0.06 Loss - marketscreener.com",
-          "title_zh": "盈利预览 (NG) Novagold Resources 公布第二财季每股净亏损 0.06 美元，而 FactSet 预计亏损 0.06 美元 - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3VQdENyQXhJRVFVRWRjVUNsdmlWRllXMC1FMmRiak1VUF8xcEU4VzFRX09DZngzR1BGQ3BZLWFwR0xneUYyZDdCc2NxcUZTNW54OURUa2lodGhZakJzRFR4UjJiQ09VQXZwR01La3RuOHhjNTFBMENMQS1jN2drQTNlcldGU2VQTGZsWDhaTF9FbEhJWjlGVG5iVWdtQVZlbHNpQkxMNFVRZnJvc1ZhekRldHAzTnZmdThWa0YxMHAxWUJsVUZlelNNLUR4MVhuMDdXaWtyZTZjUUVMYzFMbQ?oc=5"
-        },
-        {
-          "title": "Novagold Resources (NG) Earnings Preview: Expectations Set at 7 Cents - GuruFocus",
-          "title_zh": "Novagold Resources (NG) 收益预览：预期为 7 美分 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREp0bzlXd1VCSmlxeXhjbFJuZ1RhMUJjN0FmdVJQbkQzeklzTmtSMW1JcGVidzBvb2J2TURzZXBXbzJUSlotNVAwdDB4SERKMGNfMHczRWxZVi1venMybGxtUV9kN0NkcUdleEYzRWcydzl3bi1NS3JFTFdOX0FKeTdONXJ1OVpKd0FVUXVlODl0Z25SUW5ZTnhLTk16Z3JVSlFyUkNfMHpyVl96dHZrVW5kcHBpTWRt?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VVX",
-      "name": "V2X, Inc.",
-      "price": 74.39,
-      "change_pct": -10.68,
-      "change": -8.9,
-      "volume": 615351,
-      "name_zh": "V2X 公司",
-      "spark": [
-        76.26,
-        74.785,
-        74.46,
-        73.77,
-        73.555,
-        73.385,
-        73.345,
-        73.415,
-        72.415,
-        72.5041,
-        72.45,
-        74.13,
-        73.76,
-        72.995,
-        73.925,
-        74.89,
-        75.4085,
-        75.415,
-        75.36,
-        75.095,
-        74.72,
-        74.775,
-        74.76,
-        74.24,
-        74.27,
-        74.52,
-        74.5123,
-        74.32,
-        74.395
-      ],
-      "news": [
-        {
-          "title": "V2X (VVX) Sees Significant Decline in Stock Price - GuruFocus",
-          "title_zh": "V2X (VVX) 股价大幅下跌 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFFHNFZSTEwzSEJvYTgwRlhVd3ZPWUloNUlZUlU3dFJ6SUZvZGpoWDZZWllla2lrcnNNWHk1a0VhMzc5QlZwS3Y3TEtlY1F3RnRXSWlldV84Si12VTlNRnV5dWloWEdablBpMzIteGhJTWlhTWZoSi1mLXNzSWtTODFwSFpZM1I3aTZ2QUwyZw?oc=5"
-        },
-        {
-          "title": "Is V2X, Inc. (VVX) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "V2X, Inc. (VVX) 现在是值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGR5OFhyWkR5WVBTZUhXOXViLW1PTXFWSWxabHJCQzJpMlZ3cXVxM3YzQmtHRjlDVlVEcTlrcXU4U2FPMW1td09jWWFQa1RudnFwcUdHRnd4dWFEY2VFaFplbTVST2ZxRWJzRGVrbkZfeE9haENJTjB4ZmFMaERuc0FNSU5LaXM3QmJJRHU0SFQ?oc=5"
-        },
-        {
-          "title": "VVX News | V2X INC (NYSE:VVX) - ChartMill",
-          "title_zh": "VVX 新闻 | V2X INC (纽约证券交易所代码：VVX) - ChartMill",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wM3k3Q0dIcjVXRDJXbktSMUlwVTlSd19oNTFOMVBJT0Uza1FLd0hENlU3N0lqdVVLdEtUYzhjdGVJYWZuWFpUc2dGMFhma0k2YmRwZTRueFJlZw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "INFQ",
-      "name": "Infleqtion, Inc.",
-      "price": 14.28,
-      "change_pct": -10.55,
-      "change": -1.68,
-      "volume": 13222528,
-      "name_zh": "变形公司",
-      "spark": [
-        14.83,
-        14.6052,
-        14.16,
-        14.4,
-        14.5072,
-        14.45,
-        14.26,
-        14.36,
-        14.2301,
-        14.045,
-        14.155,
-        14.26,
-        14.48,
-        14.305,
-        14.3,
-        14.335,
-        14.37,
-        14.4598,
-        14.41,
-        14.38,
-        14.315,
-        14.265,
-        14.235,
-        14.235,
-        14.26,
-        14.17,
-        14.155,
-        14.195,
-        14.285,
-        14.3
-      ],
-      "news": [
-        {
-          "title": "Infleqtion (INFQ): Social Media’s Favorite Quantum Stock With 10X Potential - Yahoo Finance",
-          "title_zh": "Infleqtion (INFQ)：社交媒体最受欢迎的量子股票，潜力高达 10 倍 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2JZQlZJMEtKaHBIMFh6eWxLY0pvR3I1TWdUeEc1VEdOaDBzTmxMQVdNZ2RVZlRJbHVsUnpJRGl5Q2Z6VzJIZHFXQThnRXhpNUJpNjd5QTdmaXc2d1h3a2psZzVFaDRwQ0tVNE4xRVRMVmE4QlcxZFdjd2RSNlZFeGxWS3NoZ19LbnZUb0tkUFlrUlh4WVloQzg5YzR4bW1XRjNUbw?oc=5"
-        },
-        {
-          "title": "What's Going On With Infleqtion Stock Wednesday? - Benzinga",
-          "title_zh": "周三 Infleqtion 股票发生了什么？ - 本辛加",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUYwamhET0VQcE92MEhSdzdad1RJM1dGWjF1WngwNnRkWTZLU1loY2lSbG80ZVM1c1JKaEtuT3hVNFQtSk96VHl4VVNMMHVfVkNhZUprUnB6YUJ0bzYxeUJ1ejRwLUJZRVA1MURoanRJTTFsWEZ5NnE2d2d4dElkdmdNMjZRTEYzcV8wV2QyNnFubWlTbldEeVMxVzhJYl82OUlDY1FKTXlrTXc?oc=5"
-        },
-        {
-          "title": "Top Infleqtion (INFQ) Competitors 2026 - MarketBeat",
-          "title_zh": "2026 年最佳 Infleqtion (INFQ) 竞争对手 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wTUwxY0dVUG5LVHMyZnR4dmNlay1UWWdaVGhoWHU4U0xZTHh1c2dSdDRseTFUQWM5NUM2ankzdDBFSXNxcGo2OThoanQ0N21mZTRtS0RSSmlUSnFfOTI1RTUzcUdSTXA2SVlzeWNDOHQzLWVyREtWem81TDB4Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "OUST",
-      "name": "Ouster, Inc.",
-      "price": 41.29,
-      "change_pct": -8.57,
-      "change": -3.87,
-      "volume": 2326106,
-      "name_zh": "奥斯特公司",
-      "spark": [
-        43.285,
-        42.125,
-        41.3,
-        42.33,
-        42.54,
-        42.16,
-        41.1,
-        41.49,
-        41.0,
-        40.31,
-        40.675,
-        40.86,
-        41.5572,
-        41.5176,
-        41.485,
-        41.665,
-        41.6,
-        41.88,
-        41.53,
-        41.3487,
-        40.945,
-        41.0508,
-        40.71,
-        40.9224,
-        40.975,
-        40.94,
-        40.78,
-        40.98,
-        41.483,
-        41.48
-      ],
-      "news": [
-        {
-          "title": "Ouster (OUST) Soars 14.4%: Is Further Upside Left in the Stock? - Yahoo Finance",
-          "title_zh": "Ouster (OUST) 飙升 14.4%：该股还有进一步上涨空间吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmVoY1o1SXk5Z1F4dEozNXZWWV9sU0ViRk81QlJaaTc5cUhTMWlXSGlSQXhXcXF2RktMUng5ekNrZnlpTXJmOW0zVXozal8zd1RLbE9rdmFwWUdmUExqVmZiLU9KVDFNSE1BNzlpVVBfSDZRZm0wU0VvbGJVbjV6UnhLbFJoYmJaTzRHZmdRdkc?oc=5"
-        },
-        {
-          "title": "OUST Stock Hits 52-Week High Today — What Is The Counter-Drone Partnership With ARGUS About? - Stocktwits",
-          "title_zh": "OUST 股价今天触及 52 周新高 — 与 ARGUS 的反无人机合作关系是关于什么？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFNtX2pSUVZWWE1ieFdWVU9KamhwUXpDcHljNEdVc3FpMUV3Zlc0SEhjLUM2a1ROZ3F5bzZlUjlmYmhXb1gzTUhPMEIwLXc2MDJkYVpGaE1ta2NXazQ5TUpUb1pjYVVDMWJwQzJMSjJfTHZVME5GTmp5dlBWMHhjeTF6STZPbmw0b2JXWmdOZ0psajlPUkV1TFZJWmY2YVpmU0NzX3pmYkk0MlRrWmZybnpqSEN2cXBMOEM1N0hteGJnN3ZFaVdyRFBYNE8ydw?oc=5"
-        },
-        {
-          "title": "Ouster Has Strong Execution, But The Stock Is Already Looking To 2028 (NASDAQ:OUST) - Seeking Alpha",
-          "title_zh": "Ouster 执行力强劲，但该股已展望 2028 年 (纳斯达克股票代码：OUST) - 美股指南 - 美股开户 - 港股开户",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXVfRXQ3cU1fc0xRYmFvejIyb2I1a2ZYdVJKbmJ6dzROUDJNVk9OejhQeFBhWG5WVjR0aVEySlE1UV95TFl6T0VzWkluSlpXQmpyUmlZUXhqZFRSUVYyUzBQZVUzSDdsUkxXVlRsbzhtSmxjZ2lEaE04RHpMdGVPRG16RGN6cTJ6aGZubzFGN1lKcVd6eDJlU3lrY2ZhbmhESUhocDQ0TDQ3U0xuUEE?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "WOR",
-      "name": "Worthington Enterprises, Inc.",
-      "price": 55.4,
-      "change_pct": -9.23,
-      "change": -5.63,
-      "volume": 160925,
-      "name_zh": "沃辛顿企业公司",
-      "spark": [
-        55.52,
-        55.615,
-        55.135,
-        56.3,
-        56.0,
-        55.3963,
-        55.77,
-        55.52,
-        55.58,
-        56.405,
-        56.135,
-        56.36,
-        56.13,
-        56.345,
-        55.95,
-        56.15,
-        56.47,
-        56.505,
-        56.505,
-        56.76,
-        56.52,
-        56.6,
-        56.2,
-        55.715,
-        55.335,
-        55.4,
-        55.35,
-        55.395,
-        55.46
-      ],
-      "news": [
-        {
-          "title": "New Worthington Enterprises (WOR) director reports zero common shares on Form 3 - Stock Titan",
-          "title_zh": "New Worthington Enterprises (WOR) 董事在表格 3 中报告零普通股 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGpjRFRzTHNXOXN3T0xLbU9wdlI5d1IxZ3dLS1lpN2puQUxyMVJIejBYS0lGQ0J5aVpKNW95QjN3ZzhUU3FfTWRZTUh0cTdEcGs4aXR2TDhnT19Wd01iaVdPQm5IUFBtdzJBdGpHMjRwTGxtWFBPRDUzUHR1UV9CTE16bzh1S0p3UnFIOVZGRVEtUGo4c082RjVkOE02Z1JLalFCYjgtOVMtcE5FR0ZrSjQ4NlM4WUJvcHF1Um9jTDdEc24xNGxuWTdn?oc=5"
-        },
-        {
-          "title": "Is Worthington Enterprises Inc (WOR) Fairly Valued After Q4 Earn - GuruFocus",
-          "title_zh": "沃辛顿企业公司 (WOR) 在第四季度盈利后估值是否合理 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVM0bUUzcXU2S0lhSF9hOWRlR0I1eWU4LVBocjBtWWMwdmhLd0ZiNDNYN01TR2Qzd09VcFE2eEpJNUdfUEt3a3hBdkR5d2tSb2V5aHZ3X3lPSTRVemlfU1hlOHhYLTE0WU5LSzM4VmxzSEpOM2VQbEpJcVVXWWxINjAxQUhpVjUxdU05TE9HYTdwaVg5bUZoNkx0WVd2eEc1aXdsdnhycFk5Nk9QLUh1S2lhR2xRTTVWcXgyQVk3aTdyYkFUWk9OTXpCMmt3ZUJXa2RNbVVFb05sWlJTX3cxZzVCb0VwVDJFMHVrY2o2c1FQODJJT2c?oc=5"
-        },
-        {
-          "title": "Worthington Enterprises (WOR) Stock Could Be 19% Undervalued Before Earnings And 2027 Guidance - simplywall.st",
-          "title_zh": "沃辛顿企业 (WOR) 股票在盈利和 2027 年指引之前可能被低估 19% - Simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSjliOGgyWlhUOXQ4Ym1KUDBINzc0WEZQX3JpWFRMTjJDbkxySktib2VZSWwzcVpSelZOR0ROT1ZRMkJrOHFZQjllNlRfd3Nib2JET0wzZTAyVWZCVkt6SGx5OWRxdjltajFTQTZaVlhkdmdVYW5GWUZYQW5pcV84aFBlRzA2eFctR0Nxd0x2VE9EVUZyaWxYVUtjeHhuU01KOFdQV3J0Mmo3eWcwb1lxNmQ1ZElXb3RCODl4TVBzb0JVYW9NcGM1X1ZGMk43bm9senhySzc4VUpaUmxY0gHiAUFVX3lxTE5qR1B6QmE0bjQxQ2lXQ3NDb3BlTXpNMGo5NEgzVmVqa0p2UjdNRXpYb3RfYUo0a1oza2dYVnlXUDcxR05KdjBDTG9HVG1HLVY1SVktRUN5Vm1PaG5BZDRLbUE2MlJiMVhWd1ZtdGhkaUlzT25MOVQ2YWw0dGVOdFBCU0V5ai1nUENMelFTVkxHMENwTWRLTkxZWThibmpWcl91SEZ0Tk1ZX2Vzcy16ZzdxdV8xdGtSM1AtNldBS2M4QW4yd0NXaXp5OVBmMl84emVobjVnLTJKWTdFU3M3ZkdublE?oc=5"
         }
       ]
     }
