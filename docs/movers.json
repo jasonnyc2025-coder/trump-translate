@@ -1,13 +1,73 @@
 {
-  "updated_at": "2026-07-01T17:33:53.314838+00:00",
+  "updated_at": "2026-07-01T19:22:40.398184+00:00",
   "us_gainers": [
+    {
+      "symbol": "DSC",
+      "name": "DSC Holdings Ltd.",
+      "price": 7.71,
+      "change_pct": 40.8,
+      "change": 2.19,
+      "volume": 478748,
+      "name_zh": "DSC控股有限公司",
+      "spark": [
+        5.675,
+        5.51,
+        5.4047,
+        5.445,
+        5.825,
+        6.0,
+        6.3874,
+        6.7995,
+        6.9499,
+        6.565,
+        6.45,
+        6.55,
+        6.88,
+        7.29,
+        7.4756,
+        7.125,
+        7.29,
+        7.3115,
+        7.2478,
+        7.45,
+        7.275,
+        7.295,
+        7.345,
+        7.265,
+        7.3375,
+        7.41,
+        7.42,
+        7.46,
+        7.83,
+        7.4501,
+        7.72,
+        7.705
+      ],
+      "news": [
+        {
+          "title": "Long term debt to total equity ratio of DSC Holdings Ltd. – NASDAQ:DSC - TradingView",
+          "title_zh": "DSC Holdings Ltd. 的长期债务与总股本比率 – 纳斯达克：DSC - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXRuR1lYdnNTT2JhZDFWNk1PTEVtcnFnZUVaWWlUeG1VRVhYcmhIRlBtczJpU0xaMlFseTJUOGZyYnl4SW0zUlc5QjBHZUt0LWtVUWVIODg5MndkT21XTHg3ZzEyTWZaeENGWEJjUEZuYVVwckFYNk84dzFMakxIWjBvTEhocFloalQ3ODhNZE80N0RYRnFSSFNlY0g5ODBxbjZ4Qm5nVnE?oc=5"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "symbol__ 股票报价和预测 - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5USEN1YU5peXN5V2dMVjFMMUdCMENvaFpFSGtkcDNhejdlRTJZaDBlSFhvcUVtQkxqSWJiM2RnUEZxQ1VTNWFkOEVHTVBmMDA?oc=5"
+        },
+        {
+          "title": "DSC Holdings Ltd. Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
+          "title_zh": "DSC Holdings Ltd. 敲响纳斯达克股市开市钟 - Nasdaq",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2FQM08zMHNuRDFKVUwtY1NSY3dqaG52ZjVERHkzV19EUTlqcVdUVUU2dlpFVHFDZ1BLT1pjMnFwbUNhY0xHalRtbi1zTlN2NDhNWF9ZalJoRm5sQXBkN193UHF2YjFKNVlJVUFMdW5ORzFiZFNuS0toVjE0UWpKR1lZTWUyQUg0VHNwZGx3?oc=5"
+        }
+      ]
+    },
     {
       "symbol": "RGC",
       "name": "Regencell Bioscience Holdings L",
-      "price": 8.38,
-      "change_pct": 37.6,
-      "change": 2.29,
-      "volume": 1958861,
+      "price": 8.12,
+      "change_pct": 33.38,
+      "change": 2.03,
+      "volume": 2352270,
       "name_zh": "Regencell Bioscience Holdings L",
       "spark": [
         6.175,
@@ -33,7 +93,18 @@
         8.38,
         8.4633,
         8.45,
-        8.41
+        8.41,
+        8.055,
+        8.155,
+        8.2,
+        8.3,
+        8.2088,
+        8.22,
+        8.13,
+        8.13,
+        8.1595,
+        8.02,
+        8.0004
       ],
       "news": [
         {
@@ -54,129 +125,44 @@
       ]
     },
     {
-      "symbol": "DSC",
-      "name": "DSC Holdings Ltd.",
-      "price": 7.27,
-      "change_pct": 31.99,
-      "change": 1.75,
-      "volume": 324047,
-      "name_zh": "DSC控股有限公司",
-      "spark": [
-        5.675,
-        5.38,
-        5.51,
-        5.55,
-        5.4047,
-        5.44,
-        5.445,
-        5.5999,
-        5.825,
-        6.1,
-        6.0,
-        6.0,
-        6.3874,
-        6.5743,
-        6.7995,
-        6.9201,
-        6.9499,
-        6.745,
-        6.565,
-        6.48,
-        6.45,
-        6.49,
-        6.55,
-        6.4003,
-        6.88,
-        7.3398,
-        7.29,
-        7.3985,
-        7.4756,
-        7.13,
-        7.125,
-        7.34,
-        7.29,
-        7.28,
-        7.3115,
-        7.355,
-        7.2478,
-        7.4276,
-        7.45,
-        7.36,
-        7.275,
-        7.27,
-        7.295,
-        7.22,
-        7.3
-      ],
-      "news": [
-        {
-          "title": "Return on assets % of DSC Holdings Ltd. – NASDAQ:DSC - TradingView",
-          "title_zh": "DSC Holdings Ltd. 的资产回报率% – 纳斯达克股票代码：DSC - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUVPd0JhQWZHM0NsNVZONmVXVXIyd0E4dDhRMzJ3aE5Zamo4X2pib2s0V19kTE8tSUlJYlFQWkxiVEc4MlJqa244aGRuSFVuOU9HQ2hNWUJGMUlRRE1hcFQ5WjFTTDdkbDNmT0xuZDEwR0VNUm5pYkJXVGhDVkdYcm9Qb3VMdjMtYkljbmdJUnFOVzExT2dTcnAtb3ZiZw?oc=5"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "title_zh": "symbol__ 股票报价和预测 - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5USEN1YU5peXN5V2dMVjFMMUdCMENvaFpFSGtkcDNhejdlRTJZaDBlSFhvcUVtQkxqSWJiM2RnUEZxQ1VTNWFkOEVHTVBmMDA?oc=5"
-        },
-        {
-          "title": "DSC Holdings Ltd. Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
-          "title_zh": "DSC Holdings Ltd. 敲响纳斯达克股市开市钟 - Nasdaq",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2FQM08zMHNuRDFKVUwtY1NSY3dqaG52ZjVERHkzV19EUTlqcVdUVUU2dlpFVHFDZ1BLT1pjMnFwbUNhY0xHalRtbi1zTlN2NDhNWF9ZalJoRm5sQXBkN193UHF2YjFKNVlJVUFMdW5ORzFiZFNuS0toVjE0UWpKR1lZTWUyQUg0VHNwZGx3?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "FRHC",
       "name": "Freedom Holding Corp.",
-      "price": 154.33,
-      "change_pct": 18.29,
-      "change": 23.86,
-      "volume": 226637,
+      "price": 155.35,
+      "change_pct": 19.07,
+      "change": 24.88,
+      "volume": 261486,
       "name_zh": "自由控股公司",
       "spark": [
         142.17,
-        142.8755,
         143.04,
-        146.0,
         146.44,
-        145.4973,
         146.42,
-        147.99,
         146.0,
-        148.0,
         148.78,
-        148.3,
-        148.09,
         148.09,
         148.45,
-        147.67,
         150.62,
-        149.785,
         150.625,
-        152.06,
         152.07,
-        151.45,
         150.925,
-        152.615,
         152.335,
-        153.13,
         154.36,
-        154.23,
         153.865,
-        153.875,
         155.0,
-        154.14,
         153.12,
-        153.35,
         152.8183,
-        153.1785,
         153.59,
-        153.81,
         154.8,
-        154.57,
         154.91,
-        154.185
+        154.71,
+        153.2,
+        153.949,
+        154.045,
+        153.07,
+        151.9252,
+        152.26,
+        152.48,
+        155.35
       ],
       "news": [
         {
@@ -190,19 +176,19 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2hZNlBKVlh5dm9nYmZKZ1RNWDF5RWczVkNKU1dLaHVIRE9va1JqbF9YUTBibnJPVnMtVnpYM3dtNkFjV2s5VWJ3NzZHTGgzc2pPVzY5YkpZSE5LM3hOaExLMktRSk9Pa0w1SDhieEI3SllXZDdfVVQzUi13M1lNY1ZRZnNqc2lOYlMzd3JtM3p2SUk?oc=5"
         },
         {
-          "title": "Freedom Holding Corp (FRHC) Reports 2026 Earnings - Business Wire",
-          "title_zh": "Freedom Holding Corp (FRHC) 公布 2026 年收益 - 美国商业资讯",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25ZeFNaVnVsOWJVdmlGTVpvV1BnQ251VWdfZkYwNmdCRXpWbXBxQkxYV0pDalpFc1laakhVd0ZBZnpuVGx4bHQ2aE9nWkxZQ01pNzFucUhZWGZWRTdvbUk2YmxvZG8xeEhYb1JMSlBSS3FWZGN2NzR4Vi03ejZKdGZvRHVWOVFzWnJiaHViZUkyVWVoSTRWVUJCRHRSTmthNm9pUzc5MA?oc=5"
+          "title": "Freedom Holding Corp. Receives BRSA Approval to Acquire Turkish Bank - TradingView",
+          "title_zh": "Freedom Holding Corp. 获得 BRSA 批准收购土耳其银行 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVB5TFJsaHAxZHpPR1dleC0wNWExbVhKdlNXWDFIX3JXbmVnSkpiZzBFdWpqQl8xc0pZQWs1OHU2TFZ1a0VMQmExd1JhemhBZzdpWEdvdVdxakNCc0FSaGxhSXYwal9xb0loNjc2OGdwUW9iQVYxSUFNZ2dqQ29KMDR1VlZyWDN2eEpYNjE0clp3N0FtbmM0NFFHWjZtTjJoVHZqQXhGNkpQTTdNd2tEaTl2aWRrXzUzMDBaUDZzM2lqQjUtSi15dw?oc=5"
         }
       ]
     },
     {
       "symbol": "RDDT",
       "name": "Reddit, Inc.",
-      "price": 196.74,
-      "change_pct": 13.34,
-      "change": 23.15,
-      "volume": 4576814,
+      "price": 196.98,
+      "change_pct": 13.48,
+      "change": 23.4,
+      "volume": 6888044,
       "name_zh": "雷迪特公司",
       "spark": [
         179.32,
@@ -229,139 +215,44 @@
         192.9,
         194.36,
         197.1,
-        196.7075
+        196.48,
+        197.41,
+        196.91,
+        200.3966,
+        198.655,
+        200.025,
+        199.37,
+        198.7499,
+        197.83,
+        197.31,
+        196.85,
+        197.26
       ],
       "news": [
-        {
-          "title": "Reddit Stock Falls 28.2% in 6 Months: Should You Buy the Dip? - TradingView",
-          "title_zh": "Reddit 股票在 6 个月内下跌 28.2%：你应该逢低买入吗？ - 交易视图",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFhXTXRrcjQ3QXdoMEFIVVdienB5VklScGpOZzA4LVpCYWNxeXE0Sl9mN0o5aXdYRVgwaWM5OEJnTU9XYzhvUmZfSWg4VHZ4NDIzQ2YyMUtwY001eWtoM3cxMURNWDc5dWVHQ2xHRkZfd1kzZF93RGhJQ0FZY2RJVnppcjFMT3pRclE3OHRPMDNwWU1MUHJGWHFMNWZidTdNRVBBTC1CT3g0M25OYUlCYUVBOE8?oc=5"
-        },
         {
           "title": "RDDT Stock Whipsaws As Traders Target Reddit’s Momentum - StocksToTrade",
           "title_zh": "交易员瞄准 Reddit 的势头，RDDT 股价大幅下跌 - StocksToTrade",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FN0xXRXZQSklpMnM1UWhRbThqTnRsQVdGQzhSYXAwT3dkQzV6ODExQUdEakhVNC1LcWtjZ0lYSjRoMGdOZ0xLUVVBaDJHanhFS0NacXZLNnprWHBYdUpWNmVZbXJja29BaWJtbTNEUG4?oc=5"
         },
         {
-          "title": "Peregrine Capital Management LLC Has $28.99 Million Holdings in Reddit Inc. $RDDT - MarketBeat",
-          "title_zh": "Peregrine Capital Management LLC 持有 Reddit Inc. $RDDT 价值 2899 万美元的股份 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOemJnbWMzWUd4VlF5QjdIMl84Tks3SDZpODNXOGg3cmM2MmpPenpsbUdhVENWeW1GZzBlal9UYW1NR3dJQnZpTkYwOFVrZ2dMcHlSUlBYbEVtY1pPd25iOC1qS0pPMnlEdE9fd0F5X2F5R1hJczM2MkZ6WnEzTjhoV0xkMEtRU0hmYkYwN1otSW9EOTZkbmc3bnBMMjBrbThzSlZrVlo4bHRlajJybXppeld0LTRlUjlJTW9zN2hnU3liWGl2MGtWckF1eVJuZEtpNTdsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "MSTR",
-      "name": "Strategy Inc",
-      "price": 98.28,
-      "change_pct": 13.06,
-      "change": 11.35,
-      "volume": 22109710,
-      "name_zh": "策略公司",
-      "spark": [
-        89.39,
-        91.715,
-        92.3761,
-        93.94,
-        95.745,
-        94.705,
-        94.065,
-        93.94,
-        93.97,
-        95.6876,
-        96.3,
-        97.37,
-        97.24,
-        97.065,
-        96.41,
-        97.6699,
-        97.95,
-        97.54,
-        97.7652,
-        98.0838,
-        97.31,
-        97.13,
-        97.1099,
-        98.245,
-        98.2801
-      ],
-      "news": [
-        {
-          "title": "Why Strategy (MSTR) Shares Are Plunging Today - Yahoo Finance",
-          "title_zh": "为什么Strategy (MSTR) 股价今天暴跌 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUZ5Q2JwZTRnNnJyVU5HTDVmMWtWSVZUb2ZxVVpUSXh2N1pncWh1WHlsNmd5dVQ0eThuTXJ5d045eHl2Z2xzQWZ4dnNZT0RkMTl3bzBudVBxYTRTZTlfbHJUczFzMEw4bDdYQVY4MGN4N3M5akpBLXhKX3hmVEViX2d3d29NSU5tbWs4d2ZfVEswR0Z6TkhjU29aemhualk?oc=5"
+          "title": "Reddit Stock Falls 28.2% in 6 Months: Should You Buy the Dip? - TradingView",
+          "title_zh": "Reddit 股票在 6 个月内下跌 28.2%：你应该逢低买入吗？ - 交易视图",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFhXTXRrcjQ3QXdoMEFIVVdienB5VklScGpOZzA4LVpCYWNxeXE0Sl9mN0o5aXdYRVgwaWM5OEJnTU9XYzhvUmZfSWg4VHZ4NDIzQ2YyMUtwY001eWtoM3cxMURNWDc5dWVHQ2xHRkZfd1kzZF93RGhJQ0FZY2RJVnppcjFMT3pRclE3OHRPMDNwWU1MUHJGWHFMNWZidTdNRVBBTC1CT3g0M25OYUlCYUVBOE8?oc=5"
         },
         {
-          "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
-          "title_zh": "Strategy 宣布数字信贷资本框架、美元储备政策、STRC 股息政策、数字信贷和 MSTR 回购授权以及 BTC 货币化计划 - Strategy",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5"
-        },
-        {
-          "title": "MSTR Stock Pops As New Capital Framework Targets Buybacks And BTC Liquidity - StocksToTrade",
-          "title_zh": "新资本框架以回购和比特币流动性为目标，MSTR 股票上涨 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hb2FFUzFZNHNDM3B3YW5RNXVlWVN4Q3g5VXF1QVp4OUJ6SmFJMEFFVXNNbkMya1ZtbEQzdGU2akN4OFJDTWgtMjV3c3h2Zi11UUtCVk5FRTlsMnZXS0VYc0dHMWhLemtFX1hoS3JYRTJidms?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VNET",
-      "name": "VNET Group, Inc.",
-      "price": 9.02,
-      "change_pct": 12.19,
-      "change": 0.98,
-      "volume": 6203489,
-      "name_zh": "互联星空集团有限公司",
-      "spark": [
-        8.34,
-        8.34,
-        8.54,
-        8.545,
-        8.53,
-        8.74,
-        8.895,
-        8.775,
-        8.775,
-        8.765,
-        8.75,
-        8.835,
-        8.855,
-        8.815,
-        8.86,
-        8.995,
-        9.01,
-        9.025,
-        9.085,
-        8.95,
-        8.985,
-        9.04,
-        8.99,
-        9.01,
-        9.04
-      ],
-      "news": [
-        {
-          "title": "Is VNET Group, Inc. (VNET) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "VNET Group, Inc. (VNET) 现在是值得买入的好股票吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUW9kOFVoMWk5WGZUdlo4TnJxUHdGbkgxR2J4U0NTaHk5cWpLeE5wY09feXBEWXlJazRaQ2J4VGVzNkttM1RUZzEySGpMZEoxZTEwai0yd1ZURnpkeHh0bXJVRGVGMnJOTldjdDJ4TGl5VWhuWXpOSmpTTUJvLURQeEtoNXV2MzduVzRqdkZJN3AzYzA?oc=5"
-        },
-        {
-          "title": "FACT Capital, LP's VNET Group Inc(VNET) Holding History - GuruFocus",
-          "title_zh": "FACT Capital, LP 旗下 VNET Group Inc(VNET) 控股历史 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdnhzUnlwUFR6bW9abnZkUk84SXVWUmlGTWo5dF9IUUIyZTZSWEdDZGJNeVlac2lqbDVHaEdfNEk2YWZLckxjdS1PTjZyV0Y4emZTS0o2TU9CVFNPcmM2cjYwQ1N0MDgzY0JBeVVhRDBLb09k?oc=5"
-        },
-        {
-          "title": "Price to sales forward of VNET Group, Inc. – NASDAQ:VNET - TradingView",
-          "title_zh": "VNET Group, Inc. 的远期销售价格 - 纳斯达克:VNET - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZE5SZlc2bEd0SkE0dHpLUE1US3BGTVByLWREaGhiY3dkUlFWb1VnWGdBZU10eWpUVUxLSVlnc2pIWDh5RXgzNW1icFp0dDlFY2lOcDRyZkZfZ3M5NDFRMWlLNXYtdm56d2VzVjhVRUZSMHJIU3JOOHBqeGNrN1pyQmJXem5mSFRwcTdoZEFUaHY4OF8xSzlrTktOVnZ5UQ?oc=5"
+          "title": "Reddit (RDDT) Stock Weighs DCF Upside Against High P/E After Volatile Price Moves - Yahoo Finance",
+          "title_zh": "价格波动后，Reddit (RDDT) 股票相对于高市盈率而言 DCF 上涨 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlduM3FnUjNiNHdLVEdvcUoyWjdIY204TWFoWEV3enZKVkdkaWlnbVNfb3hmY2g4ZmRFeE10TDJWU25TdFdvLXotcGR0Z1JsLW9PWU1NYVpTLTBTWHB6MjF5bkxMTk91VDFpYjZqMHRLeDZJWUhjNDVTREtXVXdLOVBfT01NLWw0eXB6clpBemt0aWFPci1qSw?oc=5"
         }
       ]
     },
     {
       "symbol": "GH",
       "name": "Guardant Health, Inc.",
-      "price": 168.04,
-      "change_pct": 12.01,
-      "change": 18.02,
-      "volume": 3221085,
+      "price": 170.44,
+      "change_pct": 13.6,
+      "change": 20.4,
+      "volume": 4889949,
       "name_zh": "卫士健康公司",
       "spark": [
         158.49,
@@ -388,7 +279,18 @@
         165.73,
         166.15,
         166.755,
-        168.1
+        168.19,
+        169.06,
+        169.99,
+        170.93,
+        169.49,
+        169.885,
+        169.19,
+        168.72,
+        170.19,
+        170.665,
+        170.69,
+        170.435
       ],
       "news": [
         {
@@ -402,19 +304,267 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fcnlYenhoeDRBYy1TdW1UOHZQYjE1S0Z6WktvX1JkWHZfVWlGSUNiZ1hDMm03VmVtT3JZR2xxNDJYWUdqc1EwMWpHVkxsSEFHUHNNN2EycWdVVENMY0FrcU9YeVBOLUNjbk9xS3JNTDQtc25OWWV6OVFn?oc=5"
         },
         {
-          "title": "At US$154, Is It Time To Put Guardant Health, Inc. (NASDAQ:GH) On Your Watch List? - Moomoo",
-          "title_zh": "股价为 154 美元，是时候将 Guardant Health, Inc.（纳斯达克股票代码：GH）列入您的观察名单了吗？ - 莫莫",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEZGUkgxeUIyNDkwTGs0Q0hITXB5Ti1lbzc3dS1NMTdibVQwUGN0YzMwRE93M2ctcDRyd1dGLXhoLVp6RzJnN2xOUTRJQml3Yy1YazNUdFlKUmY1Vmo5WnE4QnU2dVFnVjV3RV9jbFBmV3ZJTHIwTjRJWnJJSUQ2N05qQ2hiWTJuVWtMQXl3?oc=5"
+          "title": "UnitedHealth Group Now Covers Guardant Health’s Shield Blood Test for Colorectal Cancer Screening - Stock Titan",
+          "title_zh": "UnitedHealth Group 现在承保 Guardant Health 的 Shield 血液检测用于结直肠癌筛查 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbC1qWnRta2J3eTFSZGxXSEZEclFSSElSRllpM1lUZ0lyMTB4RnpjRnQ0WGVhajc2UkxtNjNjcDNGTm8wakFlUWFTSHRSNjZJdG9vNWxIbmJ5ZThoMzhuQWNNbFRTYUVUX3Q4TThKUVBXUXZGQkZSemFZQkd3Zk9mWVNSYmJWX2t1dmdLdkZuTEMta2pHcGg3YU1Wck9mNHBudnhrNkRtYWstZFVwQTVRSDB4VjJGbmp4ekRj?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "VNET",
+      "name": "VNET Group, Inc.",
+      "price": 9.05,
+      "change_pct": 12.56,
+      "change": 1.01,
+      "volume": 7201408,
+      "name_zh": "互联星空集团有限公司",
+      "spark": [
+        8.34,
+        8.34,
+        8.54,
+        8.545,
+        8.53,
+        8.74,
+        8.895,
+        8.775,
+        8.775,
+        8.765,
+        8.75,
+        8.835,
+        8.855,
+        8.815,
+        8.86,
+        8.995,
+        9.01,
+        9.025,
+        9.085,
+        8.95,
+        8.985,
+        9.04,
+        8.99,
+        9.01,
+        9.03,
+        9.045,
+        9.075,
+        9.075,
+        9.06,
+        9.065,
+        9.055,
+        9.015,
+        8.9707,
+        8.98,
+        9.035,
+        9.055
+      ],
+      "news": [
+        {
+          "title": "VNET Stock Jumps As China Unleashes $295B Data-Center Buildout - StocksToTrade",
+          "title_zh": "随着中国斥资 295B 美元扩建数据中心，VNET 股价上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aVkNqVmtBYW01clRibDIxbTlYYUh3QmtOZXlSaWllcElZbGphTUdSb2xJanlKVUhUamhWcTByVFA3cVRkeG1BREdRUFo2bGF4Qlc0aGdqTmFockVXdmdnWGRGdUxJS19lZ25VcEppdUJ6ZGJUaEE?oc=5"
+        },
+        {
+          "title": "Is VNET Group, Inc. (VNET) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "VNET Group, Inc. (VNET) 现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUW9kOFVoMWk5WGZUdlo4TnJxUHdGbkgxR2J4U0NTaHk5cWpLeE5wY09feXBEWXlJazRaQ2J4VGVzNkttM1RUZzEySGpMZEoxZTEwai0yd1ZURnpkeHh0bXJVRGVGMnJOTldjdDJ4TGl5VWhuWXpOSmpTTUJvLURQeEtoNXV2MzduVzRqdkZJN3AzYzA?oc=5"
+        },
+        {
+          "title": "FACT Capital, LP's VNET Group Inc(VNET) Holding History - GuruFocus",
+          "title_zh": "FACT Capital, LP 旗下 VNET Group Inc(VNET) 控股历史 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdnhzUnlwUFR6bW9abnZkUk84SXVWUmlGTWo5dF9IUUIyZTZSWEdDZGJNeVlac2lqbDVHaEdfNEk2YWZLckxjdS1PTjZyV0Y4emZTS0o2TU9CVFNPcmM2cjYwQ1N0MDgzY0JBeVVhRDBLb09k?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "OSCR",
+      "name": "Oscar Health, Inc.",
+      "price": 31.9,
+      "change_pct": 11.85,
+      "change": 3.38,
+      "volume": 4914331,
+      "name_zh": "奥斯卡健康公司",
+      "spark": [
+        29.2476,
+        29.575,
+        29.625,
+        30.275,
+        30.61,
+        30.685,
+        30.61,
+        30.81,
+        31.01,
+        30.91,
+        31.22,
+        30.9899,
+        30.8615,
+        30.78,
+        30.9,
+        30.99,
+        31.06,
+        31.265,
+        31.495,
+        31.4763,
+        31.3999,
+        31.5861,
+        31.535,
+        31.7899,
+        31.78,
+        31.71,
+        31.7606,
+        31.915,
+        31.717,
+        31.6,
+        31.76,
+        31.72,
+        31.77,
+        31.82,
+        31.895,
+        31.8801
+      ],
+      "news": [
+        {
+          "title": "Oscar Health (NYSE:OSCR) Stock Price Up 8.1% - Should You Buy? - MarketBeat",
+          "title_zh": "Oscar Health (NYSE:OSCR) 股价上涨 8.1% - 您应该购买吗？ - 市场节奏",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDNEZl8zT1VpUGZDZFZLbjNPMy1MYzJZZFJxdTV3QmhhVWtKY2dCWGNrQWhDMHV3Sk1QdkpwSjFRX2ZwRjZ2NjJiR2xmckgxd2dPdnV4Sm9LZkphOFBCbWFzOUFtZDhJcDZPUXF6Zkhzb3haV19jcXVsdGd3OVJtUnpyNkNESi1DdWUxY0dlR05UR2hRaEhfdmgyNzM1ck9rV3d5TmM0eVM1VFNa?oc=5"
+        },
+        {
+          "title": "Oscar Health Inc (OSCR) Stock Down 3.2% but Still Overvalued -- GF Score: 79/100 - GuruFocus",
+          "title_zh": "Oscar Health Inc (OSCR) 股价下跌 3.2%，但仍被高估 - GF 评分：79/100 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlNwMC1lc3o2RFl4eFVJZHpFM3g4UGRkb29BUFJIeDdYOUZiVTFGNXJweWtnTFlBTjNUSndHMm8zVTlFbElBdl85eXJUN2RfTF80QnlmRGtWdDJZR3FFMEY3aG9pblJRZmZ2SGRnY0F5UHhqSlRBUU9OeVBXVG9UOFhhdzh2QXRhd3VaMHZGNEpMdVFFY2M3bmVjYzhCSUNkMUZaU2VCOUtTWXVrMU1r?oc=5"
+        },
+        {
+          "title": "Health Insurance Providers Stocks Q1 Recap: Benchmarking Oscar Health (NYSE:OSCR) - StockStory",
+          "title_zh": "健康保险提供商股票第一季度回顾：奥斯卡健康基准 (NYSE:OSCR) - StockStory",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU1l0ZTdaWGRjak1McjVkNUQweWEtNXpZLS1GRU1aRDR5MzFPbVNMVWo3bW5kZ3ptMXVTelVyVFpVMnBaUHZ4U3lWY2hoQ3dQWkprOHBCOWdxMWNRSFdFRGUteHBWc0p2VHFjWGdaX2pqTmM1dlpRUUFfaEpaTnNJV1U0aFBFMFNzZUZjb2dlRkxhLWJOWHI4UkNvcjVtdTQ5Yy1fdmNoTURfMVlOM1Z6bUZHNnlqWFpCaVpHSVpTdzlCQm9xb0VUdVNQcldlNDA?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MH",
+      "name": "McGraw Hill, Inc.",
+      "price": 10.57,
+      "change_pct": 11.62,
+      "change": 1.1,
+      "volume": 1289268,
+      "name_zh": "麦格劳希尔公司",
+      "spark": [
+        9.8,
+        9.75,
+        9.915,
+        10.0,
+        10.07,
+        10.27,
+        10.25,
+        10.29,
+        10.3,
+        10.355,
+        10.42,
+        10.535,
+        10.62,
+        10.444,
+        10.525,
+        10.51,
+        10.49,
+        10.48,
+        10.44,
+        10.43,
+        10.46,
+        10.43,
+        10.41,
+        10.44,
+        10.45,
+        10.45,
+        10.465,
+        10.44,
+        10.43,
+        10.48,
+        10.47,
+        10.47,
+        10.48,
+        10.47,
+        10.48,
+        10.575
+      ],
+      "news": [
+        {
+          "title": "Is McGraw Hill, Inc. (MH) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "麦格劳希尔公司（MH）现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNkZ4d2FrWlIwUTJyWnhmb05OeElvRHczdzZGWHg0T1IwQnVoc2JEejZSSVZhNWtCMGRjdVNOSy14Sm9GbVljUzByUzUzelA0RlhROE4xTXN5QVJ2MzZBcGp2b1p2OFphZDVKTUJ0QkJuOUI5d1c1VkxIQU9wTVRBZ1dJa0hlQ2NxaFYxYWk0RzhMQQ?oc=5"
+        },
+        {
+          "title": "Price to earnings forward of McGraw Hill, Inc. – NYSE:MH - TradingView",
+          "title_zh": "McGraw Hill, Inc. 的市盈率 – NYSE:MH - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmZCOXBPWjdHNGFKN3c2VmtFVkdpdzB5Y04ydDBJaU5vR3dzVDh2V3dJVGtmUU9kbVFjVGpRSWU3WjQzUE92X2Y2TVdsMjNNSUgzdlo3c3dvVFpQRGRsQjVvR0R0akZSQlN4Qy1kXzdFOFhEaUhhYkFUQUJwb0dLV3dmb25NZjJ3bFhjeUlpU2NLVWlOZ3pvZEV2bE0?oc=5"
+        },
+        {
+          "title": "McGraw Hill adds ALEKS tools for grades 4-5 and Calculus II - Stock Titan",
+          "title_zh": "McGraw Hill 为 4-5 年级和微积分 II 添加了 ALEKS 工具 - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmV6OEcyUVJJRi1pX1hYdno3NGVmN1FGeWRPcUkxeGN6X1hCRzFaM0VSV2JUZHVFYzNSbVB1RW42NTFucmhkWkdiQmFZYkxDMnkwSUNqVWI2Y2Rfd2FHSWRmUkRTazBXWGxSZWFxYzBDdWFBelRjbWZyZnJFd25IODZBY0gwTUpOQzBSSURUdm9FNHBacGsyWjNtd0lNdFVJZG10aQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MAAS",
+      "name": "Maase Inc.",
+      "price": 14.51,
+      "change_pct": 11.58,
+      "change": 1.51,
+      "volume": 55641,
+      "name_zh": "马斯公司",
+      "spark": [
+        13.0,
+        13.0,
+        13.175,
+        13.56,
+        13.16,
+        13.71,
+        13.53,
+        13.54,
+        13.11,
+        13.1,
+        13.25,
+        13.5,
+        13.86,
+        13.665,
+        13.805,
+        13.805,
+        14.21,
+        13.87,
+        14.065,
+        14.06,
+        14.24,
+        14.53,
+        14.505,
+        14.38,
+        14.54,
+        14.54,
+        14.5,
+        14.505
+      ],
+      "news": [
+        {
+          "title": "Price to sales forward of Maase Inc. – NASDAQ:MAAS - TradingView",
+          "title_zh": "Maase Inc. 的远期销售价格 – 纳斯达克股票代码：MAAS - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQS1xVUtCVGJTT240QWdQNW5PY2lTOERSY21tTFBYdDctbTZKY1Z3b25RTDdyeTl4UGVDQXNpWTRnVEdCTlQ0TzFjQmMxM0lzTTM3LTkxNVJyZEQ4WkZuNlJzMjJfVTFsOEhhTnRTU2tIa0FaS3A4aEV5enF2eHBPZV83Y3dtYnBDbkE1cXI4dERaVnAxRk51M0x5VjdXQQ?oc=5"
+        },
+        {
+          "title": "Maase (MAAS) Soars 84% as Firm Expands AI Foothold - Yahoo Finance",
+          "title_zh": "随着公司扩大人工智能立足点，Maase (MAAS) 飙升 84% - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGRHeXB6b0FFT1U3LTluSTVoUHFqeDBXaFhiaG1zTkN1Y1BEV1J3REU0d1hfbjZBcWxzLVJRVUEtcERYbXczczBzQ1FmaTBya2Z5bEVGN0paRkpuRG5TblRZMFZGZzZvTjVzMlQ5R2pfS0tWV0szVGtQNmJMbVJvUmllbXhNRGxFMFpMbl92b3AzS1E?oc=5"
+        },
+        {
+          "title": "MAAS - Maase Inc Stock Price and Quote - Finviz",
+          "title_zh": "MAAS - Maase Inc 股票价格和报价 - Finviz",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ManRFVXU0Z2RYejBiTU00ODljVjhDb2FKQnM5TkFvSXZ0OXhFckw2cE4yMkVkQVJ6eUtvN0EyZ0lHZkhNY0E?oc=5"
         }
       ]
     },
     {
       "symbol": "DLO",
       "name": "DLocal Limited",
-      "price": 14.55,
-      "change_pct": 12.0,
-      "change": 1.56,
-      "volume": 8129143,
+      "price": 14.48,
+      "change_pct": 11.47,
+      "change": 1.49,
+      "volume": 9239443,
       "name_zh": "迪本地有限公司",
       "spark": [
         13.952,
@@ -441,9 +591,25 @@
         14.58,
         14.575,
         14.585,
-        14.555
+        14.565,
+        14.59,
+        14.55,
+        14.465,
+        14.4589,
+        14.465,
+        14.45,
+        14.455,
+        14.44,
+        14.515,
+        14.505,
+        14.485
       ],
       "news": [
+        {
+          "title": "DLO Stock Pops As Russell 2000 Inclusion Fuels Momentum - StocksToTrade",
+          "title_zh": "罗素 2000 指数纳入推动 DLO 股票上涨 - StocksToTrade",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVnMzcExKUUtELURsTkt0Vm5LNlRWazczWlpzVElaMnN3Si1OUFFRdHpFS1RQclZIcTlsUXVyUFFFWHgtRWRsYmdYNkJuaXh2RXZRYk1CT0RON0REdUxLMVRPVTBDa2ViMmZyUFlNdUN0U0tW?oc=5"
+        },
         {
           "title": "Is DLocal Limited (DLO) A Good Stock To Buy Now? - Yahoo Finance",
           "title_zh": "DLocal Limited (DLO) 现在是一只值得买入的好股票吗？ - 雅虎财经",
@@ -453,117 +619,6 @@
           "title": "dLocal lands in Russell 2000 as June 29 reconstitution takes effect - Stock Titan",
           "title_zh": "dLocal 登陆 Russell 2000，6 月 29 日重组生效 - Stock Titan",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmkwU2Nock9FSzZ4akR2cnd6TjRfUVRTV2VrVFBJbjcyNVFsWjJ1WWRGZHNMcjdfTkxtbU8wbUotU3VycWI5QXRMRnJuWHlNRW9sVXJvZVZGYzZ6TDlMVTRzUXYwRG0tV1k0dzU2aklNNU1oUGM0N3UxSjlJclNuNU11MmllekY4dEFlTVZqWE1fMHgzMjgxS1ZvSzIwdkhNZ1Badi1XVk1zY0NlZkJN?oc=5"
-        },
-        {
-          "title": "DLocal Limited Class A Actuals & Estimates (NASDAQ:DLO) - TradingView",
-          "title_zh": "DLocal Limited A 类实际值和预估值（纳斯达克股票代码：DLO） - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWJKbUVuTXBXcTdqTU55WXNXbXBGU3JWbUk1OXRFTEh1SC13Z29MNlpfMDBRa05QSHQ5bWRSRUxIaUtEa1d6d1BlUDUxYUNQMzAtdTYybWItQ1JxT092eXNEbmhlODBHQ1NuSnEtRXZYTWJVVnpPMWlJU2E5a1RTcXhibzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AUR",
-      "name": "Aurora Innovation, Inc.",
-      "price": 7.66,
-      "change_pct": 12.24,
-      "change": 0.84,
-      "volume": 22779018,
-      "name_zh": "奥罗拉创新公司",
-      "spark": [
-        6.85,
-        6.91,
-        7.01,
-        7.105,
-        7.1,
-        7.105,
-        7.04,
-        7.0799,
-        7.12,
-        7.2098,
-        7.225,
-        7.265,
-        7.2703,
-        7.285,
-        7.295,
-        7.2889,
-        7.285,
-        7.41,
-        7.455,
-        7.475,
-        7.535,
-        7.575,
-        7.555,
-        7.6273,
-        7.64
-      ],
-      "news": [
-        {
-          "title": "Aurora Innovation Stock Gains Attention On Safety And “Physical AI” Push - StocksToTrade",
-          "title_zh": "极光创新股票因安全性和“物理人工智能”推动而受到关注 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15UDZTeFZKZ3g4bGt5bTYwUFc0MUFMV01mcENMc0hhbkpvMkR5amtrM1FndTZhR2F2TUtZQjhWUV95RnRWZHVaLWN0MTZjbzYyZTZ6WjVSNGstNUk1b1F1d0ZXRjdVR0MxVGxLa0hxMmpyb0l4SG8ySHM1SHlVZw?oc=5"
-        },
-        {
-          "title": "Aurora Innovation, Inc. $AUR Stake Lessened by SG Americas Securities LLC - MarketBeat",
-          "title_zh": "SG Americas Securities LLC 减少 Aurora Innovation, Inc. 的 AUR 股份 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzQ5REU4bWR4QmJBU1ZQMGlmOW9xR3JSNm1oSS1WN1YxNnRTaGFxTzRLRDBfRmstMWZ3Q2szNC01TWJnZUpWYmxOZUt1VHdRUzUzaGRMNTlmeVA0MElmLU1lYTJ1cEFSLVMtN3hXM005MDhMTm12U3YtMnc4a01sY09BdU9tczJRZnJiNnp2MkJoMTdyMGQ0ZjBVNWZUMW9DUTNwaDdOay1FSkVBWTNBaVJHXzNJcnVGLUZLbDRxYkQ4VWt2TEYxYVRVMA?oc=5"
-        },
-        {
-          "title": "Why Is AUR Stock Soaring Today? - Stocktwits",
-          "title_zh": "为什么 AUR 股票今天飙升？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1g1RHR4c2MxZ3JjeUs2UUxPVFZUZHF3QnlJVS1xd3lRZHdYaTZVSFhvc3kwQjllREttejJJbnd3ZEtqWWk1VkhlaURrcjk0QU5OcjBaN21pSk9Ea2JCZHRCck16WDczMXBnemFtakk4cGZ1M1ZrOWVQOFdIY25lbmE5SnRHOVdEUFJ3b0tiMHFRdmpvenNkdXN3?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "COIN",
-      "name": "Coinbase Global, Inc.",
-      "price": 163.33,
-      "change_pct": 11.72,
-      "change": 17.14,
-      "volume": 6611260,
-      "name_zh": "Coinbase 全球公司",
-      "spark": [
-        148.42,
-        151.2,
-        152.37,
-        154.555,
-        156.6153,
-        156.605,
-        155.77,
-        155.735,
-        156.21,
-        158.81,
-        161.0151,
-        161.805,
-        161.26,
-        162.395,
-        162.34,
-        163.66,
-        163.47,
-        162.49,
-        163.295,
-        163.55,
-        162.785,
-        162.57,
-        162.41,
-        163.36,
-        163.55
-      ],
-      "news": [
-        {
-          "title": "Coinbase Global vs. Robinhood Markets: Which Financial Stock Is a Better Buy in 2026? - Yahoo Finance",
-          "title_zh": "Coinbase Global 与 Robinhood Markets：2026 年哪种金融股票更值得买入？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVYd1dRQ3BvcHMybUpnZURJSVo5MUdCYm0tZnVacmxyOUhSY2RENmI1TnNDQVBjeWdLTFU0VDcxeVU4U1Z3ZVRnVU0zNk9DbUhwY0IxZC1GTHZpRFBUaE83a3RDck4yUmZoR0h4YmJQZmtQYTJEY1hrYVFnMVBZWG5GUzREVERJVFhuVWM0YnVWNFN6RWl4YW9QTm1idmtfbTBj?oc=5"
-        },
-        {
-          "title": "Coinbase Stock Draws Bullish Targets As Super App Vision Expands - StocksToTrade",
-          "title_zh": "随着超级应用愿景的扩大，Coinbase 股票吸引看涨目标 - StocksToTrade",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoUndXTWNXUTVKaW8tM00xMjA3NTZCbFdQNlpNS2RIOEx2R3RqR3JaOWVnTW5rMFRTcW1pWjU2NlBqWDdhLWdNbHdJTWRKdmFrVXMzYXpnemxRV3c3bUlfOVhkak9qdnBMTXRtVGZ0b3pZcHRwUUpNRFZXNFo?oc=5"
-        },
-        {
-          "title": "Coinbase Global Inc (COIN) Stock Down 3.6% -- Now Undervalued? G - GuruFocus",
-          "title_zh": "Coinbase Global Inc (COIN) 股价下跌 3.6%——现在估值被低估？ G-大师焦点",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGp6QThKQTRicHNLeW9uWmZGcURSa2txOWJhTkZ1U0JmdGxKejhCbzlUR2hXSk1Zak8xZHo5cDJDM1ZYcnJzaENtQXFNUGNfRm52MTlTVk01Smsxb2U1S085Smdyc1hDSE5FalFTZ243NkxnU2ZwS01ycnU3VFVQT21hcDdXOW1KNGNvQzFiaHJpdjZ5U05VZmZuS2MwSUZTOHd4NE5wVDdPR3FC?oc=5"
         }
       ]
     }
@@ -575,7 +630,7 @@
       "price": 17.87,
       "change_pct": -19.58,
       "change": -4.35,
-      "volume": 517201,
+      "volume": 667954,
       "name_zh": "ChronoScale公司",
       "spark": [
         22.35,
@@ -602,6 +657,17 @@
         18.185,
         17.96,
         18.08,
+        17.87,
+        17.98,
+        17.835,
+        18.08,
+        17.92,
+        17.84,
+        18.07,
+        17.865,
+        17.79,
+        17.7791,
+        18.02,
         17.87
       ],
       "news": [
@@ -625,10 +691,10 @@
     {
       "symbol": "NBIS",
       "name": "Nebius Group N.V.",
-      "price": 237.8,
-      "change_pct": -13.89,
-      "change": -38.37,
-      "volume": 22529543,
+      "price": 234.15,
+      "change_pct": -15.22,
+      "change": -42.02,
+      "volume": 25702831,
       "name_zh": "尼比斯集团 N.V.",
       "spark": [
         228.32,
@@ -655,9 +721,25 @@
         235.14,
         234.705,
         238.4875,
-        237.145
+        238.035,
+        237.9424,
+        237.798,
+        237.31,
+        236.12,
+        236.98,
+        236.56,
+        235.03,
+        232.775,
+        234.7499,
+        233.82,
+        234.44
       ],
       "news": [
+        {
+          "title": "Nebius Group (NBIS) Stock Looks Overvalued On Earnings While AI Growth Stays Strong - Yahoo Finance",
+          "title_zh": "Nebius Group (NBIS) 股票的收益看起来被高估，而人工智能增长保持强劲 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmpmRjhDSi1RQWFWbzFucUxsY0s3LUFQWUNGVVVVaEJjXzNtdnpCb0NwZmxWaE05ZXlMek1CME1MLW0wMnNveFRsSlhFLVlzU1ptX1pkaVdwVTNJQjNydWJldjB0TWx4amJOWm1IOUdaS3VoNGctYllhMjl2STlFOGJ2V3pZc05lOUZzZWxoZ09FbUtVTTZDMzV3?oc=5"
+        },
         {
           "title": "Nebius stock plummets as Meta plans cloud computing business - Investing.com",
           "title_zh": "Meta 计划云计算业务，Nebius 股价暴跌 - Investing.com",
@@ -667,21 +749,80 @@
           "title": "RFG Advisory LLC Reduces Stock Position in Nebius Group N.V. $NBIS - MarketBeat",
           "title_zh": "RFG Advisory LLC 减少 Nebius Group N.V. $NBIS 的股票头寸 - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1ZZOVJCT0NJQTRwcFhYcXN3UkR6SWlobWpocTI0ZFEwbGwzdjlZMnd3QjE3VGwzLVBmbzdCZkRhWFI3TGNJZENRSXEtQ1R6cDRVNEVVbFl3aXZ6ck02VnVBWkVSYzNCU08zLVJLSFhwSU93OXhjeVpjYVFFa0o3MUNDSWxmWHNyUnZPSTZ2SE1GU1NnSFZDaklUN2lLWGJnTzlTVXZ4NUNzd0s0VEVWTnNFeWRSQmI1cTRtaHVIRXRTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BRUN",
+      "name": "Boost Run Inc.",
+      "price": 33.17,
+      "change_pct": -14.52,
+      "change": -5.64,
+      "volume": 1407120,
+      "name_zh": "Boost Run 公司",
+      "spark": [
+        34.675,
+        34.76,
+        34.47,
+        34.85,
+        34.85,
+        34.39,
+        34.35,
+        34.04,
+        34.21,
+        34.265,
+        34.555,
+        34.86,
+        34.99,
+        34.245,
+        34.09,
+        34.39,
+        34.325,
+        34.4204,
+        34.6426,
+        34.71,
+        34.69,
+        34.94,
+        34.8,
+        34.99,
+        35.045,
+        34.69,
+        34.38,
+        34.145,
+        34.1,
+        33.88,
+        33.66,
+        33.43,
+        33.305,
+        33.43,
+        33.315,
+        33.23
+      ],
+      "news": [
+        {
+          "title": "Enterprise value to EBITDA forward of Boost Run Inc. – NASDAQ:BRUN - TradingView",
+          "title_zh": "Boost Run Inc. 的 EBITDA 企业价值 – 纳斯达克股票代码：BRUN - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm03WmhxMllDT0d0amJTbFFGUHplM0RrdmJqeFlhTUhad216aUl0ckJxUzJUNlFjQUdUWncyZUU5WnZNclhKa3ZXZHdQQTNvdlVYazVZWm9BN0tybWhwTU5HYTN5dnJQTTVhdkVOZ1ZtMlNtb2pHT3E4bUhPRXhtYlU5YXMteGp1V2VBdzBjanh2blhRdEpnUUVmcWduZ0xYLUFMMW5vVUVBLUl6QlE?oc=5"
         },
         {
-          "title": "Nebius Group N.V. (NBIS): 10 Stocks That Could Double Over the Next 2 Years - Yahoo Finance",
-          "title_zh": "Nebius Group N.V. (NBIS)：未来两年可能翻倍的 10 只股票 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON180cm1XdjJqM2pLdHlZcVBEYkdzTFBwNTVNYXlQbnAzLWdibC13aW9ncjlfdXFMelhRcnVMWE9aaDZrVzEzeVI4ZXhXS25mRDY2TndaYlotSjZ1UmtUZnNTYXh5dE00djlrZi1EX0VYdmRNMVJhbTNtbzZXSU5STW9uYVFSbjdLU2MxZnlmMA?oc=5"
+          "title": "BRUN Technical Analysis | Trend, Signals & Chart Patterns - ChartMill",
+          "title_zh": "BRUN 技术分析 |趋势、信号和图表模式 - ChartMill",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LNzhvai1IWTRuVncyb1VfR0MyUXVVOWxYYndRWXR2NkhNbENheHZjTGlDM3llcUk3YWd1SWJ5OTJXVFFLQ0V0NmUtZFpTRDhJMm5Xd3NrdkVWS21TNmFPdUhyLVY5LVdQZGtScHlB?oc=5"
+        },
+        {
+          "title": "Boost Run (BRUN) Debuts on Nasdaq With $940M in Backed Contracted Revenue - Yahoo Finance",
+          "title_zh": "Boost Run (BRUN) 在纳斯达克首次亮相，支持合同收入达 9.4 亿美元 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXh1ZG0zcXdTOE5MSFNlQlIwSVZ1MmRKbjh1M0lYZ3BEdU5GMXZqTlNIR1UzUmFKMU5YZXBhRWIzMUxFM25KOUhrRTJUTmdxbXBQT2ZxS29SVGFtQWhHWmF4Q1I3Zl82dlRIUUFxMmo1TkFHOUozd1VEM2NZampJUEh2OHNCRmpaeDJUMERfbnVaVTZWMTNRbQ?oc=5"
         }
       ]
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "price": 221.86,
-      "change_pct": -13.14,
-      "change": -33.57,
-      "volume": 15349142,
+      "price": 221.84,
+      "change_pct": -13.15,
+      "change": -33.59,
+      "volume": 18166718,
       "name_zh": "康宁公司",
       "spark": [
         232.19,
@@ -708,7 +849,18 @@
         219.31,
         221.6575,
         222.44,
-        221.695
+        222.195,
+        221.07,
+        219.98,
+        220.62,
+        220.04,
+        220.74,
+        219.88,
+        219.235,
+        218.8025,
+        220.5278,
+        221.095,
+        222.09
       ],
       "news": [
         {
@@ -717,183 +869,24 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjBLTFlxU1Jsdnp1Mmp1MVh0OU9qOExaWEVMOW51bWM5WWtnRFBQeExsMzhKMVJLN1U3VVZwaVlyYnlYZ1licHhaZXI0a3R0SXdWdVY4amMxaW1JM1ZOWTE0LXdiQjZ5QzlpTzVKcGV3MklJZ1I4ZUYwNXBlZnFNRjlMaUYzSFdzaThZRDZwOXM3ZlRBc0E?oc=5"
         },
         {
+          "title": "Corning Inc Stock (GLW) Moved Down by 14.06% on Jul 1: What Signal Does It Send? - TradingKey",
+          "title_zh": "康宁公司股票（GLW）7月1日下跌14.06%：这发出了什么信号？ - 交易密钥",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUFobUJROEFOaVVUTTdZS3FHeXc1TmJueHQ0UndUcjBxaW9pRXVXSEZnWUJHTXF0YmVmSDgtZVptb2JpRy1iMjc0STVRdGNGVDVERmNmOVRZQm9mR3NZN29tU3B4UEZCVjRMczlIY2JMdWhlVGtORUVab0tQZ3pIc19HTTBZcThCN1E?oc=5"
+        },
+        {
           "title": "Corning (GLW) Sets Date for New Dividend; Shares Up 15.6% - Yahoo Finance",
           "title_zh": "康宁（GLW）设定新股息的日期；股价上涨 15.6% - 雅虎财经",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkpnWncyRGNrTVU0Nnh0TURzMjZJX1k0VndrWnVlTDV0Ylg4ZnZwRkNEZjNmMFZoUXAyZ29WNXFkbG5oUnBxLVlrb3lZcms5R1RDXzU2aktkZTBUVmNTdy1zN2o1NUZrMVhQTnhOTW92anM5VV9mQTV0TFVwOTlkRjByYktiU3pPd1Q4WUJHYjRSUnVqb0Q5Wl9MZw?oc=5"
-        },
-        {
-          "title": "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
-          "title_zh": "康宁公司 (GLW) 股票 6 月 29 日上涨 14.03%：走势背后的事实 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGlFYXBwam5iRDVwM25yZVdVZXJhLXJjTXdYZVI1VzFmbzRJTFpNTnQ2Q0hqWEFLakR4QWdCSGNWbU5ZTlF3WjIyVmRRa3NOQ1RnY0RFbVJDTWZ0YURnSF8zR3pYVzVCWGxnZWtvZnNMWnN1RFhFVFhHSWQ1RVZFTmpKQ09TUVN1NVE?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 87.23,
-      "change_pct": -12.37,
-      "change": -12.31,
-      "volume": 41191617,
-      "name_zh": "核心编织公司",
-      "spark": [
-        87.8226,
-        88.88,
-        89.085,
-        88.5001,
-        88.85,
-        87.93,
-        86.5299,
-        86.25,
-        85.38,
-        86.29,
-        85.7501,
-        86.65,
-        87.705,
-        87.0,
-        86.5001,
-        87.035,
-        87.145,
-        86.84,
-        86.66,
-        86.7,
-        86.2199,
-        86.3025,
-        86.2577,
-        87.09,
-        87.29
-      ],
-      "news": [
-        {
-          "title": "CoreWeave Is Down 11% Today: How Does CRWV Compare to Other Cloud Stocks Like Cloudflare and Oracle? - Yahoo Finance",
-          "title_zh": "CoreWeave 今天下跌 11%：CRWV 与 Cloudflare 和 Oracle 等其他云股票相比如何？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWJLSEUyQndXRV80eEJXQ0RoeXRVc3BkcEVUenh3dVJBZFluT19hV0d4dlBSOUlaT3MzbHhuTDJ1WWVDcXBIeGlodXBXUllWXzNGWDJrRlpKMEF6TGRSTF9oQTFyMDZxVUM5ZEtnbFlsdklsQnBxMUFpd1hfNFF6VjFUWm1fZTZmSlBZV2IwZ0ZWQmxtb0Z3Ng?oc=5"
-        },
-        {
-          "title": "CoreWeave Stock Drops Sharply on Report of Meta AI Cloud Business - Benzinga",
-          "title_zh": "Meta AI 云业务报告导致 CoreWeave 股价大幅下跌 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDFvZ3JvWkNOemR0Y0dhZjBrZHdBZHJwZ1JEdEE4TWhMZHY4QkNNVDd3cXA2RE4tVnk5b1N0SnM2QUpveEZmanNiaHFtZmZaVzlxeE4zdWlYU0x5bXBFb1NjWkdIdTJQb1V6cWVaR0lZWkpUT3dYTzBUV0xzNWpzRFF6Vy00ODEtWngwc05yX05iOUQtLTBhT0hveWxJbTVpNkdhdHJCVE5kdVNTd2NTTl9LS3dNSDJzZExqbnNUWkZFOWU5?oc=5"
-        },
-        {
-          "title": "Lawsuit Notice: Investors who hold CoreWeave, Inc. (NASDAQ: CRWV) shares should contact the Shareholders Foundation - Newswire.com",
-          "title_zh": "诉讼通知：持有 CoreWeave, Inc.（纳斯达克股票代码：CRWV）股票的投资者应联系股东基金会 - Newswire.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVdUbV9aeEZlTzJPSWlOSGM5anFiY3M0TkFhaGtNNkM1bWlpbHM5Q2JScmxadnNHNERlcEJUWHFoMWdROWMxa2ZYVUNkVUtYTENRWUhwZU1RX2xLa05rWU4wYW14OWNKRFBtSFVITXVEV2VYcFJVaEoxZEpGVGxiRWVjS3FlRFFva0FhSEgyQVozYk93cWN0bW1VNk1sQnZtMFU3bG13?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "LRCX",
-      "name": "Lam Research Corporation",
-      "price": 386.15,
-      "change_pct": -10.89,
-      "change": -47.18,
-      "volume": 8501993,
-      "name_zh": "泛林研究公司",
-      "spark": [
-        403.855,
-        401.62,
-        405.72,
-        404.415,
-        405.605,
-        404.5,
-        401.17,
-        396.11,
-        396.01,
-        396.875,
-        396.43,
-        397.2,
-        399.35,
-        398.115,
-        395.88,
-        394.25,
-        393.42,
-        394.62,
-        394.295,
-        391.02,
-        389.655,
-        387.87,
-        387.66,
-        386.36,
-        385.72
-      ],
-      "news": [
-        {
-          "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit? - TradingView",
-          "title_zh": "Lam Research 股票在 2026 年上半年飙升 154%：您应该买入更多还是退出？ - 交易视图",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BSSXNYaVZxSG82WXNQZzVqRHZCUFNMc2xMalJfQXpqbXBSMTdJUWxZaExMQVpSa1lHRExvMy1ZRTFZd2tjWEtXNEttaHRXOWl1bTQzeElFTlJZNlI1TFZNYVRlR3A5ckZvdGlVNE5Vb3Y5LVRyVDU3ejdPWDYxYVBFUHdLRkhzT1JYZzFCdUR0VE90YjREMU1vdm90UHRkTUxmd05RR2NRRHlxVGctSEVwbHpNdGc3UmdYbU5FNA?oc=5"
-        },
-        {
-          "title": "Lam Research (NASDAQ:LRCX) Shares Gap Down - What's Next? - MarketBeat",
-          "title_zh": "Lam Research（纳斯达克股票代码：LRCX）股价下跌 - 下一步是什么？ - 市场节奏",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZExkdnBpSHRkZWN5OEVZeHVub19ZZERINF9KX3kzUzNyQWt1STNTYmpJY0EzWEJKOGhXSWxkTjF3cGhTUFI3R0hYaURVSE00bFVFakZsa2hVOTZocHFZNnB5YTRodzZ1QzVUT2Q0b3NHWTJmb2pWWkxuVFRiQUc2X3d1czByVm5NVWNHeUEyZkRaR2ZkWnh2SUQ2MVV3M21ZbTJQVVlJRQ?oc=5"
-        },
-        {
-          "title": "Lam Research Corp Stock (LRCX) Moved Down by 8.94% on Jul 1: Drivers Behind the Movement - TradingKey",
-          "title_zh": "Lam Research Corp 股票 (LRCX) 7 月 1 日下跌 8.94%：走势背后的驱动因素 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblpWb1JIaHNaelFYUzRkMlVEMjA3VVRLeU1UT01NT0tqUE9jVW1EXy1kaWhETmRVY1JRQjMtdlRGZzZYQ0tzdHJjX1BXclo1T3d3WURDM0t6RUJ5V0xTMFd0MnJpYkhSb2JMMkpEUFNSODl0QlhyLXRONDRjR0ptSGd6WFFMeVRnLXg0?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AMAT",
-      "name": "Applied Materials, Inc.",
-      "price": 647.23,
-      "change_pct": -10.48,
-      "change": -75.78,
-      "volume": 8461533,
-      "name_zh": "应用材料公司",
-      "spark": [
-        670.745,
-        673.26,
-        686.74,
-        679.485,
-        681.3,
-        678.535,
-        678.785,
-        667.365,
-        667.46,
-        668.79,
-        666.5,
-        664.09,
-        666.35,
-        666.62,
-        662.705,
-        661.09,
-        658.86,
-        660.43,
-        659.6,
-        655.38,
-        654.1,
-        649.7801,
-        648.4441,
-        648.545,
-        645.72
-      ],
-      "news": [
-        {
-          "title": "Applied Materials Just Ripped 55% in a Month. Is It Time to Sell? - Yahoo Finance",
-          "title_zh": "应用材料公司一个月内股价上涨 55%。是时候出售了吗？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3JqWTlITUZqbWNYQ2RtVjFVNHpsdnd4VlEyMVRuek9RcjVCeFpaUWlkOUpvb0RlcE5TNmVPWERrVWw5em5CUGt4cm5Hbm5nMUZoekdvOGpNT19GRktaQW5EeGZPMHNOSVNsTGFfWUgzalRna21pbkxCRGI3MEd0d01yVzdHbTdrN1VSSWZKcG5qQVdIQ19kNzcyU19ZQQ?oc=5"
-        },
-        {
-          "title": "Applied Materials Inc Stock (AMAT) Moved Down by 5.32% on Jul 1: What Signal Does It Send? - TradingKey",
-          "title_zh": "应用材料公司股票 (AMAT) 7 月 1 日下跌 5.32%：这发出了什么信号？ - 交易密钥",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnNvLWx2eXZEbmhkeWlRTF94N0lJZi1xcW9VOXZJYkZNU1lVcG9hZG5KMWpYbkdZZ1VZdm85Vmx6X1p6bUdoME82OFhfaDdPeENkUHUxcGVOMHU0WnJCY2JzdUVzY1hiSm9pcWVuTHZGRkxZWWZ1UGFkOFBjQ3hmd0ZlNDhLa09tMTZv?oc=5"
-        },
-        {
-          "title": "Applied Materials Stock Is Priced For Perfection - Trefis",
-          "title_zh": "应用材料公司股票定价完美 - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTFFaGlfYnBDWUFCOVBIZnE3UFZuUkJXRE01VHpQVEFtTDdhckFhV0hwcHItMmVUaXFsaDlBVkdBdlZBdWNQNlRUUVlEMEpZZ1RWbWVkYUZZUXMxNHVJNy15YTVNUFB1RVNwdUZLOG9YXzhMMXY3b1VfRGh6VmJuRng3MGkybXQ3eWxTbVJMWENGUXZfTG9CUHRnMENxSFRDQTZ5aVk4eW14RkhvMHc?oc=5"
         }
       ]
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation",
-      "price": 269.79,
-      "change_pct": -10.58,
-      "change": -31.92,
-      "volume": 9792794,
+      "price": 263.95,
+      "change_pct": -12.52,
+      "change": -37.76,
+      "volume": 14321994,
       "name_zh": "科兰公司",
       "spark": [
         281.05,
@@ -920,33 +913,236 @@
         269.42,
         269.97,
         270.775,
-        269.64
+        269.4799,
+        267.3,
+        266.465,
+        264.9701,
+        264.16,
+        264.11,
+        262.46,
+        261.39,
+        260.5175,
+        263.03,
+        263.85,
+        264.52
       ],
       "news": [
         {
-          "title": "Can KLA Corporation (KLAC) Capture Its Share of a $250 Billion Global Chip Equipment Market? - Yahoo Finance",
-          "title_zh": "KLA Corporation (KLAC) 能否在价值 2500 亿美元的全球芯片设备市场中占据一席之地？ - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjNERlVEbDJjMU44NVpBQ0Q4UTlZOFdnd0tER29ETEczd21tTmFYMURlNEVYcDkybU1IYmhHOUpkSXc0WkZISS01aWhUTHJVYU1TR2kzSmR0X3dSdXBPZl9vOVJqZ016MnBLWHFvRVhJQlVQdE14bmcxYjRUbExGVk9VS3pPdG9BblhiemoyMFktUm9CZjZsMDdxSQ?oc=5"
+          "title": "KLA Corporation Stock (KLAC) Opinions on AI-Driven Semiconductor Cycle - Quiver Quantitative",
+          "title_zh": "KLA 公司股票 (KLAC) 对人工智能驱动的半导体周期的看法 - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0FPWUtMVUNZYmxrai1qVzZDQXhnY09oV2tiZ2s3WFo0czYxYi1rZUQ5MTE5RlUwcU1QVjNwQlppM3BpSUVQNVYxYnB1djgyRzlxN3NBcXlwRWtmSU92eEdtajlSNE5qV2VyU2ZObmVKNy1tQWg1Q0VHT1pTNk1aYU9GbHB4djZpU2xxX2huVloyLUJ4ZXpkREFxd3c4elVIUDRMc202SFlWS3M?oc=5"
         },
         {
-          "title": "Why KLA shares rose today - Quiver Quantitative",
-          "title_zh": "为什么 KLA 股价今天上涨 - Quiver Quantitative",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rX0paNDVwcHgtcGVCdUV6Vm5Vb3A0VVVZRnFQNG1jbWNUcmpzQVZfRnBKd1gzYllGbzdGc0hIVk9HNEZIZWUxLTlhWmFsNGNNRmJ0eElpaXZSVTVYVWp4QjktS0MxdTRBUVE?oc=5"
+          "title": "KLA (NASDAQ:KLAC) Stock Price Down 6.3% - Here's Why - MarketBeat",
+          "title_zh": "KLA（纳斯达克股票代码：KLAC）股价下跌 6.3% - 原因如下 - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVdYZFFPY0VEZjFOWVJKV2dYVGRWZFFNS0tTUXpFN3U2QU5ESjNITHBpcDhuajlvZjlGay1LaC1TS1poUGg5LXVuQVJDb0FzQUhrUXl5WTZmYVhLbmVEcklJelRqY0d1X0dWSjhBT01ZbV9iM3k3OVVmbjk3dHpBNlcycW1NTW5mbk1BR2lFOHF3Rm54N2dMcG0zczUwb0k?oc=5"
         },
         {
-          "title": "KLA Corp Stock Fell 9% and Analysts Still See Downside. Is KLAC Finally Cheap? - TIKR.com",
-          "title_zh": "KLA Corp 股价下跌 9%，分析师仍认为有下行空间。 KLAC终于便宜了吗？ - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVllYU1ZdVZHTHNIMXVxamg5c0d1c1ZRUS0xalI1WlhtWXh5clhmLUtIZDk2Nko4MzB0OXI0STZlQ3ZrakNpbDFoeXk2X2Uzdk9sc0lzN1JmVnFwbGdwaFI0bkl5WWpTdzNnMVFhVXFPenF0T2xiVUNaWnJmemthd05SQlF3WGxJRVN3djNaTE9xLV9teDhiVGRiRHBnVDVvYnA0?oc=5"
+          "title": "[144] KLA CORP SEC Filing - Stock Titan",
+          "title_zh": "[144] KLA CORP SEC 文件 - 股票泰坦",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTJZcExrZlJLS1ZXODNTTm9RSk9aQ1Ixa1BQQnNqWnJjeDhWSDg3VGlvdDFlYkc2eXRnZVRFdWJEdFJ1OTdnUUZzODhESUlPcThhbXU2bzg0SDNINE5MUXdHQTVtTlJWNV9RVDJEMHNXY0JtMTA0c1NjdHFYUTIyaGtRZTFVNGV2SnBBNVJB?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "price": 87.42,
+      "change_pct": -12.18,
+      "change": -12.12,
+      "volume": 50013324,
+      "name_zh": "核心编织公司",
+      "spark": [
+        87.8226,
+        88.88,
+        89.085,
+        88.5001,
+        88.85,
+        87.93,
+        86.5299,
+        86.25,
+        85.38,
+        86.29,
+        85.7501,
+        86.65,
+        87.705,
+        87.0,
+        86.5001,
+        87.035,
+        87.145,
+        86.84,
+        86.66,
+        86.7,
+        86.2199,
+        86.3025,
+        86.2577,
+        87.09,
+        87.53,
+        87.455,
+        87.655,
+        87.71,
+        87.32,
+        88.185,
+        88.16,
+        87.39,
+        86.61,
+        86.665,
+        86.66,
+        87.541
+      ],
+      "news": [
+        {
+          "title": "Why CoreWeave Stock Is Tumbling Today - Yahoo Finance",
+          "title_zh": "为什么 CoreWeave 股票今天暴跌 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2RzRFpPV1FtT2Jhd29VLVNSR08tZ0RfZFJ2cG1nckhnbGJTVXRNbUFoUm1kcEQyVTh0WHRjOHJSeEF3ZzNxdE5WQVhZTnlRR0J1ZXlWbzd1bEhCUEJ5VGh2RjlJZy1qWnItYTU2LXNVbDVTbXEwR09CeXI3UHZXTm9uZTlrMkJwdlNyS3FPVlVwS0hvMnFFWTZMcEpyWGtR?oc=5"
+        },
+        {
+          "title": "CoreWeave Is Down 13% Today: How Does CRWV Compare to Other Cloud Stocks Like Cloudflare and Oracle? - 24/7 Wall St.",
+          "title_zh": "CoreWeave 今天下跌 13%：CRWV 与 Cloudflare 和 Oracle 等其他云股票相比如何？ - 24/7 华尔街",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEo4NWthQWpXaGhqd0RrczdRV29wVEN0UHdVbHRmcDdLMXcxSmZaQWtIQ1p0TVk3M0puY0h0OFk4MjNGQTFDRE1vRi05ZnZVMThlcHNXb1FYMUZqZ21EaDJtMzlwYmUxcW1nSFY4VjNQUEdCUjF4UldaMlpDN2drMkRaRWs2aDlpcm9sSkhyQnpFVEtGaGpEMktpMDkwZFFWaW5NVmYyaGNiSm9wa1NkdzlSR2N3elJNcHFZc0V3V0o5bndTWTA4ekRHaVc1WmhoY0ZoNE1sd2o?oc=5"
+        },
+        {
+          "title": "CoreWeave Stock Drops Sharply on Report of Meta AI Cloud Business - Benzinga",
+          "title_zh": "Meta AI 云业务报告导致 CoreWeave 股价大幅下跌 - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDFvZ3JvWkNOemR0Y0dhZjBrZHdBZHJwZ1JEdEE4TWhMZHY4QkNNVDd3cXA2RE4tVnk5b1N0SnM2QUpveEZmanNiaHFtZmZaVzlxeE4zdWlYU0x5bXBFb1NjWkdIdTJQb1V6cWVaR0lZWkpUT3dYTzBUV0xzNWpzRFF6Vy00ODEtWngwc05yX05iOUQtLTBhT0hveWxJbTVpNkdhdHJCVE5kdVNTd2NTTl9LS3dNSDJzZExqbnNUWkZFOWU5?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "price": 387.1,
+      "change_pct": -10.67,
+      "change": -46.23,
+      "volume": 11698948,
+      "name_zh": "泛林研究公司",
+      "spark": [
+        403.855,
+        401.62,
+        405.72,
+        404.415,
+        405.605,
+        404.5,
+        401.17,
+        396.11,
+        396.01,
+        396.875,
+        396.43,
+        397.2,
+        399.35,
+        398.115,
+        395.88,
+        394.25,
+        393.42,
+        394.62,
+        394.295,
+        391.02,
+        389.655,
+        387.87,
+        387.66,
+        386.36,
+        386.8851,
+        386.155,
+        386.355,
+        384.32,
+        382.975,
+        384.735,
+        383.54,
+        382.47,
+        381.98,
+        385.53,
+        385.57,
+        387.74
+      ],
+      "news": [
+        {
+          "title": "Lam Research (NASDAQ:LRCX) Shares Gap Down - What's Next? - MarketBeat",
+          "title_zh": "Lam Research（纳斯达克股票代码：LRCX）股价下跌 - 下一步是什么？ - 市场节奏",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZExkdnBpSHRkZWN5OEVZeHVub19ZZERINF9KX3kzUzNyQWt1STNTYmpJY0EzWEJKOGhXSWxkTjF3cGhTUFI3R0hYaURVSE00bFVFakZsa2hVOTZocHFZNnB5YTRodzZ1QzVUT2Q0b3NHWTJmb2pWWkxuVFRiQUc2X3d1czByVm5NVWNHeUEyZkRaR2ZkWnh2SUQ2MVV3M21ZbTJQVVlJRQ?oc=5"
+        },
+        {
+          "title": "Will Lam Research (LRCX) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance Singapore",
+          "title_zh": "Lam Research (LRCX) 的下一份盈利报告会再次超出预期吗？ - 雅虎财经新加坡",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1Q0RFhmeXBoWmJYbVFfOTMwWVIyX0dJZUtqR0I0OW5HRVk3SXMxRGVMdUxmVWhNOVNLTXk2YUk3MHE5ekNhS0VXOG80ZWpzamhnQ2xmZGdEWGQ2TWlJVlJsNTNMeHVQdE05YmloTVlaQTZROGM0QlFnejh1SGU4UWlDaDZJeUxt?oc=5"
+        },
+        {
+          "title": "Lam Research Corp Stock (LRCX) Moved Down by 8.94% on Jul 1: Drivers Behind the Movement - TradingKey",
+          "title_zh": "Lam Research Corp 股票 (LRCX) 7 月 1 日下跌 8.94%：走势背后的驱动因素 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblpWb1JIaHNaelFYUzRkMlVEMjA3VVRLeU1UT01NT0tqUE9jVW1EXy1kaWhETmRVY1JRQjMtdlRGZzZYQ0tzdHJjX1BXclo1T3d3WURDM0t6RUJ5V0xTMFd0MnJpYkhSb2JMMkpEUFNSODl0QlhyLXRONDRjR0ptSGd6WFFMeVRnLXg0?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "PENG",
+      "name": "Penguin Solutions, Inc.",
+      "price": 68.04,
+      "change_pct": -10.49,
+      "change": -7.97,
+      "volume": 2378067,
+      "name_zh": "企鹅解决方案公司",
+      "spark": [
+        71.33,
+        73.18,
+        75.2563,
+        75.16,
+        75.9706,
+        74.2,
+        72.66,
+        72.5,
+        70.8602,
+        71.5,
+        70.675,
+        71.1292,
+        70.83,
+        70.485,
+        69.74,
+        69.91,
+        69.66,
+        70.2,
+        70.075,
+        70.01,
+        69.9,
+        69.63,
+        69.445,
+        70.065,
+        69.83,
+        69.235,
+        69.03,
+        68.7,
+        68.64,
+        68.69,
+        68.58,
+        68.1044,
+        67.55,
+        67.585,
+        67.47,
+        67.88
+      ],
+      "news": [
+        {
+          "title": "Penguin Solutions (NASDAQ:PENG) Shares Down 8.2% - What's Next? - MarketBeat",
+          "title_zh": "Penguin Solutions（纳斯达克股票代码：PENG）股价下跌 8.2% - 下一步是什么？ - 市场节奏",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLW1HYnRlM29rc1lVV0duemFtQjhUcHBGZ3N1dWoyNnJROVVaM3htWEY4NlpCWXA2VUtGUkJQVXprcjZnTkxkSFNzZWE3SUhUTWlrNnBZRWlNSE9haGVOVmpidVBvS2hycGxxeHZzeFdzWm5mSkM3emJ5bHNpdmtBQTdaSW16clNzeDhaSnRMelVNLXhBa1VZSVFfdFVhUDlEWnllak1KZ0lqZGVF?oc=5"
+        },
+        {
+          "title": "Is Penguin Solutions, Inc. (PENG) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "Penguin Solutions, Inc. (PENG) 现在是值得买入的好股票吗？ - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzljc2hYZWhVWURWLUV1ZE9fNW1zMUN4QmxWUzdvQVFvNVR0Z1plUVNGQXhGb1RmdkZrYTVXVlZ1a3o0bVYzbFlMWTViVzRnVTQzYkQxM1dkX09iQ2pEeU9tVjZOd1NFSl9vUTdlQkUyVmV6MWVfV1JTbEd0R2FTUDAydlIwYXZkUVotZjV2d3lPNEtpc0JwbUhNY1Y?oc=5"
+        },
+        {
+          "title": "Penguin Solutions Drops 5.2% Amid Sector-Wide Selling - AlphaStreet",
+          "title_zh": "Penguin Solutions 因全行业抛售而下跌 5.2% - AlphaStreet",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOG9QUVVTZV92cldROHBiVnZQa1NVM2QybWdITVNxekxXU2ZJRWhFQUJYNERSeHN6em45UFctRkR2czJ0c2pvREh2UElrWG1EZ1BLMl9WNmg5bFF2Z1R2U3pOQ0xmZGJTZlA4M21WaVJVeDBLWlpCTUNPVDJQMWRhUzFDNm9ENGZrbGpVSS1TZ9IBjwFBVV95cUxOOG9QUVVTZV92cldROHBiVnZQa1NVM2QybWdITVNxekxXU2ZJRWhFQUJYNERSeHN6em45UFctRkR2czJ0c2pvREh2UElrWG1EZ1BLMl9WNmg5bFF2Z1R2U3pOQ0xmZGJTZlA4M21WaVJVeDBLWlpCTUNPVDJQMWRhUzFDNm9ENGZrbGpVSS1TZw?oc=5"
         }
       ]
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc.",
-      "price": 434.63,
-      "change_pct": -10.17,
-      "change": -49.2,
-      "volume": 1957732,
+      "price": 434.42,
+      "change_pct": -10.21,
+      "change": -49.42,
+      "volume": 2646416,
       "name_zh": "泰瑞达公司",
       "spark": [
         446.23,
@@ -973,7 +1169,18 @@
         435.41,
         434.8023,
         435.56,
-        434.09
+        434.42,
+        432.63,
+        432.18,
+        430.33,
+        429.69,
+        430.36,
+        428.805,
+        427.175,
+        426.315,
+        430.6208,
+        431.9,
+        434.34
       ],
       "news": [
         {
@@ -994,108 +1201,66 @@
       ]
     },
     {
-      "symbol": "SMTC",
-      "name": "Semtech Corporation",
-      "price": 145.63,
-      "change_pct": -10.02,
-      "change": -16.22,
-      "volume": 2879369,
-      "name_zh": "森泰克公司",
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 85.77,
+      "change_pct": -10.71,
+      "change": -10.29,
+      "volume": 1086229,
+      "name_zh": "空气测试系统",
       "spark": [
-        144.855,
-        147.01,
-        148.9,
-        150.7899,
-        150.375,
-        148.52,
-        147.39,
-        145.7,
-        144.29,
-        144.165,
-        143.2075,
-        143.18,
-        143.23,
-        144.61,
-        143.61,
-        144.34,
-        144.51,
-        145.825,
-        146.515,
-        146.04,
-        146.16,
-        146.645,
-        145.675,
-        145.875,
-        145.68
+        90.0,
+        91.0,
+        90.09,
+        90.753,
+        91.285,
+        89.55,
+        87.78,
+        86.64,
+        87.175,
+        87.2644,
+        87.815,
+        88.365,
+        89.0164,
+        88.68,
+        87.705,
+        88.135,
+        87.935,
+        88.44,
+        88.26,
+        87.65,
+        87.725,
+        87.79,
+        87.37,
+        87.37,
+        87.2825,
+        86.99,
+        86.57,
+        86.26,
+        85.89,
+        85.64,
+        85.445,
+        84.985,
+        84.7102,
+        85.701,
+        85.93,
+        85.77
       ],
       "news": [
         {
-          "title": "Sterling Capital Management LLC Sells 32,625 Shares of Semtech Corporation $SMTC - MarketBeat",
-          "title_zh": "Sterling Capital Management LLC 出售 32,625 股 Semtech Corporation $SMTC 股票 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXFaZzdNMC1LM2F5MVJ0NWQtSk1Kb0pXMGoxX1JoVEpiTEl2a2Z4ZjRKRV9QRzN1bDFUUk1uTzM1UWJkX1VyLW1qT0NLcFVXcE83Y3phR2VSZHJORURSQzdXc0s2ZTloRFhCZEVvVC1uTnlfVUJSRlFGWU5KUnhsZFdwOGtTYWtBUzVYdmJMSjRoMmQtYXNNTDJIWmhiSXBDOTNlNVdITXZOcWJfelRDaUNoOEZ5QUFNNEhSZEVHMVY3MURxc1YzRGM1azlzQk4yYnpoT0tB?oc=5"
+          "title": "INTC, SNDK, AEHR Stocks Hit 52-Week Highs Today: What’s Driving The Rally Across AI Infra Plays? - Stocktwits",
+          "title_zh": "INTC、SNDK、AEHR 股票今日触及 52 周高点：是什么推动了 AI 基础设施领域的反弹？ - 股票推特",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamNRM0VzVk4xZEhxWWljZUdUTkkzOFN3Q2V1MU5zalU5NVJlRjlHM2pqXzI1RDc1clhSSFdOYnZOVFNIWVhaR3YtREFkQmVIbG5oQm9WRkNxOEprTkxvdkxDNmRnZGgtTmVjeXlRSEc3cjZ1aHdSN0xhY3lWSHM1Zkl1UUZxcUpKUy00Z2NtczlXMFRkWkF1YWJ0R1llOUtsTUN1UGIyWHotWU9jZFU3Tl9KdkZUT3B0SHc?oc=5"
         },
         {
-          "title": "Semtech Corporation (SMTC) A Hot Stock to Buy in June on Data Center Growth Opportunities - Yahoo Finance",
-          "title_zh": "Semtech Corporation (SMTC) 因数据中心增长机会而成为六月热门股票 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzlpdjdOY0Ntd00yZml6TXdWMGl0Mnp0eC05VkhzUUR5VGg4eC16em0tUFFwdGhnX2Q3eWs4Z2lLMlNWOVRvQzl4dzl4eVZoUU01cGt3UnBhMnJoeERQUzNXQVN5Z1pXVlZBM1VfRHJlTkZyU1haZm8xSkZ2UHVZZ2hkOXVFUTJvbjU2RWtZOVpsM1BGekpXcFV2NWxXQU1j?oc=5"
+          "title": "Aehr Test Systems (AEHR) Stock Spikes on New Production Order - Yahoo Finance",
+          "title_zh": "Aehr Test Systems (AEHR) 股价因新生产订单飙升 - 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0xaU3NCMDB4TVFQekF5LUM5Qk9DbHItTTRfRHM3TmFlYWFrQmJaLVJiMHBZYXFkNHRfMHZvX1NIdGdYV0FBQWg1VDNVVzFvcDhnOF8zQUZJNkdQQVJzM3pDYnJSYV9FOGFuRTdYWmFETnBoZlZjelJQVjlsamJ2WWNWLUppWFhKelcweXFZcmpVNGFnV0N2TA?oc=5"
         },
         {
-          "title": "Semtech Corp (SMTC) Shares Surge 4.0% -- What GF Score of 69 Tel - GuruFocus",
-          "title_zh": "Semtech Corp (SMTC) 股价飙升 4.0%——GF 评分为 69 电话 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXRtYlhoUXBfMEJXLWtCemRlZjVzMDhxTmtIc0F4Ym9yRUEtSnlHdzlEMmhSTGdMMXFrZEFIb1B3ekdNTHR0OW5uQ3JlUmxDbW0xTVp6TmhVZkJDcjAzUlpxQW1GWmVXbXpWX0hDcEQ0R0d2cEo2UlhCS0JrV2J1UUpadnd6TmJCUW1zUERGWEhlc3puaXdROHRFd3RlZXQ3R3g5YkZqWDA4aEFm?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AA",
-      "name": "Alcoa Corporation",
-      "price": 47.01,
-      "change_pct": -9.84,
-      "change": -5.13,
-      "volume": 11008410,
-      "name_zh": "美国铝业公司",
-      "spark": [
-        48.43,
-        47.475,
-        47.205,
-        47.64,
-        46.98,
-        47.185,
-        46.8,
-        46.47,
-        46.24,
-        46.4999,
-        47.3867,
-        47.93,
-        47.885,
-        47.97,
-        47.55,
-        47.33,
-        47.11,
-        47.245,
-        47.205,
-        47.38,
-        47.37,
-        47.285,
-        47.09,
-        47.1199,
-        47.01
-      ],
-      "news": [
-        {
-          "title": "Alcoa shares fall after announcing $4.1bn acquisition of South32 assets (AA) - Yahoo Finance",
-          "title_zh": "美国铝业公司 (Alcoa) 宣布以 41 亿美元收购 South32 资产 (AA) 后股价下跌 - 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0V0bFAtRWFPaWpIX05ZQnpzcDBIY1BBNERhZVVzcVVDazVyUDl4WXJoVERxSENZdHAxT1hqUWRmS2h1VVJFMHBuMjFfbmRUXzBPQl9fdzVNb2ZkaVdRTkEtUVRqMU5yamNNY0MxVUhlQmFXMUkxZjlTQkJUbDJ3ZTI2T0M4UE9LaldSZU1WNzNPTDZVV2o1SzRpbw?oc=5"
-        },
-        {
-          "title": "Why Is AA Stock Falling Nearly 5% In Premarket Trading Today? - Stocktwits",
-          "title_zh": "为什么 AA 股票今天盘前交易中下跌近 5%？ - 股票推特",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmtDYnlfejRQdnFiUWJGbnE3MV83eENYbGdfcTlfOEVGenQxc3BoelFHTjBELWV0VUZUeExkRC1pRHUzR0pPVWlQMlNxYnFvT1JEOTlGMUZBQlV1ak5ubG5RcDhwTnMtUnFSa3NNYWNaQXFVcGZOMVd5ZWQxWWZQZi1lMkhvc2RkamkyMllpQXNZNGZ5NTkzbEQzLW0yZWVUYUpPZnJpTHYyM1hEWVljeU9uajE?oc=5"
-        },
-        {
-          "title": "Price to earnings forward of Alcoa Corporation – NYSE:AA - TradingView",
-          "title_zh": "美国铝业公司 (Alcoa Corporation) 的市盈率预测 – NYSE:AA - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMG40d3lQOUczdXctSjdzWUF2SWlIYmR1TGFUWmxjRWUxaXZISjFMNGI5Z3YxS1ptaUlwNGZsWmVyeUlPUmRlVDNaWmY5OGdsWnJSaVFTWVVoOG9UTThhVW14Y1BJWUJPYTJUSU15cW5RRUFzTXc2NkU1SkJpeEEyRklmWWU2Rnl0OV9vWFNKSFpaTE1Za2NBVHJIRXU?oc=5"
+          "title": "Leverage Shares adds Aehr Test Systems-focused ETF - SRP (Structured Retail Products)",
+          "title_zh": "Leverage Shares 增加了以 Aehr Test Systems 为重点的 ETF - SRP（结构性零售产品）",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTh6N3BvQTVrVG5BTC0wRzNiRlYwOUJGNEs3V3M4eFFWZGJpV2pvbjZGRy1qbWFLNTRsTUFyNUNIcVl2bGozd2tjQjF4bFZ3UEhacGI2VU9mcEo1dzRkZlFpb0ZRQkNVMmtnNlh3d0lTdXV3aVBXdzhZajJiMEZ6QnhzXzFPalpGbDNVemlvUUpOTFpjOTlCdTlybm8yaGdlbFgxcDBXYmxSZw?oc=5"
         }
       ]
     }
