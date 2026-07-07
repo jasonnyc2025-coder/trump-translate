@@ -22,12 +22,18 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install anthropic
+
       - name: Fetch & translate Truth Social
         env:
           RSS_URL: ${{ vars.RSS_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch.py
 
       - name: Fetch & translate Yahoo Finance / Sina Finance
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_finance.py
 
       - name: Commit if changed

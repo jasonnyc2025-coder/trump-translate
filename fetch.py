@@ -9,6 +9,9 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+import anthropic
+
+_claude = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY", ""))
 
 RSS_URL = os.environ.get("RSS_URL", "https://www.trumpstruth.org/feed")
 POSTS_FILE = os.path.join(os.path.dirname(__file__), "docs", "posts.json")
@@ -81,16 +84,17 @@ def parse_feed(raw):
 
 
 def translate(text):
-    text = text.strip()
+    text = (text or "").strip()[:2000]
     if not text:
         return ""
-    url = ("https://translate.googleapis.com/translate_a/single"
-           "?client=gtx&sl=auto&tl=" + TARGET_LANG + "&dt=t&q=" + urllib.parse.quote(text))
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            data = json.loads(r.read())
-        return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
+        msg = _claude.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=1024,
+            messages=[{"role": "user", "content":
+                f"将以下英文翻译成简体中文，只返回译文，不加任何解释：\n\n{text}"}]
+        )
+        return msg.content[0].text.strip()
     except Exception as e:
         print(f"  翻译失败: {e}", file=sys.stderr)
         return ""
