@@ -1,41 +1,485 @@
 {
-  "updated_at": "2026-07-15T12:00:29.224951+00:00",
+  "updated_at": "2026-07-15T13:56:10.319830+00:00",
   "us_gainers": [
+    {
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 102.16,
+      "change_pct": 41.87,
+      "change": 30.15,
+      "volume": 4504706,
+      "name_zh": "",
+      "spark": [
+        102.41,
+        107.7,
+        103.12,
+        101.54,
+        102.205
+      ],
+      "news": [
+        {
+          "title": "Aehr Test Systems Reports Fiscal 2026 Fourth Quarter and Full Year Financial Results with Record Quarterly Bookings and $100 Million Effective Backlog - Aehr Test Systems",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRG5KcGh1dzV6ME1PSlg5dnJVZms3dktzUlloMVJDd1V5WGttcm5BeEFSVUtPeHJMcGtuLUh5WnA3QnRHeEowV3lqQ3AwYWlZR0JuMFdvdVlIMXFBMkpvOXBMaklUY29lcWk0TnhDd0xkMzJJcXRVSjM2cTNqb05NbElta0dVVmszQVhHcU52dWlSQlY3U1lZVmZoNnFOVWNtbUx4Zmg2WUN3RHlqN3RFRU9fVkJCLUtuaFN1YVV5VXdCQTVSejFTYl9Ucl9iY2R3V0t0Sk83ODNnd1FyQ1o2bHJUODNnajBZdUpTQmczdWo5eUVPZzYyOGdrZU92aVpxN1pRVEtWZzFWaEU?oc=5"
+        },
+        {
+          "title": "Aehr reports record $60.7M bookings as effective backlog reaches $100.6M - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1lkSE9YUUh6NXV5STZ3QVNtZlQzb29wSUZKamNTLThiempyVHhfS3lDNFkyTDlsMng4LXBHblFWMzdRc09GSE1YMnlnOE9tZmFiREdWYmVqWXZrU2pFYm1BNVVjTEhHbi1MMUdyX0pBYTlvN1NrRU90UTRlckpYbzZxcndNVF9zdmU4TUpzbWJxLThySmxuVUluWjZaQ0J6SU1BQWpHYXFLWWRNTjRVeE5JWXZ6Qm55S0prWmVB?oc=5"
+        },
+        {
+          "title": "This Chip Test Maker’s Stock Is Soaring on Record Bookings, Robust Outlook - Barron's",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTloQWx4ajN5b21ldGQ1enRScm5lRzZXamoxUzdkTE1HSmNtNUQwdkZmOW5lRU42eGNEVU1XX0R6WHNkSEhuMy1EaDcxT25Ybm93V3FmeHBiQ0hJcHlVR3ZtR184Z0o1S21kcC1uOXc0TGNBSHo0bmRPclZ0XzdTRGU4U0hkWjg?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MANE",
+      "name": "Veradermics, Incorporated",
+      "price": 127.12,
+      "change_pct": 15.68,
+      "change": 17.23,
+      "volume": 230405,
+      "name_zh": "",
+      "spark": [
+        122.38,
+        127.8694,
+        125.8,
+        128.95,
+        127.125
+      ],
+      "news": [
+        {
+          "title": "Female Pattern Hair-Loss Results Set for Veradermics Webcast - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakd0VEw0WW1SalVVWkNWTml6M0k2TVVfdnJ3YWVsbXd5MDMxcFJNSXQtMUNIc2VYak9tMTY0SWNsdl9HU3hCWm9sWjRvYjRmV3lTTEVPZmVTU3A0Y05QY3B4YmVGTDIzWGFvOVRMbnNnRE9YQUxSVk1peEZ4QzdGSmFwcG5DLWpjdHBEUjBsTFhLZHIwWkR2ZVNhVkhyQUo4bS1qYVhaRUVudXgyLW1vN2lSM2dpazZaUnhF?oc=5"
+        },
+        {
+          "title": "Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTgwWVl3NHNkNTlOSjYxS040dHlCamdiQ2hlVVBRbFJDTUQ0TGxNNU4wcHE1QS1pR0tEeUdRQW1xbGpvMWg5eUxnOEhQaUJDUTNyNG90ZE9SbkN3emJCNDNJUjE4aDNaZXp5dW81aktYa3c4dUlONVF6WFJUbk42WlBFNnJlS0VYT1VtV2t0MUdJTzh1Mk5BVk04WEMyaXlUOXhyZ1dqZlI?oc=5"
+        },
+        {
+          "title": "Up to 90% of women reported better hair coverage by Month 6 - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmFqaFczdkxtQVlKT05Wbi01M2EzN0JCcE04UHpqZ2JZQm45MGdmbk01VGhxUmJveTNMTDJNNzV1UVNSbkpiRGg5aXhDUnFMQjNkdFVSSnQ1eWhzclhUTVdKeFV1R1ZrMk9uQlFfQTMycC0yUjVQb2xTQkI0VXhzTXFOaUhfT1BhYmJDOXp1ZC1wMjhRckVoOWpPT1hoSFBmbm9vdk9fUDJTU2Z2WE1WcjZnX1dlQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "price": 53.8,
+      "change_pct": 13.58,
+      "change": 6.43,
+      "volume": 33484653,
+      "name_zh": "",
+      "spark": [
+        54.36,
+        54.375,
+        53.91,
+        53.75,
+        53.7999
+      ],
+      "news": [
+        {
+          "title": "Goldman Sachs Raises PayPal (PYPL) Price Target - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEw1dFNSLUlNX1BkbUlrQXZ0aUdsek1sMTlsOUUtOW4yRjZPaHZtOUd4WVVwTWZaNGhHVDI1VW13cFVpTVd3UEhCa1FkU0YydEM5QmR2SmZoZFNjZnBBVVMwMmVudWl1RDktMU9rNWFUN1M1Q2FkZDAyeE9HaFVubmo5Sm5mRGtTNkppM18wa0x2cXd0Q3JKNHRGZVNJQQ?oc=5"
+        },
+        {
+          "title": "PayPal stock soars on report of buyout proposal from Stripe, Advent - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSExaenJTRTZ5cnVZelJpQ0NrQnlBRzBQcmpiV29MbDdEckp5b3pBZEdGYmdIRTF6WkpteTZReFkyUnlpSHAyV1NnOGMwdmhDSG1sVFBzVmt2QXVVZVU2anl4TVhSZE8zMjYyYmUxd2k3d2RBSXNNUFdLOWFLYjJNNVRsNE02ZkV2VGdIWFBjZ1BIb3d3N3FDQlQ4dE1EeEdXejNJYjFxNlM1Z3RVN0ZPRTJBcnp6eVV4VzhVOEZweHk?oc=5"
+        },
+        {
+          "title": "PayPal: The Potential Stripe-Advent Offer Still Greatly Undervalues The Company (NASDAQ:PYPL) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0JnZ0dxeW1fY2NNTmxyWFBKdXQ5c0RUTFl2YnlZdzBRaHlUR0c4SkFEVk1sS0VZZm1DTndBdzc3RmgtaTVJdy15ZkhaWWF5LVZBLUtaRWdSXzNxN1lRcGNpaTNMallsRWpCUlF5eUdpTVRFWDByWUwtdjJPbjRlN3RMcXJXWnFiOGdMRUJnRklKSHh5T25rekNZMXFHRlh2THRQbjFHRnROWVRGMFBjWF9fb1hCZ3pDbV9r?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MNSO",
+      "name": "MINISO Group Holding Limited",
+      "price": 12.63,
+      "change_pct": 9.58,
+      "change": 1.1,
+      "volume": 208767,
+      "name_zh": "",
+      "spark": [
+        12.51,
+        12.5282,
+        12.535,
+        12.63,
+        12.634
+      ],
+      "news": [
+        {
+          "title": "Why MINISO Group Holding Limited Unsponsored ADR (MNSO) Outpaced the Stock Market Today - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0pRck5GWm1JNktad1pDNEwzbkVrcHhfWXJRbndHcnM0MURVT0lhUVNVNlZUTmpreVVZa3pUU3hFVFA1cEQzSEpFazhQT3U4bHhzTTlZc2Z4UXlVVjNrUHdfSm9lRTZKY3JkN1Z3VTVsVWhlc1A2cVQtQTV5RENfNGI5Q1EwY3gzbHlYbDNvNkFoTGl3dTNHS1Q2V2duUQ?oc=5"
+        },
+        {
+          "title": "MINISO Group Holding Limited Unsponsored ADR (NYSE:MNSO) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUW1RN1hMSG9XTmVZU2o4YkNubGo0c01MbEhYT01TM1cyakpJQ3oxMUM2a0dqdWpPZE1oMjU5Z1ExMW44aWtBamNfTkNJLWJmS0RTNERoYm5UMDhYazVzd0dXSGFNanFPNnhoOHRIT1NFaXlIdkpQTHdLSlBxYXlVOE53dW5fYXg1STgwdVRhVnNLamF0VUN2d3JkTnBkMkxYOUdzUE1nczBmSnhpejRicDJzZnoyVDRvVGd2cUpZWkxOTmFYeGlZN3FlTGJJOFpCNDZCVm1ZUnA5dFNoaGFVOE01OWo?oc=5"
+        },
+        {
+          "title": "[6-K] MINISO Group Holding Ltd Current Report (Foreign Issuer) | MNSO SEC Filing - Form 6-K - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjJTUXJEdWRyRUoxWlZVV3hibGc0Q3U3VDVUMnMwUnVkWENEd3J4b1o5TG1YSVVQNWt2MWZwcGN6RVp3SW5HM3gyYVdFZFB6S29IMHhVR2g3amxBU29FUDdlampMTUJUeDZPVHpLaWJYbEREQm5XMlJTLWQ0QXZjV0o4Y0xDS0ducFlkRGw2TUQ1dXhtN0ljNkdRWnNKMVRHQTJaUHFfX1dHUE1sWTFubGlmaFRsa3k5S3ZMUw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MESO",
+      "name": "Mesoblast Limited",
+      "price": 18.16,
+      "change_pct": 8.45,
+      "change": 1.42,
+      "volume": 101320,
+      "name_zh": "",
+      "spark": [
+        17.98,
+        17.9201,
+        17.99,
+        18.07,
+        18.2
+      ],
+      "news": [
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMV3A2RVltUmwzdnRmX2l4cHFYWnkwQ0xaaUJzcnRNTEVRUUFIYTRCS2R1MlhJYm5zSWpYdmEwOVMyYWxHdXdHRVFucVdObFBt?oc=5"
+        },
+        {
+          "title": "Mesoblast Limited (MESO) sees 278,571 director options lapse in July - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTndRbWtxMXJfUVhwNHJFYlE0OU9uYmt0ME1VSmtBbEZ0MTFaVlQ4X05hWWFmbGtMWVlOb0g1UTFJMTZaOFk4Sm1YUVFOVG9nYlhQd2V5ZnhKOHhtbXdIa0xlaUZzSHJqMU9iNmRkTk9zdEVNX09BVG15N0lOUE1mcDlzRUtQYTJlOVJtejFvbHppRk9keDNPeElCYUpfRTBodGFTa3loWld2NjBsX2c?oc=5"
+        },
+        {
+          "title": "Mesoblast: The Commercial Proof Is Now Becoming The Investment Thesis (NASDAQ:MESO) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDVlQ01vWVgxdGFnUmlwSjZsbG1LUkVkY2dZdlNZZmN2REZOa2YyNmVjOTNEYlYxLXhsMzlRczNBSUd1NzRkbGNuRTN5dTdsUXB3UlRaR3Ywam85MlJDSmE2endESlNKTnVZVGc2S2toOWt0cUM1d2xOemYtcjNYZUhXaDhkbEE1a3k5amlqb0cxSWtQclhWWUxCbVVLOU9HMGw4QTlFTEJQNjNCamc?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "price": 1100.01,
+      "change_pct": 7.27,
+      "change": 74.57,
+      "volume": 310278,
+      "name_zh": "",
+      "spark": [
+        1096.39,
+        1103.49,
+        1098.5649,
+        1095.6899,
+        1099.45
+      ],
+      "news": [
+        {
+          "title": "BlackRock stock climbs after Q2 earnings jump as inflows boost AUM to record (BLK:NYSE) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3NZcW94V25TNGdrWHdOTFZPaFgzMTU4bTJheUtkT1I0WVJJZWUxaWZuUzZaak1XTkw4Ty1DMERFMlREM0h0YjBwcUktTjdKMTc5U0xmR0dXTk5waE1telFGb3B4cGJKS2xJTExvQXlGNnhBUFhmcVFOREpDRS1HNW9uRmFDekdXaFNrZEI3TnlWTUdPOVZYYlZzdlNKTWQzYWFFU05WbElnZ2xwaXpNY1ViVk8?oc=5"
+        },
+        {
+          "title": "BlackRock Investor Call Set for 7:30 a.m. ET on July 15 - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDkyQ0s2ejFNX3VHZy14WWxsaF9OY3RiTGp5clZrRmFlZDN1S3VpbzVmYW9LQzhEMGxscXg3dTFFYTlmeFBfVl9pbVdOMUJzSWFvV3lGcF9WRUdIQkE0M2VvcHcyZjBPZjdXSV9oQVJCdTdOZHpuNWNVanBobWNKZjgtbEtNN2tMS2Q5WU1fbFVzcVN5QWZJ?oc=5"
+        },
+        {
+          "title": "Avantax Planning Partners Inc. Lowers Stock Position in BlackRock $BLK - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVW9qTUhnWTZoNmVBWEk4U1BXUDE3akhSNXBndDBTXzZPN0FPWHFNbndBU29FYm4xWkNoRjkzVzBqTF9aZjNramJfMzRQcXRySE9zdW1aVmpBMEk1RmlqZXJ4UmJLdEh3QjdqaURpbXNUbmFaNUlncFEtN0hQYW04NFQtZ0pnN3BQSkFzWXJJMVJJc1h1M1pXaFVpd2d1a0ZPNU5GTThOOElmdkpXbGg5ZmpWNC03bk1MdlZHcERubHQ3MXJaS0t4bw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "KRMN",
+      "name": "Karman Holdings Inc.",
+      "price": 49.26,
+      "change_pct": 7.44,
+      "change": 3.41,
+      "volume": 589632,
+      "name_zh": "",
+      "spark": [
+        49.75,
+        49.27,
+        49.265,
+        48.95,
+        49.06
+      ],
+      "news": [
+        {
+          "title": "Karman Holdings Inc. (KRMN): One of the Best Mid Cap Defense Stocks to Buy - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY19Md2NPaHltVzB1TXY4WGFLa2VkWGQzc29CN0xTNWpwbHZCbXBJa1Rza0dkUmdQbnNZVW9LdTFmNTNpTlBncEtSaXU4ZzE1VnNQQ1lQcUdiSkI0cVJqcjFMT2kwbGxxYnM4X0U5VURDcTl4SHNPUFNPdWoyZXJtbmF6cUtUUDhVZXRKR01FaWJsUDlGN1ZYVQ?oc=5"
+        },
+        {
+          "title": "Karman Holdings: Solid Demand Backdrop, Growth Visibility, But Valuation Not Cheap (KRMN) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdW9Ua01FV1pXUTdNN3N6c1AtYjdDSmQtRXVqUEJNeVlTYUlDS2RUa3pXNjlWUml5cUJLdGVPM2c4bUdEa0l3UTVlMW1fTmNfekNTSkFpVlptcGVfVmxhS0lNMzJ2SXRpN1p1NkVKWndqVHdOR1pYUTVYZGVtOFRpbmJadlNVOFZsVTVhbHZCR0VnRWNLdERXQUViMGZmd2pTMHJueVFheExjcUxQUlFJX2pwd1gwcXh6c2ItRQ?oc=5"
+        },
+        {
+          "title": "Karman (NYSE:KRMN) Trading Down 9.2% - Here's What Happened - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEc4ODNVbVVQZ3JmMzZPMG5HWkxDYjYzYk8tdURvQ0lPOHNiYzZKOUVud3poamV1a215TkdmcUFmQ2tZOHA1UkdBdjctOHZTWTd5WEotVDYxbDFnR2xIZHdBaVljUkJuNkFGeE9yN3pnRGZldFpGUlFBUWNKU2ZfNlA4ZlJIV3pLWVV5TWhqeWNPNXdDcWFvX0hzQ0UtTTRzVlJJc1lsMWU?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "price": 120.31,
+      "change_pct": 7.11,
+      "change": 7.99,
+      "volume": 6531487,
+      "name_zh": "",
+      "spark": [
+        118.99,
+        118.88,
+        119.25,
+        119.889,
+        120.6
+      ],
+      "news": [
+        {
+          "title": "Alibaba Group Holding Limited (BABA): 12 Strong Buy Stocks with High Upside According to Analysts - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVndBS0VFeHdUVHpTc0JrRGRxbWFSLUxLNG9jRXZhbmFqM19QZzlRai13Z0J4amI5Qkw1XzhFNjJuNmNjenZZM2dEZHpZaF9CLW5feTJraDY3T3JwNGhqX2tMTTd5WHZKamt5clg5ZHdJZVZtSkZwanUtNFNkU0I0N0pKTUIxV2oyUUhHM1NDMGtVSDFJc3ZRaFE2aTdRSTlN?oc=5"
+        },
+        {
+          "title": "RWWM Inc. Sells 216,782 Shares of Alibaba Group Holding Limited $BABA - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWW41RmxyNkZpZjIwNzBLU1RfdmMzcGpka21CWklQc3Q2eVZ1ZHFhTEhwZWFjWktaZGdERHdKcGNzLWRGOU9SMmFIYXFuRGFxS1kzNHhMYWVtRjFOUEd4Rzg2Z3JwVjZ3Q1RXUnB2NjJ4dElEeWJhaktUQXpmVDVQbmcyc0c0VGE2V2tMNlhDamZURzhBTTNxZWtpQUhhREc4bVRIUm1QYTEtN1pTSWgxUjY1TVVPd3l1bWx0RkVsaGxsSzJybVE?oc=5"
+        },
+        {
+          "title": "Why Is Alibaba Stock Surging Wednesday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUhtUFlnWW5DcndpTE5kRXpBZy1TczZXa3BHTWRxVzFmdDJMekkwVUF3ckYzeUljd3NBSE1ZM2FvdExSRUlWZGNUb013RGFXS2otRFFkTTRfLVhoN01VaTBXTE92U0NmRVQtWXp5bkctWXpEbXVCRjNULWhIWFE0NkV0c0tLYjY3QTMwY19NWnY2WWZPeWc?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BEKE",
+      "name": "KE Holdings Inc",
+      "price": 17.23,
+      "change_pct": 6.99,
+      "change": 1.12,
+      "volume": 999826,
+      "name_zh": "",
+      "spark": [
+        17.03,
+        17.14,
+        17.125,
+        17.22,
+        17.2499
+      ],
+      "news": [
+        {
+          "title": "[6-K] KE Holdings Inc. Current Report (Foreign Issuer) | BEKE SEC Filing - Form 6-K - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0QwSHRkS3ZZVmhDalo0TFdvMllMVXFOZ3VMSW05VVpxRV9Xc2ZZUW1sU05Yd0ItaHI1bjV0ZklFVC1qM0xhaGdCRW5mX3JIelB2ekJvdTlWbHg5dnVyeWp1MGw3MFlNUVk0QjFGZGNSYVhocjZkcDNHMk52RWVFdTJLRWdUcWd6cG1hU3VQRGs1MmNzMk5mdkRBWVA4VVFmcWRaSzVRMUdMa0N4N1lRcw?oc=5"
+        },
+        {
+          "title": "A Look at KE Holdings Inc (BEKE) After 3.2% Gain -- GF Value $18 - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS09lNEFVVW1oUXNKMGtGUklGN3dWUnZIbTNNZC1mSXc5WEhkcnJGUjdzTGNzY1NvNTEzV2U3SnpWNGpnZWtaTTc1OTl0XzNhS004ZE00eVV2SFMwQ2JjY0I0cDltMkNGVWNxbzBWN0xTR0lKTnAwZUMybGs2MURBcFFHa3dCMWtLOFV3OHlnZGN5QVZXOHB6eE1mMDVpUTM0bl9KTVo4VnBaZ1dMakNjYw?oc=5"
+        },
+        {
+          "title": "KE Hodlings (BEKE) Loses 14.1% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDY4UlU3TW1yN1JUNkt2MjlFSlBYSVZGc1I4d3k4SjJUWERnLVJTVzE3RVNrb2stZng1VXFGTFpqc2VzaDNiU3JKMkRTTUZGOHdWdDVmbGM0a1lIQklKU2l3UTJTNDB1V01NT1FwMnZ5WV9sUTRmRUhPTThEOEhGdTV1V2tqNTBWRnhpU2VHM2wtQXph?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "LION",
+      "name": "Lionsgate Studios Corp",
+      "price": 14.13,
+      "change_pct": 6.29,
+      "change": 0.84,
+      "volume": 1395232,
+      "name_zh": "",
+      "spark": [
+        14.32,
+        14.41,
+        14.335,
+        14.239,
+        14.135
+      ],
+      "news": [
+        {
+          "title": "LION Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nWFlLWE5LVWliWC13RUthTTNLODJmUnB6YkJtakpoeW9VME5CS25JeW9TdnE5eV9odkNHaEJBS3hiZG9uZmFmc1kzbG9sLXRpeDBz?oc=5"
+        },
+        {
+          "title": "Are Consumer Discretionary Stocks Lagging Lionsgate Studios Corp. (LION) This Year? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalNnTU1JQmUtaEs5c21XVWRoV04wc0FVYlBwUWFGT1RwLXZzSUV1LVQyV0xzMHNQTnVTWWlnNmVBcmM1UW9zMThMOTR3UFJqLVVfeDRfMXdTQ05xOHUtdjhJYklnRFZkcW9fMlh2akVQTUMtVV92STAzWURCSHFwM0pfazlXZXl1bTYwZWlHWVlYaHpwaWRIbWZWUk9SUDJKSTBCVXNnWThoVHB2TkJjVUl3?oc=5"
+        },
+        {
+          "title": "9 Red Days In A Row: Lionsgate Studios Stock Is Down 18% - Trefis",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZENBV0l5LUo0VXF0c2R2QVFPSlpjY1ZsNnhSYjVxTU5Qek9pYm1JV3o4bFVfeTh0V3F6ZlhZa29WYW9HUGI0NEtPVl9kLXFKTG9rT1daby1JUnBMc2VQZXBJWU42OV9DWlpMZzV5TDRIYlREOVBfenVIN2l4Z0Z0dWZWZW1Nb2pndUpNQzdlM1VheHdzNU9wa0pDYVFscU5sWmFGdExmTy0tcWpkZ2RSZXNSY2tJQQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "us_losers": [
+    {
+      "symbol": "CELC",
+      "name": "Celcuity Inc.",
+      "price": 95.0,
+      "change_pct": -14.45,
+      "change": -16.05,
+      "volume": 1966365,
+      "name_zh": "",
+      "spark": [
+        92.5,
+        93.15,
+        94.7,
+        92.69,
+        95.045
+      ],
+      "news": [
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XS0g4TnpSZ1MzbDV1R19zSlR6RnlEWGI2anE3TXpsTVBnbVlVQmJuTE9EOHBud1EyTy01NExQQmJUc00tbEwzNTVTMHBZS3Ro?oc=5"
+        },
+        {
+          "title": "Celcuity Inc. (CELC): Likely Leader in Next Generation of Breast Cancer Treatments - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjREMDlIalVNMS02T0pEVl9DWkJSNmZobjlGV2s4dGRGOFgtRmFlRC1kVWJJZGp4NmJOMU9yMjlFWFpjOWtUVkFMcU03cTZQcUE3cjRScDh6N2VDdFRsNUt2c2M5RTNXdFNZSjRsWmF6a1VUZXh1VXlXc0I0MjRxLXRKVmUwYW5TQXc2Z0ExSHFZWk1OWXpLbWRvaG12dF96T3c?oc=5"
+        },
+        {
+          "title": "CELC stock clocks best day in about 2 months on first FDA approval for cancer drug - MSN",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQam4xWUpMU0JtdlM1djVpRUVXMWU4emV4VjUtSnNYYXV2TF9Ia1V6aU1sRE1rN0d5SDdkZ2tnbTVQdkkyajVma3BBVVQyRUZUdmVSRlg0UjAxT1NidW5ua2dPWTlOVy0xQ09uOGhJcXA1NHZiYmxXUENiUnJMR3Y0TUpkSG51azVpeDBvdkpFN3FtNGhwTXRSNGF1ZUNYQmRyMlpyejhucHl0X2kyOXJuWkpBb1BsTEl5cUVyVGRBYzB3WGdIRS1QSURpNXhnZw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "PNR",
+      "name": "Pentair plc.",
+      "price": 66.42,
+      "change_pct": -12.26,
+      "change": -9.28,
+      "volume": 2699275,
+      "name_zh": "",
+      "spark": [
+        61.75,
+        64.84,
+        65.52,
+        65.92,
+        66.31
+      ],
+      "news": [
+        {
+          "title": "Pentair plc. Stock 12‑Month Price Target Cut to $97.47, Implies 29% Upside - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFFvdFZtT0FDRHItWnJjVUZmTmdoczBYd2w2REM1OTlybGdyVkc4Vk9USUpPNWFEMEV0NUwwWXRsNmF0VkgyUjJPOENZTDVILU9zSGJBemgwaWh6dk5QNTk0ZHhMSUoybHVrUDRFTTFHeVVOcE5EQUk1cWNKSWswZmFjcEZIMmVNd0c3RDM1UFk0ZE0tdlpqMFg4dGxIcGhvZUswNHhVSFdGZTdpTEtzSFN5cnV2cHM4RGdqYzFJcHQ4RWU0VzJvT1FybGw?oc=5"
+        },
+        {
+          "title": "Pentair plc (NYSE:PNR): A Quality Stock With a Staggering 55.92% ROIC - ChartMill",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2toRUxYX01ncDJSYzdGWkF4cTBvaEh6OXE4eENIdHlkdWxlMXQydHpTZ1VPR3E3cGNwZVJmUTg1N1g2VnpPd05oWEUweExLcnlQaHpGRDM1R2lzVXozZHlINDVDRTlZcG52ZXJBVENpaVVrQkQxdEdfX3JUNXVRWlNZLWZWYmJiSTVBZnMwWklwYnN0T01QODczX1VnbmJkbXRzSmlCYWlPcGpDNEs3YnFiVjg?oc=5"
+        },
+        {
+          "title": "Pentair plc (NYSE: PNR) cuts 2026 guidance after pool channel destocking - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHU0VXR5emVmYzYxanAzZXh1b19hdFhXVmhTX3dzZjJEbnNpeUI0OFl0ekNSRVl4SmwxOUlGc0h5elFWUkpNV0J3c2dKSUtNYXdHSTNvM3R1RmFBdGliQ2NZdTNJV3pabE5kNTN3dU1QRF91TkFrektFU3FkeERPUHUyS2RWanVKTXMydHJqUm9NN2w0TmpEOUhpZC1BWktx?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "PGR",
+      "name": "Progressive Corporation (The)",
+      "price": 208.36,
+      "change_pct": -8.0,
+      "change": -18.08,
+      "volume": 798213,
+      "name_zh": "",
+      "spark": [
+        206.64,
+        209.715,
+        207.53,
+        207.095,
+        208.84
+      ],
+      "news": [
+        {
+          "title": "Progressive policies in force rise 7% to 40,086 thousand - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmFMR1IxbFNhSE9rQTRYZWtsSEJEcGhuQzBRTUhqbDdhUHJQSDBFN1lOLWM5ak85SWUyaksyY2h3SkxkNHRYbXNCS2ktX3R6UmFNenNaV0JuOEo4ZGNMczVBeUlaZEkyWUFDcHRwcUFhSGJ1UGtBakZvSmc3ZnBfUDVtZ1FWYTlzWm5v?oc=5"
+        },
+        {
+          "title": "Principal Financial Group Inc. Reduces Stock Position in The Progressive Corporation $PGR - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2RiaEpkTXRmUzREVGRUNFgtZnprZmEtLUMtMWYxbjgycGxVOFpVam9fQWxIdEZFMFp6SnFzZHhOSnh0aVBDaEV5NThRMEF2V2lDNXltbmdKOHdDb2F1VUZtVDJJY2F1MVAyVXBGeHFBTVVQTXpKVlZ2QlhlZVFER0pXVGNBeUdoVU9faU11eDJOdXhTZ3haRjE1NjZLbGFoZmQwYWl5SDhKNk01cFk1ZW1sSXo1dndEeDZCQVY4REZEZnh0M1JWRUZWd0REU2E1Slg2YTRCMWM4b2dZRXNhdG1n?oc=5"
+        },
+        {
+          "title": "Progressive Corp Stock (PGR) Moved Down by 3.15% on Jul 14: A Full Analysis - TradingKey",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1RpZ1pJMFB5REl0S2dmT3RucUkzSUszclF0ZXI5cVctQnhRQUt6RVYyTmU1TkxfYVZ5cUpIbTNSTVdZMW80V0Z1TEpsQ0hNSlNOYzM2Nk5adUxXMW95UVhIQWtnQTVZNDJlVkljMzBuZ1o0MGx3M254ekhENThYY2k2RjQwc1FxQmc?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "ELV",
+      "name": "Elevance Health, Inc.",
+      "price": 390.29,
+      "change_pct": -8.55,
+      "change": -36.51,
+      "volume": 731461,
+      "name_zh": "",
+      "spark": [
+        380.48,
+        382.265,
+        384.87,
+        393.19,
+        390.79
+      ],
+      "news": [
+        {
+          "title": "Elevance Health (ELV) Surpasses Q2 Earnings and Revenue Estimates - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNE5Hdjdqbk8wRW41dzRValVTaDFCM19rVG93Zklpek1YMzNTeHVnSGRzdUxWdWNTVXQ0RGFYWUh2Z2N6eGhwX1lsZjJrMFJqWllEa29BQ21UTDJRREQxOUlnMEpoN0JXWkZsS1pUUkFKV1BxRlFDYmxNWmtsLVEySkxXUWN6WGdkZ1RGa2c0akFhTnlZYS1QeQ?oc=5"
+        },
+        {
+          "title": "Elevance Health Reports $49.8B Revenue as Medical Costs Rise - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTE5LeTBLcjZiVnBrODRwZ0hsY01Uc3ZabTRtVzBuVFBydUNLZnBTcG9HX0ZWbnc0RmMwT1lwMGk0MFBVRXZsZnhlRVVvVjFxem5CN1BGTHFPWlFPalJYaldVY25YMnRmbXRybXoyV1d2cEtqbEhERzlSOE1EZVJhRmVSVDdydkJ2bThncnJMem03UXJTZTNkOEcwOXJ1VXgzZlRjLTJkS1EzWFFUdE0tb0VaZ3VLcGI4YmZMRzZnQQ?oc=5"
+        },
+        {
+          "title": "Elevance Health: Q2 Earnings Snapshot - kare11.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZjJMb1BvNW12ajBJcjNZOVRCWmFob0d0bzFEY2o1ZWN4MlFOVXFfVTI5cEc2TmttTDlVWk1XWXBmTnY5dHd0eEVrdU1QV2RLWVVXa3Zsa0JfbTZFMjA4eVo1QmVxWFlBVk82VUpOYWszcGpoZE15djV6MEJQbHQxZFMzenBLeGhnbm9FYzRiUUxfazBmWXY0amppYXBDUFFMWVhtLWtHU1ZBSU5vdmwxdHY0ZzN6MTJfdTVyZ0lpaU93WUFNbFlVaUZ1bGpYYWpHUGc?oc=5"
+        }
+      ]
+    },
     {
       "symbol": "SKHY",
       "name": "SK Hynix Inc. American Depositary Shares",
-      "price": 193.92,
-      "change_pct": 27.29,
-      "change": 41.57,
-      "volume": 72595986,
+      "price": 179.93,
+      "change_pct": -7.22,
+      "change": -13.99,
+      "volume": 15480700,
       "name_zh": "",
       "spark": [
-        167.73,
-        170.26,
-        168.8106,
-        169.375,
-        170.825,
-        170.84,
-        174.67,
-        178.645,
-        180.2672,
-        180.326,
-        179.8,
-        181.935,
-        185.9,
-        182.02,
-        184.935,
-        184.375,
-        185.65,
-        184.41,
-        183.69,
-        188.4,
-        189.195,
-        186.46,
-        186.06,
-        187.03,
-        188.4804,
-        189.53
+        177.165,
+        179.26,
+        183.1,
+        181.23,
+        180.685,
+        180.685
       ],
       "news": [
         {
@@ -56,369 +500,60 @@
       ]
     },
     {
-      "symbol": "CHRN",
-      "name": "ChronoScale Holdings Corporatio",
-      "price": 23.01,
-      "change_pct": 16.68,
-      "change": 3.29,
-      "volume": 331694,
+      "symbol": "GLW",
+      "name": "Corning Incorporated",
+      "price": 174.72,
+      "change_pct": -6.88,
+      "change": -12.91,
+      "volume": 1607411,
       "name_zh": "",
       "spark": [
-        20.125,
-        20.755,
-        21.03,
-        21.13,
-        21.4507,
-        22.015,
-        22.215,
-        22.15,
-        22.6532,
-        22.525,
-        22.4,
-        22.59,
-        22.91,
-        22.9018,
-        22.5799,
-        22.94,
-        23.085,
-        22.95,
-        22.86,
-        23.05,
-        23.22,
-        23.28,
-        22.7625,
-        22.76,
-        22.74
+        181.9,
+        181.6809,
+        180.3477,
+        177.14,
+        175.32,
+        175.31
       ],
       "news": [
         {
-          "title": "Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company - Applied Digital Corporation (APLD)",
+          "title": "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks According to Short Sellers - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlTSGNVNlM3d0VsQ3hZMmpJUzhhb1E4Y3FETHRvYVVOVlBHenVJcXVwYWhmRDdvM256UG1POXl1aTczUkM3bGprNFlWVFZlUkpRN1FHdUV3cVV4LWN4cFJqRFZHMXhYd3liRkhZMkFrMlVaN09TajRKN3Fzb1c3anFTU1RiQVBDTkRBRFRacXlrd01LWl8yd3F0RHNUTkNSYVFEdXJOUFBpM1JUazR4RFlFRmxKV0lvUER1Z044bw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXlvMDBQRUV5NnJDT1I3TldhZDdPWTM0WUY4ay14UmsyeFVWajlKV2VIU3d0TDgyaC1FWTR4TE1TNENrajdzSUsyNmhSeXlXVUJBZk85Ym9qTy1ZVGl0aHNzNGE2aWRTY0JsVUpWRWw4YXVUemZrZWE1T210d21hUUJNTVgycS1oNXltUmZPR3FtSTFxbFZKM1FZcmhFeGx4?oc=5"
         },
         {
-          "title": "ChronoScale Goes Independent, Freeing Up Capital For Growth (NASDAQ:CHRN) - Seeking Alpha",
+          "title": "Corning Inc Stock (GLW) Moved Down by 3.91% on Jul 13: Drivers Behind the Movement - TradingKey",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUZvNXZ0TVVlOFVHb0ZUVlhuc3JTU25xUUR4QV81ZkowYnU1c3NtWXNsM1d1d1dtUHczdVEtMGYybHJQeXBoUEwzVjBfSzFVNGJSdURxVXU2R3I4TGh0Qm5VcWJidDQwcHFDbDhRNHlHdmVONEZRcFE4WmJuTmxnYk9Tb1daakpjRWpDSXhZT0tVSGpwVHd6eTJyXy12RWhSOWJSOVBGbng?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1M3MFBlcVlCWWFTUFZic056blpqNnNFdW1lN1lWOGw1VTB5OFJ3U2ZhdWlPZWVpMkdIZlY1V1dqZWNZQVMwNlU1MU5OT3lBWmUxUlNTZlVudFE3RGtkejBrcVMtQjNQd1pTMDRNX2xER1JYUjdiNERMVlA3UFV4c0FLOTZVdmxQMWc?oc=5"
         },
         {
-          "title": "ChronoScale (CHRN) Stock Valuation After Sharp 1 Year Surge And Rich P/S Multiple - Yahoo Finance",
+          "title": "Zacks Industry Outlook Corning, Viavi and Ooma - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDlhNmx2aVo5ajZyUlo3N1Q2XzlXWVJDWktqUEphNHhjY1RBZ3dSWFlhdWtaUEhpVTMyd2VHUHdfTFkwaXFZdm9kTGc0eEhqNHBhczVLcGh6dEFTOFZBUFNDQVAzWGJiX2w0OUttTkFuY2lfZlNTemVQbEN4ZlkyZC1HMHQzcjlpM1pLYlEwRUxWSThrNEE2YWxQdk95T3dEeDM2Qi1R?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 57.57,
-      "change_pct": 14.09,
-      "change": 7.11,
-      "volume": 10302501,
-      "name_zh": "",
-      "spark": [
-        53.4522,
-        55.96,
-        56.8213,
-        55.54,
-        56.7545,
-        55.77,
-        56.1554,
-        57.975,
-        57.63,
-        58.14,
-        57.59,
-        57.475,
-        57.9,
-        58.035,
-        56.8901,
-        56.9598,
-        57.27,
-        57.51,
-        57.47,
-        57.3,
-        57.5515,
-        57.85,
-        57.77,
-        57.485,
-        57.32,
-        58.325
-      ],
-      "news": [
-        {
-          "title": "Why Investors Are Dumping AXT (AXTI) Ahead of Earnings - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk0wR3FKNlc0aVgtSjFaWWsyVXh1bkFBSVlxQy1va3FGZTA3cTF2VHZobFZOZTktVllYckE2V09BNWVQZFViR1JXMU9iSkgzbWhrdmlQUHFwbXY0UVdkejhESmJlWkNqY2MzYTNuNVMxR1FhMm1kTDNQVFlHYVNFa2FHV1FnV3RXQlVVMjJnNHhYaXZ6XzQ1ZDNxbw?oc=5"
-        },
-        {
-          "title": "AXTI Stock Surges As AI Wafer Demand And New Deal Ignite Volatility - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vd2s2MzBTUzlScEdxZE5nRHJjcXVpZzBTYkdFU1ZnMWtCTThIVUh0X3hxRGRLZE14aXRrMWVsdW9EOUI5a1BOajFDeEV3Vy1PSmUxT0RaUUFhaDRJUXBmTm5IcVNWRmJQb04yWXpHOA?oc=5"
-        },
-        {
-          "title": "A Look at AXT Inc (AXTI) After 14.1% Gain -- GF Value $2.54 vs Price $57.58 - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFlsWnBnRHEyb3ZKd1NZNE5SZlM2UjdCcHNWeXpTY3NnQkM1SzNwbnN3THlEYnFBRFFrVFdOWHJxUzc5TlMtZUhsOFhQOXdsaE9Bb182RGVIVTlvNk9uU1VoelRkUVhWSW1mZnRQVVRqYUFTa3lvRmJPa3RQUVhkaEhvVkVjeENLd3RGTkFKZ0NUUGsybDNOU1FZU1V4R1VFcENrdEdnM3RORGpKR2k5RnJTTlZCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ATAI",
-      "name": "AtaiBeckley Inc.",
-      "price": 5.67,
-      "change_pct": 14.08,
-      "change": 0.7,
-      "volume": 11875227,
-      "name_zh": "",
-      "spark": [
-        5.025,
-        5.24,
-        5.205,
-        5.36,
-        5.425,
-        5.44,
-        5.415,
-        5.455,
-        5.46,
-        5.4401,
-        5.465,
-        5.5705,
-        5.5935,
-        5.6486,
-        5.61,
-        5.705,
-        5.73,
-        5.705,
-        5.745,
-        5.74,
-        5.7027,
-        5.725,
-        5.7,
-        5.675,
-        5.69,
-        5.665
-      ],
-      "news": [
-        {
-          "title": "Is AtaiBeckley Inc. (ATAI) Stock a Psychedelic Medicine Opportunity Ahead of Phase 2 Results? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYl93ZnRHcUhabEJCX0hGTEo4Tzk0SE1aYUhTck5ValZoZHBXU21ZX1REdTdOM1FyZzJKV3I1Mi1jNjR3ZlQ4TTdTNl90V200VUk0LW5oZ0k0Rl9MQWIzRlJ2WDFrZmVRSjMyS2gtNU5NT3ZzaTc5TGxlY1RnalI0U1lDaTk1dmVLYVB3aWRaYmtKQko0YWlnNDVab1ZsRmE0?oc=5"
-        },
-        {
-          "title": "AtaiBeckley Inc. (NASDAQ:ATAI) stock jumps as FDA staffing guidance spotlights BPL-003’s two-hour edge - TechStock²",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1Jqa2w2WDBxaFhjSjBqU0R6SEpPVDdMSGwxZGlETXJ6Z0dVY2F0aDczUG1iaFUybVh5T0dvNmNQc0RSemhTOHR2bkZ1dW9DaDVjVkE2MzdrRFpfTmM0U0JoTlBiY09NWWo4Z2tFT2dEWVA0MERTeTFZLTBsbWtSVEdLLVZJVVRnTDFSMW1MSkJ2ZVc1dUJtcVdoZkhCMEczMWtHZnhZcDQyRjlwOWF1Ym8tS1Z2bEptUkE?oc=5"
-        },
-        {
-          "title": "ATAI Stock Pops As Trials Advance And FDA Climate Warms - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40dmN4TUdhM2EzOVBsOVhnWGtoQ1c0WmRGLUNkYjBqdXpLUlVxSHp2ektKUW1pRXVYTy1JOTQtY2xIU3AtbWpXVld3d3FhSlFWT0xadDVZUmlvQkgxNm9CYWVRVzJsTzBIMlo0a19CeFJSRC1hcWRN?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "SEZL",
-      "name": "Sezzle Inc.",
-      "price": 182.39,
-      "change_pct": 13.82,
-      "change": 22.14,
-      "volume": 743397,
-      "name_zh": "",
-      "spark": [
-        159.95,
-        159.38,
-        159.345,
-        162.395,
-        165.415,
-        167.925,
-        169.49,
-        169.18,
-        168.89,
-        169.0,
-        169.55,
-        169.695,
-        170.955,
-        171.23,
-        174.235,
-        175.8442,
-        176.265,
-        176.13,
-        176.305,
-        176.5888,
-        176.57,
-        176.9752,
-        176.66,
-        178.02,
-        178.56,
-        180.36
-      ],
-      "news": [
-        {
-          "title": "Sezzle stock loses some sizzle after KBW downgrades to Market Perform (SEZL:NASDAQ) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2M0bGJQcksxQTVTM3M2QWJYa1YtaS10WDlIcWVrZW5XX0RrcmE2elFuX1c0czNjTDdWUTc0MHVjOEpra2YtQ2pobDBzXzc2N2lBa0RfRmw4NklBYnJXd05SQ3pZRU4tVHNTLUdXbk1xcDZDX2RjallYLXBhTlptUUJmVVZyNzRKUVJqLUNoSXJlSVRFelltOGFMRWxlM1hxN1otY09qOHFCRlU?oc=5"
-        },
-        {
-          "title": "Sezzle to Join Four Fintech Investor Conferences in August, September - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUlsQ0RJcm42ZG00dXNab2NDSHpZX0pxSHgtU3p5MHNDYlZDdU13LXlNYXlQcm16X29lQzRmbnpHQ1ZXejFaYklKbGl1d0gwcGVrWXpNWWppUnJyQjdvY3NUeE92ODl2MXg0Qi0zNk11bk0wNjdkOW9PVzZfTFR3blZBUkRWRjNpSmxIX01ST2FlUTBaYzVsTGNqMnpMa2JINTU0dmFzeDRfZjgtcUJ4YUdyeERUUDFaaS1Kaw?oc=5"
-        },
-        {
-          "title": "Is Sezzle Inc (SEZL) Overvalued After 13.8% Rally? GF Value Says - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSkJ0d1VkdWFMeF9Xd1NoVkdGZDZxNlNGMy1OSk5mX1VUbjBtSjU2bENwYzFWc21vamh5UTZLQXJQalZMSVBseDVlS2UxeWVsRzRsZGhPU0xTTW1vQms5V3ZzVnJfcDluT0lsVEFjN0t2TUp1U1Z4eG5WNUlVeGRqWGJMZkFKb19TOTdlS0xGVFRhRGt6QURVR1ltam1mXzhIMnlwNU1YYUo0enZSdzdkaFByYW1DbkdPVjVWampvanBpQ1VjRVY4RWYyUUJEY28zMDA5aXZJS0VhM0hrYm5XdUlSQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TGB",
-      "name": "Trekor Metals Limited",
-      "price": 7.97,
-      "change_pct": 13.53,
-      "change": 0.95,
-      "volume": 5944772,
-      "name_zh": "",
-      "spark": [
-        7.55,
-        7.68,
-        7.675,
-        7.71,
-        7.79,
-        7.695,
-        7.765,
-        7.76,
-        7.71,
-        7.735,
-        7.7,
-        7.68,
-        7.675,
-        7.675,
-        7.795,
-        7.895,
-        7.915,
-        7.935,
-        7.98,
-        8.005,
-        7.9898,
-        7.955,
-        7.915,
-        7.925,
-        7.945,
-        7.91
-      ],
-      "news": [
-        {
-          "title": "Trekor Metals Ltd Com (TGB) Stock Price | Live Quotes & Charts | AMEX - timothysykes.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UX1hPc2thZHE4WWM0cVd5aWtuLUpsQ0N6am9ndE5wY0NIalN4SmV2eElnQTlpdHliZ1UxM0tzU1dReVBtaDc2dXNIQ0oxSkNF?oc=5"
-        },
-        {
-          "title": "Trekor Metals rallies after reporting Q2 production gains (TGB:NYSE) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclRoTDhmQVRPOHEtMC1HWjM3Vzc5dFI0ZE50NEcwSjI0WTNfblhlX3dJcU9qb2FoVktkSEdUWF9jQnNBTnZLdHk5NGFzaUI1MkhtTDNsUzEzNUt3dXl5V1Bkc0pyV3JpR1ZvT244UmtfYTB5OHl0amJJOU4zekkyWWN6NktHaVdHQTJ2bFNIRDlqQzlrRXlIYXBTVQ?oc=5"
-        },
-        {
-          "title": "Trekor's Florence Copper has 110 wells; 26 more are planned for August - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjFNZXE5eUtEZnl1UmRyMC05aHZwcC0xVmc0U0RPMm1oRlhBYkpfUS1razN1cDJXamFoMHQ4WFBuUmZsYWJKOHUyd2pUQzJScTRBTERVWE5NVW9mSUNvY3BIQ0h2U0VoSWJMSXBQdkhfRmkzV0JBNC1QbVQ0RXJTdFhtbWRiMVY5VkVTbkd1UE9TSnhDd0RGMGZxVDgtRXo4ZUwzN18xQWRSN05nb082R290RnY?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
-      "price": 210.73,
-      "change_pct": 12.14,
-      "change": 22.82,
-      "volume": 12137998,
-      "name_zh": "",
-      "spark": [
-        194.65,
-        202.16,
-        203.9,
-        200.47,
-        205.02,
-        205.2901,
-        206.62,
-        206.475,
-        206.62,
-        206.59,
-        205.58,
-        206.27,
-        207.68,
-        207.6683,
-        207.2875,
-        208.53,
-        208.825,
-        208.1699,
-        207.93,
-        208.11,
-        208.54,
-        208.53,
-        208.82,
-        209.47,
-        209.255,
-        209.55
-      ],
-      "news": [
-        {
-          "title": "Why CrowdStrike (CRWD) Stock Is Trading Up Today - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1VtajNSMUtZSGJKdm1JYjVBb05hMzNzem0zRWtSbzQ0S3hIUkxxajFXdV9RaEhsUXBSVUxUUGg5SmVXVHVYQkpzZ3dNUlFkOWlDUU45MEh1bUxNX2lNY0RXa0ZHUUl1eG94S2QybWRRQ0I4OVBhNW5xUkNjWnEydFk4Q1IyRF9kaUY2T2gxeHYyalpQYVYxeDh2RVpNNl9s?oc=5"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 10.49% on Jul 14: What Signal Does It Send? - TradingKey",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2dfY0JqWlVPdDhGbFBmcUhTRHRNNG5UQkxkYXdpelJlZjVDM2V2VEwzcFNNTHhxb0R1ckdDUDE5clc1cjVibGJCYUlGdkNscnh4SGd3VGt3ZzVyZklMTGpDMzhCak92SWhXUEpPMHBkUmFnVno5dkhKTTNFTWxiZEEwaFNOOVdoZjVV?oc=5"
-        },
-        {
-          "title": "CrowdStrike CRWD Draws Fresh Price Target Hikes After Stock Split - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVk5WYWVlZ2Z2UnZCbjlLd2l3aU5jTEJFMzF6WmlqOEl5amNha0hGS2M2aU9ZZ2hoUVctMTdCOWdSN3Vrdy1Xck1ka1VFb2FraE16QTl2OFBzS29FOEZtZFNVVXFROVVWeXRRRmd4bUtLZXAtN3dWN1YxZDJ1em05R0YwS1JXQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXMxNVE0YXVURTNyTEo4d0N4STRnMFFtOVBhM2Q0TC03N2R5d2dOdEs4Sm04OUF4Vk9Gc2swbnhJT2JkYlFtcmVBbWI3UF9CQ2ZCVll5bWhZUjJaNzNGQWROT040QklmdnB4b1BwTmwtUDhoUjZqUS12RHU2dWd3YnVBV2taY2tNNG00VlVvVmw4S2VBYldKN0owbkFYQjYwUVc0?oc=5"
         }
       ]
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
-      "price": 125.45,
-      "change_pct": 12.13,
-      "change": 13.57,
-      "volume": 9976480,
+      "price": 115.86,
+      "change_pct": -7.64,
+      "change": -9.59,
+      "volume": 1705083,
       "name_zh": "",
       "spark": [
-        117.975,
-        121.86,
-        119.4768,
-        119.0,
-        120.6,
-        118.64,
-        121.34,
-        123.91,
-        124.2525,
-        125.05,
-        124.44,
-        127.45,
-        125.78,
-        125.73,
-        123.7805,
-        123.3009,
-        123.865,
-        125.18,
-        124.28,
-        124.255,
-        124.685,
-        124.14,
-        124.77,
-        124.94,
-        125.09,
-        126.19
+        119.1625,
+        119.82,
+        119.37,
+        117.5204,
+        115.72,
+        115.715
       ],
       "news": [
         {
-          "title": "Applied Optoelectronics (AAOI) CFO sells 4,000 shares under 10b5-1 plan - Stock Titan",
+          "title": "First 2X Short ETFs Target Applied Optoelectronics, Oracle - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTZobVo4LWp3cjlJd3ZNWEhucGdIcERpTEpOa0J5Qk5YNkp6aGpVbmJYWjJIdXNvTnVzdWdhYTZjOEx6LXNnZDlNOVRZT3VCYk9yWDUya0p1RTJIMy1IaFBZVXJVQzBlZXJzRXVDRXpWMkhzTVM2VmJqTmZwNVpSQzNmZXU5TlVjSVVmZ0gtZTdNSURBVjJyclJMT29yVzNidzM2bjFMdm1mLWxrUVhsTkYtbktlek5YbHVqcGxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnFFMXZLeHZjaHh6cGwzYXlHY2l3RHBfS0VtTHVqVzZtZXdZYTk1eXlIN2JKMGctS1dNZF9HVzhfTWg4LWRTbzctbUppbFpBcjYzeFZfUzZHZDdTSFU5ZVJwc3ZMVXBBRGFPQVlFMXpKbzJaNElSRm83Q2Vud2lhRmthbEhzVi1QUENzSHJqcHpudDVna2tRLUVXaVVhZFl1VFI1VWhuQ000MkdZQmNZ?oc=5"
         },
         {
           "title": "Applied Optoelectronics : AAOI - 24/7 Wall St.",
@@ -433,660 +568,104 @@
       ]
     },
     {
-      "symbol": "RGC",
-      "name": "Regencell Bioscience Holdings L",
-      "price": 5.65,
-      "change_pct": 11.88,
-      "change": 0.6,
-      "volume": 458111,
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "price": 763.31,
+      "change_pct": -6.32,
+      "change": -51.49,
+      "volume": 663071,
       "name_zh": "",
       "spark": [
-        5.0,
-        5.14,
-        5.26,
-        5.26,
-        5.225,
-        5.2,
-        5.19,
-        5.18,
-        5.33,
-        5.3176,
-        5.35,
-        5.5294,
-        5.51,
-        5.6284,
-        5.63,
-        5.51,
-        5.44,
-        5.5201,
-        5.51,
-        5.525,
-        5.51,
-        5.555,
-        5.5101,
-        5.66,
-        5.69,
-        5.62
+        789.7,
+        787.295,
+        783.27,
+        774.08,
+        763.44,
+        763.49
       ],
       "news": [
         {
-          "title": "RGC News | REGENCELL BIOSCIENCE HOLDING (NASDAQ:RGC) - ChartMill",
+          "title": "Emerald Advisers LLC Trims Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93YmZtUVdCUmJFeWViQnVTT0VyUlpSRnNkWmI3cXVySjY4eEtNeHhZNzJTT0JqNUtZZU5pdUtVY0MyT3NhdWtFcXFlTkFwU2NBVHE4ZzItbWZndw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3JZVG0xcGt6bnA4ZnhOQXF5NE9fY3d5Q25UTnljVVBJcjA2UE1UQkhjOE1WWDl5ZE54aTNobUtkV2RMdmU5bDg5QlRpX3BYLWxhdmFobTNXclU4cjZrTUg0ZXFwQmgwMFF6Y19zUnBoM01ZSUllVjF2Y3c3Q3V1bUVsbVFmU1VxUXlOSjhQVERkcHpwYURjRWpHZFduR1FGZEtWZkF1T0hVRVNjdTRVeEZpRVQydFdxWWVMM1dLcFdWTEF4V1hsZVBiel8?oc=5"
         },
         {
-          "title": "Regencell Deadline Today: Rosen Law Firm Urges Regencell Bioscience Holdings Limited (NASDAQ: RGC) Stockholders with Large Losses to Contact the Firm for Information About Their Rights - Business Wire",
+          "title": "Lumentum Holdings Inc (LITE) Shares Surge 6.1% -- What GF Score of 61 Tells Investors - GuruFocus",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOakVvN19ZS3pVYXBoazNFTEJxQ1FqVjdldGZLbzZEa0pGY19qTTZUak5GYjZDSDNHbWpIRld5WWk3ZnZxbG5uU2Y1a0ZqZVdYSUdzZmE3S0xLWWF5ZDdSMFlSTGpDa2JPMU5fSi00TW96UzFvdE1adExka2huZUNySllZUGFJekg3UTVHbVd2TkRtTVFaLUhVSDJZT2llNHNlWkMyOUJ0XzAtNHNxNW9sblF3dWI1QTRPeEViaklXTXpGS3FYWW5EaW1QYVJxdG9BQy04X0hLb3hhcF94aFVtSmM0V0F2a0xfV09EcWlHZEU2SEF6Zkd5NzJ3MXE3SmdaMXppUGJ6MVhyUVFjSGd2akpxZF9fUDUzY1A3Z2VaQVl6VUtIRXcxSWJwaVZrSTF2ZUVTWk5ZTkMwMHhHRjFiNERUb0h3WEYxZUhUaHlIM3FFcVhPWmhpWg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWpIdTdRUHNsX2ktOVpBVjExX0wweUJsaEJmYmIydVBoX1BHWGRaaWkwTWp4cVpzOEpWajQzRWRXWU9rRXk0OVdrMVNTMjhCc3E5b2JhNU8zUFRCcHJ1YVlsWU13N0ZMczJFaFNhcm90bDBDTzFDRTNROFFaU0M4RWstVU55VnB1X05uQW5xcWFRRGgxQlJyZTFpSmpZd3Z6aGEyMFduMEozM3hFRTctLUEtcjZtYVMw?oc=5"
         },
         {
-          "title": "RGC Shareholder Alert: June 23, 2026 Lead Plaintiff Deadline in Regencell Bioscience Holdings Limited Securities Class Action - Contact The Gross Law Firm - PR Newswire",
+          "title": "Lumentum Holdings Inc.'s Stock Price Skyrockets to $814.80, Showcasing a Robust +6.07% Uptick - Smartkarma",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa24wekR5Y1d6LVVWcU8wNlZPelRlX2Y1RUQzT0hSZ0toRmpvaV92cTgtdjllb3FLczBUS2FYMW9HREVVb0s1ek1tSTFhMFlPZlpQVnpvOU9nV0Z6ZTNqX0FYWHlRYW1FNFNhZlhldXFNNHJPRnRKQlh6M2laYVQ3Q2E3NDBEQ2tadWFkdjZmWUJrSllNTjFjeHVhNHpPUUhlbUJZekpXb1ZaanY4ZHBJOE02eEZpSm1PN2hjZFlPQ0hWNEpURXFIYTlwRkFORFRXOTdmMGhoN2k5ZkY1NWpsZ2xsclZHQzJyaFgzbDFZcWZZSGV0NDdqMFMxd3A1Z1Uta0UzZ3A3RHlfeExld3ZJc1RUaTAySkRVSGRoTDJscWQ3YXR4YXdTVU56d3lCTkxscGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSWs5dGVDZjNSYWxOWGlEbmJQdzhBcHMyd0hST2c1b3JkUldnUGtiTlVHYTdUb21COXNXYjRQeExmRVY4Tm8weHhVVFNwcGZvcGtfeGloUVdjVkpabmp3ZU44R1FVSDM3WlNsVktja0lzcXp2UU9mU1p6Vk0tMlA1ckphR0FFbTVGMDhPbE10a3M3VkQ4cGdQVFJicnl2c1ZSZ1lrLU9GVE5DWktmQnpDSHo3Q1JlaWRtS1N2Tm5BZ0pEQUdmbmVwX01vNU1Cb2Vo?oc=5"
         }
       ]
     },
     {
-      "symbol": "BMNR",
-      "name": "BitMine Immersion Technologies,",
-      "price": 16.29,
-      "change_pct": 11.5,
-      "change": 1.68,
-      "volume": 51548999,
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1645.34,
+      "change_pct": -6.4,
+      "change": -112.48,
+      "volume": 2005657,
       "name_zh": "",
       "spark": [
-        15.415,
-        15.845,
-        15.91,
-        16.115,
-        16.2,
-        16.105,
-        16.245,
-        16.2,
-        16.235,
-        16.145,
-        16.02,
-        16.185,
-        16.15,
-        15.99,
-        15.9608,
-        15.8706,
-        15.985,
-        16.065,
-        16.1851,
-        16.225,
-        16.165,
-        16.2,
-        16.25,
-        16.255,
-        16.17,
-        16.225
+        1690.5,
+        1680.8997,
+        1674.5587,
+        1655.0,
+        1648.5505,
+        1646.95
       ],
       "news": [
         {
-          "title": "Bitmine Immersion Technologies (BMNR) Stock Looks Reasonable On Book Value But Weak On Returns - Yahoo Finance",
+          "title": "Jim Cramer Didn’t Hold Back With SanDisk Corporation (SNDK) Price Target Upgrade - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVRYXzIwWlRfdWdtcEJLT1Z3bFY5RTJxUTl4ODFxLVVvY1ZUQUdLbnRVMWJkT1V1SW9YRHlLd1cxSXA5WDRtd3MxT3NMbFpNMG55d1hldmlVczVEaUlTVWs0aFlGUmMtRE1TZUJBRHJVaDVDZXBnVzJrT3VSMWpuYXJ2Mkh6N1dSMUFlRnRacXlFTWkzTFdBbHhhc25CcFljUTVNX3RpUjBXZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXRoNkZsWUhWOURWTUEydy1JUm1aRFg4VVZHWDU4UVdnazBFYnoteVRwRmpLRGRXd1NmV1puQm9meTFmY3V6ZTBvaUpGemVEUFE3Z1BFWVNkbjhpQ0R3VlZpU1N1RVlqRDZYZXpHa0FzZjBPLXNxb0tuUzVxX29DRFZqbmZsNDlOUElRNUZMeHU?oc=5"
         },
         {
-          "title": "Top BitMine Immersion Technologies (BMNR) Competitors 2026 - MarketBeat",
+          "title": "How to Buy SanDisk (SNDK) Stock in Canada - Moomoo",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPY3lLbEZoNE5tTjJic0loVG9RX1dWVmdnVDlBSFhZaFdHXzFVclgwajdfaFNsVV9VNEtFN0g4RUxsalh1WkFiVTJaQzBwVWttZF9ESTZIM3dDX0lGcnQ5cUR5R3JXcVdDNU1BeWlqM0xRaFpLSndCN01UOWE1QQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQjN2MmY3c3g5OXRXUnk4ZGlaRWZfMFpvMk1FcUM4WnFxcUZzQVdFMHJsaDRvd3NveUQ1SHdvX2JUUUFSWG9fSG1wS3VJVDZuekhSUlBQUjFXSUdCUnF4TjZnSXF4dF9BaUtXSkFoLTlsSUE?oc=5"
         },
         {
-          "title": "Where Does Bitmine Immersion Technologies (BMNR) Valuation Sit On Its Latest Results? - simplywall.st",
+          "title": "Sandisk: The Best Part Of The Rally Could Be Over (NASDAQ:SNDK) - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmQwMkk2N3NiQ04wZ1VxdFBkTmZhUi1ybVVHSkNIVzVabFVuTTBSTWUzekxvSUhvZFFDSjhxdFBLRFZ0M292aFNRcXJBS043cGg1eC1sTU9LSU9OMU9ldTNqNkt3OEdkekw3dHR5bGt0T29iRXpBM0F1b3J0dDczV1VTd3hHVlN0ODNVNi1lQ0lxM2ViM0xDbzdLZldzdHFKZ1dJc09NSkI4dFpWUGIyWjg4ODVSZEtkTEVkS0hCT3RlU0MxVEhLdUlidGJvdDFmYlpOa1NicFRsWG90WWdUbUItZEU4UdIB5gFBVV95cUxNdmQwMkk2N3NiQ04wZ1VxdFBkTmZhUi1ybVVHSkNIVzVabFVuTTBSTWUzekxvSUhvZFFDSjhxdFBLRFZ0M292aFNRcXJBS043cGg1eC1sTU9LSU9OMU9ldTNqNkt3OEdkekw3dHR5bGt0T29iRXpBM0F1b3J0dDczV1VTd3hHVlN0ODNVNi1lQ0lxM2ViM0xDbzdLZldzdHFKZ1dJc09NSkI4dFpWUGIyWjg4ODVSZEtkTEVkS0hCT3RlU0MxVEhLdUlidGJvdDFmYlpOa1NicFRsWG90WWdUbUItZEU4UQ?oc=5"
-        }
-      ]
-    }
-  ],
-  "us_losers": [
-    {
-      "symbol": "IBM",
-      "name": "International Business Machines",
-      "price": 217.07,
-      "change_pct": -25.21,
-      "change": -73.16,
-      "volume": 67422893,
-      "name_zh": "",
-      "spark": [
-        217.85,
-        221.6,
-        220.53,
-        217.3901,
-        219.45,
-        217.755,
-        216.04,
-        214.82,
-        215.0583,
-        214.97,
-        217.1301,
-        218.11,
-        217.325,
-        218.345,
-        218.19,
-        218.11,
-        219.595,
-        219.1601,
-        217.515,
-        217.98,
-        219.69,
-        219.32,
-        220.095,
-        220.9905,
-        218.56,
-        217.3565
-      ],
-      "news": [
-        {
-          "title": "Why IBM Stock Crashed Today - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDY5VUlwallac0RFRkVTLXFTdkZyQTNnLTFwS3gteTI5YlBNUFBoU3pXVmhyaXJOVDMzLUVrbnQ2dlVpYl9GZG41TWsyQkNUMlhlQ0dXWlJudmk2NTZ3NV9uT1pzSzNiX08yQWRkWm9uZlNVcmtRNVFJem5uQlZNUWhFemMtVFVra083QldpY3VXZ0c0VFpj?oc=5"
-        },
-        {
-          "title": "IBM Suffers Biggest Share Drop in Its History - WSJ",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHlKcWI0bUM3eW5sMkVzT0ppNlVoTmdNYXgwR0kzOXlvM2xWeUpTem1LdlRjZzZCR01GVFduRWFLenAyQXE2Qm1QWGNRZW9sOWlseTl1RVNpSTZTc3dyZUJRZUJvQS1QUFE1RFhJOU1zdHJZbWIxQVZka190TzVlWWhuaW5DaEN3TVE?oc=5"
-        },
-        {
-          "title": "International Business Machines (IBM) Is Down 29.1% After Warning On Q2 Weakness Amid AI Spend Shift - simplywall.st",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWERnNW5LU2dDRzJ3eXZKemJhMTZUdFFZSW9HLWdYN3UwanR4dUVVODhnblViR0E5cHRNb2xLUVVyZUFQWlhQVnM2SGIwUHJYcU40QkZaM0xicktqX19VSE5PZVFGenFNaFU0Ui1XOHNpdFNHdkVWQ0dsaWJ0Mnk4UF9nMUJnTXFjMUJFWkhLUC1MZnNlb2htckUwWUROWFRBeGRUd0RfTVlLa1pFUl80UTVVeGxwNzlRRm94azRlTEdkT3F3VVoxRWNfR3FsRFpnUXVVMDVfbEVPWjZBWmRVTdIB5gFBVV95cUxPX0dkaGJETFJyeTlZcEFRTXdrZlMtM2pRSUZ0UGlIOGM1b25pUGZ5U21CbEtvNXlGak9tMm1hZnFqLWVqY2xMVGVwMkMxdTdLU3J3MUdDMUcxMDZPYjJIZVlyZzUzYlF5bjV0ZWtPTUc1eWxwd0kxWkZIeGZNNGhZMTRBc0trZ3JfdHdEbE10VkFaYWt6aExmVlpwRS1YUllSNnR3WTA5LTRaOHpRNFIwVEVibVpwb3pkOF9kTzROamUwcWUtWERyRHRJbUlKV2FhRV9hTFRwNDFxbGh2aU1mU1Y3UDYzdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGlsYkpla3J1UFdDTGtOcnVaVnFHUkhQVV8zU2NWWFllS3JOd3RtclNIXzBRclRCTkJkR25QX2FLczlqYjZXWlllR3RPMGlfeG5sWFJRcmFKZlNxZHRJOXJVU1V2eFRtRU1mSW50TjJVNFloaFNtOXFKZC0zUHg0R1QtQlQxb1ZTV0FleDVxTjF3NWc?oc=5"
         }
       ]
     },
     {
-      "symbol": "PSNY",
-      "name": "Polestar Automotive Holding UK ",
-      "price": 15.31,
-      "change_pct": -14.99,
-      "change": -2.7,
-      "volume": 379987,
+      "symbol": "LEGN",
+      "name": "Legend Biotech Corporation",
+      "price": 24.23,
+      "change_pct": -5.59,
+      "change": -1.43,
+      "volume": 1250371,
       "name_zh": "",
       "spark": [
-        17.58,
-        17.94,
-        17.985,
-        18.24,
-        18.18,
-        18.32,
-        18.36,
-        18.28,
-        18.25,
-        18.135,
-        18.1237,
-        18.06,
-        18.25,
-        17.79,
-        17.74,
-        17.135,
-        17.38,
-        16.56,
-        16.61,
-        15.925,
-        16.7632,
-        16.15,
-        16.0,
-        15.54,
-        15.9,
-        16.341,
-        16.3,
-        15.905,
-        15.57,
-        15.23
+        25.0,
+        24.49,
+        24.7,
+        24.44,
+        24.245,
+        24.215
       ],
       "news": [
         {
-          "title": "Polestar Automotive Holding UK (PSNY) Expands In Finland, Is The Stock Slightly Overvalued? - simplywall.st",
+          "title": "Legend Biotech (NASDAQ: LEGN) reports $657M CARVYKTI sales - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2lJdi0ycVE2RlgwLUtIRGFjU05IN3FjY2xWMTFLZE82Y1dMeVRTZ0JuR1dENTdFLUNvelNlSnlLOHJWczA3bTBxdUR0VS05UEx1YUdSbTAxZGpYSXFmQnlzUm56Rk9hNGNGZUVaSlBlT1M5RVlsbVBJNFBBcnlVUXFLNG51TlFXZk1zYnJyMXNtejNPNHJ1Q1V6djNTZW54VDlKSmFJakJWYlZfMHF6Tno4THNyUFh4Y1hzVzh2T1U4LTVyRG1MM3N0OFBreXdST29fazduZDhxVS1oaTFiWldubTB1SlXSAewBQVVfeXFMTmkxdVhqaXBfSXVqeE5vWXpEOEotNllySng2WHlYZGh3XzB6TXRrVGdRcHJoWTdtUlltRDJ5dXc5aERDaHRBbjhLMF9Hd3M3XzNlNTZ5dDBDZGJGVkRDLWRnN1VZQlQzcFRlYUYtOXJmS3FYd2Q2bWp4ZFQ4Y1A1aDRkblpSanlweUkyaG9NSklrQjRqU1FaRzNQS0lqTWFJSzIwVE5iby1Ta1dwQ3dUUHJIcXZ2VjM3OUJlSUNZRy1vTHZSeF9fQVpXMmw5WjZNbEUzanJvNTNaMGktcm1YQThGcXNmX2VaTWstYWM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWQ2ZUhIVHNmNEtldDRTZTloQ2NOQmRDY21NZEJpa28ySUx6SGFEVGhSaWxIeWtMWFkzcUdvZ3RBQzd5YmgwNTZEXzB6emdXY3ZSR243eE9fbEpMSmZpcTBQelg3Q2hDQXMzeHhleExkZG9lQWpwR1FVOGNuSUdweU1vVXNaZTQ2SjQ0VGZfOWVWcFlqSFEyRXJWM0JhQlJMOG01TFNIQURhUWtQOV9wTHdVR1Nfdw?oc=5"
         },
         {
-          "title": "Polestar Automotive Holding UK (NASDAQ:PSNY) Cut to Sell at Wall Street Zen - MarketBeat",
+          "title": "Legend Biotech Corporation (LEGN) Stock Analysis: A Promising 111% Potential Upside in the Biotech Sector - DirectorsTalk Interviews",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzd2X09iRlZMa2pUeDIzY3JEQm1iYS14MmVNWHlnSXJMQUEzTloyLWd0d0VmV0ItUjI4TDN6WlU5cW5wY2pNOEVsNkJhdnpDTUN3SnlRSDlybFVSaHg5c0JHTFBoMG8zSER0M0tqOUdRS0RXbTZRbFlLbWRuR0JtMThrWkd0X0RCXzFJN2w2b0JkQjhnS2xpcGdybXozQWZwZXJFSlVMd0lxOWZxT1cxdVdSVEZFNWphbVpQZFM1TmN2bTE3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHcwd3RtMFRGM3hBNzJlSElsM0hQWHFfX3BYb1ZkTmpKcnZaZUREaHYzUTVrSHc0OUhiRlFVNHRKVjQtNEMzMTBwUFVRRFpVQk5lX2QwLWxaMnpzLWNRcmpfQWhGWV9kYVVMZ0tjYzlwT0NBaGhWems5YTUtY0FOZ2pQYjhVbkF4Ti1YQk15WC1TcHN1cjRlUHZmaG5JM1lMNTBIUmhZYzljT04xX1djRnFwWXBrcnRIWmplQ1ZrSV94ZERwZXdUN2YzN3BOMUptVVh4b09mNnliY2NKc08weEJ5YVUxZHc?oc=5"
         },
         {
-          "title": "Why Polestar Automotive Holding UK (PSNY) Is Down 13.2% After U.S. Connected-Vehicle Ban Decision And What's Next - Yahoo Finance",
+          "title": "Legend Biotech Corporation (LEGN) Price Target Raised to $49 on LB5006 Clinical Progress - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTc1ZnJ0bklkOVdWVnlHMVNZaHNzYU8xdHBhWEU4RThQcFEwdER2c2tYVzJ6OUl6cjJzZkhQRFJ3b0YtdFY4QmRUS1VlXzZ2a0xzY2ZzV3hBVHFGckdvTUpDeVJXeThIWFlRaUdsMlRHaDZWTnJoQ2ltNkwzVXdxbDhZbXNIOXQ1SlJoYWZWSXJ0NmNhcTRrZ3pnUTVZbm03?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "DNLI",
-      "name": "Denali Therapeutics Inc.",
-      "price": 22.65,
-      "change_pct": -14.46,
-      "change": -3.83,
-      "volume": 5778139,
-      "name_zh": "",
-      "spark": [
-        25.455,
-        24.57,
-        23.085,
-        22.705,
-        22.585,
-        22.45,
-        22.685,
-        22.57,
-        22.36,
-        22.67,
-        22.65,
-        22.33,
-        22.645,
-        22.805,
-        22.78,
-        23.095,
-        23.03,
-        22.985,
-        23.129,
-        23.185,
-        23.29,
-        23.2,
-        22.97,
-        23.11,
-        22.435,
-        22.79
-      ],
-      "news": [
-        {
-          "title": "JPMorgan resumes Denali Therapeutics stock coverage with Overweight rating - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUF0NFFpeEd2em1MOF92VUY5dmk2UUlIaURRTmwwTFBJYVIySXFoRmo4X1ZrMHBSWTdwR3F0MVdiUTNPSFRmbjVTQW1WYndQR0lKNjZqdXNUNUtTb2tBSUduWi1tRC04VWJQand2SzZCLW1oaXR0eGptX1puZXVFYTNULWc5X3hrRmxyNUZuTnRGRmN1dHVXdnFNZGVIbXdOdmpCZDNTYTNQVHgzbUxyejJXeTE4eWJydEl5QjR2eUEteDNOaG11cVUxRHNNRFE?oc=5"
-        },
-        {
-          "title": "Denali Therapeutics Inc. (DNLI): One of the Top Stock Picks of Jeff Bezos - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2JzbzhYejFkcWFDYUhNNGZQX3BNcFJFUFVVQ0Y5T21iSDY4X3RLblROT0Z4QnpEZ2VDSHNQYnZ4RmwtRmdUSzIyV1RvbjNnWmVxeVg5UTN4dE9EaENRRGNXUTJzcFZDcmd2LXhwdFM4RUltNWNhSldRMDZ0bEpmcERtbHVxdGgwU0s4bGdNcVpQSjRlYWpMSVhHY2lVQQ?oc=5"
-        },
-        {
-          "title": "DNLI Forecast — Price Target — Prediction for 2027 - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92SVhoMVBXRUtHS2x2T2djeUlWYnM2aHNVUlRKTFJHdXpnNlAwVUtxbWVvekNWR0o2b3dYZmZUZG1sYVgyMjVMOUZCQjFhM1kzckF1c0ZNeHpNUE5qOU1vNU1CcGN5Z2EzbnhOV3BNMGI0RDk3Wlc1RnFB?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ERIC",
-      "name": "Ericsson",
-      "price": 10.14,
-      "change_pct": -13.48,
-      "change": -1.58,
-      "volume": 39448202,
-      "name_zh": "",
-      "spark": [
-        10.445,
-        10.385,
-        10.4099,
-        10.3399,
-        10.3298,
-        10.275,
-        10.305,
-        10.265,
-        10.165,
-        10.195,
-        10.1398,
-        10.125,
-        10.1099,
-        10.09,
-        10.075,
-        10.095,
-        10.0801,
-        10.095,
-        10.11,
-        10.105,
-        10.125,
-        10.115,
-        10.1001,
-        10.095,
-        10.115,
-        10.135
-      ],
-      "news": [
-        {
-          "title": "Why Telefonaktiebolaget LM Ericsson (ERIC) Stock Is Down Today - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzY3MmdxRTBYT0MySzlWTlRETkhXck9jekxHdi1QVmx4OXZGSTE4czloX0x5MENrVnBRdW03elFkWHRDd1F3emEzOW52TkNibmwxb3JfNmVycWswMTZ5VG9WYWk3dGRtN01qNTdhazFvWWhJWUpVWWlBbVJJTmNXMFoxcnZ0Xy1aN0U0SDZwbTBfWkRTZGxPV3Vqc1B1UkpP?oc=5"
-        },
-        {
-          "title": "Ericsson (ERIC) Sees 13.3% Decline in Stock Price - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFIzQU1Kc2E5UU1sZGFBbWR4X2R5SjVRZUk4Q2FDWC1LMnFKa3pfQ19qYzZXQnlEd1lyYmUyZ0NyVkJWWDFRLWwyM1NzRW14b0ItdkFnZkwyS194OWtwMThkN0toWjA5NkRSZGRuRXpoYjI4dEtsQm5aWVZXdlBHR2k3Y2NCUHFHNEdPa3JGWEQ2TmQxLTFnaHBtNmQ?oc=5"
-        },
-        {
-          "title": "Ericsson Stock Slumps As ADR Underperformance Weighs On Traders - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Qam1SZWhGRzN0UDJYZFFXY3dPYW9jNUptemVkMVJNWmpQVWdvWEh3aXFfRl9SZGpxRXJLN0o3c05hQnVkaHpCTWdPZTIzcENzUkNvMDNmaGt3MlJVRDk1bGJvdW9XeXB6LTYwaUp3?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "BIIB",
-      "name": "Biogen Inc.",
-      "price": 191.95,
-      "change_pct": -8.17,
-      "change": -17.08,
-      "volume": 3902309,
-      "name_zh": "",
-      "spark": [
-        197.0998,
-        193.52,
-        193.625,
-        194.09,
-        192.77,
-        191.51,
-        190.335,
-        190.95,
-        190.525,
-        190.9,
-        191.5,
-        190.25,
-        190.835,
-        191.02,
-        193.78,
-        194.475,
-        196.09,
-        195.005,
-        196.71,
-        196.11,
-        194.97,
-        194.95,
-        193.765,
-        193.0,
-        191.705,
-        192.21
-      ],
-      "news": [
-        {
-          "title": "Biogen Inc. (BIIB) Presents at Alzheimer's Association International Conference (AAIC Meeting) 2026 - Slideshow - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlprVXFHX2wxai0xUDJySHZkWFlJaXNkNm9xeU5fTlhnNEtTVG5BVVcxOHE4c3RrWFVKdVZ0elRyYnJjZldxc3E4M0xsYThnMUlEbW80VnRJc3N2ZVg2cTdqX3hRb2MybkltbjY1WXpERlBNUTdMeWRpYlQ3SWhrcHZCZTlidG40LTM2V0hzdWxYUVV3bzNnSFhzM21Pc0FMaWZwa2RoUEtYQlIydzdCVEpyd0tQRFJPcm9vdUgzR3Ixdm5MM2ZDd2Z4X3R2T3M?oc=5"
-        },
-        {
-          "title": "Why Biogen (BIIB) Stock Is Up Today - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmNGeFAtenBxazFmYWJoYzFSd2tSRDRHa3J2S1F6SVdKRkFxTzY1WlFxeFg0TV9VYzBBdk54MmtBUFhNY211enhVSGUxeTczMURlUEktTmVpLUVDUUFDRzNBT2pWUFdVRUlCT3U0VHVfYjMxZUs1bW4xeWJTU2hXUURrTG9EaGdnbGU4N0hJNHVxb3l5UUFn?oc=5"
-        },
-        {
-          "title": "BIIB Stock On Track For Worst Day In 2 Years After RBC Questions If Alzheimer’s Drug Benefits Will Replicate In Further Study - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMTI4bzd4c0RxWHY0d1d0VHFJTjZWNzdlXzJQczFLTEVnNEV1TFNfSktpNkZxMU4zZUxHWFd0blNtR2w4bGhzVGZxcEVLYkFjbXVoamdBNkMzWVB6azN0TnBXaFNUM3poTDdpNTR3cTl4aXN4dmk4N3ZiZ1dTNWVPdnBJUTdLNVRXZ3RzSk5rYjFURC1FVnZLdjA3Zm1MOUNFRWsyRThVLWhzN2FNQl9YV3pYdXdIcWNhZ2RqMmlKNlR5a2NoM2ZCRExoQy1oMTZRX1NOM1RGYW5leWhyc3N6d2dvbGZKNDkwU2JDV08xbkhsc05EZTM4Z2lPUHlPQWFNWExGXzRYeVhQaEdsZXNPNXpwcUo?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VIRT",
-      "name": "Virtu Financial, Inc.",
-      "price": 59.57,
-      "change_pct": -7.89,
-      "change": -5.1,
-      "volume": 2213683,
-      "name_zh": "",
-      "spark": [
-        63.0,
-        61.5,
-        62.33,
-        61.26,
-        61.085,
-        59.32,
-        59.19,
-        59.285,
-        59.2265,
-        59.7,
-        59.115,
-        59.495,
-        60.255,
-        60.4338,
-        60.36,
-        60.5,
-        60.775,
-        60.61,
-        60.2926,
-        60.36,
-        60.18,
-        59.99,
-        60.185,
-        59.955,
-        60.44,
-        60.335
-      ],
-      "news": [
-        {
-          "title": "Virtu Financial (NYSE:VIRT) Stock Price Down 5.9% - What's Next? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHp3Ry1sRkY1N05HczNVeE1STzU3MzAzS1hWVWdmd0Z5ZUZHdmFxUkRTNkFDVlZjMXhGcU12ZWV2M2hkMzFMQmExXzhxcnJWZy1KbHBYQzE1RTRPUkR3dFRaSHYteU1jaU9JeURYcGZkdEdvLW5UNGphVUpUeE9nNFZfOGhFSDRMQVZwMVJxMnBjZ0k1NFlaekZza1k0cDdrQjRxUmVRVzhWNkZ2anc?oc=5"
-        },
-        {
-          "title": "Virtu Financial Inc (VIRT) Shares Fall 7.9% -- What GF Score of 61 Tells Investors - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHZjTTBHcjltbHh2VFBvLWVXVmJXS1AtS0t0cGU0bXhFVVNnemQ4bTFIT1NleGJndnNmWlpxOXh2TTdSaGJJWF82NHRab3pEUHJTOVdfLWlsdG5GajlURFZ5TFJDZXVuWDdZZmhXSkdpYm5fejItVl9lV19TYW5zOW1Pem5UQWd6dTNMTENFM3pJTGlVLTQtM1VlYlNYS24zYWQ1MVg5VVcwZkZnd3NRWEFPSFRqdU5FS3VwYVppR01rZmhU?oc=5"
-        },
-        {
-          "title": "Will Virtu Financial (VIRT) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2hybjNER2tiRkJYUnVJV1k0M0prbUxPLWFZR0tOaUYyWDdyRDBEV1NhVFhMNjktaDQ5QzRPNmlEbFJPUG81dUJqb05KV2IzQ3VJaHhpNHRLZWlwRnVIaTdqWkF1Zml2N0xpRTRRREJVU1VXOE1NLVlhWmpOSVNsalM5ZzhKUlNoaTM4MlNhcjR2eTc3LUNlWGZRTXViNTlZOWc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 194.09,
-      "change_pct": -7.8,
-      "change": -16.42,
-      "volume": 17921771,
-      "name_zh": "",
-      "spark": [
-        216.55,
-        216.0,
-        205.43,
-        201.01,
-        201.75,
-        199.19,
-        200.5,
-        203.51,
-        201.895,
-        202.565,
-        200.2,
-        197.35,
-        197.1,
-        198.98,
-        196.659,
-        193.71,
-        195.35,
-        195.865,
-        195.255,
-        196.1526,
-        195.93,
-        195.26,
-        198.58,
-        198.65,
-        198.91,
-        198.75
-      ],
-      "news": [
-        {
-          "title": "NFSG Corp Reduces Position in Nebius Group N.V. $NBIS - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV003aHRvRUdvZ2RFUWlxdFVFWXU3TXFyRUREelVWVE9FY214ek9pV19INkFiNV9NZ2ozTGJDSWtRbEFpYm9nekFXZ1BzUjE5emZBQnAxSDktcDBWWndIUGdsRXFScUphYmZ0d1doelV1MS0zUnJLQjlVeDZsUlY5b1Q0MHVUVGFnOXNlUG44eFlrS0lBb0Yyb0puUWs4N2I5RWtEQmdJWGRsdzFNSFJNQg?oc=5"
-        },
-        {
-          "title": "Nebius: Meta Fears Create A Buying Opportunity (NASDAQ:NBIS) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzBwUXYyU0lWdWdBRm1qWFpDSVBlRktlQ2g2SmFOWU96U1dzVXp1VGZXS0hWbkZuOExmVWtUSE96OHRYclZpQnZtRHFrNWQ0Q2daRUVzZHN3Y1ZjaUMzSF9Fa2pqb2QzVC05VTdGUWFONTc2MXR6VEZsUjdwaFQ4ZXg4QTFLWEJSOUk4UVZwUQ?oc=5"
-        },
-        {
-          "title": "Can Nebius Group (NBIS) Justify Its Valuation Following Nasdaq 100 Inclusion And New AI Launches? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbnpzQ05QMEtwdmlLWW1pYjZyZmtjNGtyNkdsYk5LYW1TeU5KTFdPWHZ6Q08zd3pTblpTbVdTMV93Wk9NdXdLQzdqX1ZQR1lrM0VfdkpqdTlSVjdrdzJJX1hvcjR4NVNlckNZeDA3UWNzT19ycUxKaWdJRlJ4UVQzb3hTamR4WVJLRGppTGlWcU1SSWpLU1REcXBxQVNvOUtGWmc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TDC",
-      "name": "Teradata Corporation",
-      "price": 31.42,
-      "change_pct": -7.48,
-      "change": -2.54,
-      "volume": 5387064,
-      "name_zh": "",
-      "spark": [
-        32.805,
-        31.19,
-        31.27,
-        31.24,
-        31.575,
-        31.525,
-        31.155,
-        30.495,
-        30.64,
-        29.785,
-        30.28,
-        30.59,
-        31.13,
-        31.31,
-        31.67,
-        31.59,
-        31.21,
-        31.17,
-        31.08,
-        31.08,
-        30.875,
-        30.785,
-        30.9426,
-        30.84,
-        30.965,
-        30.989
-      ],
-      "news": [
-        {
-          "title": "Teradata to discuss Q2 results Aug. 4 at 1:30 p.m. PT - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnp6OENRekw2WFZwcUpQYTZQcWZ2dEZuNHNqMjIzSFJQVTJwYTdOZk5WMXJka2ZxcEdGUVJNYUdCLURGR3dZbXl6aHdOYmZqYVVOcF9Jd1dPaW5tRU1uVHZjb2dkQzQxZmVtWXZZSHVMQ0hkbzVac2tyTmVtekE1dloxSkFGM1ItN1otZU1JRjhnbVAzOTZ3YjNXeFZOWkcxOVdKREY5TEp4T3p4U3c?oc=5"
-        },
-        {
-          "title": "A Look at Teradata Corp (TDC) After 7.5% Decline -- GF Value $30 - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUxwNFlRU3hYZWRSeDliWUhwODZ6NXM1T2g3bGh3c2c2cUZ5ZWZtV0k1VFl5QWFxdERMTjM0bFRqdFJydlkxMnZHYjBEdklqZmstMml2dE8zeDgzRS1hS3RRYUNqR2JCVlFfSW5ud0hrbzFCYkN5ZDlPeVl6bnVNZGtFZ0padXdJSHlOazAwRUdzVkZzejh4dnpjQVEzUmZoc3ZENzF5d1ZDek9Cc19SSw?oc=5"
-        },
-        {
-          "title": "Is Teradata Corporation (TDC) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYW9NaUc3Rk5EYUVqdWNxcDJnVHJkUVZwSXI0d0VhMFh4Y3A1ZktKUnJabVFXRWZfLUxGWkVPYUExakkyNlk2YkxaOHdJLVdMR3NLYkFVdENGUVNyaFRoLXVCVnU1Z0lpZlJWZW10YjIybnQ2dUF1UFdseUp2MVVCUC0tX3JkdEFXUTkwU2pBLTk0YTFzLXdZV2RTVXFXTW8tNWc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "FRHC",
-      "name": "Freedom Holding Corp.",
-      "price": 148.91,
-      "change_pct": -7.41,
-      "change": -11.91,
-      "volume": 211923,
-      "name_zh": "",
-      "spark": [
-        162.48,
-        160.11,
-        157.51,
-        156.83,
-        157.48,
-        156.2,
-        155.01,
-        156.64,
-        156.01,
-        155.9,
-        154.42,
-        155.7,
-        154.6,
-        152.7,
-        152.3757,
-        153.355,
-        153.45,
-        152.0,
-        151.97,
-        151.7,
-        151.3501,
-        150.67,
-        150.51,
-        149.59,
-        147.68,
-        147.02,
-        146.62,
-        144.63,
-        141.96,
-        152.56
-      ],
-      "news": [
-        {
-          "title": "Freedom Holding Corp (FRHC) Stock Down 7.4% -- Now Undervalued? GF Score: 80/100 - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGJ1X0VEakZjLXd0OHRHYjVMbXZnQy03YndGeW5NdFBkUDg2XzhkLUVNdG9FRnNjQTNNZDJXX0V5SmVKUHI0Q1dlcGpGS1JzdWk5ZXVoUW1SODFZZlo5WVAwMlNwRDI4WGJHZC1PRzBJX2RGSDJuOXNOX21uS0dKT09GNFpyTGxRN3ZFN25PQ0c2MGZ6amtyZHRramxoQi0wVDRmeUFFbUlyUzBLdkE?oc=5"
-        },
-        {
-          "title": "$300M share sale backs Freedom’s push for 50M new European clients - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORzd0TWI1MTNuNGpGV1liV0VsVUJDdmZ4ZHFETHZSd2lqcWFQV0dnU29IQjNEc0hNM3FERGJ5VjRUVUhXRFdaRTdJOVJSODNDbTlJb2txRHNJWkIyQnJLQU9MdTJTM2gwalNzRUFCUmUxVXRsSGFodzd5UmFRYW1hOTNLNU9OUGgyLW5vN1NTU1pGUjJMSTMzWi1ISklzRGdmR0oyTy01cWZ2dkIyUG96MUhlaHR6M2hpVE1FaWE0Ujk?oc=5"
-        },
-        {
-          "title": "Freedom Holding Corp. Announces Completion of US$300 Million Ordinary Share Offering - ETF.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2piZTNDdlNrVExmd29LRTFuMXllSVJnRUppUnJGd2lfbnl4c3FMM3EzYThYN0N2bzRfemhBckhIeXN5NDFzRS1MN2FZdF9fYUVrZG9Ybjg2UDJjZFNlQkhLU0VfSHRLOWRSOTJtZTJ0OHdJa3k3VXBnaldRaFVhTXJMYWYwUXQ2UGhON1NZVVBhNE12Qi11RmQ4aUt0YTlrWmV1X0JZcGFicTd3b0FCT05mcw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TEAM",
-      "name": "Atlassian Corporation",
-      "price": 89.08,
-      "change_pct": -7.36,
-      "change": -7.08,
-      "volume": 4319474,
-      "name_zh": "",
-      "spark": [
-        90.0,
-        90.14,
-        90.8,
-        90.45,
-        91.66,
-        91.295,
-        90.49,
-        89.8,
-        89.63,
-        90.01,
-        90.08,
-        91.09,
-        91.91,
-        91.725,
-        91.74,
-        91.26,
-        91.23,
-        90.47,
-        90.095,
-        90.13,
-        90.83,
-        90.595,
-        89.69,
-        90.01,
-        89.735,
-        89.83
-      ],
-      "news": [
-        {
-          "title": "Atlassian (TEAM) Gains On Gartner Recognition, Is The Stock Overvalued Or Undervalued? - Yahoo Finance Australia",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjJBbE1jWHhsZ3RpQml5RERldE56QlZwNVNOd1RScmxUZlFTOWtzQlV4Tk56TzZSc1RPRy1HVEd6TW9iWkM5dDlGa3JHODc2MV9pVVh6VG5ZeEt1dkNFY19ZNHF3dk9kX2JEZlE2VUZ4X0tZMkpiNEJDOHl6akIweEZrQ2Jlb3dEV3JObnN3Znp4bWM?oc=5"
-        },
-        {
-          "title": "Atlassian TEAM Stock Grinds Higher As Wall Street Resets Targets - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uLVJiLUNvUzhoUEVwZUh5NTN5TDFmWVcxdnJaUjR6ZVo5cTZZblFkU1RUZDlKUjVDT1RsVUF4SEVOSWtVS0RzVjkyem1neWc1dDM3Y2RRTG12RFFrY3RieTJhUHZTN183Z01MbXRHOUNqNmQ3djkybHpSWmpaaEk?oc=5"
-        },
-        {
-          "title": "Atlassian TEAM Stock Grinds Higher As Wall Street Resets Targets - timothysykes.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa29TQzhVdlg1aERoSGlxVENyUWxpSGZvWU5hYVBkOU5xVlpXSkdFVU5UWGMwVnZ1WlVfNVRTVVVDbUozSlJFUnRtU3NraW5DY2VwYllEUTdGc1N5RXNpeGtZYk5Vd0kzclRZODZfRGRnc0U5QVRGcTEzVHZNSWNQY04wUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlM2djItY0psLUlmVmhYRmRrbGtPdk5GWDYxSmtKWGczN2JwWjBtTnVMcVE2YkNOdll4eVdUZmxZN2tkM2VsSENSSE45Ymc5RWp0RWZuck1NRHBhX1VUcjlWTC1tMHN3NnZLZDlyd1Q2Y0FwWEJfMmpGbEYyLS14aE5nRm9VWlZ2cGFCZm9ZOXFCOWw2d2duTVAzSUw5R2M?oc=5"
         }
       ]
     }
