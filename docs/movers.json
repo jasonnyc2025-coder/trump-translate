@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T17:38:20.532404+00:00",
+  "updated_at": "2026-07-16T18:46:48.042232+00:00",
   "us_gainers": [
     {
       "symbol": "MAN",
       "name": "ManpowerGroup",
-      "price": 52.59,
-      "change_pct": 34.76,
-      "change": 13.56,
-      "volume": 3338772,
+      "price": 52.5,
+      "change_pct": 34.55,
+      "change": 13.48,
+      "volume": 3822308,
       "name_zh": "",
       "spark": [
         49.975,
@@ -34,9 +34,21 @@
         52.738,
         52.61,
         52.37,
-        52.48
+        52.48,
+        52.395,
+        52.51,
+        52.39,
+        52.8875,
+        52.365,
+        52.475,
+        52.5
       ],
       "news": [
+        {
+          "title": "ManpowerGroup Stock Jumps After Q2 Earnings Beat and Signs of Improving Demand - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzg0WXpEbDAzWnhrckxiWTFnaExuQ1AyZVBrMHItLVpyX2w4YTAycUVRUFp5MmdlRWprNVJVXy1Yb0QwZXZBNEh6N0tTbGRweWNQVUx5eGxidWR3ZmM2ZVNQcmdsT2ZGcFE3WWhDaDE2b2NaQjRZWWlXMlYwcDJFWGJUMjEwWUxIcGxkSW9tU2lpRVAwQVdxc2RDc0lVWkFPanpCVnZFSXNRVlhIcVFsUQ?oc=5"
+        },
         {
           "title": "ManpowerGroup’s (NYSE:MAN) Q2 CY2026 Sales Top Estimates, Stock Jumps 12.3% - Yahoo Finance",
           "title_zh": "",
@@ -46,21 +58,16 @@
           "title": "Why ManpowerGroup (MAN) Stock Is Trading Up Today - FinancialContent",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2xrNnVjYXFTMGtkWk93eDdjMDNINlJpZEVPRjR6aF9YcDd4cVhILVdHYUlfS0xncTk1TUxSZzhiMWI5QVlfa2doNFUta0Q1S05xbTRlWVNCTk5tMjJVU25aUXRaVXR1NnEyOGdJTGFtUHFoQ1ZVdThVSXlCUW1nLVRTb2JsYkNwXy10RGxOX01QUW5idjZMTmlCb0FkeFNETFpJNHFFa2lBZmJsVEE?oc=5"
-        },
-        {
-          "title": "ManpowerGroup (NYSE:MAN) Surges on Q2 Earnings Beat as Growth Accelerates - ChartMill",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDVnbnpMM2JuZ1NmZGdkUjdWbndMOExpaUJJeXpzci14dHpqNlBITXBsaUNwWVB3dmNDc1NKbjNyOHBPNzFFcXptdldHWFFJLWcyNHZ3MEFCSDlCM3dqXzRKbFBuQUtBYWtuRXBWTG9oUHgweGxPdVF5bGVuV3I1S09ZZjUyMDZWS3RBdlg1SFdQTnVUenpNel9kVUM0TUxCZWpLck5IN09DMWxwUUk1ajJWczN4MGFKSjl4bnpn?oc=5"
         }
       ]
     },
     {
       "symbol": "ATAI",
       "name": "AtaiBeckley Inc.",
-      "price": 7.12,
-      "change_pct": 32.74,
-      "change": 1.75,
-      "volume": 133561995,
+      "price": 7.11,
+      "change_pct": 32.56,
+      "change": 1.74,
+      "volume": 144636901,
       "name_zh": "",
       "spark": [
         7.06,
@@ -87,7 +94,14 @@
         7.12,
         7.125,
         7.13,
-        7.125
+        7.125,
+        7.115,
+        7.1,
+        7.1009,
+        7.1,
+        7.1,
+        7.1095,
+        7.105
       ],
       "news": [
         {
@@ -110,10 +124,10 @@
     {
       "symbol": "MAAS",
       "name": "Maase Inc.",
-      "price": 21.55,
-      "change_pct": 30.05,
-      "change": 4.98,
-      "volume": 483666,
+      "price": 21.69,
+      "change_pct": 30.9,
+      "change": 5.12,
+      "volume": 521354,
       "name_zh": "",
       "spark": [
         18.785,
@@ -140,7 +154,13 @@
         21.85,
         21.87,
         21.96,
-        21.55
+        21.55,
+        21.915,
+        21.596,
+        21.61,
+        21.76,
+        21.72,
+        21.69
       ],
       "news": [
         {
@@ -161,12 +181,72 @@
       ]
     },
     {
+      "symbol": "CDNA",
+      "name": "CareDx, Inc.",
+      "price": 38.52,
+      "change_pct": 29.5,
+      "change": 8.78,
+      "volume": 3246629,
+      "name_zh": "",
+      "spark": [
+        36.7,
+        36.497,
+        36.27,
+        37.11,
+        36.91,
+        36.99,
+        37.18,
+        37.22,
+        36.995,
+        36.9499,
+        37.3375,
+        37.24,
+        37.305,
+        36.925,
+        37.59,
+        37.495,
+        36.635,
+        36.615,
+        37.2937,
+        37.21,
+        37.16,
+        37.125,
+        37.17,
+        37.13,
+        37.94,
+        37.985,
+        38.185,
+        38.27,
+        38.7,
+        39.08,
+        38.76,
+        38.525
+      ],
+      "news": [
+        {
+          "title": "CareDx Sets July 30 Webcast for Second-Quarter Results - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNYekd0dzhQTmVUQUl5M0d5cHl6Nk14U0hndXdoZ3lWeW9wNHZPQlVwcjJIMVhobkJNcUNoWXQ3WEdLdEJXRzVQamtreHhOU09uNHhyNm1sSkdtMzkyVGZXVExvYnhaQ2RLLW1uazJMcUpEQmtNZkd4eHJFRnJCWFltTHRHN0sxbzRTWEowRTh4RU4yU2hvbjlGLXZEdzk5aUlSV0dIVzA5R1pyLVNkT24xMGxSd3o1UktEdXpB?oc=5"
+        },
+        {
+          "title": "Why Is CareDx Stock Skyrocketing Thursday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEJVeHN5YVFzQkt4QW1rN0x6dnZmNE9qMk9Db1g2Mk1idHE5U1hGLVlvUTQ2T3FReUFjeXR0RFAyRlgwRFF0OFZvQnEzN1NQRzgzNmRVQmtxVlpIamRCU1pGdTFEUHB1YzUyRlhwUFJ3QmF2bGxiNUF5NTdLN0RDLW5uMVRmZ1g1ei1PRHE0Wnhqam9TUG5xLXVTYzN0X28?oc=5"
+        },
+        {
+          "title": "CareDx (CDNA) Following Reimbursement Progress Is The Stock Starting To Look Fully Valued - Sahm",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVVDbnRHdWlXSDhhVElpa3J2UE9XU2Q1RmowS093SS1rWHlMZGxtY0s5b0hpNGtFTVVINzNIdmNmU2FmeVlIWmJvNVVHdVNvalR4dWVvSkpiWGJKNmUyNWZJVm5OR01NS2hXWEtzSUJnVXZ5NER0U09VY3hzcTBrel9uM3gtdmJqS3RaRktrNXZlY2VydWdoNGlGMUtHWWtBQmRJNUtZZ3VBZEMtV0YzUjhoMWE3Q1RndlJZUVFWQVcyNXNOY21JekxKaVZyYTZVTm11N3Z3?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "RHI",
       "name": "Robert Half Inc.",
-      "price": 41.46,
-      "change_pct": 12.97,
-      "change": 4.76,
-      "volume": 2166402,
+      "price": 41.69,
+      "change_pct": 13.58,
+      "change": 4.99,
+      "volume": 2450835,
       "name_zh": "",
       "spark": [
         40.17,
@@ -193,7 +273,14 @@
         41.6,
         41.44,
         41.36,
-        41.46
+        41.46,
+        41.45,
+        41.6,
+        41.44,
+        41.58,
+        41.535,
+        41.53,
+        41.685
       ],
       "news": [
         {
@@ -214,12 +301,71 @@
       ]
     },
     {
+      "symbol": "KARO",
+      "name": "Karooooo Ltd.",
+      "price": 65.03,
+      "change_pct": 11.02,
+      "change": 6.46,
+      "volume": 211175,
+      "name_zh": "",
+      "spark": [
+        57.39,
+        57.5,
+        56.63,
+        57.0108,
+        57.585,
+        61.46,
+        61.62,
+        62.23,
+        64.0,
+        63.65,
+        63.8235,
+        63.28,
+        63.39,
+        63.59,
+        64.88,
+        64.295,
+        64.41,
+        64.02,
+        63.35,
+        61.72,
+        62.7,
+        63.115,
+        64.015,
+        64.73,
+        64.75,
+        63.7,
+        65.21,
+        65.2,
+        65.7065,
+        66.18,
+        65.035
+      ],
+      "news": [
+        {
+          "title": "Karooooo Ltd. (KARO) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzlYTkdpRnpPN1RsZEc1U1c0Ql9ERlVvMGlSN1lCMFd1NVFDZEFfMVRxSlcwdE5hT3J1cmRDNGJYQUJsT19NazR5SE84TnF4Sm5wMnN6dEpSVGdmeDR5c182a2pNWi1vc29jN2xUSi15WDBtS0xPUnBUX1ZjQjhmT1R6SWtjamEwYkZ1RmZ6NzlfXzdDVEU0MHpuQQ?oc=5"
+        },
+        {
+          "title": "Cartrack Surpasses 2.8 Million Subscribers as Q1 Growth Accelerates - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWR1cXFRNUZxWmN4WS1JN0N1TmdvcnctNl95UlJmR1VVSDJ1LVJNQ1RibWp0YVBXbjNPczBmUkppb0RTMG90T1ZaQjRJQ2Z5bGpyNzRST1Z6SHFfUGp0ajRmYmlRcGN4R1Z3ZDVwbE5VMXlvYnppRTJVVmZXaDB6eWtKU2NMOEl2WHowTUxSb0FocnVvYkdXaHFLNXhhWmxYUXBRZzcxVHRUOEtUSDJUMU1tMXY?oc=5"
+        },
+        {
+          "title": "Needham raises Karooooo stock price target to $70 on South Africa strength - Investing.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSW9BbnRsLVd4S05HeXljSDRZendPbk5rZHluNmRtcVBlNHJqN0Y1MG9CQUFteEhPRVE5TkIxOXBTZ1VOdTBfZTJjRzBkMjVOdmhXQm5oUFlIVWNaMkpqR1IyY0hxeC1nWXVJTDlsUjNvNmFTdnVuLUNVaTJzajNIdHVJejNsMTgwUjlNYTVRaWFHUUdMcGJ1QXNwNlhWVi1vMXZNS3lQcXNFRHdZb0N0VExmTDExbWVGNGZjMnFWbFhIaldDZXUtUFVqRWFfZw?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "ABT",
       "name": "Abbott Laboratories",
-      "price": 98.61,
-      "change_pct": 10.46,
-      "change": 9.34,
-      "volume": 19210741,
+      "price": 98.59,
+      "change_pct": 10.44,
+      "change": 9.32,
+      "volume": 21666793,
       "name_zh": "",
       "spark": [
         98.72,
@@ -245,8 +391,15 @@
         99.2,
         99.41,
         99.16,
-        99.0299,
-        98.53
+        99.02,
+        98.53,
+        98.825,
+        98.99,
+        99.14,
+        99.0701,
+        98.975,
+        99.18,
+        98.6
       ],
       "news": [
         {
@@ -255,24 +408,24 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nWkpfejFEQ0ozN0taTzJ5ZTRnWUVtUjUzZDJ5MEZKZnphQ1ZJaGlxMDhGMENWb3lWM3dKcWIzTWhKVE1JWXM4Z0Z3eGVrUVo5NjBNX0Y5OVc0UkVVZU1fLThrazZiQnRRS0lqbG1kWkQ4LXRxcUw0Xw?oc=5"
         },
         {
+          "title": "Why Abbott Stock Is Reimagining Its Future - Trefis",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5SNVotQmFsQTU5bnBOcG1wSmtvcDI4Q0lEZUJ1eU9YSUtlVTJ5TVBGT29Obl81a19DLVIxdXVsVHBsR3lzdjFkdGt6Yjc5QzNLN3Ewa3VDcHJVbXVIZ2h2VFMyeGVuNWVHZE1FQngteEMzNU0ycHB1UWhJZ2RQOXdYSUQ5elU3S1FvUXFwV1BNdUo1WUV0TGRoRk5YTXNqRXNJVg?oc=5"
+        },
+        {
           "title": "Abbott raises 2026 earnings outlook after second-quarter results beat expectations (ABT) - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWVlcHQyeTR0aWE2TnFnX05oWVA3ZWRDWk80UHJGTm5sNDJkSGF3dTdDRlVBMnZKaTIwYXpFWk5SbVNzWGVublFyZlBlSjZIQW5OcnBPNFZPbGtGVnRLbFNIaFRhaTduZ0Uxd1RaN2V5RkdhX0FlcWFsSFVFR1ZDcGZhQ1hNcE1QV1RYTmd2UTBzRF9LLWJRVWpsR0I?oc=5"
-        },
-        {
-          "title": "ABBOTT LABORATORIES ($ABT) Releases Q2 2026 Earnings - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1gtODRaaExTNkxwWl9nQzh1OTJ5NlhtWGtUd3lwMnVldWU2RzJoNG5LX3ZNOGNIcW1Ra0cwZHdDemFsTWhQeldkZFZ0em1EUDY2ZV9SejdnbnRfR2RFWFdSNkdGcGVwOWV5SHVCdTRHb005enVSUHY5ekpSTFJBUmRzeC1Bck96Qm9KY2Z2ZnhqV0Znc0E?oc=5"
         }
       ]
     },
     {
       "symbol": "SMG",
       "name": "Scotts Miracle-Gro Company (The",
-      "price": 75.23,
-      "change_pct": 10.66,
-      "change": 7.25,
-      "volume": 704955,
+      "price": 75.0,
+      "change_pct": 10.3,
+      "change": 7.01,
+      "volume": 894708,
       "name_zh": "",
       "spark": [
         70.8,
@@ -299,7 +452,14 @@
         75.045,
         74.93,
         74.925,
-        75.125
+        75.125,
+        74.995,
+        74.87,
+        74.8,
+        74.715,
+        74.72,
+        75.05,
+        75.05
       ],
       "news": [
         {
@@ -322,57 +482,42 @@
     {
       "symbol": "ERIE",
       "name": "Erie Indemnity Company",
-      "price": 231.09,
-      "change_pct": 9.94,
-      "change": 20.9,
-      "volume": 181256,
+      "price": 229.69,
+      "change_pct": 9.28,
+      "change": 19.51,
+      "volume": 233758,
       "name_zh": "",
       "spark": [
         218.943,
-        221.76,
         221.495,
-        223.01,
         226.01,
-        225.95,
         226.82,
-        223.86,
         225.01,
-        225.87,
         223.2,
-        222.94,
         223.79,
-        224.4101,
         225.39,
-        225.61,
         225.33,
-        223.89,
         224.24,
-        224.845,
         225.87,
-        228.21,
         229.3834,
-        228.31,
         228.81,
-        229.83,
         229.12,
-        229.1325,
         229.26,
-        229.7,
         229.48,
-        229.805,
         229.77,
-        229.75,
         230.36,
-        230.23,
         230.955,
-        231.79,
         231.38,
-        231.115,
         231.45,
-        231.29,
         230.51,
-        231.0,
-        231.0
+        229.6,
+        230.22,
+        230.56,
+        230.245,
+        229.54,
+        229.23,
+        229.545,
+        229.565
       ],
       "news": [
         {
@@ -395,10 +540,10 @@
     {
       "symbol": "MATX",
       "name": "Matson, Inc.",
-      "price": 228.56,
-      "change_pct": 9.41,
-      "change": 19.66,
-      "volume": 327777,
+      "price": 226.71,
+      "change_pct": 8.52,
+      "change": 17.81,
+      "volume": 373087,
       "name_zh": "",
       "spark": [
         221.42,
@@ -425,7 +570,14 @@
         226.89,
         226.848,
         228.65,
-        228.0
+        228.0,
+        228.005,
+        226.78,
+        226.41,
+        225.805,
+        226.2,
+        225.85,
+        226.705
       ],
       "news": [
         {
@@ -444,122 +596,16 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX053SXdSNk54bmJEUUNzTTF3eXRuRE5EcGFmaHY4YVFVSWdrS3lhMlJTSkU5a3loS25ydlFWMDFNTGc5SkFXXzdZZGlJZEpYYXp4by1sUVlVSGNkNG43eTl5Xy05dXdkUUVCMHpxMzlmUEpHZ21Ib05penZaQTlkdzU3ay1heW9LY3M3OFBPcw?oc=5"
         }
       ]
-    },
-    {
-      "symbol": "VSTS",
-      "name": "Vestis Corporation",
-      "price": 16.81,
-      "change_pct": 8.38,
-      "change": 1.3,
-      "volume": 989999,
-      "name_zh": "",
-      "spark": [
-        15.74,
-        15.895,
-        15.93,
-        15.89,
-        15.9899,
-        16.06,
-        16.025,
-        16.04,
-        16.02,
-        16.08,
-        16.12,
-        16.16,
-        16.23,
-        16.288,
-        16.3,
-        16.385,
-        16.385,
-        16.42,
-        16.43,
-        16.55,
-        16.46,
-        16.58,
-        16.68,
-        16.81,
-        16.79
-      ],
-      "news": [
-        {
-          "title": "VSTS Stock Price and Chart — NYSE:VSTS - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ub2xfc1FaUkp4c1l6NUJrcDB2dGRyZ3lsTDBDTFZRb0tzaTNBSmtEUGEyTVdaaTlYdXFpZnhWdFNFVjRYdHE1RFdzeW1sWGZzR0NpM3RzQmhhQQ?oc=5"
-        },
-        {
-          "title": "Is Vestis Corporation (VSTS) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG9lajJqd1pyYWFxT0tESWpZSUxRZURhM2dKNThKbWo1ZGRNRWdZLUdNZDBZNndkVzBwNzdQSFRPRjFrMEpNbUkyV0NnTFg0aExNbnM4SzRmb3ZwS1o5LTQ4NkkyN3dicHZMQmFBUzlKalVpV3h4cGdGeWpWVkpoMVV1NThfdVljQVdpT0VQQm5Bd1FYemtsMk5aVldmcXBx?oc=5"
-        },
-        {
-          "title": "Vestis (NYSE:VSTS) Reaches New 52-Week High - Here's What Happened - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYl80R1Z2cUFSTXdmOU9WRjZWRXJ2YmFlZzVXR3h0WGI4blFJaWs3bGdzVm5YQ0ZnUkFCazduTHhvcjZ0NzZvb0lXblhGOU81NTRLc1dYZjRoLVc3d3ZmZUNJTW9mdmFWRUt4X0NxQmNuNDNJM0IzcHFLaUZDMnlWY1VoMGREVnhhTWpQYm5icnJnLUlLbE9xVU9CR3U2YWIyMFFTN2dSakdRTnlGT3gzdWk0N3k?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "REXR",
-      "name": "Rexford Industrial Realty, Inc.",
-      "price": 37.71,
-      "change_pct": 7.47,
-      "change": 2.62,
-      "volume": 1516621,
-      "name_zh": "",
-      "spark": [
-        35.47,
-        35.82,
-        36.1,
-        36.14,
-        36.3375,
-        36.34,
-        36.38,
-        36.365,
-        36.5,
-        36.455,
-        36.43,
-        36.43,
-        36.51,
-        36.52,
-        36.5,
-        36.48,
-        36.675,
-        36.71,
-        36.95,
-        37.07,
-        37.215,
-        37.33,
-        37.74,
-        37.84,
-        37.7
-      ],
-      "news": [
-        {
-          "title": "Rexford Industrial Realty (REXR) Projected to Announce Earnings on Thursday - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUng4MjZmcUtUZGlDX3BZVkJVOFNoTVZJRUo3WlpodVJZUFJZbldYa3hYX3NZNkNqTHRkQW9tUEhYenZYMDFTVVZTQXp2VThUbEhNYnlMcExRNDQta2RkZFVNXzhkUmdobXN1Rm5VV1RBQVdIRkZmZ0hhNm1jWmdtVHRTWWpmSTVxazZFMUpCR3ZPaUwydVJ4QXRTU0VGQXVWRzl0TklkRnZBVmh5eWY5QnhWNnRFVjhTa0NXZzZYTWhFTE0zTWc?oc=5"
-        },
-        {
-          "title": "Scotiabank Upgrades Rexford Industrial Realty (REXR), Trims Price Target - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZi11SEdSQzB2RDRkTFloWXBrRFpSZHBPdlZVTS1oR1BTZ0QzNzVjekV1UDdnY3ZhZVNSX0QyRWhxUkZpeXg0bFJTM2JCU3N4dGtYanV1VlktNjhGOWFpQWlDaDl6QjU2OXNNY09vZFRmMmpKc3MyMjlyLTNuSWNSSElmMnM3emFWSnZ5OXhHenRFcWdmSWlrcjhWZkJCTm5HbmdGbHhrZEVpTDg?oc=5"
-        },
-        {
-          "title": "Does Scotiabank’s Buyback-Focused Upgrade Change The Bull Case For Rexford Industrial Realty (REXR)? - simplywall.st",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0FNT1hHMWFQNHpXaC1TQV9zck12U0RsUGNCZE1OWkdPRDRtT3I2S2dMQUMzNWVQU3NHa05YRlBRZVREWWNjZXkyV0J1UHRnbzhCOTV3VW1OaGFpX1BxZGVPSUVCc2VXNHRFcFdzdnBFVkhUa1ZwYVJuanczMHFraU9JR21IcldCRTQzNFdJamd5N2owOVljSEN0VF9LQ3RiVWUyUVBLaVBrUHFzeFRVN2c5dTRFUlRoZzdCNUd2NlpXeUQtRGVrbmRZUFlvS2k2UGVZVWFabVpwcDAweGfSAeMBQVVfeXFMTUlYX1RZcGhEOVVGcXp5a2NhbkdROUQxUXVFdHk2alhzTHBjU1FRMURWYzBBNFZlWTVTUUVFUjdWeUJic0hQUGV4WmxYVzNyUjFkNEhzUzFBV1AzbjFtLUFLbm1Oc2gzOUROTWk0WnJVaVpxbE5UbzA5czFVMExGMldFZkNBNmEwX21UWDM3MjQ3SV9wblpGaDR4b3ZzXzJaTVJjY3ZxUmRic2ZIWDNmTGEwUzNvQUllbGJ6aFJJdndGV3dmR3JkOWNWYnFvUDdBQVMzRlR2UFllRzFaLUIwZXR1UU0?oc=5"
-        }
-      ]
     }
   ],
   "us_losers": [
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc.",
-      "price": 53.72,
-      "change_pct": -19.0,
-      "change": -12.59,
-      "volume": 36937645,
+      "price": 54.07,
+      "change_pct": -18.46,
+      "change": -12.24,
+      "volume": 41067395,
       "name_zh": "",
       "spark": [
         61.31,
@@ -586,7 +632,14 @@
         54.37,
         53.95,
         53.8,
-        53.7301
+        53.7301,
+        53.49,
+        53.86,
+        54.05,
+        54.3005,
+        54.17,
+        53.86,
+        54.17
       ],
       "news": [
         {
@@ -609,10 +662,10 @@
     {
       "symbol": "CHRN",
       "name": "ChronoScale Holdings Corporatio",
-      "price": 24.56,
-      "change_pct": -17.12,
-      "change": -5.07,
-      "volume": 478082,
+      "price": 24.8,
+      "change_pct": -16.32,
+      "change": -4.83,
+      "volume": 535535,
       "name_zh": "",
       "spark": [
         26.065,
@@ -639,13 +692,20 @@
         24.08,
         24.26,
         24.465,
-        24.81
+        24.81,
+        24.485,
+        24.2,
+        23.54,
+        23.705,
+        24.33,
+        24.6,
+        24.795
       ],
       "news": [
         {
-          "title": "10 Information Technology Stocks Moving In Thursday's Intraday Session - Benzinga",
+          "title": "ChronoScale (CHRN) Experiences Significant Decline - GuruFocus",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2VHNmRZMFFTRXdzYlBsVG84VmxjdlpHVFR5ZFo2aUw3YWhZaHRVbjBDc09GMTFZeXgwekFzRWZPWkgyZjZuQnlMRU5rcFBOQjdLV0Q4eldqQ3FOMncwa2RiX1daUHFIcVV3Qk05S3ZubE9VV0VRc2JMNnRIeDM3Mmotd2hmYU9JZlFpNVRhS1lKVmNpVGo5XzN4dV9rLVYxRUk5ZVZFUFVSX0VPcjBLTzRlcFZScjZnQW1JRUdzaXlSMEFfVnhV?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanMzSTJmWjNXN0RUaVZaYkZfaFVUbkJZa0xkSVRCU3F4WXJPbG1hM19vNE9nMVZhQzUyVE5wbHhyMllLTUM2UFE2RGxzVFJoN3A0SHJhTjQyVjRheXZaRk9KMWdGQjl3eVhsand4MDREQzh5bkU1Ym1aQ1p5SW1pbWFFR1VZY2hqMng0WllBa0s?oc=5"
         },
         {
           "title": "Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company - Applied Digital Corporation (APLD)",
@@ -653,19 +713,19 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlTSGNVNlM3d0VsQ3hZMmpJUzhhb1E4Y3FETHRvYVVOVlBHenVJcXVwYWhmRDdvM256UG1POXl1aTczUkM3bGprNFlWVFZlUkpRN1FHdUV3cVV4LWN4cFJqRFZHMXhYd3liRkhZMkFrMlVaN09TajRKN3Fzb1c3anFTU1RiQVBDTkRBRFRacXlrd01LWl8yd3F0RHNUTkNSYVFEdXJOUFBpM1JUazR4RFlFRmxKV0lvUER1Z044bw?oc=5"
         },
         {
-          "title": "CHRN Price Today: ChronoScale Holdings Corporation Stock Price, Quote & Chart - MEXC",
+          "title": "10 Information Technology Stocks Moving In Thursday's Intraday Session - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Lc1FwajJVcmI1UWNaUnZ5dmo1aEhoS3ZidUlOOHBWRjhrb25SLTlPY0NZRDlnUGJhX3N0TVFrcDFNZ0lWOUJmdUJXV0lKZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2VHNmRZMFFTRXdzYlBsVG84VmxjdlpHVFR5ZFo2aUw3YWhZaHRVbjBDc09GMTFZeXgwekFzRWZPWkgyZjZuQnlMRU5rcFBOQjdLV0Q4eldqQ3FOMncwa2RiX1daUHFIcVV3Qk05S3ZubE9VV0VRc2JMNnRIeDM3Mmotd2hmYU9JZlFpNVRhS1lKVmNpVGo5XzN4dV9rLVYxRUk5ZVZFUFVSX0VPcjBLTzRlcFZScjZnQW1JRUdzaXlSMEFfVnhV?oc=5"
         }
       ]
     },
     {
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
-      "price": 75.56,
-      "change_pct": -14.94,
-      "change": -13.27,
-      "volume": 2140716,
+      "price": 75.53,
+      "change_pct": -14.99,
+      "change": -13.31,
+      "volume": 2625325,
       "name_zh": "",
       "spark": [
         82.015,
@@ -692,7 +752,14 @@
         77.71,
         77.22,
         76.43,
-        75.5725
+        75.5725,
+        75.485,
+        75.48,
+        75.58,
+        75.78,
+        75.72,
+        75.93,
+        75.525
       ],
       "news": [
         {
@@ -701,24 +768,24 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlF4SlVCT2hIVE56M1dPUktlbzR1cFJzZHNjdEFheDJjSFBuNU5xS2RNcWNMTE9lb2JwTU5CRWdTWWJnWVRCeXR3bTFiczU3emU0OFdiUGE4YjFKN3JFV3VCNnlOVmJxbDlPeGJnRWxteTAzMGNhdWplUHp3V1JmeDRORF9DamVyMTFnMFV0Y3h5dkpHUVE?oc=5"
         },
         {
-          "title": "Is MaxLinear Stock a Buy Now or a Hold at Current Levels? - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG1YSGxhanRoTXNRQUtCRzhMOEVmeFZyNTM4R20wSlctLTNkZEJXQWkzaW1fRFI4RXBRUE5BZXhLUDBYam9NTzYtR3dHajBPYTlhUG9ja25SMnBhUGMyUTl6Z0lJSlZvWG03VWg4cGpLMzcyLWtzNWhPMU81RW5HZDF3SGRybkpPY3RZU293b3dnbVNCbTVRMFF3eTVGNXBEM195a3N4ZmN2MjlZUVpkd0tR?oc=5"
-        },
-        {
           "title": "Is MaxLinear, Inc. (MXL) Among the Best Stocks to Buy for the Second Half of 2026? - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnhHeXQwTU9kbFk2ZWRJRWY0dE8ycEc4Z0FOMzZWS1h5TkRNMWkwTDhjNkpvRFdxMnh4aXN0S1JYNEIxRVA3RWhsNGxPYlVLdHhBQ0VkaWRUazNYM1Fha3BabUVGT0xISVIwY2NKZmc3bVNuemg5cEZadWRac09ibWZuaUFwYTUtSUMxQldsUHYtcGFscXVfdQ?oc=5"
+        },
+        {
+          "title": "Is MaxLinear Stock a Buy Now or a Hold at Current Levels? - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG1YSGxhanRoTXNRQUtCRzhMOEVmeFZyNTM4R20wSlctLTNkZEJXQWkzaW1fRFI4RXBRUE5BZXhLUDBYam9NTzYtR3dHajBPYTlhUG9ja25SMnBhUGMyUTl6Z0lJSlZvWG03VWg4cGpLMzcyLWtzNWhPMU81RW5HZDF3SGRybkpPY3RZU293b3dnbVNCbTVRMFF3eTVGNXBEM195a3N4ZmN2MjlZUVpkd0tR?oc=5"
         }
       ]
     },
     {
       "symbol": "AXTI",
       "name": "AXT Inc",
-      "price": 45.73,
-      "change_pct": -14.4,
-      "change": -7.69,
-      "volume": 5863442,
+      "price": 45.69,
+      "change_pct": -14.47,
+      "change": -7.73,
+      "volume": 6577185,
       "name_zh": "",
       "spark": [
         49.66,
@@ -745,7 +812,14 @@
         46.19,
         45.825,
         45.74,
-        45.915
+        45.915,
+        45.58,
+        45.57,
+        45.09,
+        45.255,
+        45.82,
+        45.56,
+        45.69
       ],
       "news": [
         {
@@ -766,12 +840,72 @@
       ]
     },
     {
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "price": 9.2,
+      "change_pct": -13.58,
+      "change": -1.45,
+      "volume": 23334483,
+      "name_zh": "",
+      "spark": [
+        10.0557,
+        9.7905,
+        9.585,
+        9.595,
+        9.745,
+        9.59,
+        9.6,
+        9.565,
+        9.495,
+        9.4801,
+        9.59,
+        9.695,
+        9.675,
+        9.595,
+        9.63,
+        9.56,
+        9.5496,
+        9.415,
+        9.345,
+        9.355,
+        9.335,
+        9.285,
+        9.235,
+        9.2395,
+        9.2401,
+        9.255,
+        9.265,
+        9.245,
+        9.245,
+        9.295,
+        9.245,
+        9.195
+      ],
+      "news": [
+        {
+          "title": "Why is BlackBerry's Profitability Not Moving the Needle - Kavout | AI",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0g5YlhjdHZ4d0F2YWZ5SGpNMk1rT3BWOWh1S1RlNzh6WW9hTTZJUk5HUEtjZnZ1MHNJdzN4SXl4blBFaXd2U2t4eXdaWTdydlVGY2lKTm9OTGVvNUx3OVFSbWJicjFWS2VxOTlXUTZlOW03bUQ5TDk0VnNidUVuVmVtR1pOTjlIdDFSYWRqdW9wRkZj?oc=5"
+        },
+        {
+          "title": "BlackBerry (NYSE:BB) Stock Price Down 8.9% - Should You Sell? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUtrLWdJWlFWTGRBVnFNeUNEQm5jUWFhTmNVQ2UtTHdHejJ3dTRvSkpSaWcza1lNM05IdUZzaHRpZDhBRXQ5eTNrY3JMWTdhcjNPdzZmZjIwcjFHZ3FoRkNrbVZoM2tiZzlNeUM2VDAwMDh0Smlib05PRzY3eU8zQnJYX0Jfa3VFSjN0cHczNVl3SmhvcEMyRk4tRjlUb1pIS1RrSGtzQkZSbjQ?oc=5"
+        },
+        {
+          "title": "Is BlackBerry (BB) One of the Most Buzzing Stocks to Buy Right Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzQ3SF9zaFFhb1NuOFJEVzlqaXREYUcxQWtRZUt4T0h2M2FibGJQZDl0Y21FbXdDM0YtQVR3LXM5T0ZCclMySWJYOXF4SGtLaEtocGx4UmdhRDkwQnpwT3RGTGN2OGowNlV2Ykd4Y04zTmh5dU9vcWdMRFJLMHE1eDlCb0lnRHBFWUUxREVuRWlYOEluVkpPWFhtcw?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "NBIS",
       "name": "Nebius Group N.V.",
-      "price": 172.34,
-      "change_pct": -13.62,
-      "change": -27.17,
-      "volume": 13929723,
+      "price": 175.05,
+      "change_pct": -12.26,
+      "change": -24.46,
+      "volume": 18156258,
       "name_zh": "",
       "spark": [
         191.395,
@@ -798,13 +932,20 @@
         174.61,
         173.895,
         172.6,
-        172.5401
+        172.5401,
+        171.0164,
+        171.9827,
+        170.61,
+        171.24,
+        174.4636,
+        175.08,
+        175.52
       ],
       "news": [
         {
-          "title": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2 - Yahoo Finance",
+          "title": "Nebius (NBIS) Stock Looks Fairly Valued As AI Cloud Expansion Draws Interest - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1aUWt4TEtfR05qb3ZpN2RmeG9ReFhuVDVSSkd0TS1QUUx3Sm1Da3Z3YmhtT2M4SEJsVW14c05Od3lvanNlNUFsdGh1T0pZeWNyeWQ0TW1hVUZEQmlmbXViMDVXd0RnanBGZGQzMk9ZZ1ZnQi1Fb0lhYnZQOG9rOGZJMFJTVlZWaENlalBWWjdyTzlkandFUVVsdlBaejUyOGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUMzOHFzai1YMnZhRXhUemMtR3JvQXlWMkxRNEtGVm5xcGlpM1NaZjNxdUNsME5FMVRzV2ZrcUJpaHRDaTVGc1E4S3FKcjU5QTZ2ejNFUTR2Q0wxY0xUUWRiUTZ1RDc2UzlOOUU2WXJ5STgtQzZsWHBhaGVuaW5WX0R4Y0FxT0tRRlhLcHpvS3pocGR2ei1sSlhFQQ?oc=5"
         },
         {
           "title": "NBIS Stock Rides AI Infrastructure Wave To Soar 600% In A Year — Analysts Say Nebius Presents A 'Huge Opportunity' - Stocktwits",
@@ -821,10 +962,10 @@
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
-      "price": 207.17,
-      "change_pct": -13.46,
-      "change": -32.21,
-      "volume": 10272493,
+      "price": 209.36,
+      "change_pct": -12.54,
+      "change": -30.02,
+      "volume": 12698382,
       "name_zh": "",
       "spark": [
         226.39,
@@ -851,7 +992,14 @@
         210.605,
         208.92,
         207.55,
-        206.6781
+        206.6781,
+        205.78,
+        205.2,
+        205.01,
+        208.228,
+        211.875,
+        209.385,
+        209.56
       ],
       "news": [
         {
@@ -874,10 +1022,10 @@
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation",
-      "price": 67.07,
-      "change_pct": -11.98,
-      "change": -9.13,
-      "volume": 21182524,
+      "price": 66.88,
+      "change_pct": -12.23,
+      "change": -9.32,
+      "volume": 23905606,
       "name_zh": "",
       "spark": [
         72.6,
@@ -904,6 +1052,13 @@
         67.17,
         67.29,
         67.1101,
+        66.98,
+        66.93,
+        66.71,
+        66.7646,
+        67.0,
+        67.275,
+        66.93,
         66.98
       ],
       "news": [
@@ -913,77 +1068,24 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEV6NEtIUHZpbXZFWElOZGhnUnIzeF9ReGpzcjQ0Q3lrbHhGSDl6ajZzR19Kbl9tSk5rWWhlRlpOdFdCd3RFaHRCdm9qTEh0N1R2MnQzaGwxaVVBak1OWHVwWmoxbFl5dW9jalFlRE5qQ19xejdaTU9TZ2lYdU10VzlBVlEwLWYxTmwzTUY2TllLem9wZXZhVTRR?oc=5"
         },
         {
-          "title": "Rocket Lab Corporation $RKLB Shares Sold by Sharpepoint LLC - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnItNk8xTnpwMGpGRUdhbEF5RTkyeFdvZkl1Y3hwZ3E0R2xtZnhpWWFNakx0MXFVTEc4bUlMZVppU05odnpTVmU1WlhncWYxaXFUTDVvZGpwQ1ZKSm53YWxGc3FST0NfdHpLRWY3LU43UVhtNHNnSEhDUndFa1VmNXZXYjJlLXhJSVg1eXBQZTZmYjN0emRpX2l1MDVDZkR3UFRYRUhhMkUzZ1VyTFluRGJPY3Q3VEJsX3ZV?oc=5"
-        },
-        {
           "title": "Rocket Lab stock (NASDAQ:RKLB) slides to merger collar despite Neutron test - TechStock²",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXRqTll2NnRvcUxVREtJWkVjY1Z5V1Q5akJsRHdydEx2VmFmZU94QWo0cVZOOUdCZTVBazFzd3J3N3VrUzBTeHU1emVuSGVCZkhhNl84MzlMV2Fubi0yTUFHbzJuczk4dF9WekVGN2JoaTJhUXRDYzN4VEhQaExJZWtCcm02a3VNeW52Sm1JUUJDdUdkdHkxMA?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NVTS",
-      "name": "Navitas Semiconductor Corporati",
-      "price": 11.65,
-      "change_pct": -12.21,
-      "change": -1.62,
-      "volume": 9924086,
-      "name_zh": "",
-      "spark": [
-        12.745,
-        12.4328,
-        12.33,
-        12.42,
-        12.55,
-        12.43,
-        12.42,
-        12.335,
-        12.305,
-        12.205,
-        12.1301,
-        12.08,
-        12.1416,
-        12.0324,
-        12.025,
-        11.91,
-        11.87,
-        11.77,
-        11.835,
-        11.78,
-        11.785,
-        11.76,
-        11.7032,
-        11.6501,
-        11.6564
-      ],
-      "news": [
-        {
-          "title": "NVTS vs. VICR: Which AI Power Infrastructure Stock Has an Edge? - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjI4Yk9IS1pQX1B2eWktalUwSXhGcDB0X2U4OWloWDBmZ2piQk5OMmRxTUtqdWt1MEhNak9UTlM5UGVFNFVZcV91V19qZ2hRTjFCOF9YTVNLOUQ0b3BUYmZ0TVk1YnN4Nl9aUFRGc2FsOUROUEdxNUlFc2FoeFRab2RSNmpiY28wczNyN09xVnE0bW5sUW16dVBzck1FcTBGY0pjQ1RQTTVJX0FZdThlWHoxZ2trcXM?oc=5"
         },
         {
-          "title": "Navitas: Too Cheap To Ignore Anymore - Seeking Alpha",
+          "title": "Rocket Lab Corporation $RKLB Shares Sold by Sharpepoint LLC - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbndvMzhKTnhkcU0tanU5d0lJRDZEOHN1aWs1UUxzd19PNkVvM05hN2RyNmlNRGhHQlZQRGpJUktWX1R5THVaTnJXdDRhdHJERms4dFk0WkFEZ21xcFZkWThMMktXdDZ3X0p1SDQ4YnNiMkhXczFiNENBY1FfeERmR29B?oc=5"
-        },
-        {
-          "title": "Navitas Semiconductor Corporation (NVTS) Reports Q1 Loss, Beats Revenue Estimates - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjdSZkNvcnJ2cF9ZOG5WdTRaTFNBOGEyY0JXNmx5VDQtSFU0eEg3Y1RPckZUUnZlMWdhcTJXc0pXUVMtTU5GZU0zM21YeHNtaEVkTHNwZElwYXZWN0YwYjJGZHFScVlLd0dqa2VvRHhiUVh3dkYxcHdLYXkxX1h2YlBQM0dEcU11OC1NT1BkSzdvMGtVN090VjBrUEU1a05NXzZudnhPckpmNmlscnEzSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnItNk8xTnpwMGpGRUdhbEF5RTkyeFdvZkl1Y3hwZ3E0R2xtZnhpWWFNakx0MXFVTEc4bUlMZVppU05odnpTVmU1WlhncWYxaXFUTDVvZGpwQ1ZKSm53YWxGc3FST0NfdHpLRWY3LU43UVhtNHNnSEhDUndFa1VmNXZXYjJlLXhJSVg1eXBQZTZmYjN0emRpX2l1MDVDZkR3UFRYRUhhMkUzZ1VyTFluRGJPY3Q3VEJsX3ZV?oc=5"
         }
       ]
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
-      "price": 21.99,
-      "change_pct": -11.69,
-      "change": -2.91,
-      "volume": 11384177,
+      "price": 22.07,
+      "change_pct": -11.37,
+      "change": -2.83,
+      "volume": 13613753,
       "name_zh": "",
       "spark": [
         23.44,
@@ -1010,7 +1112,14 @@
         22.12,
         22.09,
         21.96,
-        21.94
+        21.94,
+        21.925,
+        21.965,
+        21.945,
+        21.99,
+        22.015,
+        21.91,
+        22.075
       ],
       "news": [
         {
@@ -1019,67 +1128,74 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRRcUk0b014ZTJuWlo1V2tmTEgzNXVtTWNLRkZWUnptLXpBcGl5c1IwbmNyeWFKUXVVdjRCX0dGeTVtOTFiSDAyRVVoaDVua0pyM0lXVHNhSTR6aUVnMll4Mzh3anJ6RWVuc3Nqc1JhdTVVMHRSTGZva1BIMWI2LWZhVEktRWtxVGpiLWFOOGNaMVBfM21iTm1RTHJCWkkweWQxVGVwRnJ0YVY2WnNIMnRBODhoQU5B?oc=5"
         },
         {
-          "title": "Planet Labs (PL) Down 12% Over the Past Month, Wedbush Initiates the Stock With a Buy Rating - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzZnWFRmVlY2a3oyeGF2NTJfcHk2TzhrQ3VvejRxSGFmVUUwSTFial9pcEgzWlR5SVAySGFBb2pNMUlKTzZZMU9EUHBGTVpZUHQwSkNTOEN2N2lqZVUzby12Rmlpc3hHcDhVVXlFRm01Uzh0d0tSSjZsM0lQY1RUckh2eml5dWRoamxFWDlpVzQ?oc=5"
-        },
-        {
           "title": "Planet Labs Stock Is Bouncing Back After Hard Fall Last Week: Here’s Why - Stocktwits",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQek1DTmlMdzgtUW4wR0RGYTFhT2hiN1p1R3oteTRBZlhOTzFOMktRZkxMTjU5c0FIV0lkUzB2UVZDeGl3RElmdFdOSHlReDdjMjB1WllENzdFdFFxOVF6cHBfdzkzUENpdy12RVMtRGNMQzYyU3dzb1pKZTV2cS1kTkJLVWlHUTVrd3pSZkxKSDZkNU84dHVqUzlWSGl6WmhFQV9VckhaZlBMUUFJQi1oTTZsNC1vNkFVN1lTdmJ4d25VeXp5dlcwbG55X3pnenYw?oc=5"
+        },
+        {
+          "title": "Planet Labs (PL) Down 12% Over the Past Month, Wedbush Initiates the Stock With a Buy Rating - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzZnWFRmVlY2a3oyeGF2NTJfcHk2TzhrQ3VvejRxSGFmVUUwSTFial9pcEgzWlR5SVAySGFBb2pNMUlKTzZZMU9EUHBGTVpZUHQwSkNTOEN2N2lqZVUzby12Rmlpc3hHcDhVVXlFRm01Uzh0d0tSSjZsM0lQY1RUckh2eml5dWRoamxFWDlpVzQ?oc=5"
         }
       ]
     },
     {
-      "symbol": "HUT",
-      "name": "Hut 8 Corp.",
-      "price": 90.94,
-      "change_pct": -11.73,
-      "change": -12.09,
-      "volume": 2850320,
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1417.24,
+      "change_pct": -12.25,
+      "change": -197.76,
+      "volume": 12908366,
       "name_zh": "",
       "spark": [
-        100.45,
-        98.52,
-        96.76,
-        96.325,
-        98.6589,
-        97.02,
-        96.99,
-        96.28,
-        95.555,
-        95.89,
-        94.4,
-        95.105,
-        95.27,
-        94.03,
-        93.91,
-        92.59,
-        92.57,
-        91.815,
-        92.09,
-        91.17,
-        91.95,
-        91.5,
-        91.06,
-        90.555,
-        91.095
+        1536.74,
+        1486.62,
+        1471.79,
+        1501.0,
+        1514.4825,
+        1495.755,
+        1488.525,
+        1481.87,
+        1469.4,
+        1481.665,
+        1463.21,
+        1466.21,
+        1470.895,
+        1447.7,
+        1447.005,
+        1436.6801,
+        1429.22,
+        1436.8,
+        1440.29,
+        1432.8315,
+        1442.1617,
+        1447.0,
+        1436.85,
+        1429.1599,
+        1432.365,
+        1419.79,
+        1412.29,
+        1408.15,
+        1421.1794,
+        1447.77,
+        1423.33,
+        1418.4176
       ],
       "news": [
         {
-          "title": "Hut 8 (NASDAQ:HUT) Shares Gap Down - What's Next? - MarketBeat",
+          "title": "Why Sandisk Stock Is Still Dropping - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUtQZ0tkVWhKOUJiNXVyTllwQnBObjBvRm1ZWEkxc2Uxd0w1SmZYYThjcmxKRXhfVlczaFBVdFlUREY0b29Xd3JPMEhjRkQwMmMzVUZLb25PN2VSeF9KZklfSWl3R3k3N1ZCcjgyZHhoejJRaExjczdVYnR1NFZPWWF2N0w3QUQtdTZTamZzZ0NRNzlWVlBQTm1za04?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXVFTnpFSGd0VDlRWTc2bFFlLUdNOVAzdmNBN2RVaWxIbWtkS0pYRkFnNVRENF9IVzM4dGtzT3ZMMkFMYXh5bEw2Q2tFLTdNSzBlSEV2OUlsTTVMczVsSUd3UVRTTzVmeXowNVdMOElINUdHQXFPNUZxWHFxN0xOVURqZUlwVXBqRU1ISi1GTS1JaGpJTy1qWVZKWG1JUQ?oc=5"
         },
         {
-          "title": "Hut 8 Stock Gets A Price Target Boost As A.I. Pivot Succeeds - Yahoo Finance",
+          "title": "Why Is Sandisk Stock Falling on Thursday? - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzBidlNfcnBXUjBhOWVCNVhxMGw0SV9ZZTVJaHpEVFhSdmhSam9KdTNrdVRUbGRiMnZnSGNTei1fQkhnckVJTGZQODJodm42TkRIVGZRdlVjZlpmdGtIQTdrUUVrdDNKRzI1QzYteEJ1V0UwU2ZDbXdPa1lTS0huTk5SUm5sc3hXVnk2M1NFMEc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkU0XzM0aGJyRkV6VUhTUjdyMDRmajQwWnNLWjNwd1ZGMTlTRFY4aHFCcXpfa2xNV1Zlb0xlc0hhQ0c5cXpPUV9oS2pXVHpfaXhHQ2Y3VXJDTGtkNFc0SFVSSVg5ZnVjRkt0ZU8xUFZyUW5xLXBnU0IzQVRWN2Nqc3owNU1adV93c3M5SjFVc3RVVlpQWXJ2NEl2NzFZX2RQTFlIbkt3?oc=5"
         },
         {
-          "title": "Why Hut 8 (HUT) Stock Is Up Today - Moomoo",
+          "title": "Why is SanDisk stock sliding today? - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUlV3bDN3dk90X2FCV2ppUlVYT1lnMkRrSTFhR3RCYXVpci13NFNZQTNkTmk3b0NJY1g1X0ZIdnBZeTdpRnd5SkZQZnFZZmQ1LTYyc0d0eUF3dk1sT1puQTFoVklsZ3BGS2hTNEdLb01EODRRN2JkUXZjemZGQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1RMN1hIQVRDZzdwaURsbktfTWZ5VjgyY1NFZDQxaHhvUXZDeC1KTTJVellGNHlDbF9DeFJKbE1PRTdPd29TLUVYZGY0TWhsaGNhaGFaeWc5WUp3T3lQMEQ0a1FKVElvOWkwVTh4RDZjM2YweV9WYWh3S0pvU2JES3ZXeDFLRnlFQXpzemdpTEJmbW00X0I1NjMtNGo?oc=5"
         }
       ]
     }
