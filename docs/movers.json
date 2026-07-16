@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-07-16T20:39:56.205582+00:00",
+  "updated_at": "2026-07-16T21:44:40.949027+00:00",
   "us_gainers": [
+    {
+      "symbol": "ATAI",
+      "name": "AtaiBeckley Inc.",
+      "price": 7.15,
+      "change_pct": 33.4,
+      "change": 1.79,
+      "volume": 165656796,
+      "name_zh": "",
+      "spark": [
+        7.06,
+        7.0327,
+        7.08,
+        7.16,
+        7.17,
+        7.1603,
+        7.13,
+        7.145,
+        7.14,
+        7.121,
+        7.145,
+        7.125,
+        7.145,
+        7.155,
+        7.12,
+        7.125,
+        7.125,
+        7.105,
+        7.1009,
+        7.105,
+        7.1095,
+        7.105,
+        7.1003,
+        7.12,
+        7.11,
+        7.095
+      ],
+      "news": [
+        {
+          "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1NEbmhORl9JUHljTHlqdHRhbGl0MUNfM3k3b0ZSbThGekZ5TTlvN1k2dVZvY3JncnlEQ0UyWVJIQUN5eVNmRUZFTHhJSEE1a2Q4enRzeVBlNmhfS2h3bmtSRDk3eE5FVXdGdXcwQ3hSd2g0cE1ZYVl6Mkwydm5ycXA0NGJwcV9TQi1Sd1RNNHgwRWZGRk1VZGY3V0JheEpWWkQ0YkRENGFveTFMc1Uwb1dB?oc=5"
+        },
+        {
+          "title": "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOGQwdzgwUnlNMjVraGJpWVZMRmdxV3pIZU9KOGRBdExjUDVoNDR0aXl0Z1BlUWw5MFdxcjYwcGI4S3FsQ2tWTjE0dUs4d0ZqTzFqaVNjd0VxZUV4TjUwTUpHMmtmdDBMQ0hwY3c2YVByckpNb0RJaXY1dmxJOXBkOERSZjhvMnluMHdFbEJucjhkNUMxQTJ3amV2aWdIcGFiYmVFQ0V2amk3LV9rZldNZnh4aUVxVzliUWRYcHR4S0VlQTVNRE9XTjBDTlg0Q0VCUklUVDZCTEVYTC1lWnN1Nk9XSDFJbE5CRG0wZFF3?oc=5"
+        },
+        {
+          "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - PR Newswire",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaFBnWWZZNFc0NjRKbll6YjVJazJ4RWtueG9EVzlFc3pUdk5PTndXQmNlZTlvaWNJNmNQMXBYWkt4bzg2anRoX2J1YjRHSjVJaDFidkMwM2ZVaUZfQkFBcGtkUzVjcE9famx1ZHNGall6bnIwaG9qbnE1MC1ONU5CeTVuSzdfd19XbHd5alRhejlCOWp0NEpZakpsQkt2cEtYSzVNM2pzOG8zOEZoNmY5alhZZE04Rzh6ajU0Y1NZc285ZDlJVEVMRTNkUUN1dzIwbmctanlOY3REdV8tcXp1dUxtODEyTEs2am8zcW9uZzJHX01IUGhVRTBIcEtSVlh6ejNIRDhR?oc=5"
+        }
+      ]
+    },
     {
       "symbol": "MAN",
       "name": "ManpowerGroup",
@@ -52,114 +106,6 @@
           "title": "ManpowerGroup Stock Jumps After Q2 Earnings Beat and Signs of Improving Demand - Quiver Quantitative",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzg0WXpEbDAzWnhrckxiWTFnaExuQ1AyZVBrMHItLVpyX2w4YTAycUVRUFp5MmdlRWprNVJVXy1Yb0QwZXZBNEh6N0tTbGRweWNQVUx5eGxidWR3ZmM2ZVNQcmdsT2ZGcFE3WWhDaDE2b2NaQjRZWWlXMlYwcDJFWGJUMjEwWUxIcGxkSW9tU2lpRVAwQVdxc2RDc0lVWkFPanpCVnZFSXNRVlhIcVFsUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ATAI",
-      "name": "AtaiBeckley Inc.",
-      "price": 7.15,
-      "change_pct": 33.4,
-      "change": 1.79,
-      "volume": 165155663,
-      "name_zh": "",
-      "spark": [
-        7.06,
-        7.0327,
-        7.08,
-        7.16,
-        7.17,
-        7.1603,
-        7.13,
-        7.145,
-        7.14,
-        7.121,
-        7.145,
-        7.125,
-        7.145,
-        7.155,
-        7.12,
-        7.125,
-        7.125,
-        7.105,
-        7.1009,
-        7.105,
-        7.1095,
-        7.105,
-        7.1003,
-        7.12,
-        7.11,
-        7.095
-      ],
-      "news": [
-        {
-          "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1NEbmhORl9JUHljTHlqdHRhbGl0MUNfM3k3b0ZSbThGekZ5TTlvN1k2dVZvY3JncnlEQ0UyWVJIQUN5eVNmRUZFTHhJSEE1a2Q4enRzeVBlNmhfS2h3bmtSRDk3eE5FVXdGdXcwQ3hSd2g0cE1ZYVl6Mkwydm5ycXA0NGJwcV9TQi1Sd1RNNHgwRWZGRk1VZGY3V0JheEpWWkQ0YkRENGFveTFMc1Uwb1dB?oc=5"
-        },
-        {
-          "title": "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOGQwdzgwUnlNMjVraGJpWVZMRmdxV3pIZU9KOGRBdExjUDVoNDR0aXl0Z1BlUWw5MFdxcjYwcGI4S3FsQ2tWTjE0dUs4d0ZqTzFqaVNjd0VxZUV4TjUwTUpHMmtmdDBMQ0hwY3c2YVByckpNb0RJaXY1dmxJOXBkOERSZjhvMnluMHdFbEJucjhkNUMxQTJ3amV2aWdIcGFiYmVFQ0V2amk3LV9rZldNZnh4aUVxVzliUWRYcHR4S0VlQTVNRE9XTjBDTlg0Q0VCUklUVDZCTEVYTC1lWnN1Nk9XSDFJbE5CRG0wZFF3?oc=5"
-        },
-        {
-          "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - PR Newswire",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaFBnWWZZNFc0NjRKbll6YjVJazJ4RWtueG9EVzlFc3pUdk5PTndXQmNlZTlvaWNJNmNQMXBYWkt4bzg2anRoX2J1YjRHSjVJaDFidkMwM2ZVaUZfQkFBcGtkUzVjcE9famx1ZHNGall6bnIwaG9qbnE1MC1ONU5CeTVuSzdfd19XbHd5alRhejlCOWp0NEpZakpsQkt2cEtYSzVNM2pzOG8zOEZoNmY5alhZZE04Rzh6ajU0Y1NZc285ZDlJVEVMRTNkUUN1dzIwbmctanlOY3REdV8tcXp1dUxtODEyTEs2am8zcW9uZzJHX01IUGhVRTBIcEtSVlh6ejNIRDhR?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "MAAS",
-      "name": "Maase Inc.",
-      "price": 20.95,
-      "change_pct": 26.43,
-      "change": 4.38,
-      "volume": 591327,
-      "name_zh": "",
-      "spark": [
-        18.785,
-        19.6971,
-        19.3778,
-        20.88,
-        20.775,
-        21.52,
-        21.78,
-        21.71,
-        21.81,
-        21.77,
-        21.655,
-        21.84,
-        21.4389,
-        21.6723,
-        21.85,
-        21.88,
-        21.55,
-        21.755,
-        21.61,
-        21.75,
-        21.69,
-        22.1869,
-        21.85,
-        21.3067,
-        20.93,
-        20.81
-      ],
-      "news": [
-        {
-          "title": "Maase (MAAS) Soars 84% as Firm Expands AI Foothold - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGRHeXB6b0FFT1U3LTluSTVoUHFqeDBXaFhiaG1zTkN1Y1BEV1J3REU0d1hfbjZBcWxzLVJRVUEtcERYbXczczBzQ1FmaTBya2Z5bEVGN0paRkpuRG5TblRZMFZGZzZvTjVzMlQ5R2pfS0tWV0szVGtQNmJMbVJvUmllbXhNRGxFMFpMbl92b3AzS1E?oc=5"
-        },
-        {
-          "title": "Lingyanmiaoyu Brings Chat, Multilingual Tools and Content Generation to Users - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUJqX3pVWDZHOVJDako0QUxnQTNMR2ZUNTlUQTBnT1dZaUJNS0xnQmxaWS1ZR2k0WUowWE5BdDlYSzRTbU1IUmJUaW9fZmUzUlNyNGlBcTBpSVp1d3lXN3Z5d181ZUswRERVeG1jRkw3TG5NWEVyNkhCS2lzajRjcVBXaWVuX1d2ZzI5Q0dubkY5My1iT3pxQnBtd1ktQW96YzBMTmNFYVhMekdxSEtIMFV6b3FfTWFITHVIbQ?oc=5"
-        },
-        {
-          "title": "Maase (MAAS) Stock Looks Rich After A Very Large Rally - simplywall.st",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk45Tzhra3R6YlA1Qy1xZ1hVNjlqTVE5eThVSlRqQlhWdUZ5cS1XeTB2QzZJb3AwN1FJQ0ZzaHdDT1NjY0d1XzZobGFyTmNMR1Q4anAyVGdxM1RMTmxvM0pFc0pGcjVQMXlNWU9RVEZsdkgwZ0pwanFGMmFxd0NiZXlpVVhBSVp6QmY4OXR0MnhDM1FkVm1WMVdlSjEySnpXVXNCeWM1WUV5Z1BmMGZiRl8zZHJsX1JU0gG-AUFVX3lxTE1GaEItQzdZU205c1hSemVGXy1VdTFQVHJMaGZNM0MtOHFVM1dycWpJdG1zc25TVlBQbm1XRFhjUmo3dWpGZEZrWTVZX2N3Q3NyNmJtUzZtQXN6cktUWDRQMFREU3hveDhhSTBNaFdXU2hkYXQ1S2xYMC1ScWZROG5EeUw5cWFFTGNkMTIzdlNua1UtcGVqVnlFNW1hSDNNRW4tZTI5YVNqSUVvS3YzVjlmdE9RX2h0a2NBY21JbUE?oc=5"
         }
       ]
     },
@@ -264,9 +210,9 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWR1cXFRNUZxWmN4WS1JN0N1TmdvcnctNl95UlJmR1VVSDJ1LVJNQ1RibWp0YVBXbjNPczBmUkppb0RTMG90T1ZaQjRJQ2Z5bGpyNzRST1Z6SHFfUGp0ajRmYmlRcGN4R1Z3ZDVwbE5VMXlvYnppRTJVVmZXaDB6eWtKU2NMOEl2WHowTUxSb0FocnVvYkdXaHFLNXhhWmxYUXBRZzcxVHRUOEtUSDJUMU1tMXY?oc=5"
         },
         {
-          "title": "Karooooo Ltd. (KARO) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+          "title": "Needham raises Karooooo stock price target to $70 on South Africa strength - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzlYTkdpRnpPN1RsZEc1U1c0Ql9ERlVvMGlSN1lCMFd1NVFDZEFfMVRxSlcwdE5hT3J1cmRDNGJYQUJsT19NazR5SE84TnF4Sm5wMnN6dEpSVGdmeDR5c182a2pNWi1vc29jN2xUSi15WDBtS0xPUnBUX1ZjQjhmT1R6SWtjamEwYkZ1RmZ6NzlfXzdDVEU0MHpuQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSW9BbnRsLVd4S05HeXljSDRZendPbk5rZHluNmRtcVBlNHJqN0Y1MG9CQUFteEhPRVE5TkIxOXBTZ1VOdTBfZTJjRzBkMjVOdmhXQm5oUFlIVWNaMkpqR1IyY0hxeC1nWXVJTDlsUjNvNmFTdnVuLUNVaTJzajNIdHVJejNsMTgwUjlNYTVRaWFHUUdMcGJ1QXNwNlhWVi1vMXZNS3lQcXNFRHdZb0N0VExmTDExbWVGNGZjMnFWbFhIaldDZXUtUFVqRWFfZw?oc=5"
         }
       ]
     },
@@ -384,7 +330,7 @@
       "price": 13.96,
       "change_pct": 10.09,
       "change": 1.28,
-      "volume": 959939,
+      "volume": 1435865,
       "name_zh": "",
       "spark": [
         12.885,
@@ -438,7 +384,7 @@
       "price": 6.46,
       "change_pct": 8.57,
       "change": 0.51,
-      "volume": 45239577,
+      "volume": 45435548,
       "name_zh": "",
       "spark": [
         5.73,
@@ -492,7 +438,7 @@
       "price": 298.41,
       "change_pct": 8.01,
       "change": 22.13,
-      "volume": 2452011,
+      "volume": 2454379,
       "name_zh": "",
       "spark": [
         296.175,
@@ -539,6 +485,60 @@
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWlU0bk56SUdkaGVTa0p0by1rS3VoTWhGSVhXeDl2NTdpNHF5LW9uWVdzUGc4RHREYmZUc0tiRkh1aUp3Uzc5VDZzcDdua0praEFteVJSZ2pQZ0trbjhNWWpxQ0EtRnVYeVNPaFdnbjQ1NFFxblBZLVItSDV0Mmg0ZDluZW9Da2h6ZFdLaTVhejVRemtiR1ZpSXZMLXJfWlZOdHhtZ0Vycm4xX2pCTmV5OEprMDlsSk5YRHIyVWFYcmRQMjZ4NzY0Y01DMnRoY29Fa2EwUzZIMkR5SGlBdldTOFpVZ01IbzdlMTEw?oc=5"
         }
       ]
+    },
+    {
+      "symbol": "HUBG",
+      "name": "Hub Group, Inc.",
+      "price": 51.41,
+      "change_pct": 7.55,
+      "change": 3.61,
+      "volume": 1501928,
+      "name_zh": "",
+      "spark": [
+        50.47,
+        50.03,
+        50.535,
+        50.56,
+        50.96,
+        50.61,
+        50.785,
+        50.77,
+        50.74,
+        50.67,
+        50.74,
+        50.53,
+        50.795,
+        50.68,
+        51.0,
+        50.99,
+        50.93,
+        50.67,
+        50.575,
+        50.46,
+        50.86,
+        51.17,
+        51.35,
+        51.465,
+        51.12,
+        51.21
+      ],
+      "news": [
+        {
+          "title": "What's Driving Hub Group's Recent Volatility Ahead of Earnings - Kavout | AI",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjUzdW1Oa2FxcW8zMHNnUmZOQ09tRmN5RlVnWVJrdGNFUzlCaEp2TTBKSV9FcnJMVkttZFI1bTNNVjB1bWwxU0VfaS1UWmZyYU04SWlZU3VjU2ZzRWJ5M2hCRXY2MTJlMWdfQ3NDbEJZc1RwelBiZUQ1V3c0bU9Kc2lRQnRaeDdja1dwVTltRWlaYm44V1Q0ZEZ0akc1dw?oc=5"
+        },
+        {
+          "title": "Hub Group (HUBG) Faces Securities Fraud Lawsuit Over Accounting Errors - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlqYXp5WHVtc1pGRmxQQm9CRlRjZDFWc1ROaW5oWU5JaU1pZXUwUE5Sa2I3dkVreDZZN211TzRBMWlzZ0VCb3JIZXctVUxHSVJTU0Z4bmk2WWIzaGpGWHRFS3YxZnlQWDEwUU9pOHlKRXdjQTlZbENSNXNLNEZzb3NnbnVXcUkzanVkWURrUjQzUlhFN0V6TmlzNHd0dG4wdzFWYUwzLThnMXM?oc=5"
+        },
+        {
+          "title": "SHAREHOLDER ALERT Bernstein Liebhard LLP Announces A - GlobeNewswire",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZVVVQ1VNeThDNzNXODFqMjlvaXY1czFLYWlzWm5Yb3NLQmh4Z1BGcml1Q3NGLXE2M0s0NXRiYmNiaU5XTFV6ZGdtbU92aTdfcWRqM25OVkpBNmJqd2FGX2Z2UzFMN0pYdGF6LVVlMmxfM0pVZEZqNzNMMVJlZS1tZkhvZnl4X0NxTVN3NTNOSURtSjlFdnpkVWZGVXJlam51a2hvLTRxdmYxTU5qN0ZkdmdzSmhvVkVtbWVNTktQejN6STI2QnZXTzA1bzR2bHNKQU5FU01GZ2FVVlowWkpzc0s3eXl6czN3Z2p3MXQyTjRSNzBUMHlTVTgzOGRZbGRqQlU0REoyV05jNDZSWldjZGNiRGFZVmZNTTNVRU8zTUNjREdKdEtJRVBBMng?oc=5"
+        }
+      ]
     }
   ],
   "us_losers": [
@@ -548,7 +548,7 @@
       "price": 25.71,
       "change_pct": -13.23,
       "change": -3.92,
-      "volume": 703848,
+      "volume": 704364,
       "name_zh": "",
       "spark": [
         26.065,
@@ -602,7 +602,7 @@
       "price": 55.01,
       "change_pct": -17.04,
       "change": -11.3,
-      "volume": 52389779,
+      "volume": 52709876,
       "name_zh": "",
       "spark": [
         61.31,
@@ -634,6 +634,11 @@
       ],
       "news": [
         {
+          "title": "AST SpaceMobile Stock Fall Is About More Than SpaceX - Barron's",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlFYNWEtMlNCOUtFSFNwaXdmUGlER0hLQWFaLTEyS0RHNDE1aEFUVVB2TUlENHBwXzg4R1JkUENPRFpzb0hHRTZlQ3gzS1pRNWNGMGg5a2kxVnFkdXU2dUlBTUQzZEJocjVsanBIQXJlTGhESlR0Z1lZb0RicXF0czF3?oc=5"
+        },
+        {
           "title": "AST SpaceMobile vs. Rocket Lab: 1 Number Separates These Space Stocks - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEV6NEtIUHZpbXZFWElOZGhnUnIzeF9ReGpzcjQ0Q3lrbHhGSDl6ajZzR19Kbl9tSk5rWWhlRlpOdFdCd3RFaHRCdm9qTEh0N1R2MnQzaGwxaVVBak1OWHVwWmoxbFl5dW9jalFlRE5qQ19xejdaTU9TZ2lYdU10VzlBVlEwLWYxTmwzTUY2TllLem9wZXZhVTRR?oc=5"
@@ -642,65 +647,60 @@
           "title": "AST SpaceMobile, Inc. Stock 12‑Month Price Target Raised to $86.82, Implies 31% Upside - TradingView",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3ZfYmtRLXEyejFScXBjbGZ6QVBuT3JrLUhjQktlR0hoOEZyX3k0d2dtRmNReHpWeFBXSDI2RHNKbTZ0c3llQ25XQUx6dVdYN2RBNlRTaFZzUDF3TzVqSzB1T1hVWENPTW9ybExxaG1ONE9FRUZGbHhlTGtFUlU2QUJETmRqcXZVeUtpSzdYV1lZckczb0tMa1lvVnQweEZia1VlN2ZVbTVKTndFZGtYRWFfbWd5TjFvekRBZkhQYWM1NW4wX2psSGlaWWNNR3ZTTlBuSzR3MV80NDQ?oc=5"
-        },
-        {
-          "title": "AST SpaceMobile (NASDAQ:ASTS) Shares Gap Down - Here's What Happened - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVVoSXdmOEVJZGlpQTFzMzBScnRCWDc4aEVRNFlxdXAzRE1BQ1JjNlVncURaV1dDRFlkUEpJLXpPcUNFUFQtT3NoXy1PYWZZM3pZQzUtQ0JwcWpia2M2c1h5REQ0dlhROEZUSDIwaHB3RVdKbUJiUGg2T0l2UHRMLXloMW1LeGRKMXBwR0EyUzlsRkRQVTJrR2swX3h6Y08zR2xmTTRSN2txRzJlZmJ3Wk5FU2Y4cWc?oc=5"
         }
       ]
     },
     {
-      "symbol": "MXL",
-      "name": "MaxLinear, Inc",
-      "price": 74.4,
-      "change_pct": -16.25,
-      "change": -14.44,
-      "volume": 3812048,
+      "symbol": "EROC",
+      "name": "ERock, Inc.",
+      "price": 10.15,
+      "change_pct": -15.84,
+      "change": -1.91,
+      "volume": 1920674,
       "name_zh": "",
       "spark": [
-        82.015,
-        82.13,
-        82.6,
-        83.2,
-        81.92,
-        81.68,
-        81.118,
-        80.16,
-        80.28,
-        79.9023,
-        79.71,
-        78.93,
-        78.42,
-        78.0,
-        77.71,
-        76.33,
-        75.5725,
-        75.7101,
-        75.58,
-        75.74,
-        75.93,
-        75.47,
-        75.025,
-        74.83,
-        74.6,
-        74.04
+        11.705,
+        11.36,
+        11.43,
+        11.3,
+        11.13,
+        11.1,
+        10.9,
+        10.8061,
+        10.75,
+        10.78,
+        10.885,
+        10.65,
+        10.68,
+        10.735,
+        10.72,
+        10.61,
+        10.405,
+        10.355,
+        10.36,
+        10.355,
+        10.29,
+        10.29,
+        10.31,
+        10.2,
+        10.235,
+        10.215
       ],
       "news": [
         {
-          "title": "MaxLinear slumped 16%, extending a two-week slide (MXL:NASDAQ) - Seeking Alpha",
+          "title": "ERock: Contracted Demand Can Turn Capacity Into Earnings - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnY1cV81YzF1YzRHQWR0SUVPMTB6bjU1SGtaeVlrNzFGUVpISzE0QTVqYUxrN0JMbENoSm8yejlBTExqekhHNlR6RFNxZE9vRFJVcmFpN2RMbkVTTVdnbWlRZk1jc1p1cGhTS0RyVl9fM0Vtdk5kMmRBRXBMX3RJdGx2ZlVsRHd2eDMw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFh2dDBuYWlMOWQxZTRvSzFpN2tXREFzN3lOMjZrWEJ0Ul9TeXVRUG1BM0h1T2pWYzBXbld5YkpsTHFqblhoU2JXMHRNemxoZkluUlpSNk1hbWZNbkx1NDlVMEs3bTZfSGxQRTgyQjRRZDhIaDhkMG5sVGo1X1dwSWtEb3JyS0Z5Q2xwNEppcjU1aWtKekdWV1F5UklQUFRjOGpfcw?oc=5"
         },
         {
-          "title": "What is MaxLinear's Core Business and Market Opportunity - Kavout | AI",
+          "title": "Articles from ERock, Inc. - FinancialContent",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlF4SlVCT2hIVE56M1dPUktlbzR1cFJzZHNjdEFheDJjSFBuNU5xS2RNcWNMTE9lb2JwTU5CRWdTWWJnWVRCeXR3bTFiczU3emU0OFdiUGE4YjFKN3JFV3VCNnlOVmJxbDlPeGJnRWxteTAzMGNhdWplUHp3V1JmeDRORF9DamVyMTFnMFV0Y3h5dkpHUVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dG45UVFjRkdZVUVlQmM1Mm1Qa2JmU0gyVWdPN01VdjB6emFPcmRyYW0zWUJBWlFVeEYzS2ZNbXdJM21QOHd3Qk5rMEtrdFc0Qnp4MU4tRDMxVFE0S0hnWkVoTUdZaTNMbkhuemNhUjZGQkZC?oc=5"
         },
         {
-          "title": "Is MaxLinear, Inc. (MXL) Among the Best Stocks to Buy for the Second Half of 2026? - Yahoo Finance",
+          "title": "ERock, Inc. (EROC) Stock Price Today: $12.11 - Gotrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnhHeXQwTU9kbFk2ZWRJRWY0dE8ycEc4Z0FOMzZWS1h5TkRNMWkwTDhjNkpvRFdxMnh4aXN0S1JYNEIxRVA3RWhsNGxPYlVLdHhBQ0VkaWRUazNYM1Fha3BabUVGT0xISVIwY2NKZmc3bVNuemg5cEZadWRac09ibWZuaUFwYTUtSUMxQldsUHYtcGFscXVfdQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ubG56ekJ2X3ZRcW9EZVZxOVNhdEdweTFKa3VURndjck9ZQnR5bi11LTNOS1UtZERreWFBSzdrLXY3dHpnNFZ6Qk5jXzZBVy1xVlIyYm1ybw?oc=5"
         }
       ]
     },
@@ -801,14 +801,14 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakd0VEw0WW1SalVVWkNWTml6M0k2TVVfdnJ3YWVsbXd5MDMxcFJNSXQtMUNIc2VYak9tMTY0SWNsdl9HU3hCWm9sWjRvYjRmV3lTTEVPZmVTU3A0Y05QY3B4YmVGTDIzWGFvOVRMbnNnRE9YQUxSVk1peEZ4QzdGSmFwcG5DLWpjdHBEUjBsTFhLZHIwWkR2ZVNhVkhyQUo4bS1qYVhaRUVudXgyLW1vN2lSM2dpazZaUnhF?oc=5"
         },
         {
-          "title": "Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTgwWVl3NHNkNTlOSjYxS040dHlCamdiQ2hlVVBRbFJDTUQ0TGxNNU4wcHE1QS1pR0tEeUdRQW1xbGpvMWg5eUxnOEhQaUJDUTNyNG90ZE9SbkN3emJCNDNJUjE4aDNaZXp5dW81aktYa3c4dUlONVF6WFJUbk42WlBFNnJlS0VYT1VtV2t0MUdJTzh1Mk5BVk04WEMyaXlUOXhyZ1dqZlI?oc=5"
-        },
-        {
           "title": "MANE Stock Draws Traders As Volatility And Cash Pile Stand Out - StocksToTrade",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEtDWUU3SW9Udl9meFBhcEJkRlFWRW1SQkpMOVRfcWtlNUR0SndXejF1OXl4MkRXZFB4aFdlQXNPVTFISkVLQ1FYM3NBLW02ak1JbkxHZ19rVFlFZ0NGaDJNVld5Tzc5ZmdYWm8tamdPb2gzMmE3YUszT3huNmhDNFVLRQ?oc=5"
+        },
+        {
+          "title": "Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTgwWVl3NHNkNTlOSjYxS040dHlCamdiQ2hlVVBRbFJDTUQ0TGxNNU4wcHE1QS1pR0tEeUdRQW1xbGpvMWg5eUxnOEhQaUJDUTNyNG90ZE9SbkN3emJCNDNJUjE4aDNaZXp5dW81aktYa3c4dUlONVF6WFJUbk42WlBFNnJlS0VYT1VtV2t0MUdJTzh1Mk5BVk04WEMyaXlUOXhyZ1dqZlI?oc=5"
         }
       ]
     },
@@ -867,12 +867,66 @@
       ]
     },
     {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 171.77,
+      "change_pct": -13.9,
+      "change": -27.74,
+      "volume": 24829063,
+      "name_zh": "",
+      "spark": [
+        191.395,
+        185.4,
+        186.36,
+        188.76,
+        186.11,
+        183.4,
+        182.3,
+        180.9,
+        179.285,
+        176.23,
+        175.84,
+        176.34,
+        175.1,
+        173.5977,
+        174.61,
+        173.73,
+        172.5401,
+        171.6805,
+        170.61,
+        173.29,
+        175.08,
+        175.26,
+        174.6351,
+        173.54,
+        173.76,
+        170.7
+      ],
+      "news": [
+        {
+          "title": "Nebius (NBIS) Stock Looks Fairly Valued As AI Cloud Expansion Draws Interest - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUMzOHFzai1YMnZhRXhUemMtR3JvQXlWMkxRNEtGVm5xcGlpM1NaZjNxdUNsME5FMVRzV2ZrcUJpaHRDaTVGc1E4S3FKcjU5QTZ2ejNFUTR2Q0wxY0xUUWRiUTZ1RDc2UzlOOUU2WXJ5STgtQzZsWHBhaGVuaW5WX0R4Y0FxT0tRRlhLcHpvS3pocGR2ei1sSlhFQQ?oc=5"
+        },
+        {
+          "title": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2 - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1aUWt4TEtfR05qb3ZpN2RmeG9ReFhuVDVSSkd0TS1QUUx3Sm1Da3Z3YmhtT2M4SEJsVW14c05Od3lvanNlNUFsdGh1T0pZeWNyeWQ0TW1hVUZEQmlmbXViMDVXd0RnanBGZGQzMk9ZZ1ZnQi1Fb0lhYnZQOG9rOGZJMFJTVlZWaENlalBWWjdyTzlkandFUVVsdlBaejUyOGc?oc=5"
+        },
+        {
+          "title": "NBIS Stock Rides AI Infrastructure Wave To Soar 600% In A Year — Analysts Say Nebius Presents A 'Huge Opportunity' - Stocktwits",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2FNY3hHVFNQNnRiSm1yRjlhS2djb0hjVTdiV2RIbEJ0YnR5cmg2eUZFTjA3bHJuQ2Uyald5ZndWUkRUSEUybjBFb2JwQ29hc2IxUE1zUzVOd192a3RLd2FUMTJpZ2ttXzJOeXBWeU1zcnBGX3VfbGRWSVpScDhhN2YwZ3M4cXl2dThaSnRwZEFzbG1HMVRoNmowX0ZBamNIUFBIcVlwejBJUWdjVG14dWdyVEVnQk5fOFlkWlpNblJycDA2TjI4QTFySTkyd0ZiXzRqdXl4M2pXZw?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
       "price": 206.73,
       "change_pct": -13.64,
       "change": -32.65,
-      "volume": 15440220,
+      "volume": 16197840,
       "name_zh": "",
       "spark": [
         226.39,
@@ -914,9 +968,9 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDBrSWJ3N2RWVE41a05wNkpVaFUteThSNlBkVTA2MldkNHhieEpRbnVMdnJ0SXJYaDh0MDhSQi1wQl9KcklsYmNyVWhacko4b2hBejlOcXJSOUpsNEVYcEVXSFk1NXdwcmRLYmRzUGxxVHByNWV3WWdULVJMREx4UEZNYS1GVlh2SEZsdHlUbXA3ZHdOcVJfdDBtd2M1RThYdEItalJ0UlhyUHFqcVlPTG1n?oc=5"
         },
         {
-          "title": "Cramer's lightning round: Buy Bloom Energy - CNBC",
+          "title": "Sigma Planning Corp Takes Position in Bloom Energy Corporation $BE - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0trelVLN1R1T05ueFNmcjVEZlhFdGRNcXZCZzFkSjljQncyQnVRMGRKOXNzZVVJYk5rM2FfVWwzU0VLcTlSTE93d2JCRnNLMTVLbE9QQmRHQld5Zk9jQk5Ld3FDUkwwdjJqdGZ3cW5nLVBnMGZXZGZCSDIwZFB1bXRtNNIBiAFBVV95cUxNdHpfSHU2Z0p0bUVYeUEwbWZtTkdXZ2JIcWlVQi1zX05wT2k0TkJ6b3R1aExseUtjQWtDellwU0lBX21NLVNicTM2c0MxRlNrLWozU0xOWUJTRUdFdU1JQ05XT2lqbVhzZHRIZGVsQ0p0QWxJT3NxR0RCSEFEVHRhTUl6QmNyRVZL?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0EzUGh2TkJqQ2FJVWI2U2hMVDRxbjZncDJCTXdqWTJBZm42cE5jQW5lMEk3bEllYkFhaHd1RlRaZWFzRmlWQUdwTTZMNUcyWVFrbmZGV3JNeDJLMUx5M1BwSEhjdE9HR0ZFVGZ3bXJxdWFzSlFkUGxIRkVHNDkzMmkxY1RSQ2haQ19jSmNjTGpnWVQ3alRZX0ZleExEaG5LN2Y3N3hSZWhsanlMRXp2c0FXbUtvRlpaVFA3ZnAtYmEzUEx0?oc=5"
         }
       ]
     },
@@ -971,60 +1025,6 @@
           "title": "IQM Quantum Computers Oyj (NasdaqGS:IQMX) Draws Valuation Attention, Is The Recent Pullback A Bargain? - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzZVZVBKLW16TUNVMjVCY0hNN3h4LXk3WDl0LXg4eExXTDFZS1B4bkZtZHcxWG5uY2E4ZVZmbEFHRGxjc0NTMFFVQzA2dTBoVnFtQTk4eWt4YjN6eEpWS2VRLXhhdTUzSkt4WTFDRGpnQ0hjNXNfYWNkN1lfam0xb3czTUJERjNSVWh0NkZqN2Q4V0FSMlVvQXVVRDJ1OUFM?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 171.77,
-      "change_pct": -13.9,
-      "change": -27.74,
-      "volume": 24829063,
-      "name_zh": "",
-      "spark": [
-        191.395,
-        185.4,
-        186.36,
-        188.76,
-        186.11,
-        183.4,
-        182.3,
-        180.9,
-        179.285,
-        176.23,
-        175.84,
-        176.34,
-        175.1,
-        173.5977,
-        174.61,
-        173.73,
-        172.5401,
-        171.6805,
-        170.61,
-        173.29,
-        175.08,
-        175.26,
-        174.6351,
-        173.54,
-        173.76,
-        170.7
-      ],
-      "news": [
-        {
-          "title": "Nebius (NBIS) Stock Looks Fairly Valued As AI Cloud Expansion Draws Interest - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUMzOHFzai1YMnZhRXhUemMtR3JvQXlWMkxRNEtGVm5xcGlpM1NaZjNxdUNsME5FMVRzV2ZrcUJpaHRDaTVGc1E4S3FKcjU5QTZ2ejNFUTR2Q0wxY0xUUWRiUTZ1RDc2UzlOOUU2WXJ5STgtQzZsWHBhaGVuaW5WX0R4Y0FxT0tRRlhLcHpvS3pocGR2ei1sSlhFQQ?oc=5"
-        },
-        {
-          "title": "Why Is Nebius Stock Falling on Thursday? - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHAzSVJNOGpDLUVGZmZTdjdVcHc2RFpBWkpKMTFsdTc3RFR5UWRkNmtGSDloMkFwNFlKZHJ1bkMwZGRfaDhMRFVWNURHWnFFRE80eFEzbFVCSFZHeUhlclV2Q0Vla0FWX2FmczF4U2ZBSEw5MHpySzVld3RnbmpIODhuVjhQOEwzdTUyQlR1V2V1dm5scW0teHpVeDhCQWdySVE?oc=5"
-        },
-        {
-          "title": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2 - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1aUWt4TEtfR05qb3ZpN2RmeG9ReFhuVDVSSkd0TS1QUUx3Sm1Da3Z3YmhtT2M4SEJsVW14c05Od3lvanNlNUFsdGh1T0pZeWNyeWQ0TW1hVUZEQmlmbXViMDVXd0RnanBGZGQzMk9ZZ1ZnQi1Fb0lhYnZQOG9rOGZJMFJTVlZWaENlalBWWjdyTzlkandFUVVsdlBaejUyOGc?oc=5"
         }
       ]
     },
