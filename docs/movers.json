@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-07-16T21:44:40.949027+00:00",
+  "updated_at": "2026-07-16T22:40:59.440757+00:00",
   "us_gainers": [
+    {
+      "symbol": "CDNA",
+      "name": "CareDx, Inc.",
+      "price": 40.34,
+      "change_pct": 35.6,
+      "change": 10.59,
+      "volume": 4449078,
+      "name_zh": "",
+      "spark": [
+        36.7,
+        36.23,
+        37.11,
+        36.9301,
+        37.18,
+        37.09,
+        36.9499,
+        37.2,
+        37.305,
+        36.995,
+        37.495,
+        36.81,
+        37.2937,
+        37.14,
+        37.125,
+        37.292,
+        37.94,
+        38.345,
+        38.27,
+        39.05,
+        38.76,
+        38.455,
+        38.73,
+        38.005,
+        38.01,
+        38.71
+      ],
+      "news": [
+        {
+          "title": "CareDx Sets July 30 Webcast for Second-Quarter Results - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNYekd0dzhQTmVUQUl5M0d5cHl6Nk14U0hndXdoZ3lWeW9wNHZPQlVwcjJIMVhobkJNcUNoWXQ3WEdLdEJXRzVQamtreHhOU09uNHhyNm1sSkdtMzkyVGZXVExvYnhaQ2RLLW1uazJMcUpEQmtNZkd4eHJFRnJCWFltTHRHN0sxbzRTWEowRTh4RU4yU2hvbjlGLXZEdzk5aUlSV0dIVzA5R1pyLVNkT24xMGxSd3o1UktEdXpB?oc=5"
+        },
+        {
+          "title": "Why Is CareDx Stock Skyrocketing Thursday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEJVeHN5YVFzQkt4QW1rN0x6dnZmNE9qMk9Db1g2Mk1idHE5U1hGLVlvUTQ2T3FReUFjeXR0RFAyRlgwRFF0OFZvQnEzN1NQRzgzNmRVQmtxVlpIamRCU1pGdTFEUHB1YzUyRlhwUFJ3QmF2bGxiNUF5NTdLN0RDLW5uMVRmZ1g1ei1PRHE0Wnhqam9TUG5xLXVTYzN0X28?oc=5"
+        },
+        {
+          "title": "Medicare Policy Is Expected to Cover Up to 12 Tests After Transplant - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamd1b2hsbmhLR0VZU09sampOTEYtcXJxeUJuYjU4N21BM3RJU2I3UExnZ1hFNFdJVmh0X3JNSjBKMEJaYlVUMUgwLWJUdDhZM0tobnFoMXZsM3VpWnJpVUdDcUREdHhJb01yU1VTa20xcEpUSDcxTTk5TnBvLWRhNVdDUHZvRGlSbjFhWGp4RllEaEUxVm16aGhVbUdsRkYzMUNwdm5kdTdSekNvYXpyME9OalN4ZG1qTnNpMmVR?oc=5"
+        }
+      ]
+    },
     {
       "symbol": "ATAI",
       "name": "AtaiBeckley Inc.",
@@ -106,6 +160,60 @@
           "title": "ManpowerGroup Stock Jumps After Q2 Earnings Beat and Signs of Improving Demand - Quiver Quantitative",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzg0WXpEbDAzWnhrckxiWTFnaExuQ1AyZVBrMHItLVpyX2w4YTAycUVRUFp5MmdlRWprNVJVXy1Yb0QwZXZBNEh6N0tTbGRweWNQVUx5eGxidWR3ZmM2ZVNQcmdsT2ZGcFE3WWhDaDE2b2NaQjRZWWlXMlYwcDJFWGJUMjEwWUxIcGxkSW9tU2lpRVAwQVdxc2RDc0lVWkFPanpCVnZFSXNRVlhIcVFsUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MAAS",
+      "name": "Maase Inc.",
+      "price": 20.95,
+      "change_pct": 26.43,
+      "change": 4.38,
+      "volume": 591327,
+      "name_zh": "",
+      "spark": [
+        18.785,
+        19.6971,
+        19.3778,
+        20.88,
+        20.775,
+        21.52,
+        21.78,
+        21.71,
+        21.81,
+        21.77,
+        21.655,
+        21.84,
+        21.4389,
+        21.6723,
+        21.85,
+        21.88,
+        21.55,
+        21.755,
+        21.61,
+        21.75,
+        21.69,
+        22.1869,
+        21.85,
+        21.3067,
+        20.93,
+        20.81
+      ],
+      "news": [
+        {
+          "title": "Maase (MAAS) Soars 84% as Firm Expands AI Foothold - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGRHeXB6b0FFT1U3LTluSTVoUHFqeDBXaFhiaG1zTkN1Y1BEV1J3REU0d1hfbjZBcWxzLVJRVUEtcERYbXczczBzQ1FmaTBya2Z5bEVGN0paRkpuRG5TblRZMFZGZzZvTjVzMlQ5R2pfS0tWV0szVGtQNmJMbVJvUmllbXhNRGxFMFpMbl92b3AzS1E?oc=5"
+        },
+        {
+          "title": "Lingyanmiaoyu Brings Chat, Multilingual Tools and Content Generation to Users - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUJqX3pVWDZHOVJDako0QUxnQTNMR2ZUNTlUQTBnT1dZaUJNS0xnQmxaWS1ZR2k0WUowWE5BdDlYSzRTbU1IUmJUaW9fZmUzUlNyNGlBcTBpSVp1d3lXN3Z5d181ZUswRERVeG1jRkw3TG5NWEVyNkhCS2lzajRjcVBXaWVuX1d2ZzI5Q0dubkY5My1iT3pxQnBtd1ktQW96YzBMTmNFYVhMekdxSEtIMFV6b3FfTWFITHVIbQ?oc=5"
+        },
+        {
+          "title": "Maase (MAAS) Stock Looks Rich After A Very Large Rally - simplywall.st",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk45Tzhra3R6YlA1Qy1xZ1hVNjlqTVE5eThVSlRqQlhWdUZ5cS1XeTB2QzZJb3AwN1FJQ0ZzaHdDT1NjY0d1XzZobGFyTmNMR1Q4anAyVGdxM1RMTmxvM0pFc0pGcjVQMXlNWU9RVEZsdkgwZ0pwanFGMmFxd0NiZXlpVVhBSVp6QmY4OXR0MnhDM1FkVm1WMVdlSjEySnpXVXNCeWM1WUV5Z1BmMGZiRl8zZHJsX1JU0gG-AUFVX3lxTE1GaEItQzdZU205c1hSemVGXy1VdTFQVHJMaGZNM0MtOHFVM1dycWpJdG1zc25TVlBQbm1XRFhjUmo3dWpGZEZrWTVZX2N3Q3NyNmJtUzZtQXN6cktUWDRQMFREU3hveDhhSTBNaFdXU2hkYXQ1S2xYMC1ScWZROG5EeUw5cWFFTGNkMTIzdlNua1UtcGVqVnlFNW1hSDNNRW4tZTI5YVNqSUVvS3YzVjlmdE9RX2h0a2NBY21JbUE?oc=5"
         }
       ]
     },
@@ -271,60 +379,6 @@
       ]
     },
     {
-      "symbol": "SMG",
-      "name": "Scotts Miracle-Gro Company (The",
-      "price": 73.47,
-      "change_pct": 8.06,
-      "change": 5.48,
-      "volume": 1612959,
-      "name_zh": "",
-      "spark": [
-        70.8,
-        73.83,
-        74.17,
-        74.4,
-        74.471,
-        74.3275,
-        74.64,
-        74.89,
-        74.31,
-        74.56,
-        74.92,
-        74.81,
-        74.63,
-        74.93,
-        75.045,
-        74.815,
-        75.125,
-        74.7,
-        74.8,
-        74.705,
-        75.05,
-        75.095,
-        74.89,
-        74.86,
-        74.524,
-        74.46
-      ],
-      "news": [
-        {
-          "title": "Scotts Miracle-Gro (NYSE:SMG) Hits New 1-Year High - Here's Why - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXMzWnBsX0VMR0oyYVBoaUQyVFkzSV9OdkdxQ3E3VlNYT01uWUVHOXpuSUk2NU5ZOFlidzBDWnFLa1ZCamU4c1M0XzY5OFNwZ1RqZnFZeTI1Ujl6eWlzZXUtbHRsNzJtS2FRWTIzZWJCMnluenVWcjRnMkdNRS05M2lqamNCZmtlbmY5TmVPZDVvTFFwOUluZUxlSFk3RVBNOWt3T2hkVFNGdGJrRko2Yg?oc=5"
-        },
-        {
-          "title": "Scotts Miracle Gro (SMG) Could Be 56% Overvalued After Its Recent Rebound - simplywall.st",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUJjeTN0Tm0wcnBrdmR3cFVtWjhvUEhwem1sZzBkYUxXMENGTnVkcGhQaDZTR3FBcGdpbVFxSFJSM1ZzZ2RlNVFWLURfTkpyTjluN2NSeURyNUN2TE1Hb2ZHcVRKd25mbDhEZlFqMHdrVzNDMWNfN0p5YnB4TS15WnJ1UE8yOWNTNzQ4VmhaMUpwNWl6Yk1XOG82aVNNcG5lS3FrMGJ3WW51dld6bjQzWEJScXp3ckVscm9GaWgzaERUQUVrcGZXY3VLRGtvZ2VG0gHWAUFVX3lxTE8tRVQyR3BYZzlDTmhtaEh6WEdtMzh2aWxvbkRFc191MTZ6ODVwTlg4Vy0xYjZNN3ViaGNRRjd3c2MtRE41YTJMUnliazR2cm8yeTZwNWVTWmdBRnJ5cXlhUU5ScHNtN21seDlweUxVQnVKNWVYbkRIXzlzU3RhbUpmTk52UFh1c2d6bWV3WkwzdlBMVzBxNGVxcGNZSFF6cGVvaHBnWEQ1blJ3UFM4dkVNc3VmUXB4d3R2LVFkRmdMUGpxcU9zTXo4LUV5SE1VaWRTc0lFbGc?oc=5"
-        },
-        {
-          "title": "The Scotts Miracle Gro Co (SMG) Stock Up 6.0% but GF Value Says Overvalued -- GF Score: 64/100 - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWRCeFdTLXdBVlN0T1ZQTDlVM1ZoMUwwdUVCU1BURHkxTFRDTndkUV9FNzBSZ002MTVadjdEakEwa0dkUERuRUFFTFExSlNza05JZkc0V3hhRWJDUGFZSmhvSmYzR0F6OHVqTmlJYklqZV85OTJQZ2FXdFp5MngxTXR0TjdmaVEyN0w2Mk9UdDdyNExLeXBOUG1UQVNaOWNQLVJxbm5uQkY1VVdZclpOU1RKQnBraG5iRzdTblk3UTgxZw?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "ARX",
       "name": "Accelerant Holdings",
       "price": 13.96,
@@ -426,176 +480,68 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm9hMjVVMEZLNVZvNzFTTE5JUFl4QzBHTUZ2by1VZFRja1BXVHZ4Qm0xdWJRdkR5RlVHajNIMFcyOUw2LXNvYjZnWnRDd05KQ3hrR2hncEF3QVZBTjBwMXplR0dDalFyXzQ1R0duSjRydUIyZWpWVDBuMVZZSDdFc285Y0E3MFlzRWtoZ2psWXdmSmIzV0c1RXJQX2U0MHlLb0xkakEtb3o5c3VJVF9BTnVVNnJGdw?oc=5"
         },
         {
-          "title": "LUCID GROUP, INC. (LCID) SHAREHOLDER ALERT Bernstein - GlobeNewswire",
+          "title": "Lucid Group (NASDAQ:LCID) Stock Price Up 8.6% - Should You Buy? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPck9YQzZ3OVRhYlNSMVRqYkxSeUh3NnJBUzhUMkZUaVROd1BlZlhOT0tlSWp1S1I5dFlQSWYtbUtCdHlaVTFQVTQzZ25uZkN1Z19wS3ByWTFGOFVqLXRFSklzc1lzVlpJeU8xcVFud2pTdU1tMnpJbUg5YU10NmgxZzJ4azd2ZkN0WGJDZnRTZDNzeVRuUlM3UGZaU1dSS0t1WDFqNF9kdmF0ZUhfdDBEal9Uc0F6WmM5YzRpRVdjaUtyMkpoeEdyRkMyWkZ5UzRvUWtDbXdwTkRmcGY0YXNUQzFsdHA1d3ZmanBZbDcxeXJzYWFDNzVuX1piVF9Mbk9fdVlXdjFDOU5wR0R4MGEyQjZHbmVmN00?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnJFY2FQeW1VcGJFeUV1Q2FiMnlvbE9kZWVmb2JRMWJyekh4MlRPa3lNR3VpNE5MTTFHWFc2bmVZblNTaXdPUHRzX2ZCcy0tZFBWajAxb3Q1eFBObUJScVJrdWkyd0wtbnM2WG9NcG53VGJFZmdpV2Z1aGtLLTBxUWNDd3dTZFVXXy1mQVpoTHdZZEsyUE9UVnBXajlOeFZWYk4xWTZPTzU5ZFNzZWc?oc=5"
         }
       ]
     },
     {
-      "symbol": "JBHT",
-      "name": "J.B. Hunt Transport Services, I",
-      "price": 298.41,
-      "change_pct": 8.01,
-      "change": 22.13,
-      "volume": 2454379,
+      "symbol": "SMG",
+      "name": "Scotts Miracle-Gro Company (The",
+      "price": 73.47,
+      "change_pct": 8.06,
+      "change": 5.48,
+      "volume": 1612959,
       "name_zh": "",
       "spark": [
-        296.175,
-        295.11,
-        294.27,
-        288.46,
-        293.7425,
-        290.78,
-        291.1475,
-        292.36,
-        295.255,
-        295.11,
-        294.505,
-        294.33,
-        295.07,
-        294.53,
-        295.28,
-        297.375,
-        296.02,
-        293.6,
-        291.11,
-        293.175,
-        294.72,
-        295.5,
-        295.53,
-        295.95,
-        296.325,
-        297.81
+        70.8,
+        73.83,
+        74.17,
+        74.4,
+        74.471,
+        74.3275,
+        74.64,
+        74.89,
+        74.31,
+        74.56,
+        74.92,
+        74.81,
+        74.63,
+        74.93,
+        75.045,
+        74.815,
+        75.125,
+        74.7,
+        74.8,
+        74.705,
+        75.05,
+        75.095,
+        74.89,
+        74.86,
+        74.524,
+        74.46
       ],
       "news": [
         {
-          "title": "J.B. Hunt Transport Services, Inc. Reports U.S. GAAP Revenues, Net Earnings and Earnings Per Share for the Second Quarter 2026 - J. B. Hunt",
+          "title": "Scotts Miracle-Gro (NYSE:SMG) Hits New 1-Year High - Here's Why - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcUhiTFhrazBTZVl6WkJDeG1CM18zeWp3bmhTQzI3VVhKWFQyN05oeUJFbHVFaWFxQmVWOUE0aGNoWWpfN3k5ZHBSVW9tc1NIYWhtbDhaV3JyLWVqVDlNWk1ielRza1ZxT3c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXMzWnBsX0VMR0oyYVBoaUQyVFkzSV9OdkdxQ3E3VlNYT01uWUVHOXpuSUk2NU5ZOFlidzBDWnFLa1ZCamU4c1M0XzY5OFNwZ1RqZnFZeTI1Ujl6eWlzZXUtbHRsNzJtS2FRWTIzZWJCMnluenVWcjRnMkdNRS05M2lqamNCZmtlbmY5TmVPZDVvTFFwOUluZUxlSFk3RVBNOWt3T2hkVFNGdGJrRko2Yg?oc=5"
         },
         {
-          "title": "J.B. Hunt Transport Services (JBHT) Following Strong Earnings Is The Stock Already Fully Valued - simplywall.st",
+          "title": "Scotts Miracle Gro (SMG) Could Be 56% Overvalued After Its Recent Rebound - simplywall.st",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPXy1lM2FKdm5sRWpxZnVYN2JzWmV3TG16WmJ1TUJiblBNbVp4QjJ1ZnJCTThoQVU1enBuREdnamJtV0VEc3ZrRW9SVUpIOVZzczBKS05EcEwteEtYMGt2dDJ3Um1LbmcwOTdhbkg4aGt4NVJ5RWVtd0lqX0xhQmZoN1hyYVZPSDcyRW5yUlhKOFVoTWk4dlhwWXNzMjhEaEJGc1hNMHJJcFN6dUxKbDY1c2NsVVNMY0VzMHJkYjB6RzItLWhUTkRuQmlzVGljU2t0MWNOT0swQTJvWk5rdHd4aHBJVjg3Z9IB6wFBVV95cUxPLWZyVWVEdEtiNF9wS3htblRlcERjWG1zN25Ydnp3cThUcmhyU3pzRzZMcjZBcmZCUHFpamFqR2lETkRBaHkwT1BYZkY3cUd0R01JT3JSdXg1U1NSRTlOUzBvcE15UzhvVkRvYWNXZXpaQkF0aFp5aUpSejl5RDdfamp1UE9jX1kxQ0F1V1ZnWnlWQ3BPdGtCbDhyck5JUmdQeWpvZW1ScUhqdzY1cERraEdVV3FyWDdrZ2k2NWVicUtNOGF0V2FWeUR0WEYwUHRBYmRpMjdWbjUyQXVnYkFpNE9CdGNiN2JUTUpv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUJjeTN0Tm0wcnBrdmR3cFVtWjhvUEhwem1sZzBkYUxXMENGTnVkcGhQaDZTR3FBcGdpbVFxSFJSM1ZzZ2RlNVFWLURfTkpyTjluN2NSeURyNUN2TE1Hb2ZHcVRKd25mbDhEZlFqMHdrVzNDMWNfN0p5YnB4TS15WnJ1UE8yOWNTNzQ4VmhaMUpwNWl6Yk1XOG82aVNNcG5lS3FrMGJ3WW51dld6bjQzWEJScXp3ckVscm9GaWgzaERUQUVrcGZXY3VLRGtvZ2VG0gHWAUFVX3lxTE8tRVQyR3BYZzlDTmhtaEh6WEdtMzh2aWxvbkRFc191MTZ6ODVwTlg4Vy0xYjZNN3ViaGNRRjd3c2MtRE41YTJMUnliazR2cm8yeTZwNWVTWmdBRnJ5cXlhUU5ScHNtN21seDlweUxVQnVKNWVYbkRIXzlzU3RhbUpmTk52UFh1c2d6bWV3WkwzdlBMVzBxNGVxcGNZSFF6cGVvaHBnWEQ1blJ3UFM4dkVNc3VmUXB4d3R2LVFkRmdMUGpxcU9zTXo4LUV5SE1VaWRTc0lFbGc?oc=5"
         },
         {
-          "title": "J.B. Hunt Transport Services, Inc. Stock 12‑Month Price Target Raised to $296.29, Implies 7% Upside - TradingView",
+          "title": "The Scotts Miracle Gro Co (SMG) Stock Up 6.0% but GF Value Says Overvalued -- GF Score: 64/100 - GuruFocus",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWlU0bk56SUdkaGVTa0p0by1rS3VoTWhGSVhXeDl2NTdpNHF5LW9uWVdzUGc4RHREYmZUc0tiRkh1aUp3Uzc5VDZzcDdua0praEFteVJSZ2pQZ0trbjhNWWpxQ0EtRnVYeVNPaFdnbjQ1NFFxblBZLVItSDV0Mmg0ZDluZW9Da2h6ZFdLaTVhejVRemtiR1ZpSXZMLXJfWlZOdHhtZ0Vycm4xX2pCTmV5OEprMDlsSk5YRHIyVWFYcmRQMjZ4NzY0Y01DMnRoY29Fa2EwUzZIMkR5SGlBdldTOFpVZ01IbzdlMTEw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "HUBG",
-      "name": "Hub Group, Inc.",
-      "price": 51.41,
-      "change_pct": 7.55,
-      "change": 3.61,
-      "volume": 1501928,
-      "name_zh": "",
-      "spark": [
-        50.47,
-        50.03,
-        50.535,
-        50.56,
-        50.96,
-        50.61,
-        50.785,
-        50.77,
-        50.74,
-        50.67,
-        50.74,
-        50.53,
-        50.795,
-        50.68,
-        51.0,
-        50.99,
-        50.93,
-        50.67,
-        50.575,
-        50.46,
-        50.86,
-        51.17,
-        51.35,
-        51.465,
-        51.12,
-        51.21
-      ],
-      "news": [
-        {
-          "title": "What's Driving Hub Group's Recent Volatility Ahead of Earnings - Kavout | AI",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjUzdW1Oa2FxcW8zMHNnUmZOQ09tRmN5RlVnWVJrdGNFUzlCaEp2TTBKSV9FcnJMVkttZFI1bTNNVjB1bWwxU0VfaS1UWmZyYU04SWlZU3VjU2ZzRWJ5M2hCRXY2MTJlMWdfQ3NDbEJZc1RwelBiZUQ1V3c0bU9Kc2lRQnRaeDdja1dwVTltRWlaYm44V1Q0ZEZ0akc1dw?oc=5"
-        },
-        {
-          "title": "Hub Group (HUBG) Faces Securities Fraud Lawsuit Over Accounting Errors - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlqYXp5WHVtc1pGRmxQQm9CRlRjZDFWc1ROaW5oWU5JaU1pZXUwUE5Sa2I3dkVreDZZN211TzRBMWlzZ0VCb3JIZXctVUxHSVJTU0Z4bmk2WWIzaGpGWHRFS3YxZnlQWDEwUU9pOHlKRXdjQTlZbENSNXNLNEZzb3NnbnVXcUkzanVkWURrUjQzUlhFN0V6TmlzNHd0dG4wdzFWYUwzLThnMXM?oc=5"
-        },
-        {
-          "title": "SHAREHOLDER ALERT Bernstein Liebhard LLP Announces A - GlobeNewswire",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZVVVQ1VNeThDNzNXODFqMjlvaXY1czFLYWlzWm5Yb3NLQmh4Z1BGcml1Q3NGLXE2M0s0NXRiYmNiaU5XTFV6ZGdtbU92aTdfcWRqM25OVkpBNmJqd2FGX2Z2UzFMN0pYdGF6LVVlMmxfM0pVZEZqNzNMMVJlZS1tZkhvZnl4X0NxTVN3NTNOSURtSjlFdnpkVWZGVXJlam51a2hvLTRxdmYxTU5qN0ZkdmdzSmhvVkVtbWVNTktQejN6STI2QnZXTzA1bzR2bHNKQU5FU01GZ2FVVlowWkpzc0s3eXl6czN3Z2p3MXQyTjRSNzBUMHlTVTgzOGRZbGRqQlU0REoyV05jNDZSWldjZGNiRGFZVmZNTTNVRU8zTUNjREdKdEtJRVBBMng?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWRCeFdTLXdBVlN0T1ZQTDlVM1ZoMUwwdUVCU1BURHkxTFRDTndkUV9FNzBSZ002MTVadjdEakEwa0dkUERuRUFFTFExSlNza05JZkc0V3hhRWJDUGFZSmhvSmYzR0F6OHVqTmlJYklqZV85OTJQZ2FXdFp5MngxTXR0TjdmaVEyN0w2Mk9UdDdyNExLeXBOUG1UQVNaOWNQLVJxbm5uQkY1VVdZclpOU1RKQnBraG5iRzdTblk3UTgxZw?oc=5"
         }
       ]
     }
   ],
   "us_losers": [
-    {
-      "symbol": "CHRN",
-      "name": "ChronoScale Holdings Corporatio",
-      "price": 25.71,
-      "change_pct": -13.23,
-      "change": -3.92,
-      "volume": 704364,
-      "name_zh": "",
-      "spark": [
-        26.065,
-        25.8787,
-        23.59,
-        24.88,
-        24.985,
-        23.49,
-        24.062,
-        23.78,
-        24.44,
-        23.805,
-        24.12,
-        23.97,
-        24.4317,
-        24.13,
-        24.08,
-        24.11,
-        24.81,
-        24.5,
-        23.54,
-        24.5,
-        24.6,
-        24.48,
-        24.5,
-        24.095,
-        24.375,
-        25.615
-      ],
-      "news": [
-        {
-          "title": "ChronoScale (CHRN) Experiences Significant Decline - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanMzSTJmWjNXN0RUaVZaYkZfaFVUbkJZa0xkSVRCU3F4WXJPbG1hM19vNE9nMVZhQzUyVE5wbHhyMllLTUM2UFE2RGxzVFJoN3A0SHJhTjQyVjRheXZaRk9KMWdGQjl3eVhsand4MDREQzh5bkU1Ym1aQ1p5SW1pbWFFR1VZY2hqMng0WllBa0s?oc=5"
-        },
-        {
-          "title": "Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company - Applied Digital Corporation (APLD)",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlTSGNVNlM3d0VsQ3hZMmpJUzhhb1E4Y3FETHRvYVVOVlBHenVJcXVwYWhmRDdvM256UG1POXl1aTczUkM3bGprNFlWVFZlUkpRN1FHdUV3cVV4LWN4cFJqRFZHMXhYd3liRkhZMkFrMlVaN09TajRKN3Fzb1c3anFTU1RiQVBDTkRBRFRacXlrd01LWl8yd3F0RHNUTkNSYVFEdXJOUFBpM1JUazR4RFlFRmxKV0lvUER1Z044bw?oc=5"
-        },
-        {
-          "title": "10 Information Technology Stocks Moving In Thursday's Intraday Session - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2VHNmRZMFFTRXdzYlBsVG84VmxjdlpHVFR5ZFo2aUw3YWhZaHRVbjBDc09GMTFZeXgwekFzRWZPWkgyZjZuQnlMRU5rcFBOQjdLV0Q4eldqQ3FOMncwa2RiX1daUHFIcVV3Qk05S3ZubE9VV0VRc2JMNnRIeDM3Mmotd2hmYU9JZlFpNVRhS1lKVmNpVGo5XzN4dV9rLVYxRUk5ZVZFUFVSX0VPcjBLTzRlcFZScjZnQW1JRUdzaXlSMEFfVnhV?oc=5"
-        }
-      ]
-    },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc.",
@@ -647,6 +593,60 @@
           "title": "AST SpaceMobile, Inc. Stock 12‑Month Price Target Raised to $86.82, Implies 31% Upside - TradingView",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3ZfYmtRLXEyejFScXBjbGZ6QVBuT3JrLUhjQktlR0hoOEZyX3k0d2dtRmNReHpWeFBXSDI2RHNKbTZ0c3llQ25XQUx6dVdYN2RBNlRTaFZzUDF3TzVqSzB1T1hVWENPTW9ybExxaG1ONE9FRUZGbHhlTGtFUlU2QUJETmRqcXZVeUtpSzdYV1lZckczb0tMa1lvVnQweEZia1VlN2ZVbTVKTndFZGtYRWFfbWd5TjFvekRBZkhQYWM1NW4wX2psSGlaWWNNR3ZTTlBuSzR3MV80NDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MXL",
+      "name": "MaxLinear, Inc",
+      "price": 74.4,
+      "change_pct": -16.25,
+      "change": -14.44,
+      "volume": 3816956,
+      "name_zh": "",
+      "spark": [
+        82.015,
+        82.13,
+        82.6,
+        83.2,
+        81.92,
+        81.68,
+        81.118,
+        80.16,
+        80.28,
+        79.9023,
+        79.71,
+        78.93,
+        78.42,
+        78.0,
+        77.71,
+        76.33,
+        75.5725,
+        75.7101,
+        75.58,
+        75.74,
+        75.93,
+        75.47,
+        75.025,
+        74.83,
+        74.6,
+        74.04
+      ],
+      "news": [
+        {
+          "title": "MaxLinear slumped 16%, extending a two-week slide (MXL:NASDAQ) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnY1cV81YzF1YzRHQWR0SUVPMTB6bjU1SGtaeVlrNzFGUVpISzE0QTVqYUxrN0JMbENoSm8yejlBTExqekhHNlR6RFNxZE9vRFJVcmFpN2RMbkVTTVdnbWlRZk1jc1p1cGhTS0RyVl9fM0Vtdk5kMmRBRXBMX3RJdGx2ZlVsRHd2eDMw?oc=5"
+        },
+        {
+          "title": "MaxLinear (MXL) Stock Looks Fairly Valued After Its Huge Run - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGZBY21rcjY2ejNPSldmY0htejF0ME1vSEx6ZEFWRjZCMVM1SjhWM3lzcmJ5NlNUUGlhc2JSWWdmQ2E5bkZ1ZXB1MjNtdnM5SVdDWENBbnFGNTJWbXYtQzVJRGVTOHVVWkxTclAzSEdvNEkzOFBmQ1BBU3cycmZpUVkzcEExd2VhV3ppTGFrMHdkZndxMU9CYU12dnFXdw?oc=5"
+        },
+        {
+          "title": "What is MaxLinear's Core Business and Market Opportunity - Kavout | AI",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlF4SlVCT2hIVE56M1dPUktlbzR1cFJzZHNjdEFheDJjSFBuNU5xS2RNcWNMTE9lb2JwTU5CRWdTWWJnWVRCeXR3bTFiczU3emU0OFdiUGE4YjFKN3JFV3VCNnlOVmJxbDlPeGJnRWxteTAzMGNhdWplUHp3V1JmeDRORF9DamVyMTFnMFV0Y3h5dkpHUVE?oc=5"
         }
       ]
     },
@@ -801,14 +801,14 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakd0VEw0WW1SalVVWkNWTml6M0k2TVVfdnJ3YWVsbXd5MDMxcFJNSXQtMUNIc2VYak9tMTY0SWNsdl9HU3hCWm9sWjRvYjRmV3lTTEVPZmVTU3A0Y05QY3B4YmVGTDIzWGFvOVRMbnNnRE9YQUxSVk1peEZ4QzdGSmFwcG5DLWpjdHBEUjBsTFhLZHIwWkR2ZVNhVkhyQUo4bS1qYVhaRUVudXgyLW1vN2lSM2dpazZaUnhF?oc=5"
         },
         {
-          "title": "MANE Stock Draws Traders As Volatility And Cash Pile Stand Out - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEtDWUU3SW9Udl9meFBhcEJkRlFWRW1SQkpMOVRfcWtlNUR0SndXejF1OXl4MkRXZFB4aFdlQXNPVTFISkVLQ1FYM3NBLW02ak1JbkxHZ19rVFlFZ0NGaDJNVld5Tzc5ZmdYWm8tamdPb2gzMmE3YUszT3huNmhDNFVLRQ?oc=5"
-        },
-        {
           "title": "Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now? - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTgwWVl3NHNkNTlOSjYxS040dHlCamdiQ2hlVVBRbFJDTUQ0TGxNNU4wcHE1QS1pR0tEeUdRQW1xbGpvMWg5eUxnOEhQaUJDUTNyNG90ZE9SbkN3emJCNDNJUjE4aDNaZXp5dW81aktYa3c4dUlONVF6WFJUbk42WlBFNnJlS0VYT1VtV2t0MUdJTzh1Mk5BVk04WEMyaXlUOXhyZ1dqZlI?oc=5"
+        },
+        {
+          "title": "MANE Stock Draws Traders As Volatility And Cash Pile Stand Out - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEtDWUU3SW9Udl9meFBhcEJkRlFWRW1SQkpMOVRfcWtlNUR0SndXejF1OXl4MkRXZFB4aFdlQXNPVTFISkVLQ1FYM3NBLW02ak1JbkxHZ19rVFlFZ0NGaDJNVld5Tzc5ZmdYWm8tamdPb2gzMmE3YUszT3huNmhDNFVLRQ?oc=5"
         }
       ]
     },
@@ -909,14 +909,14 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUMzOHFzai1YMnZhRXhUemMtR3JvQXlWMkxRNEtGVm5xcGlpM1NaZjNxdUNsME5FMVRzV2ZrcUJpaHRDaTVGc1E4S3FKcjU5QTZ2ejNFUTR2Q0wxY0xUUWRiUTZ1RDc2UzlOOUU2WXJ5STgtQzZsWHBhaGVuaW5WX0R4Y0FxT0tRRlhLcHpvS3pocGR2ei1sSlhFQQ?oc=5"
         },
         {
+          "title": "Why Is Nebius Stock Falling on Thursday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHAzSVJNOGpDLUVGZmZTdjdVcHc2RFpBWkpKMTFsdTc3RFR5UWRkNmtGSDloMkFwNFlKZHJ1bkMwZGRfaDhMRFVWNURHWnFFRE80eFEzbFVCSFZHeUhlclV2Q0Vla0FWX2FmczF4U2ZBSEw5MHpySzVld3RnbmpIODhuVjhQOEwzdTUyQlR1V2V1dm5scW0teHpVeDhCQWdySVE?oc=5"
+        },
+        {
           "title": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2 - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1aUWt4TEtfR05qb3ZpN2RmeG9ReFhuVDVSSkd0TS1QUUx3Sm1Da3Z3YmhtT2M4SEJsVW14c05Od3lvanNlNUFsdGh1T0pZeWNyeWQ0TW1hVUZEQmlmbXViMDVXd0RnanBGZGQzMk9ZZ1ZnQi1Fb0lhYnZQOG9rOGZJMFJTVlZWaENlalBWWjdyTzlkandFUVVsdlBaejUyOGc?oc=5"
-        },
-        {
-          "title": "NBIS Stock Rides AI Infrastructure Wave To Soar 600% In A Year — Analysts Say Nebius Presents A 'Huge Opportunity' - Stocktwits",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2FNY3hHVFNQNnRiSm1yRjlhS2djb0hjVTdiV2RIbEJ0YnR5cmg2eUZFTjA3bHJuQ2Uyald5ZndWUkRUSEUybjBFb2JwQ29hc2IxUE1zUzVOd192a3RLd2FUMTJpZ2ttXzJOeXBWeU1zcnBGX3VfbGRWSVpScDhhN2YwZ3M4cXl2dThaSnRwZEFzbG1HMVRoNmowX0ZBamNIUFBIcVlwejBJUWdjVG14dWdyVEVnQk5fOFlkWlpNblJycDA2TjI4QTFySTkyd0ZiXzRqdXl4M2pXZw?oc=5"
         }
       ]
     },
@@ -975,110 +975,110 @@
       ]
     },
     {
-      "symbol": "IQMX",
-      "name": "IQM Quantum Computers Oyj",
-      "price": 10.62,
-      "change_pct": -12.88,
-      "change": -1.57,
-      "volume": 495932,
+      "symbol": "SKHY",
+      "name": "SK hynix Inc.",
+      "price": 152.31,
+      "change_pct": -13.69,
+      "change": -24.15,
+      "volume": 53469898,
       "name_zh": "",
       "spark": [
-        11.95,
-        11.805,
-        11.75,
-        11.95,
-        11.75,
-        11.5,
-        11.435,
-        11.455,
-        11.31,
-        11.0,
-        10.85,
-        10.92,
-        10.84,
-        10.8,
-        10.875,
-        10.8099,
-        10.85,
-        10.765,
-        10.77,
-        10.845,
-        10.865,
-        10.865,
-        10.845,
-        10.7786,
-        10.77,
-        10.72
+        167.2971,
+        161.735,
+        164.44,
+        164.85,
+        163.335,
+        161.9,
+        161.707,
+        160.42,
+        163.14,
+        160.865,
+        162.76,
+        161.02,
+        160.61,
+        159.635,
+        159.24,
+        157.09,
+        156.6,
+        155.19,
+        155.8699,
+        156.74,
+        156.86,
+        156.4299,
+        156.77,
+        155.78,
+        156.16,
+        155.965
       ],
       "news": [
         {
-          "title": "Kreos Uses IQM Warrants to Receive 577,237 New Shares - Stock Titan",
+          "title": "SK hynix (NASDAQ:SKHY) Shares Gap Down - Here's What Happened - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORXBXUGVmLUY3ZWZEMTFQMDVLMEJpN3ZtcjRCeFFtVVVuZkdINHAzT1gyWS1JVnZCNFRhaVoxaUh4QVJMU0Z5b0MxcjktS1ZMNkxPVG4zVVIzdlR0aXhIMGxtclNFRzB3YU1BczZzZG9QUG16VlhUMGxhdk1sbmUtdm5STHY3d2k1cmtCa2d3d1pueHBFUlQxb09pVmZMeDdfZFRiR0RhVHd5b011eVdsbkU5eDJOam16WXVIY0FHUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREZ4TnUySU15bWtKMXREUnlJQ2Y4N3ZORVBOLTR1OFNoMFNYNG1wbDBEaWc1RWVyeEVLQWJuMFpSV0NET1M2NW4yVU5KbVZSbjVidlZVS1N5TGdpRFhzTHBSb0diU1VtbkFuSlREbWZ1aXh4SzRVZGY4STQ2Y0VvYlVDVnp3MVFYQ1VORTU0NDUxajY2TE1WLTlRbjViSGgyYmR5bFFSXzVJaGhJWlE?oc=5"
         },
         {
-          "title": "IQM Quantum Computers Oyj : Plc's new shares subscribed for with warrants have been registered with the Finnish Trade Register - marketscreener.com",
+          "title": "Why SK Hynix Stock Just Crashed - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2V0UUtJR01WUnh2RnRKM19MR0dOVjR5TUtRblRTb29ralNmMkRCQVo3bVZtX2ZfRU9qb2FDY29QdGFWSTFnTGlvNmNfajBCRXJBbXJSOU1sUEc4TFlOVFNuVndqNEd5ZEZJdE93M3lrdEZDWlQzcGpDcnFXWkhYRTRPSEpPci16cUlubEtMWER6RktCSVQ3a1o3Wk5LNjh1TU1jOXh4NEc0R1BuZF9NTGpubm5oX1g0TGtBQjl2QVIteDZmaUR0dXFxUWQ5S3VteThXS2M2blh4TWM1ZzdxdjByTmI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXRrVVNaalZFQTU2ZXBtd1F2LXdTcW1OeEpsUjViVnBmWUpCcmVqc2lVQ18yUjFIRDdxTmZxcFBmWk80LXRyVVgwN0JJbHFWNnNoZUU4WlpyTjRQUmkyeVh6ZG16aVRCWEZ3Qjg1bzlJYjJDZl9hUHFJQWhlLWxpWXUyNFpiRE9BTkxWem9OSXlKQQ?oc=5"
         },
         {
-          "title": "IQM Quantum Computers Oyj (NasdaqGS:IQMX) Draws Valuation Attention, Is The Recent Pullback A Bargain? - Yahoo Finance",
+          "title": "SK Hynix: ADRs Begin Trading Under New Ticker - Morningstar",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzZVZVBKLW16TUNVMjVCY0hNN3h4LXk3WDl0LXg4eExXTDFZS1B4bkZtZHcxWG5uY2E4ZVZmbEFHRGxjc0NTMFFVQzA2dTBoVnFtQTk4eWt4YjN6eEpWS2VRLXhhdTUzSkt4WTFDRGpnQ0hjNXNfYWNkN1lfam0xb3czTUJERjNSVWh0NkZqN2Q4V0FSMlVvQXVVRDJ1OUFM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWY4cEFFWFFCRGZzbWpCRDRaanQ3T25mTlpGXzRXdXEzZGlIZlJucWhCRUt4VGpmZWpTREd1Um5odDlFZ3ZQcElHQkFxQnlGZUhoOF9jT090b19jV2s0WkRKenFOTXBCa1Q2b1VPZkdGTGw4MXdiMVVROHNtOG1LRUJCS3Voc2oxOEF6LWY5dndXQQ?oc=5"
         }
       ]
     },
     {
-      "symbol": "RKLB",
-      "name": "Rocket Lab Corporation",
-      "price": 67.35,
-      "change_pct": -11.61,
-      "change": -8.85,
-      "volume": 30587851,
+      "symbol": "CHRN",
+      "name": "ChronoScale Holdings Corporatio",
+      "price": 25.71,
+      "change_pct": -13.23,
+      "change": -3.92,
+      "volume": 704364,
       "name_zh": "",
       "spark": [
-        72.6,
-        69.505,
-        69.42,
-        69.9399,
-        69.165,
-        68.84,
-        68.4901,
-        68.335,
-        68.22,
-        67.5,
-        66.91,
-        66.55,
-        66.775,
-        66.52,
-        67.17,
-        67.05,
-        66.98,
-        66.8309,
-        66.7646,
-        66.965,
-        66.93,
-        67.29,
-        67.27,
-        67.17,
-        66.97,
-        66.81
+        26.065,
+        25.8787,
+        23.59,
+        24.88,
+        24.985,
+        23.49,
+        24.062,
+        23.78,
+        24.44,
+        23.805,
+        24.12,
+        23.97,
+        24.4317,
+        24.13,
+        24.08,
+        24.11,
+        24.81,
+        24.5,
+        23.54,
+        24.5,
+        24.6,
+        24.48,
+        24.5,
+        24.095,
+        24.375,
+        25.615
       ],
       "news": [
         {
-          "title": "Why Rocket Lab Stock Is Losing Altitude Today - Yahoo Finance",
+          "title": "ChronoScale (CHRN) Experiences Significant Decline - GuruFocus",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzBuRUw1WjhMbHRkc0QxQVZvbzJuejNoSVNOWnBYRklkUXJWR2hRM0ZFUXVPZkhTYzBBdjBNeUV5SGRKS1dLSi1LZG9MU0Z1TkUxTm4yUEZTN1BLNzZKbFpWOTBBVlY3WWREN2NmalBBelJod2JiTGtJSUNmUEp5NDlWLVhxY3lxSms3c0pIbzVYVkVHRkFF?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanMzSTJmWjNXN0RUaVZaYkZfaFVUbkJZa0xkSVRCU3F4WXJPbG1hM19vNE9nMVZhQzUyVE5wbHhyMllLTUM2UFE2RGxzVFJoN3A0SHJhTjQyVjRheXZaRk9KMWdGQjl3eVhsand4MDREQzh5bkU1Ym1aQ1p5SW1pbWFFR1VZY2hqMng0WllBa0s?oc=5"
         },
         {
-          "title": "Why Rocket Lab (RKLB) Shares Are Plunging Today - StockStory",
+          "title": "Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company - Applied Digital Corporation (APLD)",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazQxSlFzSFNWZG1Yd2FUMzU2STdQR3JxN0dRN1dFMEJpX001Umh2a0ZzYlhsdTVFUEo1cU1OYUdWTlVFMEZIMWFqNFlJdlNPZ0d5ek9JbU9xZ21uXzNMcE9rRjAzeFhiNk1faGEtTWx6aTNjb0oyaGttZ1FaT0x4cHQyUFNOYkdINjRxTy1QbmpzYnJobEMycFp4Mk9HRkhzOW9oRFJ1dmxGUEU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlTSGNVNlM3d0VsQ3hZMmpJUzhhb1E4Y3FETHRvYVVOVlBHenVJcXVwYWhmRDdvM256UG1POXl1aTczUkM3bGprNFlWVFZlUkpRN1FHdUV3cVV4LWN4cFJqRFZHMXhYd3liRkhZMkFrMlVaN09TajRKN3Fzb1c3anFTU1RiQVBDTkRBRFRacXlrd01LWl8yd3F0RHNUTkNSYVFEdXJOUFBpM1JUazR4RFlFRmxKV0lvUER1Z044bw?oc=5"
         },
         {
-          "title": "Rocket Lab stock (NASDAQ:RKLB) slides to merger collar despite Neutron test - TechStock²",
+          "title": "10 Information Technology Stocks Moving In Thursday's Intraday Session - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXRqTll2NnRvcUxVREtJWkVjY1Z5V1Q5akJsRHdydEx2VmFmZU94QWo0cVZOOUdCZTVBazFzd3J3N3VrUzBTeHU1emVuSGVCZkhhNl84MzlMV2Fubi0yTUFHbzJuczk4dF9WekVGN2JoaTJhUXRDYzN4VEhQaExJZWtCcm02a3VNeW52Sm1JUUJDdUdkdHkxMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2VHNmRZMFFTRXdzYlBsVG84VmxjdlpHVFR5ZFo2aUw3YWhZaHRVbjBDc09GMTFZeXgwekFzRWZPWkgyZjZuQnlMRU5rcFBOQjdLV0Q4eldqQ3FOMncwa2RiX1daUHFIcVV3Qk05S3ZubE9VV0VRc2JMNnRIeDM3Mmotd2hmYU9JZlFpNVRhS1lKVmNpVGo5XzN4dV9rLVYxRUk5ZVZFUFVSX0VPcjBLTzRlcFZScjZnQW1JRUdzaXlSMEFfVnhV?oc=5"
         }
       ]
     }
