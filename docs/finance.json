@@ -1,5 +1,155 @@
 [
   {
+    "id": "8aa316eebd31e6c2",
+    "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+    "title_zh": "",
+    "text": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+    "date": "Sat, 25 Jul 2026 08:49:00 GMT",
+    "fetched_at": "2026-07-25T11:21:10.132741+00:00"
+  },
+  {
+    "id": "099cbd30b40ec913",
+    "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+    "title_zh": "",
+    "text": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+    "date": "Sat, 25 Jul 2026 10:22:58 GMT",
+    "fetched_at": "2026-07-25T11:21:10.933815+00:00"
+  },
+  {
+    "id": "d69ee32831823936",
+    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "title_zh": "",
+    "text": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+    "date": "Thu, 23 Jul 2026 17:10:06 GMT",
+    "fetched_at": "2026-07-25T11:21:11.734926+00:00"
+  },
+  {
+    "id": "3123a7b3e26c7c42",
+    "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+    "title_zh": "",
+    "text": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+    "date": "Fri, 24 Jul 2026 21:24:09 GMT",
+    "fetched_at": "2026-07-25T11:21:12.536010+00:00"
+  },
+  {
+    "id": "b3cc72fef0222f4b",
+    "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+    "title_zh": "",
+    "text": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+    "date": "Fri, 24 Jul 2026 21:57:01 GMT",
+    "fetched_at": "2026-07-25T11:21:13.337090+00:00"
+  },
+  {
+    "id": "1111a4588c130cb3",
+    "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+    "title_zh": "",
+    "text": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+    "date": "Fri, 24 Jul 2026 18:48:10 GMT",
+    "fetched_at": "2026-07-25T11:21:14.138217+00:00"
+  },
+  {
+    "id": "f562a840a20c02c5",
+    "title": "Bond market anxiety is growing over AI capex budgets",
+    "title_zh": "",
+    "text": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+    "date": "Fri, 24 Jul 2026 20:07:36 GMT",
+    "fetched_at": "2026-07-25T11:21:14.939375+00:00"
+  },
+  {
+    "id": "50e687291c2a2760",
+    "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+    "title_zh": "",
+    "text": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+    "date": "Tue, 21 Jul 2026 14:37:08 GMT",
+    "fetched_at": "2026-07-25T11:21:15.740479+00:00"
+  },
+  {
+    "id": "d32cb26740331433",
+    "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
+    "title_zh": "",
+    "text": "A prolonged blockage of the Strait of Hormuz for the next six to 12 months will mean an unavoidable recession, the billionaire investor said.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
+    "date": "Tue, 14 Apr 2026 16:04:48 GMT",
+    "fetched_at": "2026-07-25T11:21:16.541583+00:00"
+  },
+  {
+    "id": "6048a95b05d8e3b1",
+    "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+    "title_zh": "",
+    "text": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+    "date": "Tue, 14 Apr 2026 16:03:43 GMT",
+    "fetched_at": "2026-07-25T11:21:17.342694+00:00"
+  },
+  {
+    "id": "6e6241dc7b7465f8",
+    "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
+    "title_zh": "",
+    "text": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
+    "date": "Tue, 31 Mar 2026 15:31:12 GMT",
+    "fetched_at": "2026-07-25T11:21:18.143801+00:00"
+  },
+  {
+    "id": "cf02ab7f408bc73e",
+    "title": "Investors are in the dark about the Fed’s decision this week — and that’s just how Warsh wants it",
+    "title_zh": "",
+    "text": "Will Kevin Warsh support a rate hike? Fasten your seat belts for the decision on Wednesday.",
+    "zh": "",
+    "link": "https://www.marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
+    "date": "Sat, 25 Jul 2026 11:00:00 GMT",
+    "fetched_at": "2026-07-25T11:21:18.944920+00:00"
+  },
+  {
+    "id": "16c71782304d1df6",
+    "title": "If you're surprised by how well the stock market is doing, so is Jamie Dimon - Fortune",
+    "title_zh": "",
+    "text": "If you're surprised by how well the stock market is doing, so is Jamie Dimon Fortune",
+    "zh": "",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ05ONS1uRV9SZGFzOG5BLVZIbFpsXzdQQTlKRGU3Y29qMEtHTldXMDJBaWF2WHVnTUhpZFBrWXNnTDVyOUdoMnE1NFIyVzJmOTNCajJUQmZCWDVRUW5wX0R0VHRickpJN08yNEVNalNaVHdIenppUUFYNUg3NjFVaDMxLVVvYURiOC1kaUFrNENmUmtCREw0?oc=5",
+    "date": "Sun, 21 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-25T11:21:19.746016+00:00"
+  },
+  {
+    "id": "d28efbab4ee89a0d",
+    "title": "Emerging Market Equities: AI, China, and India in Focus - Goldman Sachs Asset Management",
+    "title_zh": "",
+    "text": "Emerging Market Equities: AI, China, and India in Focus Goldman Sachs Asset Management",
+    "zh": "",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnpkX3dIc2d6THNDUDgtckhFckxfN3JRcDIxQnB2aWJ1eFRsaW5UendFZ1FFdTFqaGNXUHQtUlVXSnY2Y3V5N1J3Tk9fZWVOeW44OVBvZ2F3OU02Nzh1WmY4akZyS251ZWE5WVZoby1sd0tuMG1JQmdxTzZkTmFTTThJZkZUS1Q2ZVZ6RFZ6SDdWNmwxRG9DbUdQNVRIbnJ3WU4tX0xUS1NjOU96cm8zWnN0MDlJUC1fQjlCSG5aUVZ0V2VIVHVVVg?oc=5",
+    "date": "Thu, 12 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-07-25T11:21:20.547092+00:00"
+  },
+  {
+    "id": "e2e74fa9ecfd7c2d",
+    "title": "Why China and the US are too entangled for a clean financial break - South China Morning Post",
+    "title_zh": "",
+    "text": "Why China and the US are too entangled for a clean financial break South China Morning Post",
+    "zh": "",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWU1CT0VwcVF0VktDbF9rVV9HTUp3YzFJbTI3VU8wUnptb000djZYSGc2TkYwMjhsTE1IYTIteG9tdjU2c2g4cHlIX0tzdE0tQVU3UGxkaWpzbFJfN2JYcXBUbGJVcjdMeS1lWnVCVXlqdDh1a3RUNklpalUybXQxeEgyQWRrME9SUFJVSUdMWDJDQUJHanIzMVYxUVFZYUFaTllObDNFWmc4al9FLS1FN0lvTmhSZTViNHZxRHJiY1gxTmJPWEHSAcYBQVVfeXFMUE5rVGtOZ3RjVXN6ZVZFZkJlMzdPRGpPMnRQWG95OGdZMG81cExCVTJsYi1tbnp6UmdLbloyYzhrSnhVNlBlYTQtUHhIOFFOSmNDY1NrQ0R0STRQUkc4MnBTLXZEeFdCMTc4WFc5THl5ZkRHNkRuNFJoYTdkNHQ2OUlxRmRPOHczRVd1UmYwOHFxMGdPdW1lYWhEUGYwdlpmMlhSUWlNRkhyX1g1N3c3cVhzUnJqanE0cTdMVTFXbzVXNmcxVk1B?oc=5",
+    "date": "Tue, 07 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-25T11:21:21.348166+00:00"
+  },
+  {
     "id": "5ae43f4babc267ae",
     "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
     "title_zh": "",
@@ -848,155 +998,5 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEWkFkRlJmUVEzOHZLelBMWDRhOEJfSnRFNmhWUE5NOHUySkJpRDdscXFmVzFWb2wxWEFKVzlFT0JlVkhTODVBLXRzZzBERDBwb2dLNnFRS0FaT2tXZTNWZmVGMWRyNjk5dFc3MUw1MVRwUUdOMHc?oc=5",
     "date": "Fri, 07 Nov 2025 08:00:00 GMT",
     "fetched_at": "2026-07-24T23:19:03.324808+00:00"
-  },
-  {
-    "id": "387500c325518195",
-    "title": "Wall Street tumbles in its worst day since April after Trump threatens more tariffs on China - PBS",
-    "title_zh": "",
-    "text": "Wall Street tumbles in its worst day since April after Trump threatens more tariffs on China PBS",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakd6TnRsZXZHM0lUZ24zdG4zcGpOUk5EajVIS192MDNwcEJqZGNoQjNCdk5DeVBRNThaNldRNlJuWnBwc2VHODFZTDhuRlZKc3FYdWhiZHZCUE82ZTUwTnlVX056ZGd5aGcwZHV3UjdHaUNvLVRRV0xDbTJaR0VlWDBOZEhoSzlfODQySWwya2dPYUNlVlVBVHB0WjZsODFudndYeFhhSmZ6c05BLUxMcTNTODhQWk9xbzN1Q25CeUdwVUloUXpmQdIBzgFBVV95cUxOektVR0lGS0dzLXNPQ2FSVFlWU1V4TktrMTZRMGlrLVl0Tl9DRmRnYVNNb2NEZ0h4STR2LThxX0NjT2VBM0J4cjdrU3pkN0tKdEE0NENtVUR0cU0tY3BiVk54V1F5VkE2SmZqbE5SRlJrVVV3SENMSGZaUVJuRy1taEczMFlVYmdKS3h1Z21JcXZmcGtpSmNxWXF5T2hLeHRoZm42U2ExeHV2cXdLd1pFWEJXcGY5QVZvVThXZkZPQm5zdlpXc2tjN2VuNU9fdw?oc=5",
-    "date": "Fri, 10 Oct 2025 07:00:00 GMT",
-    "fetched_at": "2026-07-24T23:19:04.126115+00:00"
-  },
-  {
-    "id": "64f9490c7389e95a",
-    "title": "Hong Kong stocks slide after China data shows growth running out of steam - South China Morning Post",
-    "title_zh": "",
-    "text": "Hong Kong stocks slide after China data shows growth running out of steam South China Morning Post",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0dKVU9Fd0Z2UzN6V1VCeXNWQ01aSHJmOFV5bWRkdTZPTmZ1MTFxU2tLNVY2ZXloandrUFNDOEk3ZWZHWmhRQldmcGotRnhObDF1bnJRbWlRSThBVnVSbUxWWlRIdlI3TlI1TEV1QW1CbXRSeHBjQldodEJNYTFTVkZISG1QdmJrbEFzMlBDOHRwdnZ5WUhxYkt1QWs5YXdwS3FuMTluVTF0c0hvTW5YRXJqRkR4TDZxWlpRYkdlZmRFX2RwRmw4MEl3NFN6bmEzSHI5cmRsMlDSAdgBQVVfeXFMT2pnT1AwODhjVGNpLUp0OXpucV9iSDJYQTM3S05YUWNSVWN2aUNPNVhXSEhSbkZlTkRwM3JhYXF4TnZ5SzRoMHVvS0dsbVhmY0lmYVBuNTEwTC1CVUREQ0NKZldvdUd6Sm9Sd2RySnB1ZVlyem4zaE15eGZvWVdXLVgydFFBR3FLdXRfYWtfbTdEWXUtYlJJRXZaYS1fWGtPTDg5ZFdrUmJvYnR5U0RyR0prTHNSNEdPeXpVVnRrdmIycUlUNTBwR1daRkR6dFZ1YzJPUlZkdDE5?oc=5",
-    "date": "Mon, 15 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-07-24T23:19:04.927498+00:00"
-  },
-  {
-    "id": "3d060d4a09e3f829",
-    "title": "Global markets struggle after tech sell-off and fears over Chinese economy - The Guardian",
-    "title_zh": "",
-    "text": "Global markets struggle after tech sell-off and fears over Chinese economy The Guardian",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamlzaDR5OXZoaE5vTml1Z21HMEt5anV5NFdmekV5a1AxTUhpZjBBN2I2ZlcyLW53ODl6WFEycFdISGU3SWJqcWVXZ2s2UW44cTRrOUZYY2xpcWJ6VUpydGlxMWVRdEthdHcyX1BOaEdNMVhLUjBDbHRBT3pJMXVTaXJkZEFfRFhoZjhiUldkZjhwc2lhRkNrcnJNT2FWcGYyaHB1U2toTU5id2pyeE9V?oc=5",
-    "date": "Fri, 14 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-07-24T23:19:05.728846+00:00"
-  },
-  {
-    "id": "f7b9bd415f4a01f9",
-    "title": "[Big read] When the market soars but the economy struggles: China’s stock puzzle - ThinkChina",
-    "title_zh": "",
-    "text": "[Big read] When the market soars but the economy struggles: China’s stock puzzle ThinkChina",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdko4S2Y0bUxleFZfa3JZOHptY0xseGdwYlZJd2JKTnhvd2QyOFd3V1pwUmE2a2tORG1TTHk4ZjRNVGZhMFF4YXJMaVRZZ2c1Nk16UmdJc3o3bU5GLS05cnhoRWxlUmVwRElEb3JOS3l2SHZKYXlBMkNyQVZ4VUFXNjhyTk14aWs4MUVsTTBpdENqX1N5NHBrX3E3NkhIZWs?oc=5",
-    "date": "Fri, 12 Sep 2025 07:00:00 GMT",
-    "fetched_at": "2026-07-24T23:19:06.530209+00:00"
-  },
-  {
-    "id": "8abfd7cd3b94d792",
-    "title": "Even as China’s economy suffers, stocks soar. What’s going on? - The Economist",
-    "title_zh": "",
-    "text": "Even as China’s economy suffers, stocks soar. What’s going on? The Economist",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVk2WHc5dDkzMGVzd2xkZ2pRRDFVcFJNU2N1LU5ENkR1U3paV044WkZUQ1ZNVWZCTm1mdTdpMXVjcWZkdUF3ZV9XSVpVLW5fRkxhTWVJbUYyMHlPa2hwdUNlRlRPZGF2XzlmN0Rxc3dYSU5VRW5NNWIyY2UwLVA0dHR4c2JfbmlsLVpYbVU5NnpPb3NZOUxCQklCd3NyczVnSklHSXVBZnJIUzJxX2NHZG4tWUwyb1U?oc=5",
-    "date": "Wed, 27 Aug 2025 07:00:00 GMT",
-    "fetched_at": "2026-07-24T23:19:07.331446+00:00"
-  },
-  {
-    "id": "a928cabe5716b94c",
-    "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-    "title_zh": "",
-    "text": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-    "date": "Fri, 24 Jul 2026 14:05:35 GMT",
-    "fetched_at": "2026-07-24T22:18:48.221410+00:00"
-  },
-  {
-    "id": "f4f7faaad9410656",
-    "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
-    "title_zh": "",
-    "text": "U.S. Treasury yields slid on Friday as oil prices dropped following a report that Pakistan is ​exploring a way to restart peace talks between the U.S. and Iran.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-    "date": "Fri, 24 Jul 2026 20:04:44 GMT",
-    "fetched_at": "2026-07-24T22:18:49.023007+00:00"
-  },
-  {
-    "id": "01a02141f5022ac6",
-    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
-    "title_zh": "",
-    "text": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-    "date": "Fri, 24 Jul 2026 13:09:21 GMT",
-    "fetched_at": "2026-07-24T22:18:49.824491+00:00"
-  },
-  {
-    "id": "c81ddfbe8a07af0a",
-    "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-    "title_zh": "",
-    "text": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-    "date": "Thu, 23 Jul 2026 21:09:48 GMT",
-    "fetched_at": "2026-07-24T22:18:50.625854+00:00"
-  },
-  {
-    "id": "a9647a06eb1f8c9b",
-    "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-    "title_zh": "",
-    "text": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-    "date": "Thu, 23 Jul 2026 20:45:13 GMT",
-    "fetched_at": "2026-07-24T22:18:51.427254+00:00"
-  },
-  {
-    "id": "068cdb784b18738b",
-    "title": "Berkshire shares trade lower even after Abel scores good marks at meeting, earnings jump",
-    "title_zh": "",
-    "text": "Many in the investment community were reassured by Abel's firm grasp over Berkshire's sprawling enterprise.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
-    "date": "Mon, 04 May 2026 20:03:39 GMT",
-    "fetched_at": "2026-07-24T22:18:52.228725+00:00"
-  },
-  {
-    "id": "0d2a8b7f7cedff6e",
-    "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
-    "title_zh": "",
-    "text": "“I own my home outright, have no children or other dependents.”",
-    "zh": "",
-    "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-    "date": "Fri, 24 Jul 2026 22:00:00 GMT",
-    "fetched_at": "2026-07-24T22:18:53.030196+00:00"
-  },
-  {
-    "id": "99581ea99edfec52",
-    "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-    "title_zh": "",
-    "text": "Your answer to this viral poll question probably says a lot about the state of your finances.",
-    "zh": "",
-    "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
-    "date": "Fri, 24 Jul 2026 21:48:00 GMT",
-    "fetched_at": "2026-07-24T22:18:53.831625+00:00"
-  },
-  {
-    "id": "2beb83def26575fd",
-    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    "title_zh": "",
-    "text": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-    "zh": "",
-    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-    "date": "Fri, 24 Jul 2026 21:45:00 GMT",
-    "fetched_at": "2026-07-24T22:18:54.633187+00:00"
-  },
-  {
-    "id": "1740c7917cc335a5",
-    "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-    "title_zh": "",
-    "text": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-    "zh": "",
-    "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-    "date": "Fri, 24 Jul 2026 21:21:00 GMT",
-    "fetched_at": "2026-07-24T22:18:55.434695+00:00"
   }
 ]
