@@ -1,67 +1,13 @@
 {
-  "updated_at": "2026-07-30T19:52:00.163685+00:00",
+  "updated_at": "2026-07-30T20:52:47.583826+00:00",
   "us_gainers": [
-    {
-      "symbol": "MKTX",
-      "name": "MarketAxess Holdings, Inc.",
-      "price": 162.66,
-      "change_pct": 29.37,
-      "change": 36.93,
-      "volume": 8711261,
-      "name_zh": "",
-      "spark": [
-        163.66,
-        163.22,
-        163.15,
-        163.185,
-        163.065,
-        162.925,
-        163.14,
-        163.105,
-        163.125,
-        163.15,
-        163.02,
-        162.95,
-        162.925,
-        163.0,
-        163.04,
-        162.94,
-        162.78,
-        162.795,
-        162.45,
-        162.715,
-        162.65,
-        162.66,
-        162.79,
-        162.595,
-        162.82,
-        162.73
-      ],
-      "news": [
-        {
-          "title": "ICE to buy MarketAxess in $5.7 billion deal to expand fixed-income offerings - CNBC",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1REX2dZMkpvc3dFdDRnRjNDUTkwSDhQNkg5YVlOM3Q3N1duUkJqSHhUQm1ScTFlV3BGTC1pV2kzUnpVVFYyczh4WGkyaFZGRXdreXFwdEtsUGZWNHdZdjAtSU5SOExKbDFYT21DdGh5NlQyMzhxcGNKb1YtcXBKc3FldTNfdjhQ0gGOAUFVX3lxTFBza1pSVjhmTzFPcWp0VDQ0NkdoVjZpd0s1eHlRVDB0dkhLS3R1M2pnNWtZWFdRaUlSUURfYV9QSFVhOUFUemdFUjUtRU80OEdQazhLTGxzR1ZnU3Vfei0yQTlmYTZfWmM0SXV4NDJFcFlnVFdrQjFXUTJ2Wjk0TnFqVmZJUmNHRFppOF92d0E?oc=5"
-        },
-        {
-          "title": "MarketAxess Holdings, Inc. Stock 12‑Month Price Target Cut to $138.4, Implies 10% Upside - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRVVzlMVDhlQzBVYjdTUmdXVmhBdHFoNXRhZGFGTUNEcDBrSndZRWdGQUtENmZ5N255Z1dOakYyNVp1N0g2WjJzMTk3NnhWbFZ4a2tRZ2NuNlZyM05UYi1hT1R5TGI2UDhpR3NUQ05JR1VXV2VIN3l2MXpLU29QbkFSR2dyRHB0bzVDa0Rtd3AxNDQ3bmlnazA1OVNDTl92d1ZlTXNZOU5WQWNiSmkxTjZVOVluT0lvVEk1bHFSSHZyeUZVU3Q0eHFiTV90ZlZnT3dVM2cxOHNla3BKdXc?oc=5"
-        },
-        {
-          "title": "MarketAxess MKTX Stock Jumps As Record Volumes Meet Mixed Wall Street Views - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbU9pUnpBbzFUYVN4UkJjR1NCNndoWTFEdHAwdkRXVjZnZFB4T1V2QlE0Z1ZLQU96aVI1YjhJVDRxa012NEE1ZTdacG5NVEVtOWY4NjlveTFGNW40czMxMW9xUXlsNkdvVEJsSUhHUWl5R0JSbzQ0aE1LRGkzWUtCR0xrOGR4dw?oc=5"
-        }
-      ]
-    },
     {
       "symbol": "FRVO",
       "name": "Fervo Energy Company",
-      "price": 22.01,
-      "change_pct": 28.86,
-      "change": 4.93,
-      "volume": 3689065,
+      "price": 22.3,
+      "change_pct": 30.56,
+      "change": 5.22,
+      "volume": 4792992,
       "name_zh": "",
       "spark": [
         19.38,
@@ -110,174 +56,12 @@
       ]
     },
     {
-      "symbol": "BHC",
-      "name": "Bausch Health Companies Inc.",
-      "price": 6.0,
-      "change_pct": 28.21,
-      "change": 1.32,
-      "volume": 16481328,
-      "name_zh": "",
-      "spark": [
-        5.36,
-        5.65,
-        5.845,
-        5.969,
-        5.97,
-        6.011,
-        6.035,
-        5.915,
-        5.955,
-        5.95,
-        5.945,
-        5.855,
-        5.87,
-        5.905,
-        5.875,
-        5.895,
-        5.965,
-        5.98,
-        5.9799,
-        5.97,
-        5.955,
-        5.95,
-        6.005,
-        5.975,
-        5.96,
-        5.9911
-      ],
-      "news": [
-        {
-          "title": "Bausch Health stock gains after Q2 2026 beat (BHC:NYSE) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWV9zX0VGcFozLTB0N0NRYmRVM0ZhdEgyX0ZsLTlSZGVZZVpTaFJERm4zbkdoVy1hOVRmYzZsa29VUTFwV0NMMjlUNnpnUmZ0cW1XZGlBdE91QzlpZlVZQUsxYWFIUG5SSUFjWW94M0pvdWNIa01vcHZWTnExXzdUY2R3?oc=5"
-        },
-        {
-          "title": "BHC|Bausch Health Companies Inc|Price:4.685|Chg%:+0.165 - TradingKey",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaDFvN29fRTdLZWlJam1XckVONXc5UHFnVS1JQTdhaEkwOFlILUZPLTNtbkY2aGd1SXhQaXFKX0FZdDFockJEZFJsa1dTOGVaM3JwUHZnWFNqU1V5V3o0eG1vRHpSNVlKcTVWeQ?oc=5"
-        },
-        {
-          "title": "12 Health Care Stocks Moving In Thursday's Intraday Session - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOem5fSFk0a0hOTFBuSUZOaFFCY0hwdzBNamQtcGFWbEVKdXFJdVhYMThUTW40TzI5WlZfUHd4MDR5MjUyRTJfUWktZENMb2owY1NyLVQ0eEFsbC0xamYwSGVFbi00ZkNoSDctQWctQ1VCOFR5bW83YlNoNF9idm5QQVRabW9iZUZWNDFBR2k4ellXaHNuQ0N1dkRMVVJBcGlLd3hqeWxsbmJhSjE5ODM2YTZUYlBqVmtr?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy Corporation",
-      "price": 208.27,
-      "change_pct": 27.19,
-      "change": 44.52,
-      "volume": 30360258,
-      "name_zh": "",
-      "spark": [
-        197.87,
-        208.68,
-        210.29,
-        210.74,
-        213.645,
-        209.32,
-        209.14,
-        204.255,
-        205.1999,
-        205.63,
-        208.22,
-        207.465,
-        206.13,
-        205.865,
-        205.31,
-        206.96,
-        205.3271,
-        205.66,
-        203.355,
-        200.8,
-        205.51,
-        205.54,
-        205.57,
-        209.635,
-        210.67,
-        209.5
-      ],
-      "news": [
-        {
-          "title": "Is Bloom Energy Corp a Buy After Its Latest Earnings Report? - The Motley Fool",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmxTMURfNEFGUmFYR2hzWEs0VV9FNHdpVEQtRHdJQ2xmOEJPLUtqemhpSXcyVnNuZlZZdUp0MmhlUk5GdGVTRUZJaVpYbUc0MVhnSGhHQ001VjNGaEVXMXZ4VUEtT09CMEduSlBDTWQ0TXY2Qlp4b1hFRERPa1ZLVlJlc0xCWkppbWEyakFJZ0FiYzlFTnhLUmFCUjVnZG1URWZ3TA?oc=5"
-        },
-        {
-          "title": "Bloom Energy Corporation Stock 12‑Month Price Target Cut to $285.33, Implies 71% Upside - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0JfeDhSUC1adFljMFE3bVVVNTRNRmJGc01rR0VVN1psMV9EMWUxSUlLWjhWc2ZfbThCRGNNeHVaOGFacUpDdzQxU2g1V0tOYng0NVd1R21uYVlxNGd0VUowdDcxdnQyenZQMzhjc3UzblFFb3ptTDYwX2xYenpGZE9OX1ZDcHhseHlMYzhoOTE0Y3VfOV9zMHVzMWJKcEdPMHJtQlZyUGRfbzV6SUxac0RwckVkNXYxandXZnZ5eWhYRFhtVFhObWdraV9EVkpDY1RSdXdQSDhxTmREdUtV?oc=5"
-        },
-        {
-          "title": "Bloom Energy Stock Gains Ahead of Earnings - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0ZEZnRuNmd4c1huOWZDU1dNQ0VpbkJ2eF83N2d4QjVvaTJxaVVzRTQ3WVBRZjFBWE80a3luTFRCWWFoOF9IbjRtUkx5QnMyRjE5RW9EeUhzaXNtcmt5X0tRQ0ZTcUZKZlp2al9XOTVJbVJHVEFGNHlGaE5XaURPZE8yUkZGa3lac295cUw1aWxVVXA0YW9ablZPMUVQRzcxRzNjY3V3?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "price": 22.63,
-      "change_pct": 27.96,
-      "change": 4.94,
-      "volume": 30838386,
-      "name_zh": "",
-      "spark": [
-        20.94,
-        22.2,
-        22.15,
-        22.2,
-        22.41,
-        22.195,
-        22.308,
-        22.23,
-        22.24,
-        22.26,
-        22.46,
-        22.655,
-        22.4,
-        22.4601,
-        22.535,
-        22.61,
-        22.525,
-        22.65,
-        22.525,
-        22.365,
-        22.555,
-        22.615,
-        22.755,
-        22.86,
-        22.685,
-        22.655
-      ],
-      "news": [
-        {
-          "title": "Cipher Digital jumps 25.7% as AI infrastructure names rebound ahead of its August update - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDhlSUl4WDdtemRoc2xUS0pHdERfYktUZ0VwcUFJTGdKWTZnc2ZMaGlYNnRUS3YydWlCRDVyUF9FRzUyZ1FuNFpjR3FBcG5KZG0tZkVIU0ZYNmxDamlVVWZMRS1VdnpEeGo0aUxyOUREcy04WHZXZ2lKT3FfR0M5WFRVTUJ5RnVMRkZBemtCZUo5Um9iNktzbDMwb0ZPbEdzME9PY3VPOXVWVkhGWmxMNTJadGY4SWlGT3VuNFZoczM?oc=5"
-        },
-        {
-          "title": "Cipher Digital Inc. (CIFR) Declines More Than Market: Some Information for Investors - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnpMYnFIZVJ2QUlsRTFYejdGLTlLN0s5RGdCb1hCN3o3cUMzVEEwMmhlVnNUWTFkOXpZX1pmMmIwZzA0VkRyNk9GOGR2blY4ekhwUzRRcFhfR0hRYTFkSU0tdERwcFgtWTBGLU5yeUxyTmVHSm4xYXJoUy1uZ0dubkxiNGNHREEydU1NTG8zRWQzZHpWVE5SYzBqWTh6UQ?oc=5"
-        },
-        {
-          "title": "Cipher Digital Stock Is Falling Today: What's Going On? - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjMwSHNtMDJhTVJNWk5jcHV0YUpjbjg0aTZuRHdxUzZlbldoRVUxNU1CMVFXdGZhS1J4bk12Q3JsZ2ZWYXNBaUFOanhWdWJSby12RjFod0ZhZnI1NEZOYkpjTmtiUHYtT242cThMQTNxcUF0c1BjWmEwRmVfRjU2Q05UU2tPOU1VaDBkdTZPMWJKX2tBMjZfSnduT016UUpER1B6MG1IeVlhRnZ4MTdrWkJGOA?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "IREN",
       "name": "IREN LIMITED",
-      "price": 37.55,
-      "change_pct": 28.13,
-      "change": 8.25,
-      "volume": 60476142,
+      "price": 38.26,
+      "change_pct": 30.54,
+      "change": 8.95,
+      "volume": 71480522,
       "name_zh": "",
       "spark": [
         33.92,
@@ -326,66 +110,174 @@
       ]
     },
     {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 46.7,
-      "change_pct": 26.32,
-      "change": 9.73,
-      "volume": 12200221,
+      "symbol": "MKTX",
+      "name": "MarketAxess Holdings, Inc.",
+      "price": 162.76,
+      "change_pct": 29.45,
+      "change": 37.03,
+      "volume": 9412813,
       "name_zh": "",
       "spark": [
-        43.13,
-        44.1111,
-        43.97,
-        43.92,
-        45.04,
-        44.85,
-        45.22,
-        44.92,
-        45.2337,
-        45.34,
-        45.33,
-        45.42,
-        45.1,
-        45.1099,
-        45.2895,
-        45.8599,
-        46.77,
-        47.32,
-        47.11,
-        47.53,
-        48.085,
-        47.29,
-        46.42,
-        47.15,
-        46.98,
-        47.09
+        163.66,
+        163.22,
+        163.15,
+        163.185,
+        163.065,
+        162.925,
+        163.14,
+        163.105,
+        163.125,
+        163.15,
+        163.02,
+        162.95,
+        162.925,
+        163.0,
+        163.04,
+        162.94,
+        162.78,
+        162.795,
+        162.45,
+        162.715,
+        162.65,
+        162.66,
+        162.79,
+        162.595,
+        162.82,
+        162.73
       ],
       "news": [
         {
-          "title": "AXT (NASDAQ:AXTI) Shares Gap Up - Still a Buy? - MarketBeat",
+          "title": "ICE to buy MarketAxess in $5.7 billion deal to expand fixed-income offerings - CNBC",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzcwSHVLeGozZVlfTF9IN2F5THBTVnd6bnFxUVZjbjJKQjlaWnlkYmZkczdxVzY3VXhWcFotdE9lQm9YcXlJTFZzcmMyMDlOWmtzTkE1NTRSVDBfOEVjQV9CTEVwX1J2WGhuWEtwczRvWGR0QUU4cWE1X3YzNEx3OFVha0d4M3pDS05GUnJLZHZieU5vMXV3NWln?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1REX2dZMkpvc3dFdDRnRjNDUTkwSDhQNkg5YVlOM3Q3N1duUkJqSHhUQm1ScTFlV3BGTC1pV2kzUnpVVFYyczh4WGkyaFZGRXdreXFwdEtsUGZWNHdZdjAtSU5SOExKbDFYT21DdGh5NlQyMzhxcGNKb1YtcXBKc3FldTNfdjhQ0gGOAUFVX3lxTFBza1pSVjhmTzFPcWp0VDQ0NkdoVjZpd0s1eHlRVDB0dkhLS3R1M2pnNWtZWFdRaUlSUURfYV9QSFVhOUFUemdFUjUtRU80OEdQazhLTGxzR1ZnU3Vfei0yQTlmYTZfWmM0SXV4NDJFcFlnVFdrQjFXUTJ2Wjk0TnFqVmZJUmNHRFppOF92d0E?oc=5"
         },
         {
-          "title": "Lumentum Reserves Indium Phosphide Wafer Supply Through 2031 - Stock Titan",
+          "title": "MarketAxess Holdings, Inc. Stock 12‑Month Price Target Cut to $138.4, Implies 10% Upside - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHdFM0Q4ZUJ1eWFMY2t1czlKT1UwWVZQZUN6cXE0U2c4VEdaQ3RqUkxtM05MMDViLVF5Nk5EUW5Mdk5WcUo5Z1lkMjdhRVY1TjRSeW9OR1ZuWlR0LU5wb2Y3V2dDcjY0NmxNU1hMSF8ydDRLdFRxUi04dVo0eXhNVzBfclNQdDE0Nkl2NFlNY2pVTHFTTjVKWklwMHZzX093U2V5UWNwT0ZqZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRVVzlMVDhlQzBVYjdTUmdXVmhBdHFoNXRhZGFGTUNEcDBrSndZRWdGQUtENmZ5N255Z1dOakYyNVp1N0g2WjJzMTk3NnhWbFZ4a2tRZ2NuNlZyM05UYi1hT1R5TGI2UDhpR3NUQ05JR1VXV2VIN3l2MXpLU29QbkFSR2dyRHB0bzVDa0Rtd3AxNDQ3bmlnazA1OVNDTl92d1ZlTXNZOU5WQWNiSmkxTjZVOVluT0lvVEk1bHFSSHZyeUZVU3Q0eHFiTV90ZlZnT3dVM2cxOHNla3BKdXc?oc=5"
         },
         {
-          "title": "Why Investors Are Dumping AXT (AXTI) Ahead of Earnings - Yahoo Finance",
+          "title": "MarketAxess MKTX Stock Jumps As Record Volumes Meet Mixed Wall Street Views - StocksToTrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk0wR3FKNlc0aVgtSjFaWWsyVXh1bkFBSVlxQy1va3FGZTA3cTF2VHZobFZOZTktVllYckE2V09BNWVQZFViR1JXMU9iSkgzbWhrdmlQUHFwbXY0UVdkejhESmJlWkNqY2MzYTNuNVMxR1FhMm1kTDNQVFlHYVNFa2FHV1FnV3RXQlVVMjJnNHhYaXZ6XzQ1ZDNxbw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbU9pUnpBbzFUYVN4UkJjR1NCNndoWTFEdHAwdkRXVjZnZFB4T1V2QlE0Z1ZLQU96aVI1YjhJVDRxa012NEE1ZTdacG5NVEVtOWY4NjlveTFGNW40czMxMW9xUXlsNkdvVEJsSUhHUWl5R0JSbzQ0aE1LRGkzWUtCR0xrOGR4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BHC",
+      "name": "Bausch Health Companies Inc.",
+      "price": 6.03,
+      "change_pct": 28.85,
+      "change": 1.35,
+      "volume": 18171431,
+      "name_zh": "",
+      "spark": [
+        5.36,
+        5.65,
+        5.845,
+        5.969,
+        5.97,
+        6.011,
+        6.035,
+        5.915,
+        5.955,
+        5.95,
+        5.945,
+        5.855,
+        5.87,
+        5.905,
+        5.875,
+        5.895,
+        5.965,
+        5.98,
+        5.9799,
+        5.97,
+        5.955,
+        5.95,
+        6.005,
+        5.975,
+        5.96,
+        5.9911
+      ],
+      "news": [
+        {
+          "title": "Bausch Health stock gains after Q2 2026 beat (BHC:NYSE) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWV9zX0VGcFozLTB0N0NRYmRVM0ZhdEgyX0ZsLTlSZGVZZVpTaFJERm4zbkdoVy1hOVRmYzZsa29VUTFwV0NMMjlUNnpnUmZ0cW1XZGlBdE91QzlpZlVZQUsxYWFIUG5SSUFjWW94M0pvdWNIa01vcHZWTnExXzdUY2R3?oc=5"
+        },
+        {
+          "title": "Bausch Health (NYSE: BHC) posts $1.17B H1 loss after $1.43B goodwill hit - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWFBelJtTm44c0lBb0M1Vk9qdklRbERCT1NRUmUxdjhEbXFaRGE1SHFFOTN1d0k0RzBCY21OeVlId0lFeGQtTGdRVnpVTmNpS0V4X1N1UEl2VTZ6WERIYmxsNGJkam8xRmp4MW00bElhM2cxZHRDbjdoWjJKWkdkMjROZVlUd3pLQk5ldUNYcUVicnVHQVE4b29MWWZwMUNMTDh4aHR4RzIweHdRR2luejcyUl9KVm41S0Rr?oc=5"
+        },
+        {
+          "title": "BHC|Bausch Health Companies Inc|Price:4.685|Chg%:+0.165 - TradingKey",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaDFvN29fRTdLZWlJam1XckVONXc5UHFnVS1JQTdhaEkwOFlILUZPLTNtbkY2aGd1SXhQaXFKX0FZdDFockJEZFJsa1dTOGVaM3JwUHZnWFNqU1V5V3o0eG1vRHpSNVlKcTVWeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "price": 22.66,
+      "change_pct": 28.1,
+      "change": 4.97,
+      "volume": 33879483,
+      "name_zh": "",
+      "spark": [
+        20.94,
+        22.2,
+        22.15,
+        22.2,
+        22.41,
+        22.195,
+        22.308,
+        22.23,
+        22.24,
+        22.26,
+        22.46,
+        22.655,
+        22.4,
+        22.4601,
+        22.535,
+        22.61,
+        22.525,
+        22.65,
+        22.525,
+        22.365,
+        22.555,
+        22.615,
+        22.755,
+        22.86,
+        22.685,
+        22.655
+      ],
+      "news": [
+        {
+          "title": "Cipher Digital jumps 25.7% as AI infrastructure names rebound ahead of its August update - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDhlSUl4WDdtemRoc2xUS0pHdERfYktUZ0VwcUFJTGdKWTZnc2ZMaGlYNnRUS3YydWlCRDVyUF9FRzUyZ1FuNFpjR3FBcG5KZG0tZkVIU0ZYNmxDamlVVWZMRS1VdnpEeGo0aUxyOUREcy04WHZXZ2lKT3FfR0M5WFRVTUJ5RnVMRkZBemtCZUo5Um9iNktzbDMwb0ZPbEdzME9PY3VPOXVWVkhGWmxMNTJadGY4SWlGT3VuNFZoczM?oc=5"
+        },
+        {
+          "title": "Cipher Digital Inc. (CIFR) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnpMYnFIZVJ2QUlsRTFYejdGLTlLN0s5RGdCb1hCN3o3cUMzVEEwMmhlVnNUWTFkOXpZX1pmMmIwZzA0VkRyNk9GOGR2blY4ekhwUzRRcFhfR0hRYTFkSU0tdERwcFgtWTBGLU5yeUxyTmVHSm4xYXJoUy1uZ0dubkxiNGNHREEydU1NTG8zRWQzZHpWVE5SYzBqWTh6UQ?oc=5"
+        },
+        {
+          "title": "Cipher Digital Stock Is Falling Today: What's Going On? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjMwSHNtMDJhTVJNWk5jcHV0YUpjbjg0aTZuRHdxUzZlbldoRVUxNU1CMVFXdGZhS1J4bk12Q3JsZ2ZWYXNBaUFOanhWdWJSby12RjFod0ZhZnI1NEZOYkpjTmtiUHYtT242cThMQTNxcUF0c1BjWmEwRmVfRjU2Q05UU2tPOU1VaDBkdTZPMWJKX2tBMjZfSnduT016UUpER1B6MG1IeVlhRnZ4MTdrWkJGOA?oc=5"
         }
       ]
     },
     {
       "symbol": "CORT",
       "name": "Corcept Therapeutics Incorporat",
-      "price": 118.54,
-      "change_pct": 27.53,
-      "change": 25.59,
-      "volume": 3781183,
+      "price": 118.32,
+      "change_pct": 27.29,
+      "change": 25.37,
+      "volume": 4453546,
       "name_zh": "",
       "spark": [
         112.58,
@@ -422,78 +314,24 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1lPRjNTeVQ3TS05bjctdnlLWlE4MTRncmFmdmNjemNQQ1lES3pzQ1BpMl84NU5fMk1QOEZQQXM3UDdlc0lSZmJ6Y2tnVXlBMzRJNjBoajVNczc3MC1WZ2ZQZDFzbGQyV1pmc3FpMEpfUlZwWWg0cVJiNkxzU3YxdGo5RllYOUwzYUd4enFtTQ?oc=5"
         },
         {
+          "title": "Corcept Therapeutics (CORT) affiliate files to sell 40,000 shares after option exercise - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVFEZFVSck1KX0pvLXA5VDNkZnYyLXR4YkxzVy1rNnE4VGJkSjlLUHdtODJQTTdtczNFeXlqYmRZYlhPNWRqV3ZSWGZ0bWNKNVNjSVJ0UFNzTy1pVTd3NGZPYzRIdkdBMW1wNlNsOVhVRFNrRGNCR0VfbE5yQU9vZEVEMHVXRnlTcXdmQ2t2VTNtR1B5V3pubk9sb2R4RDlNMlhv?oc=5"
+        },
+        {
           "title": "Corcept Therapeutics (CORT) Stock Soars 22% After Hours: Here's What You Need To Know - Benzinga",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTlYZW0zQnUza3p3N2tCZm1adDVUREh5V1hkQU0wQXNCYVZWNlF6d0NkdDFia3NzbC1zM3NsSzY4N2NtN2VhZXVSM3puUTQ5WER5anI1bXlPei1EV0wxUk85cFh1ZV9kbVJLeU5DbUl6eWtWZTBXN29fYmxycW96cllUXzluZkxFcEJtLWVxU1ZxSDR5UUtSeW85U29aMkdmRnBOREFKS2FFeTZ1bVNCUi1NU3pkMEthMjRLN1JkV09MUEtqQUFIWg?oc=5"
-        },
-        {
-          "title": "CORT Q2 Earnings & Revenues Beat Estimates, 2026 Outlook Raised - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0l1TkVJdDdod3FhOHQ4RGRCQWNLMGQ2QzR0OGNSZkhUbk13YzQyNW5ZOFhqR25KU3NTd25mMVVMNGk1LU1ldzRpR3FSclR2SmlBT0JZOGlXeVNYVmo1OTBhWEdOcmtpNWxmZWFIR2FxT1ltQmZjS3d4TEJjd0tmRHlIY2Z6YXVzZmNCeHJWUTBPeWl4eER6RVNiNWhtYWJJZHZta1VGMUhjZjhGSDJrcEVUdWxiT28?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "FORM",
-      "name": "FormFactor, Inc.",
-      "price": 105.78,
-      "change_pct": 26.76,
-      "change": 22.33,
-      "volume": 2038184,
-      "name_zh": "",
-      "spark": [
-        101.01,
-        103.28,
-        103.31,
-        104.4,
-        104.79,
-        103.24,
-        105.49,
-        104.595,
-        105.2075,
-        105.97,
-        106.31,
-        106.4468,
-        105.815,
-        105.04,
-        104.9,
-        105.0,
-        104.4385,
-        104.5145,
-        104.34,
-        102.92,
-        102.89,
-        103.23,
-        104.14,
-        104.79,
-        105.46,
-        105.655
-      ],
-      "news": [
-        {
-          "title": "FORM Stock Jumps As Record Earnings And Guidance Ignite AI Demand Story - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wTFRyX1BXeFJ0VkxkSC1ORG1QSFdmTGt3RFZRVlk4d2xjSjdSZ0JlTk5JOEdudVhLdEZESmFubGNBMFFkb1liU2ZEekliUC1waWU4M3FMcmhpd3dYRHZ1djdUdUpUYlFCdmJmcFJRNElIMzZaX1E?oc=5"
-        },
-        {
-          "title": "FormFactor Stock Jumps As Record Earnings Smash Expectations - timothysykes.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FN0huajhyTkI5elJ5OXBvS2NzODZTemRwQzdndzVqSVhWdk1MMUprSzIxeWIyUWpxUlJJTHVhNldPaHFhc3BBdEI4R3dQTXNIZlVjU0dnNUZQLTRpSTdqeF9uaVhiWDN6TTFZMFQzVVhFOE9TZkJV?oc=5"
-        },
-        {
-          "title": "FormFactor Q2 Earnings Call Highlights AI Demand Drives Growth - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORjJGR0gtRWduM3JaWE1yNUtBcDVHNjMySUxDZGJPYVRrMm5jVFI5SlBqLTExZmVlMDJKb0FvSVRycUJjVnBVME5wWHo0TWdGeTV6d1dOUWJyS1F2ZFN0ZnVvc2MydHBYRDZSaElUMl9FcEpkdUUwM09MTGJ2SV9qTkFwUEJEcFF0MjZkVjNxOFN6dWJwTmx3Y3g3X3YxM2VzZXhSNFBPbXEzY3NZbjFNcGY5RnRvVXowcGc?oc=5"
         }
       ]
     },
     {
       "symbol": "NBIS",
       "name": "Nebius Group N.V.",
-      "price": 185.75,
-      "change_pct": 25.33,
-      "change": 37.54,
-      "volume": 37701564,
+      "price": 188.43,
+      "change_pct": 27.13,
+      "change": 40.21,
+      "volume": 40759900,
       "name_zh": "",
       "spark": [
         174.62,
@@ -540,16 +378,178 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1JHeGZoOVJIcnRLb3NXczl3b0VnUVd1Z01CM290OWlST2IzRmdQYlBVYm9pSW5KbGdqMUxqaDRaUkhDeEsxeHBubkIyZlBpdnpiMkZ0SnBwRExBWnpPVjlVTlB6LUlhVDg4UXpYWWhCYmNrYUFLV0JQNkdXVGg1dS1zWS1aLVVEcWtGR3JETF9Mb1JuVUhiVUVERVFVYXg4NS1RcWU0N0JaWkt4a3NLNXFxY3Y?oc=5"
         }
       ]
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 46.94,
+      "change_pct": 26.97,
+      "change": 9.97,
+      "volume": 15365666,
+      "name_zh": "",
+      "spark": [
+        43.13,
+        44.1111,
+        43.97,
+        43.92,
+        45.04,
+        44.85,
+        45.22,
+        44.92,
+        45.2337,
+        45.34,
+        45.33,
+        45.42,
+        45.1,
+        45.1099,
+        45.2895,
+        45.8599,
+        46.77,
+        47.32,
+        47.11,
+        47.53,
+        48.085,
+        47.29,
+        46.42,
+        47.15,
+        46.98,
+        47.09
+      ],
+      "news": [
+        {
+          "title": "AXT, Inc. Announces Second Quarter 2026 Financial Results - Business Wire",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNzblJ5M1pkV3VWYzVfbUJzaUhLMG5kU0VnVXY3UHNoUGxSRmc4cnRSc0t4TU1tODRreWhCbG9JUGx3SUpTeG4yZ1F3TUhJcjc4OVBxa1Z2NVhKVjRVRXprMktHUGU0Qy1vWWV5TXR6UlF3OXlmQS1zdzJ0amIzWEpCLWhFYVptNEhER2YtZkdSU05saElKd2QycEgxaUVBMmlmN0IzVWlrQVRFOWZ2enJzMA?oc=5"
+        },
+        {
+          "title": "Earnings Flash (AXTI) AXT, Inc. Posts Q2 Adjusted EPS $0.19 per Share, vs. FactSet Est of $0.07 - marketscreener.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3pqcXpUNW1kWEthWnRFWnZCSTZMcTJELV95ZlFROHluUnRfY1Nqak5xQXJUZG5BVlcyVVlvTlFGUlFXbUJzcVFRZEM3czhFYXZoaUZXY2JFbjZCbmxtQW1oVExnanB5Szg0T0twZ1RMUmFHTFRxTVBia3pPdWktdDRfaFg1b1lJTnc3eGlpRFMwdFRTT3FGY09WSVFGWlNUTHVMZWFLVzZWSE9JeFFlLXA0aXo4SmpmalMxb3oxQ25VbkJoOWRpNmxsbXc5ZkRqS3pHTmV1dw?oc=5"
+        },
+        {
+          "title": "AXT (NASDAQ:AXTI) Shares Gap Up - Still a Buy? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzcwSHVLeGozZVlfTF9IN2F5THBTVnd6bnFxUVZjbjJKQjlaWnlkYmZkczdxVzY3VXhWcFotdE9lQm9YcXlJTFZzcmMyMDlOWmtzTkE1NTRSVDBfOEVjQV9CTEVwX1J2WGhuWEtwczRvWGR0QUU4cWE1X3YzNEx3OFVha0d4M3pDS05GUnJLZHZieU5vMXV3NWln?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation",
+      "price": 207.12,
+      "change_pct": 26.49,
+      "change": 43.37,
+      "volume": 31919903,
+      "name_zh": "",
+      "spark": [
+        197.87,
+        208.68,
+        210.29,
+        210.74,
+        213.645,
+        209.32,
+        209.14,
+        204.255,
+        205.1999,
+        205.63,
+        208.22,
+        207.465,
+        206.13,
+        205.865,
+        205.31,
+        206.96,
+        205.3271,
+        205.66,
+        203.355,
+        200.8,
+        205.51,
+        205.54,
+        205.57,
+        209.635,
+        210.67,
+        209.5
+      ],
+      "news": [
+        {
+          "title": "Is Bloom Energy Corp a Buy After Its Latest Earnings Report? - The Motley Fool",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmxTMURfNEFGUmFYR2hzWEs0VV9FNHdpVEQtRHdJQ2xmOEJPLUtqemhpSXcyVnNuZlZZdUp0MmhlUk5GdGVTRUZJaVpYbUc0MVhnSGhHQ001VjNGaEVXMXZ4VUEtT09CMEduSlBDTWQ0TXY2Qlp4b1hFRERPa1ZLVlJlc0xCWkppbWEyakFJZ0FiYzlFTnhLUmFCUjVnZG1URWZ3TA?oc=5"
+        },
+        {
+          "title": "Bloom Energy Corporation Stock 12‑Month Price Target Cut to $285.33, Implies 71% Upside - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0JfeDhSUC1adFljMFE3bVVVNTRNRmJGc01rR0VVN1psMV9EMWUxSUlLWjhWc2ZfbThCRGNNeHVaOGFacUpDdzQxU2g1V0tOYng0NVd1R21uYVlxNGd0VUowdDcxdnQyenZQMzhjc3UzblFFb3ptTDYwX2xYenpGZE9OX1ZDcHhseHlMYzhoOTE0Y3VfOV9zMHVzMWJKcEdPMHJtQlZyUGRfbzV6SUxac0RwckVkNXYxandXZnZ5eWhYRFhtVFhObWdraV9EVkpDY1RSdXdQSDhxTmREdUtV?oc=5"
+        },
+        {
+          "title": "Bloom Energy Stock Gains Ahead of Earnings - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0ZEZnRuNmd4c1huOWZDU1dNQ0VpbkJ2eF83N2d4QjVvaTJxaVVzRTQ3WVBRZjFBWE80a3luTFRCWWFoOF9IbjRtUkx5QnMyRjE5RW9EeUhzaXNtcmt5X0tRQ0ZTcUZKZlp2al9XOTVJbVJHVEFGNHlGaE5XaURPZE8yUkZGa3lac295cUw1aWxVVXA0YW9ablZPMUVQRzcxRzNjY3V3?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "FORM",
+      "name": "FormFactor, Inc.",
+      "price": 105.38,
+      "change_pct": 26.28,
+      "change": 21.93,
+      "volume": 2424593,
+      "name_zh": "",
+      "spark": [
+        101.01,
+        103.28,
+        103.31,
+        104.4,
+        104.79,
+        103.24,
+        105.49,
+        104.595,
+        105.2075,
+        105.97,
+        106.31,
+        106.4468,
+        105.815,
+        105.04,
+        104.9,
+        105.0,
+        104.4385,
+        104.5145,
+        104.34,
+        102.92,
+        102.89,
+        103.23,
+        104.14,
+        104.79,
+        105.46,
+        105.655
+      ],
+      "news": [
+        {
+          "title": "FormFactor Stock Jumps As Record Earnings Smash Expectations - timothysykes.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FN0huajhyTkI5elJ5OXBvS2NzODZTemRwQzdndzVqSVhWdk1MMUprSzIxeWIyUWpxUlJJTHVhNldPaHFhc3BBdEI4R3dQTXNIZlVjU0dnNUZQLTRpSTdqeF9uaVhiWDN6TTFZMFQzVVhFOE9TZkJV?oc=5"
+        },
+        {
+          "title": "FORM Stock Jumps As Record Earnings And Guidance Ignite AI Demand Story - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wTFRyX1BXeFJ0VkxkSC1ORG1QSFdmTGt3RFZRVlk4d2xjSjdSZ0JlTk5JOEdudVhLdEZESmFubGNBMFFkb1liU2ZEekliUC1waWU4M3FMcmhpd3dYRHZ1djdUdUpUYlFCdmJmcFJRNElIMzZaX1E?oc=5"
+        },
+        {
+          "title": "FORM vs. AEHR: Which Semi Test Equipment Stock is a Better Buy? - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUhldW0zU2xyVFFjRkJodHVQZW8wUkxENUNkeGJ0MklVTlFuNWM5bDlfdDdoWFIxU2VvTDlQTnd1SXFJZGVDQWpzSE40MWxmZVZiR2R1WTdxRUVoVXlQcWlaLUd5WDNOc1FJU0V6eVNIN0lka1Q3bnNMemZmdDVBcHdyX0xNbjltOGk3R1MxdnV4RVJGcVNiWXkyTlBqQ0tBcjJUQ1dEZVdPbmNTSVZteG5KMFFjR0U?oc=5"
+        }
+      ]
     }
   ],
   "us_losers": [
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
-      "price": 202.43,
-      "change_pct": -29.37,
-      "change": -84.19,
-      "volume": 8548280,
+      "price": 205.48,
+      "change_pct": -28.31,
+      "change": -81.14,
+      "volume": 9753222,
       "name_zh": "",
       "spark": [
         221.53,
@@ -600,10 +600,10 @@
     {
       "symbol": "RTO",
       "name": "Rentokil Initial plc",
-      "price": 24.18,
-      "change_pct": -17.86,
-      "change": -5.26,
-      "volume": 5061140,
+      "price": 24.25,
+      "change_pct": -17.6,
+      "change": -5.18,
+      "volume": 5633549,
       "name_zh": "",
       "spark": [
         24.04,
@@ -652,174 +652,12 @@
       ]
     },
     {
-      "symbol": "FICO",
-      "name": "Fair Isaac Corporation",
-      "price": 1134.32,
-      "change_pct": -17.39,
-      "change": -238.76,
-      "volume": 868231,
-      "name_zh": "",
-      "spark": [
-        1212.62,
-        1206.8149,
-        1174.88,
-        1171.91,
-        1150.0,
-        1145.275,
-        1149.235,
-        1153.095,
-        1152.13,
-        1147.99,
-        1146.17,
-        1144.02,
-        1140.6899,
-        1144.8199,
-        1147.49,
-        1139.0,
-        1149.15,
-        1152.33,
-        1168.0551,
-        1160.23,
-        1150.11,
-        1133.0,
-        1143.955,
-        1142.54,
-        1143.09,
-        1133.035
-      ],
-      "news": [
-        {
-          "title": "Fair Isaac Corporation (FICO) Stock Forecasts - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUdoSnUzNHlfYkJnSzNJa1FVbWRFaW8xZk84MzVWNHl3aktyVlh5MEpuSUNyTHEtS0pPeVNHSlRoTjVMOExncUQ3V3h3dUZVaFBKc3htY21uQm4zamY5SXFMcVlGN2Z1eU1RelhGTTBQWGpuMEtSanA4THpPeEdheDlOQ2o4RUdsam9sMA?oc=5"
-        },
-        {
-          "title": "Fair Isaac Corporation Stock 12‑Month Price Target Cut to $1472.45, Implies 7% Upside - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnI3M3VEUVpBczloUzhwSFJqUDZJNUlTdkxVeF9vYWd4Q3ZVcy1hVDVzTmtlbzJKcmF1bXBUN1dicGZ0c1dpa085VXVnV3ppbl9wTG9aNV9fTnhHbXZPSVBBOGlWeklaSU9RR01oU0Y5aWtlbXJYX041OUlUYkhXYUR3N2NJZlVEUWF0TVllSHN0SkdIdDZ6M09qWXduakJJSWJHV2t1N0dhRFFiTnFheURqNGVfcUlJZ2V6TDBKaVhZMUEwNHZFTzVMU1JFSjNaNUFKb25pb0tSTFZy?oc=5"
-        },
-        {
-          "title": "Wolfe Research reiterates Fair Isaac stock rating on guidance raise - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlpodk43R2I1eWhEZTJ3RFFZYW8xYl9KRzVUeDh2ZERUQkR2d0VYTEZjdEF2NXJtcDJNT2RLQl9mRzQyNElBa2p0anVkUDBEYW1uREZSMXpqLWE0UDVpQlF2QlE2d2tqeXV0OG91N3pjcjhPcEIxUy1EWm1OX3VMYXVkRzRzU2RNbUE5cFV1UF9mdmRuSzN2OUVlU0JIXzVZczlmUkE4cEh1WW5NajJaNDBTTjY5bzlZVUNWSEZsUkZYMjg1eGV4R0JiTEt4cGlh?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "WAY",
-      "name": "Waystar Holding Corp.",
-      "price": 20.68,
-      "change_pct": -15.65,
-      "change": -3.84,
-      "volume": 4903085,
-      "name_zh": "",
-      "spark": [
-        21.7,
-        21.81,
-        21.215,
-        20.915,
-        21.14,
-        20.42,
-        20.65,
-        20.71,
-        20.81,
-        20.81,
-        20.72,
-        20.46,
-        20.56,
-        20.525,
-        20.42,
-        20.465,
-        20.33,
-        20.4036,
-        20.286,
-        20.25,
-        20.32,
-        20.24,
-        20.38,
-        20.61,
-        20.47,
-        20.696
-      ],
-      "news": [
-        {
-          "title": "Waystar Holding Corp. Stock 12‑Month Price Target Cut to $33.26, Implies 36% Upside - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWxvVEZ1Y0Z1dlZRZHZXa0IyNjR2cG1EeDM2dERTMnRwVVhxM3FNb1otZzBwOUpDaEhhQkRyS1JnSUc5a2tzdlNpeEw4dVJ2NTBJNE55QV9YUk9mUmZRWE9SWVdPUzNXc1ZDSVlfMkxRQzJ5emNNaHRKaTNodEdiUVNlVHZoSEV3eC0tM0dqMjdPcC1qZVM0WjVFazhGbURTZ3RpcXR0OXd5VzZQM3A1aURqODV5UncyYnNSUGh4LVJhbm1kbmVBbjNtMmtiRkNvUXl0akdDU3E?oc=5"
-        },
-        {
-          "title": "Waystar (NASDAQ:WAY) Shares Gap Down - Here's Why - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1ia0k2UmdRMU9ncU1RcDRzckthQkJGLWdXMERmRlQwblZTMEo1dnRVSmRhYXhDZ05QX3oyUGE1dWNHUUE3NzBIM0hEU2Z3azhES1hQU3FrUFdCdFE1WjlxeGFfRHB3TjVyLWk0RHZFbjZ6SGl3NGg2NXhReW4yYUJEV3NDR1JPa21ybkw1eDBJUnF0cE50dUFyanZTQQ?oc=5"
-        },
-        {
-          "title": "Waystar Holding (WAY) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakdJaUlsWnJQckRPV2FqU0JMeTFvSGMyTjc2TUUta2FCbHlsRVFJTVhHRDREOWRSWE9kZngtakpHX3ktaDRJTGJCUmtGQmJjcEs5cXVLUk5rbGg1dkV6c1g2MmhPck5naFlNc05FMkZfQnFoTE16Q1NIWTBCa2YxNFl6d1VwZXo4dnV6ZXk3TWNLalZrUkJ1Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "CHRW",
-      "name": "C.H. Robinson Worldwide, Inc.",
-      "price": 145.91,
-      "change_pct": -16.02,
-      "change": -27.84,
-      "volume": 6028884,
-      "name_zh": "",
-      "spark": [
-        158.345,
-        155.395,
-        153.71,
-        150.45,
-        148.65,
-        148.185,
-        146.77,
-        148.775,
-        147.79,
-        147.8882,
-        145.87,
-        146.8,
-        145.465,
-        146.07,
-        146.16,
-        146.705,
-        148.33,
-        148.02,
-        147.96,
-        144.85,
-        145.195,
-        143.53,
-        145.08,
-        146.345,
-        146.17,
-        146.025
-      ],
-      "news": [
-        {
-          "title": "C.H. Robinson Worldwide warns of slower industry volume growth (CHRW:NASDAQ) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGpKa3ltTTRYTXAzOFVMYm5jbGZwaU55Yl83YlRWdjU0dVlDRTFXQjBxWm90TjBlYkZzeGxOejlCeHRrcTYxdjJ1cUJhQ3M5eFk1TzQwVkVIZWxLWDBSbmVjdXF5aGlGM1NSdl9GVDc3b3A0aW1oYmh6WnY1RUFJbzBHNzU2Z0RSelhtTU55RXlBaU9ObzZtQnpJbE94Wjg?oc=5"
-        },
-        {
-          "title": "C.H. Robinson Worldwide, Inc. (CHRW) Stock Forecasts - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW02M01BejdoYlpQekNUaGxSWVdIQjJYbUxtUDVlbVBIenU1U0wyWVVtc3EwcDV6dXpaVGh5OFlvLTJ5c2JiYVlCUnlBV2dPUkNmUnA4RVNJUXNpVG1CNjR4XzBjZVBrQ21jcGJlSG1ycUtFbUdmRVNvT21xVDhtRHp4NFRRRF9fLTE2RA?oc=5"
-        },
-        {
-          "title": "C.H. Robinson Q2 Earnings Beat on Pricing and Lean AI Gains - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbF9vUzA0MlAzUnRPazllZkZ4TXFhOVhKQVRsUkV3aWk5MzZuMkYtMWpFNEJ1andXMTNFMm1fMVB1dmU2emtybl81bjAxbEdsX3VOQjgwdTFFWThGUTBhNVFfZ2pyQU9QSGxvNHVhYk12SXplS2xFUWVzVDRyLThidGtpVTVRSjhYVXJkbk1xVVhOV3NKQTNXT1JJZTVUaEE5X2F5RnoxQVJ4MzFzX2cwMlNZUEY?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "GPI",
       "name": "Group 1 Automotive, Inc.",
-      "price": 299.95,
-      "change_pct": -16.21,
-      "change": -58.02,
-      "volume": 280735,
+      "price": 296.71,
+      "change_pct": -17.11,
+      "change": -61.26,
+      "volume": 339308,
       "name_zh": "",
       "spark": [
         338.22,
@@ -868,66 +706,120 @@
       ]
     },
     {
-      "symbol": "LKQ",
-      "name": "LKQ Corporation",
-      "price": 22.55,
-      "change_pct": -14.53,
-      "change": -3.83,
-      "volume": 8649987,
+      "symbol": "FICO",
+      "name": "Fair Isaac Corporation",
+      "price": 1139.54,
+      "change_pct": -17.01,
+      "change": -233.54,
+      "volume": 956739,
       "name_zh": "",
       "spark": [
-        21.31,
-        21.64,
-        22.052,
-        22.21,
-        22.245,
-        22.375,
-        22.25,
-        22.14,
-        22.185,
-        22.305,
-        22.34,
-        22.355,
-        22.34,
-        22.335,
-        22.465,
-        22.49,
-        22.565,
-        22.565,
-        22.43,
-        22.375,
-        22.385,
-        22.445,
-        22.79,
-        22.75,
-        22.655,
-        22.57
+        1212.62,
+        1206.8149,
+        1174.88,
+        1171.91,
+        1150.0,
+        1145.275,
+        1149.235,
+        1153.095,
+        1152.13,
+        1147.99,
+        1146.17,
+        1144.02,
+        1140.6899,
+        1144.8199,
+        1147.49,
+        1139.0,
+        1149.15,
+        1152.33,
+        1168.0551,
+        1160.23,
+        1150.11,
+        1133.0,
+        1143.955,
+        1142.54,
+        1143.09,
+        1133.035
       ],
       "news": [
         {
-          "title": "LKQ Corp (NASDAQ:LKQ) Plunges on Q2 Earnings Miss - ChartMill",
+          "title": "Fair Isaac Corporation (FICO) Stock Forecasts - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekVaQmV1UjM5R2JyQzFIbkNNR0J3NnNoclAtZFU4cGtXREwyVlNKREFRdGZJZS1VdVZzaExYeTRVM053RkdvOExzd2NXSjctZVNVRWNPLV9DVUVtOFBCeHd4Rl9YUU8zenhfWmsxUHhWWU5EaEdOLUkyc3ptaHlXYl9FYmN6LWpNd2lFRi1hVGpIWFVGYUZOZVNQUDBrdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUdoSnUzNHlfYkJnSzNJa1FVbWRFaW8xZk84MzVWNHl3aktyVlh5MEpuSUNyTHEtS0pPeVNHSlRoTjVMOExncUQ3V3h3dUZVaFBKc3htY21uQm4zamY5SXFMcVlGN2Z1eU1RelhGTTBQWGpuMEtSanA4THpPeEdheDlOQ2o4RUdsam9sMA?oc=5"
         },
         {
-          "title": "Lkq stock hits 52-week low at 22.69 USD - Investing.com",
+          "title": "Fair Isaac Corporation Stock 12‑Month Price Target Cut to $1472.45, Implies 7% Upside - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak4zcUVPdWRoVXdPdGt5cTlvbVgzU2FGUWFMZkIxSThhODVRTHF4b1lZMUFrUlZUR0JqZEdmbGdPYmhKM0IwQkFSMERIbmRIa1U0WmlIdEVQOFRsT3BYSUNXQTBLQWRwQVRnWkJXeXNMWHl3RnpHb21QY19yekZRanp0TXM2bWo4N1lfSzc5dWhlYWhLZV9nTnhB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnI3M3VEUVpBczloUzhwSFJqUDZJNUlTdkxVeF9vYWd4Q3ZVcy1hVDVzTmtlbzJKcmF1bXBUN1dicGZ0c1dpa085VXVnV3ppbl9wTG9aNV9fTnhHbXZPSVBBOGlWeklaSU9RR01oU0Y5aWtlbXJYX041OUlUYkhXYUR3N2NJZlVEUWF0TVllSHN0SkdIdDZ6M09qWXduakJJSWJHV2t1N0dhRFFiTnFheURqNGVfcUlJZ2V6TDBKaVhZMUEwNHZFTzVMU1JFSjNaNUFKb25pb0tSTFZy?oc=5"
         },
         {
-          "title": "LKQ Corporation 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:LKQ) 2026-07-30 - Seeking Alpha",
+          "title": "Wolfe Research reiterates Fair Isaac stock rating on guidance raise - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjd6VEUwYWYydUdpb0paaXlBUlZXYVpDbl9OWWk5RkluVkhVampjRm1HVndvSlJ5dUxNNGN6OXNXWWRUdDQxVzNDWG1QaTJJTmVhbFg4dFNrS21WcnA1eVp0Z19QclVld3lRLUJjOGZ5eWRGMmNZZ3dNV2I4WDNNdjhxR1YzbGo5eHZZRmNMRDhHQVZDRy1TQThkQ3FRbzhValZudlJEa0FGSG1vNHBLLW5LS1UtNVhpTVhtUHk2dWpOdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlpodk43R2I1eWhEZTJ3RFFZYW8xYl9KRzVUeDh2ZERUQkR2d0VYTEZjdEF2NXJtcDJNT2RLQl9mRzQyNElBa2p0anVkUDBEYW1uREZSMXpqLWE0UDVpQlF2QlE2d2tqeXV0OG91N3pjcjhPcEIxUy1EWm1OX3VMYXVkRzRzU2RNbUE5cFV1UF9mdmRuSzN2OUVlU0JIXzVZczlmUkE4cEh1WW5NajJaNDBTTjY5bzlZVUNWSEZsUkZYMjg1eGV4R0JiTEt4cGlh?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CHRW",
+      "name": "C.H. Robinson Worldwide, Inc.",
+      "price": 146.92,
+      "change_pct": -15.44,
+      "change": -26.83,
+      "volume": 7245731,
+      "name_zh": "",
+      "spark": [
+        158.345,
+        155.395,
+        153.71,
+        150.45,
+        148.65,
+        148.185,
+        146.77,
+        148.775,
+        147.79,
+        147.8882,
+        145.87,
+        146.8,
+        145.465,
+        146.07,
+        146.16,
+        146.705,
+        148.33,
+        148.02,
+        147.96,
+        144.85,
+        145.195,
+        143.53,
+        145.08,
+        146.345,
+        146.17,
+        146.025
+      ],
+      "news": [
+        {
+          "title": "C.H. Robinson Worldwide Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmNYQVBWUGtVS2p2MkpxUjlBeTYtSG81WE1xN0tqOVpEVXBYVEFaa19sdGdUUkdyaVR0XzdPNnQ0WnhWWkVmdWxIcUpTWWJrbGJ4Z3doWTkxLVJ3LUlhVEg3c3dZTS1kQloxZ3ExNDMzS2JzMFZrV3F3MjFCX1BSQmh2Si0xeUNzTWxJTVd3WlpvT0dUSE9QbllLOUxLQTJualJURW9FVldNckE0OEo2MEFUVERac0hmNmJZS3BPNDhxNEktSElhUHlvSmVIU0p4N1U0Q01XOVZaVmN6?oc=5"
+        },
+        {
+          "title": "C.H. Robinson Worldwide warns of slower industry volume growth (CHRW:NASDAQ) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGpKa3ltTTRYTXAzOFVMYm5jbGZwaU55Yl83YlRWdjU0dVlDRTFXQjBxWm90TjBlYkZzeGxOejlCeHRrcTYxdjJ1cUJhQ3M5eFk1TzQwVkVIZWxLWDBSbmVjdXF5aGlGM1NSdl9GVDc3b3A0aW1oYmh6WnY1RUFJbzBHNzU2Z0RSelhtTU55RXlBaU9ObzZtQnpJbE94Wjg?oc=5"
+        },
+        {
+          "title": "C.H. Robinson Worldwide, Inc. (CHRW) Stock Forecasts - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW02M01BejdoYlpQekNUaGxSWVdIQjJYbUxtUDVlbVBIenU1U0wyWVVtc3EwcDV6dXpaVGh5OFlvLTJ5c2JiYVlCUnlBV2dPUkNmUnA4RVNJUXNpVG1CNjR4XzBjZVBrQ21jcGJlSG1ycUtFbUdmRVNvT21xVDhtRHp4NFRRRF9fLTE2RA?oc=5"
         }
       ]
     },
     {
       "symbol": "LRN",
       "name": "Stride, Inc.",
-      "price": 84.21,
-      "change_pct": -13.81,
-      "change": -13.5,
-      "volume": 1906545,
+      "price": 83.07,
+      "change_pct": -14.98,
+      "change": -14.64,
+      "volume": 2254457,
       "name_zh": "",
       "spark": [
         87.9,
@@ -976,12 +868,120 @@
       ]
     },
     {
+      "symbol": "WAY",
+      "name": "Waystar Holding Corp.",
+      "price": 20.94,
+      "change_pct": -14.6,
+      "change": -3.58,
+      "volume": 6682873,
+      "name_zh": "",
+      "spark": [
+        21.7,
+        21.81,
+        21.215,
+        20.915,
+        21.14,
+        20.42,
+        20.65,
+        20.71,
+        20.81,
+        20.81,
+        20.72,
+        20.46,
+        20.56,
+        20.525,
+        20.42,
+        20.465,
+        20.33,
+        20.4036,
+        20.286,
+        20.25,
+        20.32,
+        20.24,
+        20.38,
+        20.61,
+        20.47,
+        20.696
+      ],
+      "news": [
+        {
+          "title": "Waystar Holding Corp. Stock 12‑Month Price Target Cut to $33.26, Implies 36% Upside - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWxvVEZ1Y0Z1dlZRZHZXa0IyNjR2cG1EeDM2dERTMnRwVVhxM3FNb1otZzBwOUpDaEhhQkRyS1JnSUc5a2tzdlNpeEw4dVJ2NTBJNE55QV9YUk9mUmZRWE9SWVdPUzNXc1ZDSVlfMkxRQzJ5emNNaHRKaTNodEdiUVNlVHZoSEV3eC0tM0dqMjdPcC1qZVM0WjVFazhGbURTZ3RpcXR0OXd5VzZQM3A1aURqODV5UncyYnNSUGh4LVJhbm1kbmVBbjNtMmtiRkNvUXl0akdDU3E?oc=5"
+        },
+        {
+          "title": "Waystar (NASDAQ:WAY) Shares Gap Down - Here's Why - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1ia0k2UmdRMU9ncU1RcDRzckthQkJGLWdXMERmRlQwblZTMEo1dnRVSmRhYXhDZ05QX3oyUGE1dWNHUUE3NzBIM0hEU2Z3azhES1hQU3FrUFdCdFE1WjlxeGFfRHB3TjVyLWk0RHZFbjZ6SGl3NGg2NXhReW4yYUJEV3NDR1JPa21ybkw1eDBJUnF0cE50dUFyanZTQQ?oc=5"
+        },
+        {
+          "title": "Waystar Holding (WAY) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakdJaUlsWnJQckRPV2FqU0JMeTFvSGMyTjc2TUUta2FCbHlsRVFJTVhHRDREOWRSWE9kZngtakpHX3ktaDRJTGJCUmtGQmJjcEs5cXVLUk5rbGg1dkV6c1g2MmhPck5naFlNc05FMkZfQnFoTE16Q1NIWTBCa2YxNFl6d1VwZXo4dnV6ZXk3TWNLalZrUkJ1Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "LKQ",
+      "name": "LKQ Corporation",
+      "price": 22.6,
+      "change_pct": -14.36,
+      "change": -3.79,
+      "volume": 9795429,
+      "name_zh": "",
+      "spark": [
+        21.31,
+        21.64,
+        22.052,
+        22.21,
+        22.245,
+        22.375,
+        22.25,
+        22.14,
+        22.185,
+        22.305,
+        22.34,
+        22.355,
+        22.34,
+        22.335,
+        22.465,
+        22.49,
+        22.565,
+        22.565,
+        22.43,
+        22.375,
+        22.385,
+        22.445,
+        22.79,
+        22.75,
+        22.655,
+        22.57
+      ],
+      "news": [
+        {
+          "title": "LKQ Corp (NASDAQ:LKQ) Plunges on Q2 Earnings Miss - ChartMill",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekVaQmV1UjM5R2JyQzFIbkNNR0J3NnNoclAtZFU4cGtXREwyVlNKREFRdGZJZS1VdVZzaExYeTRVM053RkdvOExzd2NXSjctZVNVRWNPLV9DVUVtOFBCeHd4Rl9YUU8zenhfWmsxUHhWWU5EaEdOLUkyc3ptaHlXYl9FYmN6LWpNd2lFRi1hVGpIWFVGYUZOZVNQUDBrdw?oc=5"
+        },
+        {
+          "title": "Lkq stock hits 52-week low at 22.69 USD - Investing.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak4zcUVPdWRoVXdPdGt5cTlvbVgzU2FGUWFMZkIxSThhODVRTHF4b1lZMUFrUlZUR0JqZEdmbGdPYmhKM0IwQkFSMERIbmRIa1U0WmlIdEVQOFRsT3BYSUNXQTBLQWRwQVRnWkJXeXNMWHl3RnpHb21QY19yekZRanp0TXM2bWo4N1lfSzc5dWhlYWhLZV9nTnhB?oc=5"
+        },
+        {
+          "title": "LKQ reviews a possible sale with no deadline or timetable - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmVLaEFmckVzTW1rOE1tM0k1QzVsM2hBWGl0T3ROYTg0MWhZRVcyaWxUcVpqRGFtRXFhYThNZURmY1N6cEZrdHFNNGNsa0d2LTdyNjZBQlRiaTh0RmFoUlhOaVowY0ZDbmdDNm9yRS0wNHhfM2lFVW5NUnhoakRvcDgySGNtTWdRdFIxbHRHUEJ6cy1mYThkOGx5X0JweXVyUFBwdHFEZlo1QQ?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "RSI",
       "name": "Rush Street Interactive, Inc.",
-      "price": 26.71,
-      "change_pct": -13.19,
-      "change": -4.06,
-      "volume": 5282030,
+      "price": 26.76,
+      "change_pct": -13.03,
+      "change": -4.01,
+      "volume": 5971541,
       "name_zh": "",
       "spark": [
         28.339,
@@ -1009,7 +1009,7 @@
         26.27,
         26.85,
         27.1101,
-        26.75
+        26.74
       ],
       "news": [
         {
@@ -1032,10 +1032,10 @@
     {
       "symbol": "PFSI",
       "name": "PennyMac Financial Services, In",
-      "price": 75.86,
-      "change_pct": -11.83,
-      "change": -10.18,
-      "volume": 1956613,
+      "price": 75.87,
+      "change_pct": -11.82,
+      "change": -10.17,
+      "volume": 2274855,
       "name_zh": "",
       "spark": [
         77.72,
