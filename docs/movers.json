@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-31T15:34:01.579379+00:00",
+  "updated_at": "2026-07-31T17:09:46.821695+00:00",
   "us_gainers": [
     {
       "symbol": "IESC",
       "name": "IES Holdings, Inc.",
-      "price": 750.63,
-      "change_pct": 31.33,
-      "change": 179.09,
-      "volume": 229700,
+      "price": 768.27,
+      "change_pct": 34.42,
+      "change": 196.73,
+      "volume": 302484,
       "name_zh": "",
       "spark": [
         687.8,
@@ -34,7 +34,26 @@
         743.485,
         744.05,
         745.69,
-        750.115
+        752.45,
+        751.94,
+        752.3,
+        753.495,
+        754.99,
+        758.31,
+        758.37,
+        758.2,
+        756.85,
+        756.62,
+        757.215,
+        757.39,
+        758.5,
+        764.61,
+        760.32,
+        765.0,
+        768.875,
+        768.25,
+        770.505,
+        768.27
       ],
       "news": [
         {
@@ -57,10 +76,10 @@
     {
       "symbol": "AXTI",
       "name": "AXT Inc",
-      "price": 57.68,
-      "change_pct": 22.88,
-      "change": 10.74,
-      "volume": 18137190,
+      "price": 61.43,
+      "change_pct": 30.87,
+      "change": 14.49,
+      "volume": 22229511,
       "name_zh": "",
       "spark": [
         65.29,
@@ -87,13 +106,32 @@
         58.36,
         58.02,
         57.4,
-        57.7
+        58.0,
+        57.85,
+        57.33,
+        57.5489,
+        58.105,
+        57.94,
+        58.75,
+        58.73,
+        59.22,
+        58.69,
+        58.9799,
+        59.2675,
+        59.495,
+        59.685,
+        59.58,
+        60.455,
+        61.12,
+        61.45,
+        61.5805,
+        61.42
       ],
       "news": [
         {
-          "title": "AXTI Stock Surges As AI Demand Ignites Earnings Breakout - stockstotrade.com",
+          "title": "AXTI Stock Surges As AI Demand Fuels Huge Earnings Beat - StocksToTrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RT1VvQmhrZmdWUU9hZXNtX2xfYUVjN21WSUdESTNxUmh2RW54MHgyRm5hWFFSMUpFWlNsbGliZVZkNkpPZ2xHSkxKckF5REh4a3hmOUNfRVJQQWdhREY3VGZWUm1BaUlqRkcxTmpJcw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80TlhuRmMyZkJxeDdSSEJoTnE2b0h4LUZjaG9BTzdoYkVtQXA5YVIxRkJ3SDBSSjkwcDF6cVdlTkVjajFjaktHbFNaYnhGX2ZxTkI5UUNVc1FZSGZGZTdtNkJHSVRGQm9SaG9YdWItYw?oc=5"
         },
         {
           "title": "AXT, Inc. (AXTI) Stock Rises on Q2 2026 Earnings - Quiver Quantitative",
@@ -108,224 +146,84 @@
       ]
     },
     {
-      "symbol": "SPXC",
-      "name": "SPX Technologies, Inc.",
-      "price": 227.83,
-      "change_pct": 14.32,
-      "change": 28.53,
-      "volume": 315110,
+      "symbol": "AMBA",
+      "name": "Ambarella, Inc.",
+      "price": 88.58,
+      "change_pct": 19.57,
+      "change": 14.49,
+      "volume": 5171476,
       "name_zh": "",
       "spark": [
-        224.935,
-        229.7,
-        234.325,
-        233.66,
-        230.82,
-        230.53,
-        229.01,
-        230.69,
-        230.15,
-        231.145,
-        229.18,
-        229.65,
-        227.92,
-        226.995,
-        227.84,
-        229.31,
-        228.095,
-        227.94,
-        227.5675,
-        227.11,
-        227.76,
-        227.64,
-        227.825,
-        227.865,
-        227.83
+        76.74,
+        76.565,
+        75.71,
+        75.945,
+        75.28,
+        76.295,
+        75.86,
+        74.855,
+        74.535,
+        75.33,
+        75.11,
+        75.82,
+        75.91,
+        76.205,
+        75.83,
+        77.78,
+        76.335,
+        76.74,
+        77.435,
+        75.92,
+        75.905,
+        75.49,
+        75.02,
+        75.1125,
+        75.0,
+        75.2,
+        74.715,
+        74.72,
+        74.95,
+        75.3322,
+        75.45,
+        75.105,
+        74.99,
+        75.015,
+        74.85,
+        75.31,
+        84.51,
+        86.28,
+        85.6,
+        88.23,
+        87.49,
+        85.87,
+        88.885,
+        88.635
       ],
       "news": [
         {
-          "title": "Here's What Key Metrics Tell Us About SPX Technologies (SPXC) Q2 Earnings - Yahoo Finance",
+          "title": "Ambarella Inc (AMBA) Stock Price & News - Google Finance - Google",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWJXeWhuR29VX3NLQXBsMWdXWFM0VU43eVc4M3duRFRnVlpXS01IVTQxTGhOZkx6emxmWVpEbWdzel9paVAyc200RG1hNldoMDF0N2swRVMyMkw0Z0NVTUlScFAydnJTaG5HY3IzZzRkejdfT2ZpZ09PZm5qWklHaW13S19DNm8tOXFGWmV3a0F3REx6?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MNFFxaVAzdm5UakVrbDM0ZmRjYVlWQjI3LTBkem13VXlvTjRkV2tQdzlrRGtTRHozcGtqNHoxZzEtaGlDTE9zeEwxOXI3dDhpTzRNR3lzaWhBbldK?oc=5"
         },
         {
-          "title": "SPX Technologies (NYSE:SPXC) Delivers Strong Q2 CY2026 Numbers, Stock Soars - StockStory",
+          "title": "Vanguard Capital Management (NASDAQ: AMBA) reports 5.01% Ambarella ownership in 13G - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTRoT0QzVUw3eUZ0c080ZWk0SXdldk1Sb3U5OWZEOHZrWUZVdHRCWDhTd0RmTWdRQzNBTFBQRmhJbVFuZW9ieGhmMmlMTHQ2Y2o3VE1nQk1TTFBFbVl5Q2ZsN19sM3FPRkc0RnZoN0xqcms3MHN3YUdQZVVHandPWTRkZnNUaEJab3JlSXNGbHlVR2xaX0hucWZoSEtNbHp3YWdwWm9sX1RMcHBpQU9kQ2dwbEwtNVZROUk5Ri1uZnR4d1dJVVM0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQk9nemo0b19tWk56bnQxelpzcGVnakxjZ2c2N2Uxc19WOGdTRmljdENrQVVLSGR5Szc2SVdzaEhZRmc2ZWV2cGttS0pCMWdKenhLVmVoNlNUSDB1aDY0VmZtc21DYkRGRmZMSWZsT0dkQTA4ckdLUU5KcnpKWW40bmNPY0U2ZUcwVXVhVWpwNjk4UF9IQXBIWnZkNzlkXzRMQTNYeEE2aEQ5QnJDcFJ3RmdMX0trS0RrYnVXTw?oc=5"
         },
         {
-          "title": "SPX Technologies (NYSE: SPXC) grows Q2 revenue with new deals - Stock Titan",
+          "title": "Ambarella, Inc. $AMBA Shares Bought by The Manufacturers Life Insurance Company - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1NnVnVQbnVCcWJRcHVheTZtYXE5S2xlT0xZbUFOSmRIREtfdS1FaklwN2FiQW9WTldTR0lMdnFuZHhVcWFreXp0eUxmZmNoVk4tV0EydVhDTDVkQ0VpQVdLbVlKeWhJYmhPaEVYX1BDc0FuX3cyM0JjM3lVeHpuR2dpU3hPRDVKcEFmS3REc1l1bGRPWG1LeEhSUzBqX2pOYjREVFZkUzFkUUZ2aXdyTlpGTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "price": 267.49,
-      "change_pct": 13.59,
-      "change": 31.99,
-      "volume": 66950422,
-      "name_zh": "",
-      "spark": [
-        267.79,
-        268.28,
-        266.08,
-        267.755,
-        267.7213,
-        269.16,
-        269.72,
-        268.205,
-        268.03,
-        268.46,
-        268.45,
-        269.63,
-        271.655,
-        270.61,
-        271.315,
-        271.01,
-        271.1403,
-        270.81,
-        270.12,
-        270.05,
-        271.61,
-        270.44,
-        270.07,
-        267.4,
-        267.62
-      ],
-      "news": [
-        {
-          "title": "What's Behind the Amazon Stock Bounce Ahead of Q2 Earnings? - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlpxb2lIWHRxeFZrSzBNWnJpc3BncVFPWDllM2YwaTBSemhHcHJScjRGd0luZjZfRS1kNW5fdXQyYVNJdVBNdVlNcy1GQVE4bGRGMVE4ZEdVanNlVndnTDVubWp2N0VlcUN5MGlFajNJMkV3UXFjTWhvc1dkSU9iX0NJY0ZLdGI3UzBnS3RXMElTOVZUeU1MUWMwczVJUVJKalpxVklNaVB2S0FNSzBmc2FCYnIyWGpxaXc?oc=5"
-        },
-        {
-          "title": "AMZN Stock Soars 12% in Pre-Market After Blowout Q2 Results - Amazon.com (NASDAQ:AMZN) - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUjFlV0ZqWHRsLVFGM3ppRzRLSU84TGgzWVc0Nzc0elBjLXluSzhsNENlVS1RYTlQWlEyalJsczZxd2FJNjBsa1FzbTFrek9uUDNHQlR3NDVSWDYtMDdiMTFWdjhxZHVZRWJlRWJfYXowb3VYcDluY29DRE1adWpraUNDRDZtMEV2TXV1SjR2VHdYSGRUUGpSRUJQTTVRU2s4cE4xcEtTYkZadk9XRzNoeGNhVEIwMkNORnAyN3RBY3BoR2N4UlRiZ0RLWkZwTl8zYW95SWdzSGdLMTRNM0lkY0N6cHE4U3JtVGtDN0ZEQnhqOGJYUi00c3FVaWRZbTFGTUVoS3dvR0hHMUZib08zNw?oc=5"
-        },
-        {
-          "title": "(AMZN) Amazon.com, Inc. Expects Q3 Revenue Range $197.00B - $202.00B - marketscreener.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFBaZTVUZlV1Q2dhRU9mSEJUTDZfb1lkNkRSU2IwMjVGQUhRRFdhYzRjWkZOMFU3cmV3UjVNSVU4a1E4R1lYZ1Blc3c5SUJ3c0tmSDVGNVJSZ1dGbU5Ed2g4RXhDYkhWZGRfaFN2Wmpuc0tkOVZkd1BaZWxqR1VoaGQwLWNVaFE1UFVBRWpucmIydC1VcmpNYng4bFU0M3RXdTBDb3RwS3VLRndpd05uaTlNSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "BSBR",
-      "name": "Banco Santander Brasil SA",
-      "price": 5.67,
-      "change_pct": 12.18,
-      "change": 0.61,
-      "volume": 6959348,
-      "name_zh": "",
-      "spark": [
-        5.73,
-        5.685,
-        5.655,
-        5.655,
-        5.665,
-        5.665,
-        5.675,
-        5.655,
-        5.675,
-        5.708,
-        5.68,
-        5.7,
-        5.7,
-        5.7,
-        5.7112,
-        5.728,
-        5.725,
-        5.72,
-        5.68,
-        5.705,
-        5.685,
-        5.685,
-        5.685,
-        5.66,
-        5.67
-      ],
-      "news": [
-        {
-          "title": "Banco Santander Brasil (NYSE:BSBR) Shares Gap Up - Should You Buy? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1N3SmlQekF6WUJmdUFtXzd2RHJ2Sk91TlE1aUh6UkZpRjI1dVRhUTNENmNVci1HR29xVHBObTAwR1ozSFRpX2JhV19QT2RBaFFWQzZUa0xJcjdsa003OG9VQnZJbTdrTnVhbm4xMUZmeGVNWTctMEV2N3Z4Q3hpaFpPMXFuR0VaUFJIM3RYQ19QWjc5SVR0Tk0temFGNjBaUVBrMEYtaklWejJjamN4dFplRmw?oc=5"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tUUZlM3lBcjNOSlc0aElOWU1Bd1g3bW9XYTVKb29KRVFyWTIwZ0RxRE5PbktoenpnSWFjSS1tMkFRVHh2aF9RWjdUZHpjaWtM?oc=5"
-        },
-        {
-          "title": "Banco Santander (BSBR) targets remaining Brazil stake with €1.9B share exchange - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDZfNVBJdDl2czZzdWVHSGZwalJVTTFrTzhIbFB1a09iVWZPYUpmRk5ha3NNeTZHNF9VeUJvMFhQWG9LTWI4bkI3VFpsbk9sSE1HWDJTZW50QWJxMS1wb3ZFYVRoNTBOZ0V3dHFsWDk3MllXTXRwN05mXzJlOWZ4X1VfQzBMSC1xSWFKeTE5NjVQWkh4ai04V3pTcGZxY0lzNGpxV08wYVZPOWlkRUlMRWNQT3pXRlE4ak9FUm5rRWF0X1U3SEE?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "NWL",
-      "name": "Newell Brands Inc.",
-      "price": 5.78,
-      "change_pct": 12.35,
-      "change": 0.64,
-      "volume": 27935415,
-      "name_zh": "",
-      "spark": [
-        6.8228,
-        6.615,
-        6.475,
-        6.405,
-        6.47,
-        6.4236,
-        6.375,
-        6.285,
-        6.215,
-        6.205,
-        6.185,
-        6.1919,
-        5.96,
-        5.965,
-        5.915,
-        5.945,
-        5.895,
-        5.795,
-        5.73,
-        5.695,
-        5.66,
-        5.69,
-        5.735,
-        5.7666,
-        5.7899
-      ],
-      "news": [
-        {
-          "title": "Newell Brands (NWL) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjZMUkF5SHNoSkFXZmxRMjZva1JvUzlrQ1hfcy1ONkhKdkt4RXpVajUxRnJ4WjVzWXhUYzVhdUNRYjloUFlmV1h0bFhxYXpUVkpQRGdsWXBaTnh1X1hYS0t3aG55NmFtbDZLX25OdzBSOTBnSEVkZVhzSWU1am9SQ3huUThSVmc4SWdYZkYycE5KR0laWFJEVTVn?oc=5"
-        },
-        {
-          "title": "10 Consumer Discretionary Stocks Moving In Friday's Pre-Market Session - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGFLbDVLcEhwX09JQ2V5U25vUmlmeUZSVVp5UnRhMDZabUNnWHAyalYxLWh4eTJSYW50UXhURDREa2JTelZNUDgxaHJwblNnTVZvVmVzZEZ4NlR1Q3FoeDV4cU8ydEtUMTVjTHQ2ZFdyWXpQWkc0WVdrQU9rZzg3NHl2WFNZaUZDUkxNSVpidkxXb1NkbFJGYXdrZy1xWDJPWmtrdldYOVdWaGotZjVxYk5IMUI5UnRDZ2VEZ3dmRWpnT251VWg4?oc=5"
-        },
-        {
-          "title": "Newell Brands (NASDAQ:NWL) Sets New 52-Week High Following Earnings Beat - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXhZZFFlUE53Tk5ZUndvSmxaOXJwU1hHMFVYTGY3bnBVS2s1ZV85SHQxLTBpZ3BJRmpEVHNGclcxZUx4RTRtME84M1hCREx1SnVBbXdwTUxWLWgzUnpSRkxxZWdxMHNMZl8zSnI0dVJuWjFnRkZfWm9mcDFFdnM1OUVKWWJZaFpCMTBZTGJXdVlqOUhZZnZ6RnpnQmpCTnZPbGVBZ0V6V0ZTMlJSV1QxUG8zckdpZUJnUXJLOWRSdUM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUVgwZUpadWF3dV9wZ1YtZm9HMzVXcWdsaGhsTlhCc2E1UEtLdHR1dU1hVld6aTZqaFExUGExZXVvekxyZW01dEVPTmFUSHNpRkhrcjJVbmtXU2w4YzFTc0tNTHZVYTRPOTZWTWp5eVZBVUwxem9LbVpVRW9VZ0R4RGIxalpoc1huYk4yWThWSjA4cVFtaGpXRFNtMXV0VDh5dndBSFptbDNoUThIanZHT2xUaFFvejlXcHpJMTh1NmxIWW9uczB3QXJMcHd0U2dsUVdR?oc=5"
         }
       ]
     },
     {
       "symbol": "CDNA",
       "name": "CareDx, Inc.",
-      "price": 42.68,
-      "change_pct": 12.02,
-      "change": 4.58,
-      "volume": 830963,
+      "price": 43.79,
+      "change_pct": 14.93,
+      "change": 5.69,
+      "volume": 1297189,
       "name_zh": "",
       "spark": [
         41.965,
@@ -352,136 +250,340 @@
         42.575,
         42.58,
         42.6375,
-        42.745
+        42.82,
+        42.95,
+        43.49,
+        43.33,
+        43.41,
+        43.25,
+        43.16,
+        43.33,
+        43.115,
+        43.01,
+        43.34,
+        43.37,
+        43.6,
+        43.74,
+        43.8399,
+        44.32,
+        44.265,
+        43.6298,
+        43.834,
+        43.79
       ],
       "news": [
+        {
+          "title": "CareDx, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:CDNA) 2026-07-30 - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEdqQUxadDhkZERxMHItV2I0V1psbE5oSFdMTlVDV3NSdUJWSWtEZ20tcFc0U0FURXMzbERfUjdFb0hOSURCTmlmMUZEeEhZd09XUmZCbmIzamdlanVIZ0owa250dHRKZS1yTkpOTUVCdTVFQ3BGU0xXWlgyUlIteTBCbHducHkxb1h3dWZiVk9mQ2piV05SVTd3?oc=5"
+        },
         {
           "title": "CareDx (NASDAQ: CDNA) swings to profit, sells lab products unit and buys Naveris - Stock Titan",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1dpSnV4NWRqVzhWWFNadFQwREM4TjY5UHBlT0pEX3djbEZFa0hJMTZiOTlLT1hSVVkzN2x3b1YzUzZ2RmxHcFMyd0NzbU5mYk14WXhsU25lVElGUXNBaGhfdUZBeTVkMmttNWw2MzY2NU16YmZYdm85cW1qRUp4VEhoc25HNDQtMk53akpfNVBsbFBNTE9jRGpGcDQ5cnV3bm5scUtndw?oc=5"
         },
         {
-          "title": "CareDx Inc (CDNA) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+          "title": "CareDx (CDNA) Stock May Be Fully Valued Despite Medicare Coverage News - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTFJpQmZtRTdIMm5IenNYdkZPVHc1ckk4SVRzdmkzWkR0UDNPVnZEWFp5X0ZlNzRuLXBrVGRxUUFESUhMTmR6VzhuQzZSa0swcXNzcUdac1NYQW14cFEtSGhfOFVFSW4xLXdFd0tEUm4?oc=5"
-        },
-        {
-          "title": "CareDx (CDNA) Moves 35.6% Higher: Will This Strength Last? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGFIZHdtWFpWT2FnOVBrNkY0bWZ2S2JuLUdiNG9aWXRodGg5dUdlNWpFTWJSaWRNR2NVdUlkZ1FRQ1c4MVRkMmxNMmctQ05ZUkh1QUxDTzhFNGQ0LVEwM0RMc2tOd0ZxNTFMSjJtRWlQQi1nazUySlAySjJzMmp0aDhGUm1RUzU2N3F5clhwWmQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmt3MHJZMHVvV1ZIU1d1UWNhbS13bktaR1ZhbTVrV3lzRnJJSE5Nb0xQN2UtS3dvYXFJbWM1VmVrYTVEZmpRNThrbktJeDVkdVNaVloxcXlvLU43ZTJsSW04UDFiNEhTRUJ6RV9PeEVUVlpEZXY4WnNucUlWOHEyOTVudmw2MUxFQ1pHMk43UGdRMU1pQTFR?oc=5"
         }
       ]
     },
     {
-      "symbol": "DLB",
-      "name": "Dolby Laboratories",
-      "price": 57.83,
-      "change_pct": 11.68,
-      "change": 6.05,
-      "volume": 414021,
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 271.08,
+      "change_pct": 15.11,
+      "change": 35.58,
+      "volume": 84050727,
       "name_zh": "",
       "spark": [
-        55.87,
-        57.8,
-        58.4,
-        58.075,
-        57.35,
-        57.15,
-        57.09,
-        57.2,
-        57.085,
-        57.85,
-        58.27,
-        58.43,
-        58.03,
-        57.83,
-        57.86,
-        57.66,
-        57.9,
-        57.8451,
-        57.67,
-        57.9,
-        58.09,
-        57.91,
-        57.9,
-        57.89,
-        57.83
+        267.79,
+        268.28,
+        266.08,
+        267.755,
+        267.7213,
+        269.16,
+        269.72,
+        268.205,
+        268.03,
+        268.46,
+        268.45,
+        269.63,
+        271.655,
+        270.61,
+        271.315,
+        271.01,
+        271.1403,
+        270.81,
+        270.12,
+        270.05,
+        271.61,
+        270.44,
+        270.07,
+        267.4,
+        267.0,
+        266.59,
+        266.79,
+        267.251,
+        268.115,
+        268.89,
+        269.95,
+        269.74,
+        270.7651,
+        270.373,
+        271.4184,
+        270.79,
+        271.2,
+        270.55,
+        270.72,
+        270.625,
+        271.17,
+        271.065,
+        271.08,
+        271.0509
       ],
       "news": [
         {
-          "title": "Why Dolby Labs Stock Popped Today - fool.com",
+          "title": "What's Behind the Amazon Stock Bounce Ahead of Q2 Earnings? - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQmJqcDJ4dDhMTjkyRHBYWUNKMnluTFh4WWVMR3NzNTBrc3RLZk5TczQ1Mko2QUhDdHlOWS0zV0RhYmVOZGlPb0laSmV2MlVhdGNNOHh2VVpRNWtlc3RQSWlGWF9Qek5KaE9taThOb2E4SWdQUTFMd2Z3TUlac3BSbXRn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlpxb2lIWHRxeFZrSzBNWnJpc3BncVFPWDllM2YwaTBSemhHcHJScjRGd0luZjZfRS1kNW5fdXQyYVNJdVBNdVlNcy1GQVE4bGRGMVE4ZEdVanNlVndnTDVubWp2N0VlcUN5MGlFajNJMkV3UXFjTWhvc1dkSU9iX0NJY0ZLdGI3UzBnS3RXMElTOVZUeU1MUWMwczVJUVJKalpxVklNaVB2S0FNSzBmc2FCYnIyWGpxaXc?oc=5"
         },
         {
-          "title": "Rosenblatt Securities Reiterates Buy Rating for Dolby Laboratories (NYSE:DLB) - MarketBeat",
+          "title": "Why Is Amazon Stock Soaring Friday? - Amazon.com (NASDAQ:AMZN) - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2RfLUpXTVMzRnQ5RV9BaV9TUS01aVBNVEp3NmF5RWdLdkJ6N1ozeENHZW9ZX3VRQkl6UHMwVWJTbFJ6UzJVUFM0eTRWNG9nYmVMT1V3UURFN3lOdmNSQW5CMEtlc2pqME1jYUc4TllvRWp6WVNvbWVaN2FIa1lkRFBLT2xVdzRGVVk1OGdKdTZScEVMLTdNbmVOSkN2X3hQQXNNRHdJVUFWZXFfcjJsdzNvenNCQVhFLXZFaDlRVlhvakJRa3Rn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmZUUUlpMnVCaktvX0RiT2htczZMX3NLbXAyMm9sZ3J5cjhWWktJRkYzc1BHV3hiczhmOXZvT05Hb2JlYzNOWE0yUV9YbnhNY1VPM2dsV0tFTjVNTFBsVnZYd0t4aTZYWTNiSHlyY0M5T1c0NDBwSFVLV2RWWWZyV29GS2lKcF9kTnpDZUdxUjJJMVoteFpFd0prZmhaMzF3QXRNY0N0cExhNTRIdGZxZzZRd2NSd2ZJWnppSkZJZ0dqdGZlMkMwRXYxd0hvS1RFR3daS3hfNlZQZw?oc=5"
         },
         {
-          "title": "Dolby Laboratories (DLB) Q3 Earnings Beat Estimates - Yahoo Finance",
+          "title": "(AMZN) Amazon.com, Inc. Expects Q3 Revenue Range $197.00B - $202.00B - marketscreener.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmVHQUFwYWpfekdaQ1pnX1hGR3V3M25tcFZfNV9Fb2VPOXdnVmZYd2V0Q0JPUk9CZnM2TlpJaUhoQllackFLdjB5Qi1UaUFjZ2dnR3VveXRPa2FmTHdscmRINjhSTGhNMTQ0MzNJT3BFRXpCVUt5VUExa1RyMU9GcEd4WFpLbzNjNXBjMEN3QnE4bExKTnRRaW1TU0V0QW1t?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFBaZTVUZlV1Q2dhRU9mSEJUTDZfb1lkNkRSU2IwMjVGQUhRRFdhYzRjWkZOMFU3cmV3UjVNSVU4a1E4R1lYZ1Blc3c5SUJ3c0tmSDVGNVJSZ1dGbU5Ed2g4RXhDYkhWZGRfaFN2Wmpuc0tkOVZkd1BaZWxqR1VoaGQwLWNVaFE1UFVBRWpucmIydC1VcmpNYng4bFU0M3RXdTBDb3RwS3VLRndpd05uaTlNSQ?oc=5"
         }
       ]
     },
     {
-      "symbol": "MSA",
-      "name": "MSA Safety Incorporated",
-      "price": 193.4,
-      "change_pct": 10.93,
-      "change": 19.05,
-      "volume": 91944,
+      "symbol": "SPXC",
+      "name": "SPX Technologies, Inc.",
+      "price": 227.88,
+      "change_pct": 14.34,
+      "change": 28.58,
+      "volume": 451473,
       "name_zh": "",
       "spark": [
-        185.99,
-        189.12,
-        188.39,
-        186.94,
-        187.7475,
-        191.31,
-        190.975,
-        189.58,
-        190.42,
-        191.87,
-        191.91,
-        191.91,
-        192.14,
-        191.43,
-        194.0,
-        195.385,
-        195.51,
-        195.43,
-        194.26,
-        194.62,
-        194.53,
-        194.02
+        224.935,
+        229.7,
+        234.325,
+        233.66,
+        230.82,
+        230.53,
+        229.01,
+        230.69,
+        230.15,
+        231.145,
+        229.18,
+        229.65,
+        227.92,
+        226.995,
+        227.84,
+        229.31,
+        228.095,
+        227.94,
+        227.5675,
+        227.11,
+        227.76,
+        227.64,
+        227.825,
+        227.65,
+        227.6951,
+        229.03,
+        228.97,
+        230.02,
+        229.855,
+        229.11,
+        229.15,
+        229.51,
+        228.98,
+        227.065,
+        227.225,
+        227.525,
+        227.11,
+        226.26,
+        226.05,
+        225.53,
+        226.03,
+        225.99,
+        226.41,
+        227.88
       ],
       "news": [
         {
-          "title": "MSA Safety Incorporporated (NYSE:MSA) Trading Up 8.8% After Better-Than-Expected Earnings - MarketBeat",
+          "title": "SPX Technologies Stock Jumps After Surprising Q2 Results - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFpYVl9sdU5JSFdSdHFxSTh3SHVfSG9JNXYyN0k0N3l0MzZuZmV4NjQ5bkViTEZaUFAxZHpKeWEzU3pjNHluSmYzd2U5aGtTN2lFMjkwSDN6N3NGQWZYUlh5Qm1Wc1FyOGV6NDJPeTh6ei0yMjc1WXp0akpSZzkwVk9WcnZIei1leHl5Y003TEpXZnRtcUZaazRDSC1NQzNpbWJ2TmZvTXNqdUd4Rk9VcXVrU1loYjJnbndEWWpuRFI5TmpMdld1NFFHMWdNTmZIWEZNag?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXo0Y1pqOHJYN29MNUdXSk1MZWJXV1dKdjUtNGk1MGZvNXNCdVlpYjRGdkNXTnBualFDTGlWek96Y1N1UjQtRlZjM3JjZEEtcTZfYkp0TXlvUHUxQWZpenRRNk11dHJ4N3lRQmFIZGZkVy1XSFlXM0lYQzZtYy1hbXp2SGpEWEt3ZzdGeUxmWE9kYjgySHQ0bE1MWm5zOEExX1ZVcGtzMWJFYzViYVRnWlA3RVB0OV9R?oc=5"
         },
         {
-          "title": "MSA Safety Incorporated (MSA) Releases Q2 2026 Earnings: Revenue and EPS Beat Estimates - Quiver Quantitative",
+          "title": "Here's What Key Metrics Tell Us About SPX Technologies (SPXC) Q2 Earnings - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTFJMVpiaG0wLTdhYnMxeXpGM3pCcEtsOWI0OVRENWdBM2Y0U3FtWHAzQk1KVGItd1FaMWJ1WkNual83Rl9ObDdxQW1aal9ZS2lTN0tTQU1td1drWDZsOW1rVVA3OExjSmVBaGNKdlY2RGlZczZ5eURUWlJJb2N2aFBkMkhOMDdlOEVTbVRmcTJUdm1ydWFVRmk4b0NkRk00T0dOSUVRMDlNakZ5R2lJaV9icmlvU1dTOUdSc1NZT1M3cE1X?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWJXeWhuR29VX3NLQXBsMWdXWFM0VU43eVc4M3duRFRnVlpXS01IVTQxTGhOZkx6emxmWVpEbWdzel9paVAyc200RG1hNldoMDF0N2swRVMyMkw0Z0NVTUlScFAydnJTaG5HY3IzZzRkejdfT2ZpZ09PZm5qWklHaW13S19DNm8tOXFGWmV3a0F3REx6?oc=5"
         },
         {
-          "title": "MSA Safety Announces Second Quarter 2026 Results - Morningstar",
+          "title": "SPX Technologies (NYSE:SPXC) Delivers Strong Q2 CY2026 Numbers, Stock Soars - StockStory",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2Y2eU1VLXRidldOZVNnRFZxZTBNTHotSHZWb3RYX3k2cC1PZVVqSTMwRmpqenZHTlJ1V05jTXNvVmJCdnRKYWR5U1I3aktUNEg5VmVmY0l4cTRoTUc1ZURDMTZGaDZMMXRuYk5STVd2RzBJYzlINjV0SXdvY2lfYzl2ZWZqQmcta1o1UktKUUNmVEtVYjctZnVZRzBYcTRMTmMwLXZyQ1l4ZjZ0c1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTRoT0QzVUw3eUZ0c080ZWk0SXdldk1Sb3U5OWZEOHZrWUZVdHRCWDhTd0RmTWdRQzNBTFBQRmhJbVFuZW9ieGhmMmlMTHQ2Y2o3VE1nQk1TTFBFbVl5Q2ZsN19sM3FPRkc0RnZoN0xqcms3MHN3YUdQZVVHandPWTRkZnNUaEJab3JlSXNGbHlVR2xaX0hucWZoSEtNbHp3YWdwWm9sX1RMcHBpQU9kQ2dwbEwtNVZROUk5Ri1uZnR4d1dJVVM0?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NWL",
+      "name": "Newell Brands Inc.",
+      "price": 5.78,
+      "change_pct": 12.45,
+      "change": 0.64,
+      "volume": 33036717,
+      "name_zh": "",
+      "spark": [
+        6.8228,
+        6.615,
+        6.475,
+        6.405,
+        6.47,
+        6.4236,
+        6.375,
+        6.285,
+        6.215,
+        6.205,
+        6.185,
+        6.1919,
+        5.96,
+        5.965,
+        5.915,
+        5.945,
+        5.895,
+        5.795,
+        5.73,
+        5.695,
+        5.66,
+        5.69,
+        5.735,
+        5.7666,
+        5.765,
+        5.765,
+        5.8295,
+        5.775,
+        5.815,
+        5.905,
+        5.915,
+        5.935,
+        5.835,
+        5.725,
+        5.695,
+        5.72,
+        5.76,
+        5.725,
+        5.765,
+        5.745,
+        5.765,
+        5.755,
+        5.775,
+        5.78
+      ],
+      "news": [
+        {
+          "title": "Newell Brands (NWL) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjZMUkF5SHNoSkFXZmxRMjZva1JvUzlrQ1hfcy1ONkhKdkt4RXpVajUxRnJ4WjVzWXhUYzVhdUNRYjloUFlmV1h0bFhxYXpUVkpQRGdsWXBaTnh1X1hYS0t3aG55NmFtbDZLX25OdzBSOTBnSEVkZVhzSWU1am9SQ3huUThSVmc4SWdYZkYycE5KR0laWFJEVTVn?oc=5"
+        },
+        {
+          "title": "NWL Stock Draws Bullish Targets As Q2 Catalyst Nears - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0Q0NHTjFfaGpHSnNpY1JSQm12U3ktbGVGV0ZkUnYzbWtwNEs2R2x0MWxxNW03T3o2SHA4V0dkNjhPV1ozbEpaMFZFX1pNX2d6ellYSmFlTHZ5ZjViRER0YWJMN3U4aXlqZTVja3JoSUNWcHVNVUxZVg?oc=5"
+        },
+        {
+          "title": "10 Consumer Discretionary Stocks Moving In Friday's Pre-Market Session - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGFLbDVLcEhwX09JQ2V5U25vUmlmeUZSVVp5UnRhMDZabUNnWHAyalYxLWh4eTJSYW50UXhURDREa2JTelZNUDgxaHJwblNnTVZvVmVzZEZ4NlR1Q3FoeDV4cU8ydEtUMTVjTHQ2ZFdyWXpQWkc0WVdrQU9rZzg3NHl2WFNZaUZDUkxNSVpidkxXb1NkbFJGYXdrZy1xWDJPWmtrdldYOVdWaGotZjVxYk5IMUI5UnRDZ2VEZ3dmRWpnT251VWg4?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BSBR",
+      "name": "Banco Santander Brasil SA",
+      "price": 5.66,
+      "change_pct": 12.08,
+      "change": 0.61,
+      "volume": 9078554,
+      "name_zh": "",
+      "spark": [
+        5.73,
+        5.685,
+        5.655,
+        5.655,
+        5.665,
+        5.665,
+        5.675,
+        5.655,
+        5.675,
+        5.708,
+        5.68,
+        5.7,
+        5.7,
+        5.7,
+        5.7112,
+        5.728,
+        5.725,
+        5.72,
+        5.68,
+        5.705,
+        5.685,
+        5.685,
+        5.685,
+        5.66,
+        5.665,
+        5.665,
+        5.665,
+        5.685,
+        5.685,
+        5.685,
+        5.67,
+        5.66,
+        5.665,
+        5.68,
+        5.655,
+        5.675,
+        5.675,
+        5.67,
+        5.655,
+        5.655,
+        5.67,
+        5.6611,
+        5.655,
+        5.66
+      ],
+      "news": [
+        {
+          "title": "Banco Santander Brasil (NYSE:BSBR) Shares Gap Up - Should You Buy? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1N3SmlQekF6WUJmdUFtXzd2RHJ2Sk91TlE1aUh6UkZpRjI1dVRhUTNENmNVci1HR29xVHBObTAwR1ozSFRpX2JhV19QT2RBaFFWQzZUa0xJcjdsa003OG9VQnZJbTdrTnVhbm4xMUZmeGVNWTctMEV2N3Z4Q3hpaFpPMXFuR0VaUFJIM3RYQ19QWjc5SVR0Tk0temFGNjBaUVBrMEYtaklWejJjamN4dFplRmw?oc=5"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tUUZlM3lBcjNOSlc0aElOWU1Bd1g3bW9XYTVKb29KRVFyWTIwZ0RxRE5PbktoenpnSWFjSS1tMkFRVHh2aF9RWjdUZHpjaWtM?oc=5"
+        },
+        {
+          "title": "Exchange offer for Santander Brazil (NYSE: BSBR) minority at 15% premium - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPelBGMDJrbGRpd3FHTHN4dGktNW02RWNKVm5UU3NmTDJmN1VjQlMydUNiSVZsREdIb0pDTGNRNkZlVDhLb003VDhkcWxKTElMVWRfSGNEVFNnNU43dmNqT2IxQmxqS1htYkdUbTI2cVFta19oTW5rcVpfRWdIdk9sOHRoMGh2dFNRTU9GWWJsc0tlcEhoUFE3c1pLdW1JVmxkZ01MSUExcnFhTjEzbVFFN2c2ZGFTWXJqRzN1WjZFdw?oc=5"
         }
       ]
     },
     {
       "symbol": "SPSC",
       "name": "SPS Commerce, Inc.",
-      "price": 72.76,
-      "change_pct": 10.53,
-      "change": 6.93,
-      "volume": 634948,
+      "price": 73.71,
+      "change_pct": 11.97,
+      "change": 7.88,
+      "volume": 857000,
       "name_zh": "",
       "spark": [
         70.08,
@@ -507,7 +609,27 @@
         72.22,
         72.52,
         72.8198,
-        72.76
+        72.76,
+        72.93,
+        72.89,
+        72.92,
+        72.91,
+        73.13,
+        73.19,
+        73.48,
+        73.25,
+        73.33,
+        73.26,
+        73.315,
+        73.39,
+        73.685,
+        73.4625,
+        73.54,
+        73.38,
+        73.33,
+        73.39,
+        73.81,
+        73.71
       ],
       "news": [
         {
@@ -516,14 +638,81 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEpHMWF5S2RsMXMtNFJNNl92dnhzV3ZDbjJsSjVVSEN4Rjl2VU8xM0dJdU82b0k5WTVKT2lNZmRDMGtQNWV1UkllQTczQ3RtYmZmbWtJYzBfZXBqVmdTbmhDRGE2Z3pnaUx5Rm8zZzQ3Rm1RWmlNOFpBZlZsendQQ1FRTzU1Tm1CZG5ST2xvNXZ2UmhwWVhaQXVNSVpLd1MwUUs4QTA0WVpyclRTOVFuZkpUbng2R1poT1Azb2hLYjIyNnJ2VTByT3hubGNaT3Y2QzVEel93?oc=5"
         },
         {
-          "title": "SPS Commerce (NASDAQ:SPSC) Surges on Q2 Profit Beat Despite Modest Revenue Miss - ChartMill",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWF5eGs0NU42Z3dvbFlSR2xTNzhKU01sTlVlbl9MNEhrZm5HYzdRTzdGdU1sNW1iNnk0N21xczB3b20zVEtuVFc3TkdKeFl0YnlTNkNTTUNLdFgwdjR4TFJPakV3a25oQzV1T0hfRlJSYmtLU04wdXZ1UlFZWFpsQUhuZjJYSWpyRlJzSFAwbXAyTU5wOXlZV0J6ZnI5bzAwZVJ4OV83ZENBRVVuVXpjajdOelBhODFsZzZacTFqSk45T2ZWU004?oc=5"
-        },
-        {
           "title": "SPS Commerce (SPSC): Do Rising Revenues And Falling Earnings Hint At A Strategic Inflection Point? - simplywall.st",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWRIZXhkdUJkaFRWT3Rjc21HVlhua3ZYNFRJeWtDc3BnT0dTQ0ltQVJEaVllOUtvMjg5TEw4Y3dsbkFWZTNZXzlTTnFEcU53by1UY0xjZHJzZXlyR1VGSVhNOE5JdUw1QzVLQTJMRi1rcTlhYXB1bWtEMFB1RnFEOWVaN0hVWFhyVmJEZmZxSDJ1X2lYTGNVWUtqX0J6OTV1eDlrM1ExTkJiM2J2bmFwQlJDdlItZzN1VzgzaHFIRXpUaF9uRHVudV8ya9IB0AFBVV95cUxPejhFNG1TLU9jZ0U2Y3dhWVA4MGRpUXRBdHlEdUJ2Qnh1OGo0TDVfcm44MXh4WjZIUUZkXzBNWEh2QVZYd01ibnVkdllWbGxlenNZY0E2b2NVMEEwUVliTkctbjJrYkhhZjdOSlVzVmktbWVSbmFZOU1VNk5uWGVCalVxMjRQcHpkWGVHWTk4bTdDc1BrYkhkMjN4R3ZpSXRDdFNNVHQ5S09ZQy1tSUpWZUFzQkN6S2tIS0lwRVI1YVRaTWhLVFhRSlh1VG9nblJS?oc=5"
+        },
+        {
+          "title": "SPS Commerce (NASDAQ:SPSC) Surges on Q2 Profit Beat Despite Modest Revenue Miss - ChartMill",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWF5eGs0NU42Z3dvbFlSR2xTNzhKU01sTlVlbl9MNEhrZm5HYzdRTzdGdU1sNW1iNnk0N21xczB3b20zVEtuVFc3TkdKeFl0YnlTNkNTTUNLdFgwdjR4TFJPakV3a25oQzV1T0hfRlJSYmtLU04wdXZ1UlFZWFpsQUhuZjJYSWpyRlJzSFAwbXAyTU5wOXlZV0J6ZnI5bzAwZVJ4OV83ZENBRVVuVXpjajdOelBhODFsZzZacTFqSk45T2ZWU004?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MSA",
+      "name": "MSA Safety Incorporated",
+      "price": 195.3,
+      "change_pct": 12.02,
+      "change": 20.95,
+      "volume": 217288,
+      "name_zh": "",
+      "spark": [
+        185.99,
+        189.12,
+        188.39,
+        186.94,
+        187.7475,
+        191.31,
+        190.975,
+        189.58,
+        190.42,
+        191.87,
+        191.91,
+        191.91,
+        192.14,
+        191.43,
+        194.0,
+        195.385,
+        195.51,
+        195.43,
+        194.26,
+        194.62,
+        194.53,
+        193.635,
+        194.5,
+        192.97,
+        194.055,
+        193.6175,
+        194.115,
+        194.59,
+        193.62,
+        193.95,
+        193.95,
+        193.96,
+        194.05,
+        194.2,
+        194.655,
+        195.88,
+        195.23,
+        194.985,
+        195.3
+      ],
+      "news": [
+        {
+          "title": "MSA Safety Incorporporated (NYSE:MSA) Trading Up 8.8% After Better-Than-Expected Earnings - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFpYVl9sdU5JSFdSdHFxSTh3SHVfSG9JNXYyN0k0N3l0MzZuZmV4NjQ5bkViTEZaUFAxZHpKeWEzU3pjNHluSmYzd2U5aGtTN2lFMjkwSDN6N3NGQWZYUlh5Qm1Wc1FyOGV6NDJPeTh6ei0yMjc1WXp0akpSZzkwVk9WcnZIei1leHl5Y003TEpXZnRtcUZaazRDSC1NQzNpbWJ2TmZvTXNqdUd4Rk9VcXVrU1loYjJnbndEWWpuRFI5TmpMdld1NFFHMWdNTmZIWEZNag?oc=5"
+        },
+        {
+          "title": "MSA Safety Incorporated (MSA) Releases Q2 2026 Earnings: Revenue and EPS Beat Estimates - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTFJMVpiaG0wLTdhYnMxeXpGM3pCcEtsOWI0OVRENWdBM2Y0U3FtWHAzQk1KVGItd1FaMWJ1WkNual83Rl9ObDdxQW1aal9ZS2lTN0tTQU1td1drWDZsOW1rVVA3OExjSmVBaGNKdlY2RGlZczZ5eURUWlJJb2N2aFBkMkhOMDdlOEVTbVRmcTJUdm1ydWFVRmk4b0NkRk00T0dOSUVRMDlNakZ5R2lJaV9icmlvU1dTOUdSc1NZT1M3cE1X?oc=5"
+        },
+        {
+          "title": "MSA Safety Announces Second Quarter 2026 Results - Morningstar",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2Y2eU1VLXRidldOZVNnRFZxZTBNTHotSHZWb3RYX3k2cC1PZVVqSTMwRmpqenZHTlJ1V05jTXNvVmJCdnRKYWR5U1I3aktUNEg5VmVmY0l4cTRoTUc1ZURDMTZGaDZMMXRuYk5STVd2RzBJYzlINjV0SXdvY2lfYzl2ZWZqQmcta1o1UktKUUNmVEtVYjctZnVZRzBYcTRMTmMwLXZyQ1l4ZjZ0c1E?oc=5"
         }
       ]
     }
@@ -532,10 +721,10 @@
     {
       "symbol": "RBLX",
       "name": "Roblox Corporation",
-      "price": 34.02,
-      "change_pct": -30.11,
-      "change": -14.65,
-      "volume": 33992195,
+      "price": 34.41,
+      "change_pct": -29.3,
+      "change": -14.26,
+      "volume": 42619119,
       "name_zh": "",
       "spark": [
         37.6,
@@ -562,7 +751,26 @@
         34.25,
         33.88,
         33.965,
-        34.03
+        34.2449,
+        34.346,
+        34.335,
+        34.575,
+        34.305,
+        34.3701,
+        34.51,
+        34.795,
+        34.87,
+        34.5206,
+        34.61,
+        34.375,
+        34.39,
+        34.44,
+        34.395,
+        34.37,
+        34.23,
+        34.29,
+        34.74,
+        34.355
       ],
       "news": [
         {
@@ -576,19 +784,19 @@
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOXB3M0xZU2piSDVjOVZGVVNoc3JHZnRQdDl4MjZIeFlLWVBtMVhWS2k3S2FPc05Pa21Xd1l1T0V5UmxqSlU3X2VnbTVjam5RcjdaX3dmZjRTSXN2VC1pQnpVdW5kUzhsd2JxaU1pYU9HazB2dFJZekR3YjltRG10bS02UEJzMXlGaTRjSl9mbnFHSEFFcGVKZ2piVElDNWlNV25wRWtMNjduRFYtOUk3YmdMOVoxbC1ZWDhrVURueTktc1JfMjBLeEdqLVhEVWliTHFiblpWakRtNnRTUlg4bQ?oc=5"
         },
         {
-          "title": "Roblox Corporation Stock 12‑Month Price Target Cut to $66.7, Implies 37% Upside - TradingView",
+          "title": "Roblox Stock Plunges 21% After Q2 Report, Analyst Downgrades - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMm8zTnFjLTVWODNrbzc5S1BVUzR0Njl6bEtOVHJPY2JGb2VFbWg0U0pWOTN3RlZZNDhLYk1vaEZyNENuV0lIRnNsVC1pU0R4RFR4S29KNVRCS2FETUxiUjhJU1dXRDd3V3Q0TjZodk9maDhmUjN1cEw5OGJpSzMzb29MSnIyeUhEWDNTYlNQX3pYTUtlbzlqc0F5ZjduemhDWnQ1UE1SMkplbFhMYnNQanJhWFRwQXlpZzZweDZ4Vmpqd3lHWUt3NzJWdkpPSDBqTUVmXw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWs0RmE5SVNNZDRRaGdxSWYwakVib2xEc1luVnRVb2o5VUJCT1NkaEw1V081Q1ZZaWVZQVkxS1pxZ2xUcXVoT2hHZnE1bm4zQ284RUdmTWJTWDIteTZtY0tSZUZvbU55WVAxYzJhSDZJX1JUZGRzb0dEaHh6enZQdkhSXzd4QUhKUkJqdTh3UnAwSjdWSlVfV05pSjVBaElYZDhIbDNvVlRxNEFHaFZXMEk3MTFISHZpcWg0?oc=5"
         }
       ]
     },
     {
       "symbol": "VCYT",
       "name": "Veracyte, Inc.",
-      "price": 44.92,
-      "change_pct": -24.86,
-      "change": -14.86,
-      "volume": 2130103,
+      "price": 46.51,
+      "change_pct": -22.21,
+      "change": -13.27,
+      "volume": 3141121,
       "name_zh": "",
       "spark": [
         46.99,
@@ -615,7 +823,26 @@
         44.42,
         44.05,
         44.64,
-        44.925
+        45.23,
+        45.25,
+        44.89,
+        45.26,
+        45.38,
+        45.61,
+        45.29,
+        45.21,
+        45.24,
+        45.365,
+        45.85,
+        45.85,
+        45.945,
+        45.5258,
+        46.1599,
+        46.62,
+        47.12,
+        46.55,
+        46.57,
+        46.565
       ],
       "news": [
         {
@@ -638,10 +865,10 @@
     {
       "symbol": "RDDT",
       "name": "Reddit, Inc.",
-      "price": 135.4,
-      "change_pct": -23.95,
-      "change": -42.64,
-      "volume": 16717103,
+      "price": 138.96,
+      "change_pct": -21.95,
+      "change": -39.08,
+      "volume": 20775415,
       "name_zh": "",
       "spark": [
         148.91,
@@ -668,16 +895,35 @@
         137.725,
         136.865,
         136.0001,
-        135.3599
+        135.63,
+        137.0,
+        136.75,
+        137.21,
+        137.845,
+        137.395,
+        137.225,
+        137.54,
+        138.5925,
+        136.815,
+        137.84,
+        138.11,
+        138.15,
+        138.43,
+        138.56,
+        137.765,
+        138.22,
+        139.4,
+        138.99,
+        139.2
       ],
       "news": [
         {
-          "title": "Is Reddit Stock Finally Too Cheap to Ignore? - Yahoo Finance",
+          "title": "Why Reddit (RDDT) Shares Are Getting Obliterated Today - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVY4OWt4NkxURmplckxXZlM3TkZ2bGxJZU0tcmNiTVU4SE1FREQtOGp6OXM3ekFwQTZpOVVWOFVwWERVbmgwN19tRVQ1ZnJ6OC16T0FSZ1NRNjJNSUpDRDJJMUhtdEpJNWdlWjFzV2FQTUFjdVZpRmNrVFZMMmVBVkltVjNiZ3pvdUpTY1Z3SUNzWkZFcEVVSmR1Zw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUExpdGRxZ2wyd2hCTmFWeWpJUFRSa1VvdXNtRjhrVVYwZ29vb2hBTnZaZ3NIcmZuSlA0ZGZOYUxvM3hZMVhkWC1EMnFFWUJZa0NwNy1yYXlpejVYdEZkOGgxSkpqRmpOZ0h5R09vLTBQZXQ3WVFVSnBXaFRSckIzYWJ4MGVQWjBTdm9kcE8yaUw3RzBQcllRUjZyTQ?oc=5"
         },
         {
-          "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates - CNBC",
+          "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates - cnbc.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZ3ZYSF9CVVFFdnBiTzFfWWIyczJjZEtKVUVDV3V1XzJRXzJsMV9aUkx3WXFLVjBiNGZGSlJWVDJOckl5MmlRRWFtbHZZSFVKa3k5YjJpdjlmSU1Vd18wNVFLZlRVZkU1QXQ3ZWhsQjdENzdRUkJMTW1DejfSAYIBQVVfeXFMT3pKV0Q1MlZrbDBGQ1BhYkJ6b19GWFMwWVk3QjJwUE5sZFVJcVpZN2NFZktVZ0dGQXliWmFwN19RakFkeWxUS0dnU18xaDg3SnEwREx0WV9iNkZaa29maXpSRm8xRkNUdTJXRmREMkNqRl9UM284bGFBUmUxaFkxb251QQ?oc=5"
         },
@@ -691,10 +937,10 @@
     {
       "symbol": "GDDY",
       "name": "GoDaddy Inc.",
-      "price": 79.03,
-      "change_pct": -20.44,
-      "change": -20.3,
-      "volume": 2936267,
+      "price": 78.96,
+      "change_pct": -20.5,
+      "change": -20.37,
+      "volume": 3462001,
       "name_zh": "",
       "spark": [
         76.55,
@@ -720,8 +966,27 @@
         79.1,
         79.44,
         79.03,
+        78.94,
+        79.0701,
+        79.01,
+        79.18,
+        78.935,
+        78.78,
+        78.9,
+        78.79,
+        79.26,
+        79.6,
+        79.63,
+        79.31,
+        78.87,
+        79.075,
         78.945,
-        79.04
+        78.94,
+        78.8,
+        78.89,
+        78.715,
+        78.805,
+        78.9874
       ],
       "news": [
         {
@@ -730,77 +995,24 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajBQYnA1a09tNThDR0JoRjhKU2hxelFMM2R0Nkg4OVNSb2RyZkhrZ2RJQnBERklWaWgtT05SbGdoTTYxY29EWmI3bzQ5bFdPU3V2bTc0cjkwQkJWR3o3MHMzM3FNVmRjemFGY2YySEtNcklreW9rYl9MZERkZ2VRY2VWd2t0YTBRMVdkeUpuajIwSWE1WnJGYmduMTB1Y2Uy?oc=5"
         },
         {
+          "title": "GoDaddy Inc. Stock 12‑Month Price Target Cut to $106.87, Implies 8% Upside - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFVwNEtZdkl1dE5jYWdKNjZDMkdaMzZaVXNnVnJwUV9GZVg5MUNnR256WGFSV0JWSWNKNlRUUHZLclNHc0VIX2NKc2Y4T3R6SVdFcFJYUW5wWWIxNFJFVk1aN1ZRcExZSWlrYnk5d1dOMEIxUXgta1Q1Q01IRVBaMUYzWDNvZmxwc0NTaUR0WTUxWUhNbW9FT1FOcHZPemJpNkE2amMwZkpfMFZUOUhmd1F5dmxQWWwtRWJmT2toN1JQeXEwTDFXM3F3VkM?oc=5"
+        },
+        {
           "title": "GoDaddy (NYSE:GDDY) Posts Q2 CY2026 Sales In Line With Estimates But Stock Drops On Weak Guidance - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdzlodm5fMnBSeHcxZ3A4NTNUQ0dyQlh0U2stMVF2bE5LTVkwZjYwR3psU0tya0VpOVNFV0xOczlPOGVOZl96V01DR0dwajZrYU5pZXBVdXFQWHV1MnhTUG1LN1JJcFYxbHIxTGd2RE9zdEg5Mkd4MnE2b25qX3pCek5Vb0w5MklYWF9xdnNUX1docVAyS3c?oc=5"
-        },
-        {
-          "title": "GoDaddy tumbles on weak results, outlook; Wall Street sees pressure accelerating (GDDY:NYSE) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjdLQjQ5SEotTmlBaGlCcHdZNUhoTVZLX0JzNGh2OXlUTzd5c2hMazlVZjFxZFFBUEV5Q1BYT1oyU0lrLTFSQ2JYQ3ZKRi03OG1tUGctVnJMV2tGX1lKVHdUeDZWVEtVd0FfYlVhX3owZlptZXNMeksxbUo4bUNKaGRVdHphNktkanU4elMwRTNnb19jRFFpN0tUNnJOTEkyTnBsRS1kZ1FUREs5SU1uclQ0LXBtX2s?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "PRM",
-      "name": "Perimeter Solutions, SA",
-      "price": 30.22,
-      "change_pct": -18.82,
-      "change": -7.01,
-      "volume": 2607335,
-      "name_zh": "",
-      "spark": [
-        31.41,
-        31.19,
-        30.33,
-        30.46,
-        30.1,
-        30.03,
-        30.73,
-        30.64,
-        30.8575,
-        30.935,
-        31.62,
-        31.34,
-        31.21,
-        31.17,
-        31.125,
-        31.13,
-        31.24,
-        31.065,
-        31.12,
-        31.02,
-        30.71,
-        30.33,
-        30.235,
-        30.245,
-        30.185
-      ],
-      "news": [
-        {
-          "title": "Perimeter Solutions, SA (PRM) Lags Q2 Earnings and Revenue Estimates - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnREV0RXRWVTSExsTnN1Nl95NzFwclVXOERCeGg4RFBOYXFZM3FvTzhCbDQ5V0hiaGhKYWFUWm9GaXZLRUEtWXZjaktQOTZOc28wRDJIazlOdzc1WGMxRXcweG9JNFp1bmstN05yNlBlN3RLVEE1UWJfMlpVVmluVFFFRXBXRDJvQjBWbkhDbkx6T0gzZDdTeTdSWlo?oc=5"
-        },
-        {
-          "title": "PERIMETER SOLUTIONS SA ($PRM) Releases Q2 2026 Earnings - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXNvME96OGg4dHRmOGNBNWxCZ2ZsUkd2VV93R0pKWUVOWGlzTzgxdjd2NkgyRVI1MXRSdDZMTmVPTWNKUDMwN0x2dlY0UF9BSDZaaTJFVGJvdmRaa3EyVXhQaWJndnZZZGIzdzliTklsZDZaYTViZHVOQU5NeFdIRTUtMVg2YzJmcGIzTDNPN1Nub1MyWVVXVzlR?oc=5"
-        },
-        {
-          "title": "Perimeter Solutions, Sa (PRM) Earnings Dates, Call Summary & Reports - TipRanks",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bEM0ZG0xWms4SDk2QVFqUUw4ZnlBWkZycjI2bC0yaFBac2d0VTk2WnVXYW1XaG1HQjVwb0x5YnE0dUZESURJSTJKM0s5VG1GdURpUEFqQlJfSnM?oc=5"
         }
       ]
     },
     {
       "symbol": "OLN",
       "name": "Olin Corporation",
-      "price": 18.12,
-      "change_pct": -18.25,
-      "change": -4.04,
-      "volume": 4043825,
+      "price": 18.34,
+      "change_pct": -17.25,
+      "change": -3.83,
+      "volume": 5319585,
       "name_zh": "",
       "spark": [
         20.18,
@@ -825,35 +1037,54 @@
         18.465,
         18.4499,
         18.3,
-        18.34,
+        18.345,
         18.14,
-        18.125
+        18.05,
+        18.12,
+        18.13,
+        18.105,
+        18.09,
+        18.115,
+        18.13,
+        18.265,
+        18.185,
+        18.16,
+        18.19,
+        18.095,
+        18.18,
+        18.205,
+        18.165,
+        18.15,
+        18.195,
+        18.2001,
+        18.285,
+        18.325
       ],
       "news": [
+        {
+          "title": "Why Olin Corp Stock Dropped Today - The Motley Fool",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3dWcEFqSDN4RXptVVl4ZUFvZHd0bEJDekxjazQ1SGItQW1JeEhBQjRZVlB1N2xKb3ZLOFhfVzMzb3JRSjR3dGp2NjBNN3VDdEotNGdhRVZjbDZxejhEY25hczdnRGc4WWFlY3BYUEZUUnRKckRIb1FxOGpFbW54LU93?oc=5"
+        },
+        {
+          "title": "Olin Corporation (NYSE: OLN) swings to loss as it pursues Huntsman all-stock merger - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE4czNyYWFwU3Uwc0hOek1uM2VEREZ1OUF6R3hXd3NPTmRidFRDZm55YnhUOWJCZVBqcU5PR2NidFFLemFJUkpuUE1VZHU0ZUtsaS1mR3ItNkd6VW5RNmZhdE1ZbjdXWndUWkE4Ylk0OHlZdEhtVldmYnRoaGhscGoyY3VEem9XVS1vRnRTQnFOZk5Ea3FmNTRxNmZHa3U0UXFF?oc=5"
+        },
         {
           "title": "Olin (OLN) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSC1heWk4S0VZX1FTaEFHVEE4TVQwZjhBQlZLc2VNUzhURDFYNEtncVBsVWNWX2Q5V0NiNGZCdDBUZElCaXVZLVV5OWlRUmlDRUpPSUotQ3BUY1F4OTFGelRlTnhjTUhDVmRVU09mRlVGODk4TG0xdDVNUWtPTEd2M01wU3lxWUNudkZ5dmtabFEzV01jMXRv?oc=5"
-        },
-        {
-          "title": "Is Olin Corp (OLN) a Value Trap After Q2 Earnings Miss? GF Score - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSS05U1NwOW5Bek9ybVJlYTg4N25STS1POWRwYkE5V3owaGV5X25PbTZybVU5N2RjZFhIUmFFSXdDclNHX29Qb0J0MFpfWXVuMUxxWXB4SHVScU9kbGRmU2FVQ05NM0ZxaGRMRlBCbFRDNDJXR1BkT1V6ZUtuYjFDTXB6WDFHT2RUUjltTmtkVkcydkxfdjNFQnpXRUZiTVNjaFFmcGxrSnNtRmVMRFVLZjhVZF9SLW9qemRIQU8xRG03M3R5ejhMc2Y4czAtSzhTZk5xaFp0blc2NTRkZlE?oc=5"
-        },
-        {
-          "title": "ETFs Investing in Olin Corporation Stocks - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTXpPUGtwUGhMWlRmd3MwQVF1T1paNDhDRnpIdlZCUTFMQXQ0N1dKLUgzMWxMSGhKYTVrNE1iZW1Pek14NVlQWlN1NFQ5RXVYUmZWcTNrWlAyZU1lQTY1RA?oc=5"
         }
       ]
     },
     {
       "symbol": "MTZ",
       "name": "MasTec, Inc.",
-      "price": 267.38,
-      "change_pct": -17.59,
-      "change": -57.07,
-      "volume": 2061909,
+      "price": 268.82,
+      "change_pct": -17.14,
+      "change": -55.62,
+      "volume": 2616905,
       "name_zh": "",
       "spark": [
         279.2,
@@ -880,7 +1111,26 @@
         263.795,
         264.725,
         267.11,
-        267.215
+        265.855,
+        267.2,
+        265.685,
+        266.33,
+        264.14,
+        264.7752,
+        263.4127,
+        262.805,
+        262.82,
+        262.415,
+        263.645,
+        263.395,
+        264.4899,
+        265.0,
+        264.065,
+        265.86,
+        266.74,
+        267.34,
+        267.83,
+        268.98
       ],
       "news": [
         {
@@ -894,19 +1144,19 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWG5UVklyVzVrMGMyTnJVdjI1ZVhfazgxV0h4T1laekdUeGZlSERRMTR4NWhIRWp2b1EwcU5neFlNQ1FpeGdNRENVVEFjWlVBb290cTluSEV2VzBCUUN4b1k3TC14ZjUyMW93LVJqS2JPc3k1cTlnWjRib2ZyTjJYRHdnNUlzT3pXVnBWRldaTEZJbmxDSXllWDhVT2g?oc=5"
         },
         {
-          "title": "Is MasTec Inc (MTZ) Overvalued After Q2 Earnings Miss? GF Score: 85/100 - EPS at $1.65 with Revenue of $4.4 Billion - GuruFocus",
+          "title": "MasTec Reports Second Quarter 2026 Results and Updates Full Year 2026 Financial Guidance - Business Wire",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOGJFOHI1RjZ3dXlrY19OamthRVNNbFVidFl2VmpmYXRhdnVYTmpDelJwYXBYODRsMVJaSjZoeFFTT1l1ZklpZ3VZUG11T3IwVHo0NzJxTHp3dUk3TnhyUUE3aHFCZU93X29ZOC1hZzQ1YmVCWXE0UFZWbkRQekdrblE3SjV6WTB6M1VuTXNjVlRGckptQ1FZd3BFa25YNzBYRVp1TGNNdnRSeXkwVXFCWmJpdWlsa2xDS0p3MDFvV0FTVHhwSFJSUnFtOUF6N3k5R1A0clFmNVdLTUk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWXNLal9qZnptZTVjaFNLUlUwVW52czlhWi1Gc3ZoZmFaXzNTR0VndUppdF95R2h4QVFxMlhZa0tQUVJETy1aWTA2NUFDSUsyZ29sZ2tYWlZxdnp6dXhEcFYxLUtEbENFTkN5U0c5dm9OTFduRmk2X3VvWmw5YndsXzg1UTQ3YlpfbWpIWGg4azZEMzhaV2xiTm5INFBMcnhLbFAyT1hMRk50bXo1Z096QWYyYV9xMEdlYWh2Z0ktR2ZJX0lqcWNJeTZIMGpoMUhNUEpOcXI5WjlUT3diMmc?oc=5"
         }
       ]
     },
     {
       "symbol": "BTSG",
       "name": "BrightSpring Health Services, I",
-      "price": 60.96,
-      "change_pct": -16.36,
-      "change": -11.92,
-      "volume": 3455219,
+      "price": 60.87,
+      "change_pct": -16.48,
+      "change": -12.01,
+      "volume": 4261527,
       "name_zh": "",
       "spark": [
         64.57,
@@ -933,7 +1183,26 @@
         61.15,
         60.665,
         60.75,
-        60.76
+        60.9095,
+        61.0401,
+        60.91,
+        60.5275,
+        60.58,
+        60.585,
+        60.78,
+        61.18,
+        61.27,
+        61.555,
+        61.5551,
+        61.345,
+        61.45,
+        61.375,
+        61.22,
+        61.17,
+        61.24,
+        61.195,
+        61.08,
+        60.835
       ],
       "news": [
         {
@@ -947,19 +1216,91 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHRGMHNBdVBzUzVjOVZfYTQ4cFlPUkFxWkFNZ0RyVUg2X29YTER0VWF6QmI1SDRZdnU4R0p5bmlKVTU2V1l2X0VEZndQNy1kU2dENlRBWGJnSHgwU0pEb3M4LVoweHRyZXNSRzNld2VvZE1CeDFDaGpmZkxudml3WTM2dHNIOUtfbDhHZ3h0SXcxWVlnYnlHVDc0dnlURkU?oc=5"
         },
         {
-          "title": "BRIGHTSPRING HEALTH SERVICES ($BTSG) Releases Q2 2026 Earnings - Quiver Quantitative",
+          "title": "Vanguard discloses 5.21% BrightSpring stake in 13G filing (BTSG) - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVI4OUVnYXk0bGdUVG5mLXpEd1JrZExhN2hkR042NWhRa2xxQzFneXBxRW9mZWFhZ2JYY0tMeGs0TzRyMUJiZXRUZE9yOUNXUTR6Z25FQ18xRTU3MUE1NDdLa196RVZjby01amVTclJHaUZUZm9STzA4SXRtdjh3dHhodFNsSGlyRDFmb2ItNFZPMzBMMXpxZ3luQTlqeFRlWE1J?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVRKbjBja2JyemZGeW1BcFV4Y3VmLV9wVV90aHZ0c0t0WWRGVlRQdGhkSnNxdGNVb050a1BkdlluTW1SX3JwZE5QOHFpVGRZUXEzWUlIWDdvWUdSNzQwZnBNd1Q5eHJITUswaUl2RGJyWC03QnBCSElWV2F1UFZ3R3pzZWRNeENpRG43R21SejZSTGRKdFFRcWlnSHRHUTBuOGQ5Ml9fR1RzZzJZWllKRmRCa1JINDB0Z0tzam1oX1BKd1l0MEQtRWs2SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "PRM",
+      "name": "Perimeter Solutions, SA",
+      "price": 31.17,
+      "change_pct": -16.28,
+      "change": -6.06,
+      "volume": 3620496,
+      "name_zh": "",
+      "spark": [
+        31.41,
+        31.19,
+        30.33,
+        30.46,
+        30.1,
+        30.03,
+        30.73,
+        30.64,
+        30.8575,
+        30.935,
+        31.62,
+        31.34,
+        31.21,
+        31.17,
+        31.125,
+        31.13,
+        31.24,
+        31.065,
+        31.12,
+        31.02,
+        30.71,
+        30.33,
+        30.24,
+        30.245,
+        30.245,
+        30.375,
+        30.19,
+        30.22,
+        30.3214,
+        30.455,
+        30.61,
+        30.89,
+        31.2,
+        30.785,
+        30.75,
+        30.69,
+        30.75,
+        30.6,
+        30.5,
+        30.545,
+        30.65,
+        30.71,
+        31.15,
+        31.14
+      ],
+      "news": [
+        {
+          "title": "Compared to Estimates, Perimeter Solutions, SA (PRM) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEZyNFY1ei1HcDhhR2VZUkJqR1g1b0lIQXhBMGRkdTh1X0plcWZxb0dBV0VpZ3JWMGJWeHhRWk8wRG1iVFRCeGhrTzI3ZURmUTBpWV9WckNjbHVxeWxJalBSb2dlQ2sxbWhLOGd6aFE1dDVuSXota0JRZjU2V1RHeHp5T0hreW50aDFKaFp5dGNodkJKZHk4WFN5Zm04QUNaZmpRanhSSG5aZw?oc=5"
+        },
+        {
+          "title": "PERIMETER SOLUTIONS SA ($PRM) Releases Q2 2026 Earnings - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXNvME96OGg4dHRmOGNBNWxCZ2ZsUkd2VV93R0pKWUVOWGlzTzgxdjd2NkgyRVI1MXRSdDZMTmVPTWNKUDMwN0x2dlY0UF9BSDZaaTJFVGJvdmRaa3EyVXhQaWJndnZZZGIzdzliTklsZDZaYTViZHVOQU5NeFdIRTUtMVg2YzJmcGIzTDNPN1Nub1MyWVVXVzlR?oc=5"
+        },
+        {
+          "title": "Perimeter Solutions, SA (PRM) Lags Q2 Earnings and Revenue Estimates - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnREV0RXRWVTSExsTnN1Nl95NzFwclVXOERCeGg4RFBOYXFZM3FvTzhCbDQ5V0hiaGhKYWFUWm9GaXZLRUEtWXZjaktQOTZOc28wRDJIazlOdzc1WGMxRXcweG9JNFp1bmstN05yNlBlN3RLVEE1UWJfMlpVVmluVFFFRXBXRDJvQjBWbkhDbkx6T0gzZDdTeTdSWlo?oc=5"
         }
       ]
     },
     {
       "symbol": "WU",
       "name": "Western Union Company (The)",
-      "price": 6.53,
-      "change_pct": -15.1,
-      "change": -1.16,
-      "volume": 28307660,
+      "price": 6.51,
+      "change_pct": -15.28,
+      "change": -1.18,
+      "volume": 33869136,
       "name_zh": "",
       "spark": [
         7.06,
@@ -983,16 +1324,35 @@
         6.5895,
         6.665,
         6.65,
-        6.59,
+        6.585,
         6.595,
         6.555,
-        6.53
+        6.535,
+        6.56,
+        6.545,
+        6.56,
+        6.555,
+        6.57,
+        6.6088,
+        6.605,
+        6.6099,
+        6.565,
+        6.5575,
+        6.58,
+        6.575,
+        6.58,
+        6.545,
+        6.515,
+        6.55,
+        6.535,
+        6.52,
+        6.515
       ],
       "news": [
         {
-          "title": "Western Union (WU) Following Mixed Earnings And Lower Guidance, Is The Stock A Bargain? - Yahoo Finance",
+          "title": "Western Union (WU) Following Mixed Earnings And Lower Guidance, Is The Stock A Bargain? - Yahoo! Finance Canada",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVk1sa3ZwalVCM3V6QmtYV2pYY0JDcnlMcVI3VE5FN2h6M3dHQ3FXc0dGMmRjcmtPc29WbHhKa0M5bDNGZnJ1NFJ6cmx3cFlKTDE4RE05QjJpdktSMUFtVXVFMkJJUTRMbERVdWdZMW5hZ0hHM0NESnlPRS1ZN1BqemdzUnZnbGEzejg3dk5VVkh0MjhHY3NFaFpCdl9XZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbF85d3NSb09LT1NoeVkwWEtwQk1vbllvUnhHdF9XbzQxUklqaTlSbFpFM3U5UHRmb1Z6UjFOY08xdHowT292cjNuRFdlMzU3aHRqckJKQVRPb1pILUJ5LUttN1JNeXBudjV6UTByMVhSRFFNeVpTUnJOM2pqRms4NlhaYnFPbUFG?oc=5"
         },
         {
           "title": "Western Union Company (The) Stock 12‑Month Price Target Cut to $7.39, Implies 4% Downside - TradingView",
@@ -1007,55 +1367,74 @@
       ]
     },
     {
-      "symbol": "COIN",
-      "name": "Coinbase Global, Inc.",
-      "price": 139.93,
-      "change_pct": -14.46,
-      "change": -23.65,
-      "volume": 9745533,
+      "symbol": "ALHC",
+      "name": "Alignment Healthcare, Inc.",
+      "price": 16.14,
+      "change_pct": -13.25,
+      "change": -2.47,
+      "volume": 8943586,
       "name_zh": "",
       "spark": [
-        147.4999,
-        146.11,
-        146.76,
-        145.035,
-        143.36,
-        142.7767,
-        142.15,
-        141.2,
-        140.12,
-        139.88,
-        140.69,
-        140.39,
-        140.3575,
-        140.2838,
-        140.5766,
-        141.69,
-        141.82,
-        142.295,
-        142.395,
-        141.5,
-        140.435,
-        140.7,
-        140.57,
-        140.11,
-        139.955
+        14.905,
+        14.79,
+        14.725,
+        15.055,
+        15.28,
+        14.8625,
+        14.74,
+        14.825,
+        14.83,
+        14.91,
+        15.135,
+        15.325,
+        15.58,
+        15.665,
+        15.54,
+        16.12,
+        16.215,
+        16.14,
+        16.275,
+        15.95,
+        15.95,
+        15.95,
+        15.82,
+        16.04,
+        16.115,
+        16.185,
+        16.165,
+        16.15,
+        16.2061,
+        16.12,
+        16.105,
+        16.01,
+        15.965,
+        16.085,
+        16.24,
+        16.21,
+        16.26,
+        16.35,
+        16.325,
+        16.355,
+        16.455,
+        16.2,
+        16.09,
+        16.175
       ],
       "news": [
         {
-          "title": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification, and Resilience - Coinbase - Investor Relations",
+          "title": "Vanguard Portfolio Management (ALHC) reports 11.9M-share Alignment Healthcare stake - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdmx3dkJkdm1YQnJDWEFGYUhBQ3YtcldXd2wyNC01Wk9PV0o1SjF6ZHptUHZsRkN4RWEyNkZWUndmNEVhQ2xPaTd3YzZoQS00aW5oWEpNVGZNUHM0emh5OE5qVWdVeG1EMEJJNlJxSU8ycldzYkt4ZTBmV1Y0QUNpWUhZLThFNTkwTS05VjFDM3NLWlZoRk81ZVMzbjlvY2h1MVBFcUZsZ0Z1S25rSkpGd21LdnVXRW1ZekJ3UUlxNnFoU0tYb3QxMmtPSVZaRDdQWDltSEF3cmZidFF4LTFjbWdkczRVS3NxcURHSExqdWJNVU1LQTNlekw0NFdjcHd2M1habHJVcGJ6bl90a3Y5TlVmdFNNUGNkTkEzaUNiSjRsTEJTZW42cllWUWxHU3p3a0VPRk9ISDZyc2Y2aTFRaFZSSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGVSRTc4TVBfM3ZHQllIYTE1QmtLYm02aFVSVEhFOGtzRldfS1hMMDhPZGhZeWg1Q0dxdW93ZVpYS1ZmVVRtRDA5WlQ4aHRiMDhjS1o5TVBNYnQzMXVMZmExdEQxRWZrTHVGUVJ4MFJYX3dSSndTdF91bjI3VHNDMWIxMTNuOGdkSFlDT1hNX2pRaXJlR3pjajRDTE5URl9Dek1iZzBNSlUyZkNpT18zbUtJTTNfU09kRXI1LVM1UWNkSkI1MU1pM3oyQQ?oc=5"
         },
         {
-          "title": "Coinbase stock sinks as weak crypto market leads to another quarter of loss - Yahoo Finance",
+          "title": "Alignment Healthcare (NASDAQ:ALHC) Beats Q2 CY2026 Sales Expectations But Stock Drops - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUpjVnpjbWY3WHdRNjA5QnNmUzZna1UyZFJFUXVCcHdZYVRNVS1KYUhucllaVDdBOVFZRlU2SURGOTlEUFl3dHdQNHZjV1E0Rm5FMjBvVHdhSXRuajRLeGdRU0tCaU0tNlNla1VCdTRtV0hxVktJb18zX0t3RWNrWVNIbnVoRjVRLWkxRVFibHhoNjF0NWYwcWUtNzd2RDhGWE1hX1I0WEVTWm04UENxS0dJZ3BaYTR1eFktcDRIR3B1SmVHVm1ZVG5INlJkZ1ZXTlhfLWJn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmNUck1ZT09LQU9MMVhaTWlodVNrU29nVjhwTy1FVXFtS2pCM1dZQ045Mlp3bUZhSlZ5YnhvSFFyWG5hS0JSYzAxM3g3ak5YYm9GZVBDNTlPMndvdF82b0FMUVJPZ1BGLXdNN3l5d1U2U3ExYWRBMUdxYnBuM0YxR1hYdWd3X1BQRW1kWGxIb2YzZHQ1UzlpdjdUX1ExUVp5?oc=5"
         },
         {
-          "title": "Coinbase Stock Sinks as Q2 Revenue Falls Short of Estimate - Benzinga",
+          "title": "Kaplan Fox is Investigating Alignment Healthcare, Inc. (NASDAQ: ALHC) for Possible Securities Law Violations - The Globe and Mail",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnl0ZERZMlZLRXlvclBjZEF0TEtMWktKUERZXzdhaUFHX2N5d3QtbTBXMFBFTFBBX2taYWlRV05vV2JiMGRfU1dFdnN1NGxGMkw2MVpfQXpIUzFwUlV5VzVMSkxvM3JhcFJ0VVl4VGtMUkhuLXZ2OG1meU8zTW15LWRNNHhIV3ZpNXZabFdUYl9TUzZfZTVJV2lLNnc5N3B3WmFESVFFRENfcEJPNTFzOWdsTTR0TWRDaE5R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObURUQVpZekFKeF9Iek9qdHlydlhyXzdaMnUyLTNyTkllNno3YXpBTlBsVDhjWFV3QUJpOEdtZTFzNjhYcHQ5dTdzVEd3VTBYUzQ5VHJTdUtqc2lCRm9IZk54TDBZQ3pNamJYMkpVTTdSbFNlUU5hWkF1dkI5LUFBSmt0YTIxbThFa3diT3R4eHViMmdyNk41Y3ZpekV6UmtPaExzb1N0X0ZJYXh0Z0pOQVRUbmh5VGZMSnFUZnd0Wi15QVprZ1hMcHVnZ3JkVnhNYmpnMTgxWW5raC1KUmcyTnRWdDB1MlEtNTMxeFh0WHJJSGp4bUxjeVlnWEtHZGdBcUdFWUhLcVV5b21xWmRpMThoc0daa1FlRlE?oc=5"
         }
       ]
     }
