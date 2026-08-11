@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-11T15:41:09.204175+00:00",
+  "updated_at": "2026-08-11T16:35:26.038874+00:00",
   "us_gainers": [
     {
       "symbol": "NIQ",
       "name": "NIQ Global Intelligence plc",
-      "price": 15.76,
-      "change_pct": 34.93,
-      "change": 4.08,
-      "volume": 4096582,
+      "price": 16.36,
+      "change_pct": 40.07,
+      "change": 4.68,
+      "volume": 5310563,
       "name_zh": "",
       "spark": [
         13.925,
@@ -32,10 +32,21 @@
         15.48,
         15.58,
         15.73,
-        15.67,
+        15.662,
         15.67,
         15.745,
-        15.8007
+        15.8113,
+        15.76,
+        15.69,
+        15.83,
+        16.0,
+        15.98,
+        16.255,
+        16.17,
+        16.22,
+        16.31,
+        16.365,
+        16.3552
       ],
       "news": [
         {
@@ -49,73 +60,19 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWdHa1R4cmtCb1FWNXNRMzJEOS1mYzlzQ0hQV3JIbkNYN0gyczBiV1YzRFpILWxfRWdtZkVxX0plUHZyWmJyeS1pOU9kVUhneVNyM1J0Y1lrMmdqNmNoWDcxeWZBbGZHdXExb3VNa0FxQ3o4UjF1clk4d2JDelJqeGVsTllwUXYwUFgydWJyQjY1cE5sV0s2VENmRDM5eVJqY1lHbXNlcTBIakJkTmRoNWkwYmw4c1pFVWRmbzZFcFdmUTg?oc=5"
         },
         {
-          "title": "Needham raises NIQ Global Intelligence stock price target on AI growth - Investing.com",
+          "title": "Stifel raises NIQ Global Intelligence price target on strong quarter - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHFqUTdMZTEwZUk5OFZkaWlJR1pZMlA3RE9GOHVXdzREbFEtNzd3M20xLWh3SFFLa3FiZmJSM0x4N0ZoSlJYYlJ1X1Q5bjJmcXhzY2FpVUhEOEU3ckM0d3JEc3RYOGxzaV9kay1PUzE4dWg1R2tPVU9ZbGRqeWdKT2x0NldodUgwRmhKcDhKcFNYR0EzTXQ4emJnSG43R3Y3MWhSTGZJVHd2Z0ZnS3lfUmNacDZvUkY0aVdLNWRWRHRJTlhPdWZia3JyaWJCLXRPalBEUA?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "FRMI",
-      "name": "Fermi Inc.",
-      "price": 7.18,
-      "change_pct": 22.13,
-      "change": 1.3,
-      "volume": 31031458,
-      "name_zh": "",
-      "spark": [
-        7.1101,
-        6.875,
-        6.845,
-        6.96,
-        7.016,
-        7.04,
-        7.135,
-        7.2244,
-        7.185,
-        7.155,
-        7.135,
-        7.14,
-        7.245,
-        7.2,
-        7.245,
-        7.295,
-        7.2514,
-        7.195,
-        7.2002,
-        7.21,
-        7.2233,
-        7.214,
-        7.23,
-        7.235,
-        7.2399,
-        7.175
-      ],
-      "news": [
-        {
-          "title": "FRMI Stock Pulls Back As Traders Eye Heavy Losses - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3YlFId1dYR0ZMdVdEUWowRnYtZ241MHdaNURBSTVjOUJOWjlHb2tUdEhOZ3A5TFh0eUdmQnYtVVlqM3VsSlhSNkZUdnZldllrTjlQZV9QeUxXWDQ0UXJtQ0szZE1ydU9aSG03T05naw?oc=5"
-        },
-        {
-          "title": "Why Is Fermi Stock Soaring Tuesday? - Fermi (NASDAQ:FRMI) - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29uaXV0d21qaUJEMFYwQUR1NlFjUUxFZWcxOUJDcUYwR0VUcDRNQ1pnNi1aMDJuZGl2TTgybUQ2LVNVdkZrR1otc3kwME5pelYwUElGRzBhbmZHaV9qakdkY2JKc2dkc19Bc3dYN1lHaDhLZzRnbmlJazZTZ2lPLS1xYVhidVFyaDBqYm1UMmN0V05TX1ZPNlZyQ1lOUGZvRlhVTWtfUWJXX1ZsX0F6MWFxODZBUmFOUEpmVQ?oc=5"
-        },
-        {
-          "title": "FRMI Stock Rips On $6.5B TensorWave Deal — Mizuho Says ‘Long-Awaited Catalyst’ Has Arrived - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkdIYjd4cU9QOUxObTBIS0dEQXBMWnBUeGdicUt4VF9FRndQbC1Jd2dFWGhZYWVvTTVWRmJMdG5ndFFCUUgxUnp6ZGpOWC0xR0I2YjFla1dlblFQZFduaDhOS3ppXzVFZk1CSkJXdnhQMmlFZWgxbzVIWXhtN21ob2dfVWNkYW9BTVRvcWxCWlZoMWF1d0Q3UW4xd0JXSnJ4ZFpLTFdEN3dTVDZXYV94ZjZuMjJraWNIOTdHS2pzSGRRcHhOaER6Z3dMQ0E4em5XTnljbkhxRXMtdDdaanBr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlZyd3V5YkZfTERyN0hTSElibW02NEF3SHlvZFNOa2Y2aTM4MHVmRUo1Mmp0Y1d1T1hIUVEzLVJjQlY5LU52dGo4bGZOWE5SRE5KQ0VyOUcwNVctNDFDa0Z3eHlyVXhZTnRsdzhrcFNuUS1mLTVHYlh2N2d0SUViS2twelRmcDhHXzFacVVmV0p5YjByLThBM0txVHpkcTRDU25ZM0hPMEJlOXN3RkxXZkQ1eE82bzk4QUIzdW1HdVlzVWhBWmhn?oc=5"
         }
       ]
     },
     {
       "symbol": "ALMR",
       "name": "Alamar Biosciences, Inc.",
-      "price": 34.61,
-      "change_pct": 23.65,
-      "change": 6.62,
-      "volume": 415632,
+      "price": 36.16,
+      "change_pct": 29.19,
+      "change": 8.17,
+      "volume": 497126,
       "name_zh": "",
       "spark": [
         28.785,
@@ -143,7 +100,18 @@
         34.465,
         35.26,
         35.03,
-        34.61
+        34.785,
+        34.0,
+        34.885,
+        34.93,
+        34.86,
+        35.08,
+        34.87,
+        35.3,
+        35.44,
+        35.615,
+        35.68,
+        36.16
       ],
       "news": [
         {
@@ -164,12 +132,142 @@
       ]
     },
     {
+      "symbol": "FRMI",
+      "name": "Fermi Inc.",
+      "price": 7.11,
+      "change_pct": 20.83,
+      "change": 1.22,
+      "volume": 33873489,
+      "name_zh": "",
+      "spark": [
+        7.1101,
+        6.875,
+        6.845,
+        6.96,
+        7.016,
+        7.04,
+        7.135,
+        7.2244,
+        7.185,
+        7.155,
+        7.135,
+        7.14,
+        7.245,
+        7.2,
+        7.245,
+        7.295,
+        7.2514,
+        7.195,
+        7.2002,
+        7.21,
+        7.2233,
+        7.214,
+        7.23,
+        7.235,
+        7.2399,
+        7.185,
+        7.165,
+        7.1401,
+        7.185,
+        7.15,
+        7.1814,
+        7.185,
+        7.165,
+        7.17,
+        7.1301,
+        7.0999,
+        7.105
+      ],
+      "news": [
+        {
+          "title": "FRMI Stock Pulls Back As Traders Eye Heavy Losses - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3YlFId1dYR0ZMdVdEUWowRnYtZ241MHdaNURBSTVjOUJOWjlHb2tUdEhOZ3A5TFh0eUdmQnYtVVlqM3VsSlhSNkZUdnZldllrTjlQZV9QeUxXWDQ0UXJtQ0szZE1ydU9aSG03T05naw?oc=5"
+        },
+        {
+          "title": "Why Is Fermi Stock Soaring Tuesday? - Fermi (NASDAQ:FRMI) - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29uaXV0d21qaUJEMFYwQUR1NlFjUUxFZWcxOUJDcUYwR0VUcDRNQ1pnNi1aMDJuZGl2TTgybUQ2LVNVdkZrR1otc3kwME5pelYwUElGRzBhbmZHaV9qakdkY2JKc2dkc19Bc3dYN1lHaDhLZzRnbmlJazZTZ2lPLS1xYVhidVFyaDBqYm1UMmN0V05TX1ZPNlZyQ1lOUGZvRlhVTWtfUWJXX1ZsX0F6MWFxODZBUmFOUEpmVQ?oc=5"
+        },
+        {
+          "title": "FRMI Stock Rips On $6.5B TensorWave Deal — Mizuho Says ‘Long-Awaited Catalyst’ Has Arrived - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkdIYjd4cU9QOUxObTBIS0dEQXBMWnBUeGdicUt4VF9FRndQbC1Jd2dFWGhZYWVvTTVWRmJMdG5ndFFCUUgxUnp6ZGpOWC0xR0I2YjFla1dlblFQZFduaDhOS3ppXzVFZk1CSkJXdnhQMmlFZWgxbzVIWXhtN21ob2dfVWNkYW9BTVRvcWxCWlZoMWF1d0Q3UW4xd0JXSnJ4ZFpLTFdEN3dTVDZXYV94ZjZuMjJraWNIOTdHS2pzSGRRcHhOaER6Z3dMQ0E4em5XTnljbkhxRXMtdDdaanBr?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NN",
+      "name": "NextNav Inc.",
+      "price": 18.14,
+      "change_pct": 17.56,
+      "change": 2.71,
+      "volume": 4029360,
+      "name_zh": "",
+      "spark": [
+        15.21,
+        15.16,
+        15.2777,
+        15.2,
+        15.115,
+        15.18,
+        15.23,
+        15.2,
+        15.06,
+        15.08,
+        15.065,
+        15.05,
+        15.07,
+        15.05,
+        15.12,
+        15.15,
+        15.1788,
+        15.15,
+        15.12,
+        15.135,
+        15.145,
+        15.145,
+        15.3,
+        15.615,
+        15.71,
+        15.93,
+        16.075,
+        16.23,
+        16.66,
+        16.75,
+        17.2606,
+        17.708,
+        17.77,
+        17.98,
+        18.19,
+        18.0997,
+        18.16
+      ],
+      "news": [
+        {
+          "title": "Is NextNav Inc. (NN) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1U2UG92R2ViRVl0Nk1LQ3dnRWN5bTRyRlBxYktrYTFBM2hwTWZid3lRLUllMnM5dzFfQ1BYVW8td0ZQVndDX2dwblc2cFhYc04zWXRVcnFaS3ZpdmU2d2ppa0JkU0xSNFBWNlJHS0hJcWxCLWExZzFYNmU1ZGE1MXd3ektsNVhJSXJWbkdpRDRCRHFU?oc=5"
+        },
+        {
+          "title": "NextNav Inc (NN) Stock News Today - TradingKey",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WV2pxMU9tV0VjQ2FfdnN3dmZBalVLcmtZbkNrLTUyRUg3SkZpbkxnRDl5YW5EYm5YdGI3OC1HckhaWHhCVTZxMm9Dei1FVlJmbkU2TEtuenMyMjZ5QkE?oc=5"
+        },
+        {
+          "title": "NextNav Inc. Revenue Breakdown – NASDAQ:NN - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fOE5QRlRwNEg0dEVCQTFlSldXWkF0VkdJSjI3QU03UGVtNzZKZC1WSFo2QVFIamFjSGxUSkFwdHpvN3VPQTBENWxuUHVpR09qTUlsQVBCc0I1VjJQZ1FGSW1UQXY3M05zSThZY2Rmd3VScDBR?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "SEPN",
       "name": "Septerna, Inc.",
-      "price": 45.47,
-      "change_pct": 17.04,
-      "change": 6.62,
-      "volume": 303211,
+      "price": 45.26,
+      "change_pct": 16.5,
+      "change": 6.41,
+      "volume": 371385,
       "name_zh": "",
       "spark": [
         38.62,
@@ -197,9 +295,25 @@
         45.07,
         44.71,
         44.96,
-        45.47
+        45.47,
+        45.38,
+        44.8446,
+        44.565,
+        44.64,
+        44.695,
+        44.7201,
+        44.88,
+        45.12,
+        45.25,
+        45.28,
+        45.26
       ],
       "news": [
+        {
+          "title": "Stifel raises Septerna stock price target to $49 on SEP-479 outlook - Investing.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckVsMFQ3b01OZG14a0FaMTRzaTBEQ0daRmwzVWNjM0dXLWpjVVZmWWM0WXczN2lMMHdDaTlJS2ROeWNZbjVVb2dmTjRTczNFdzBjaUx0SnFDWW5Kbl84aTlhQjgweElEME43QTBkV2RZY1FrOEZ1dmxTMmZ6c0JncTZRaVhBVkREYkdNU3otMzRzNW9OVElKWXA5UHZ2dWNYNVcxZVN6LWlQUl8tNUM5eFpUU3RFS295a1A4a0wxWHBMb2Q4Zl9ob1BxcGFfUQ?oc=5"
+        },
         {
           "title": "Septerna, Inc. Stock 12‑Month Price Target Raised to $45.44, Implies 17% Upside - TradingView",
           "title_zh": "",
@@ -209,183 +323,81 @@
           "title": "Septerna (SEPN) SVP exercises options and sells 3,334 shares under plan - Stock Titan",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFdWZVY1WmQ5bmI4eXBPTnI1dVJpeV8zbkRYLXliaHU1THRYRlZHUDdERHlCSnBXMXVfSVA3Z0tGV0hvLVN4R3AwVlJIV0xDbTVyQmRWNUxsYVA3TWEybE5Xb0IwaERLeUhtSUh2OFlIdXdVTEtEWmJxMDdlMndTX3FuQzNGNDJCbERZdmI1cHhqODVycFhZNnlrM0RLNW5xZUpOZmszdlJGdw?oc=5"
-        },
-        {
-          "title": "Is Septerna, Inc. (SEPN) Stock a Biotech Opportunity With a Potential First-in-Class Hypoparathyroidism Treatment? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmo4YkZqRzB2WkVGaVVqYmoxTXJRX3d0eXB2eU9heGM5cmVlNElpNG9zX0RaeUdOZzRQVEJ2MGFSUTZncmp4clZaaFdrZUc1M2NlcnN1Nmp5ODk1eFl6eXBQNWtxcENYbi03b2dSVGtzaWd4Um5ZaGVtRjhCalNQU2NaRDQwaFdtbGNiU1FjMlg5THVmX0tR?oc=5"
         }
       ]
     },
     {
-      "symbol": "BSP",
-      "name": "Bending Spoons S.p.A.",
-      "price": 58.28,
-      "change_pct": 13.32,
-      "change": 6.85,
-      "volume": 2058491,
+      "symbol": "SE",
+      "name": "Sea Limited",
+      "price": 130.47,
+      "change_pct": 13.65,
+      "change": 15.67,
+      "volume": 10351317,
       "name_zh": "",
       "spark": [
-        53.215,
-        52.3,
-        53.15,
-        54.4,
-        55.4202,
-        56.74,
-        56.3,
-        56.02,
-        55.38,
-        57.12,
-        57.61,
-        57.72,
-        57.31,
-        57.25,
-        56.4915,
-        56.42,
-        57.82,
-        57.63,
-        57.7258,
-        58.5,
-        58.625,
-        58.425,
-        58.19,
-        58.3,
-        58.1623,
-        58.175
+        128.21,
+        127.975,
+        129.51,
+        127.3282,
+        127.32,
+        128.45,
+        129.04,
+        127.53,
+        127.06,
+        128.51,
+        128.8994,
+        127.98,
+        128.49,
+        128.81,
+        128.8699,
+        129.31,
+        130.525,
+        131.2589,
+        131.265,
+        131.4,
+        131.3,
+        130.89,
+        131.445,
+        130.71,
+        130.93,
+        130.4183,
+        130.33,
+        129.6,
+        129.82,
+        130.2183,
+        130.29,
+        130.4572,
+        129.81,
+        130.32,
+        130.13,
+        130.42,
+        130.47
       ],
       "news": [
         {
-          "title": "Bending Spoons S.p.A. (BSP) stock price, news, quote and history - Yahoo Finance Singapore",
+          "title": "Sea Limited stock jumps as investors react to second-quarter earnings strength - quiverquant.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUXVoUTcxRWN5U3p0NERaU1JGVVpSTERoMDZ1b0dzRnY4OW5ORjlZX0g3WHJSRWRibVYteFhEQzNWaUlzNXpfcDlSNGtsNUN6?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRURQc0I0cG9iX2x0OXhTcF9TbzcxOEg5dVZJWjdCMDhXbFRiYUh3MzdtS0FuYWJZd1UzanE2VWFUcjg5OXc4djdZV0U0NWhzMVdpeDVzMDRoR0dBVkxTRUUtYy1sdl95a2RHb0tqdDctcFBzVTdhelhYU3FLeS16Q3pGXzlPbnhocHp2bGMwX1FaYnNXd0NlcWNBdlpHaWhDaEV4bW1fMVQ1bjAzTnRNRQ?oc=5"
         },
         {
-          "title": "Bending Spoons sets Aug. 13 call before U.S. market opens - Stock Titan",
+          "title": "Sea Limited Reports Second Quarter 2026 Results - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1FFME4zRmN2WENKWTNSdnowdXVPa194VFJRTG5WaWdiVnliamQ1ZGgtR3JHaS1WQ3o3Q05OcF9qM1QxdFlXek93SXIzbTU0eG93dnJ2a2tReDlaWTV6Ym9sSlVUX2ZDZzRZT1BCZnhlUnUxNkxhUEVqbk1RZHBKNW0yQUhsekhLVGtNWktQaGVWQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHRvSDZWTnhOWGhyVGFuNUlFMkV1Ukk1YVE5TlRzNm9kYmJhX3B1eWNRNVVJNV9NdVRDaXNqdDNRNVFUS19xNVp3QWRkX1puYjZUS3dHQnZKVWNCa3FPLUpMTGZwcFJKcjFxUjcyUWVPYzBvTFhRYW9JUTd3cjRHaTR2S08walZ0bW83WTJrVl9BSW9oMTlrMEJFcnRKNUlz?oc=5"
         },
         {
-          "title": "BSP | Bending Spoons S.p.A. Ordinary Stock Data, Price & News - Quiver Quantitative",
+          "title": "Sea Limited stock surges 9% on strong revenue growth - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Mk1QODhuS1ZTZVNUVzJXS1ZiREl6anB3Z0tIVkhkblNJN05TM05yM2l5LXJIYUJKbllKcGNyY3RjQS1xZ1hNVlk1eHVQcUk?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "ACHR",
-      "name": "Archer Aviation Inc.",
-      "price": 6.85,
-      "change_pct": 9.42,
-      "change": 0.59,
-      "volume": 47849921,
-      "name_zh": "",
-      "spark": [
-        6.61,
-        6.415,
-        6.6663,
-        6.745,
-        6.655,
-        6.795,
-        6.705,
-        6.5899,
-        6.48,
-        6.555,
-        6.5301,
-        6.64,
-        6.6586,
-        6.72,
-        6.7002,
-        6.75,
-        6.755,
-        6.765,
-        6.7863,
-        7.015,
-        6.975,
-        6.995,
-        6.9299,
-        6.895,
-        6.825,
-        6.8447
-      ],
-      "news": [
-        {
-          "title": "Archer Announces Second Quarter 2026 Results; Announces Deal with Boeing to Shape Physical AI Future of Aerospace and Defense - Archer Aviation - Investor Relations",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVBqVzVrZlVaeTRtUkpXN1N6T3NnaXF3c3hTZEZkMlppcXBCbXpqNE9QNmhiMlJtcHR2bUE5YThmbjFodmU0bGkyc3dCU2tUT2ZMYm00SUl6eG0zRU1vazFURnhNWkRtMFpfYXBjeWFibUU1NXA0aFZsT1I0YVh5U25rWTZzMFpEOHVQZGFnMENPekR5aVVBQ1FzcVAyZVNsbWdXUTI1NVE5WVFka2lHMXR4aDlvZExlZTJHYzRiZ3JVR3dLT0RoelhkT0wwYzgycDNPUlVzaFZQWmFUWXg2cVhqOEMwN1UyOFg4LXZLMjU5REI5MXQ5emtGY2I4WEhQMzRzblJNbTk?oc=5"
-        },
-        {
-          "title": "What's Going On With Archer Aviation Stock Tuesday? - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTF9xNXBPakZNR1BqdkM1emFHdjdkTVU2STVlaFN5cVNMZ1BWZU9rTGdqY2Z2bDg5Um5ycnFva1NZcWUwalBCWF9YaDRXekZYRFpsZnNaQkZHcDVmMHp1azF6V0ZHSWFNZHFWaFF6V21wUkpCdExrQUQwTDhGeVQwN3dHSzhTQWJWOTNmRVdqQkNIbVItcjFhUHAwa2owZDlaendBRTBXNlFhZGVNaTNz?oc=5"
-        },
-        {
-          "title": "Archer Aviation Stock Soars 12% on Boeing-Backed Expansion - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlJ2cm5qMkhVazhiWlpFOEdEd29PdHlMZEE0MEN3REgwY2V5SmY3LVpWZ2pfUnIwd0lVcGdmQ2NNRmhUZmF6Tm9VUWljT1hlM1A5TGZlWTlwNkQ4MDVpQy1QZ0x0d1dSSHlZUUtMekJ4cGhlaXNlLTZmZUFmS21jM0h4RmRlUDQzQ2liRWQyRExLVjNIQm9JUzJQV1N1aHp0ZkdEVko1eUZ2WGVobG13bV9udw?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "IMOS",
-      "name": "ChipMOS TECHNOLOGIES INC.",
-      "price": 59.51,
-      "change_pct": 12.18,
-      "change": 6.46,
-      "volume": 133380,
-      "name_zh": "",
-      "spark": [
-        55.0,
-        57.32,
-        58.88,
-        58.07,
-        57.54,
-        56.74,
-        57.51,
-        57.8882,
-        58.045,
-        57.42,
-        57.07,
-        57.8013,
-        58.68,
-        58.48,
-        58.2401,
-        59.02,
-        59.2,
-        59.32,
-        59.32,
-        58.9997,
-        59.0973,
-        59.25,
-        59.47,
-        59.5,
-        59.505,
-        59.51
-      ],
-      "news": [
-        {
-          "title": "ChipMOS TECHNOLOGIES INC. (IMOS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbWU2elctU2xySlRmR2o1TElVazU5MXJHZEdUQnBCTDl4X0NJeTh1WThjb1JQRkdFZlNVa3NpWHNENUlmUFljVXZnaVM5YW1WR3c?oc=5"
-        },
-        {
-          "title": "Chipmos Technologies (NASDAQ:IMOS) Stock Price Up 8.3% After Strong Earnings - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRk83VmxyNXllcHE5NEYtaF9jLXJiTHo2bV9uV0hlYk9oS05Dem5IdnlEa29sQzVmVjkxdlhxNmUwb1E2LWdjMEJ0YW5GQXJ0OE5vdEZiMDR6bks0RHZEcU5KVUpKTnBzMWExX1I1YlFwY1VCOVZSQ19tYzVEMDRHblF1OGdMVTM1bldkTTQ0aVBiWTZxVnNHYm9HQWNKMGZfcmd6aEtIaExzSng5ZXc1YTNheXJiTmtoY0NKMFNTR0xCMHM?oc=5"
-        },
-        {
-          "title": "ChipMOS REPORTS SECOND QUARTER 2026 RESULTS; RECORD HIGH QUARTERLY REVENUE SINCE 2014 - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVEtOZ3NwMzlFRFJjZ1ZtVllMaEs0Z3JUQ3VvX3lZX1paSUNKOEREUjlRR0NsdnFzeC16RVUxUl9LNk5SZDY2dXhfY3NwaEVCcVRyTTNIWmFHLVpDUUJzRXl3T1lMelloZFh2NEMzMUhRZ21QTUt4ekxPd3ZkWFI4RGhyYl9zbmNEUWtNc2lvZ0NfYmdnMFBFWkN6TjRJQVRjZ09QQVJDMi1DcXJsLWd3TlFhX2kzaDVYMHJLOFp3eDFHeTFadTRNdFlBSGRReHNBcmRZd0JNa3JXLUdPNGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVBYeWI2b3YwOUtDa3RzR2UzckNqVlVXMXZKdmxBdk5tYTJyVUQ0SG05V3VPUWJsMzJ4ZTIwRW1zeGZnSjBIc2k3dlViaDJxMDh5TkZhZGt3cTdSYkpDSFZtNVMxRWFYOGZQYXBvNzFpUVpZZnB0OXVqb0tUWmtMbHpsaUE2c2dzNXJhZUhieVBEelI3YnM2YTE5Nm1ySWZYcEJwVXlDYw?oc=5"
         }
       ]
     },
     {
       "symbol": "RNW",
       "name": "ReNew Energy Global plc",
-      "price": 6.82,
-      "change_pct": 11.17,
-      "change": 0.68,
-      "volume": 17128752,
+      "price": 6.84,
+      "change_pct": 11.66,
+      "change": 0.71,
+      "volume": 19477050,
       "name_zh": "",
       "spark": [
         6.756,
@@ -413,7 +425,18 @@
         6.81,
         6.82,
         6.815,
-        6.815
+        6.815,
+        6.82,
+        6.815,
+        6.815,
+        6.82,
+        6.82,
+        6.825,
+        6.828,
+        6.825,
+        6.825,
+        6.835,
+        6.845
       ],
       "news": [
         {
@@ -434,110 +457,195 @@
       ]
     },
     {
-      "symbol": "ZLAB",
-      "name": "Zai Lab Limited",
-      "price": 25.8,
-      "change_pct": 9.46,
-      "change": 2.23,
-      "volume": 941878,
+      "symbol": "IMOS",
+      "name": "ChipMOS TECHNOLOGIES INC.",
+      "price": 59.19,
+      "change_pct": 11.57,
+      "change": 6.14,
+      "volume": 145958,
       "name_zh": "",
       "spark": [
-        24.05,
-        24.2,
-        24.75,
-        24.72,
-        24.94,
-        24.94,
-        24.82,
-        24.995,
-        24.925,
-        25.01,
-        25.02,
-        25.13,
-        25.73,
-        26.02,
-        26.11,
-        26.0625,
-        26.05,
-        25.975,
-        26.02,
-        25.99,
-        26.0,
-        25.6585,
-        25.82,
-        25.8,
-        25.74,
-        25.86
+        55.0,
+        57.32,
+        58.88,
+        58.07,
+        57.54,
+        56.74,
+        57.51,
+        57.8882,
+        58.045,
+        57.42,
+        57.07,
+        57.8013,
+        58.68,
+        58.48,
+        58.2401,
+        59.02,
+        59.2,
+        59.32,
+        59.32,
+        58.9997,
+        59.0973,
+        59.25,
+        59.47,
+        59.5,
+        59.505,
+        59.51,
+        59.51,
+        59.51,
+        59.16,
+        59.64,
+        59.384,
+        59.33,
+        59.6299,
+        59.435,
+        59.19
       ],
       "news": [
         {
-          "title": "Zai Lab Limited (ZLAB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "title": "ChipMOS TECHNOLOGIES INC. (IMOS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRmVPajUtbG1JdThETmI4d3U0OXBpeGhPSEZsdjliQkN2WGFsU2pEcnlSdVo1VUg3UERURkNKcnlyOEJWMG56NEpKY3BtMTRmVkE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbWU2elctU2xySlRmR2o1TElVazU5MXJHZEdUQnBCTDl4X0NJeTh1WThjb1JQRkdFZlNVa3NpWHNENUlmUFljVXZnaVM5YW1WR3c?oc=5"
         },
         {
-          "title": "Zai Lab Limited (NASDAQ:ZLAB) Just Reported And Analysts Have Been Cutting Their Estimates - simplywall.st",
+          "title": "Chipmos Technologies (NASDAQ:IMOS) Stock Price Up 8.3% After Strong Earnings - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZVhlTXdpWHVwSzlleTZvNjF6eWYwZVFtRVplU2hDRUcwQkV3ZnhwbVFHWXdwWjF1S3V3eHhIYVlhal81Sk1GT0dXWkx3NDJVbkdLRWFPU1dod2ZocGF2T0hKUzg4ZzB2OVhpeWJrVmYtU1NDUk81ajd4R0xkUmh5YXcxNFRsajEzY3pOYUZQUTk4WTBJU1pCYWFmUG5rcllVaWdsb2JpT0lGWEcxWG1ic1ZJcndtZ1lMRm01b0wxWGx4SkJFUkl1RVQ2THFxSXFjRmVVR0hFaTTSAd4BQVVfeXFMT0JhTEdGVWVXMGdvV2ota3J5V2VEbjA5czdjR0FoSE05Wmt4ZUtLMVhLTExaUGtsRF9wZ1BrTmE4M2c4UzhoaksxUEJxYmVqekFjRXEwY3FNVHhfQjhEeDNhMnZNcFZaRUtnOXJxWGVTLVVRdVFISVUwb0hEZlpzMkFCQjNBcE5rbFhpWUVwWlJSaEdmOHZ6anRnaUUxaXpTY01FWElYOWhaOUl3bEtvS2ZzZHY5Ql9ZSy1NVFhtSlRHY0hNTjEyQWxZVU1DRXNEZGpjLUgwV1E5dTN6YXFn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRk83VmxyNXllcHE5NEYtaF9jLXJiTHo2bV9uV0hlYk9oS05Dem5IdnlEa29sQzVmVjkxdlhxNmUwb1E2LWdjMEJ0YW5GQXJ0OE5vdEZiMDR6bks0RHZEcU5KVUpKTnBzMWExX1I1YlFwY1VCOVZSQ19tYzVEMDRHblF1OGdMVTM1bldkTTQ0aVBiWTZxVnNHYm9HQWNKMGZfcmd6aEtIaExzSng5ZXc1YTNheXJiTmtoY0NKMFNTR0xCMHM?oc=5"
         },
         {
-          "title": "Zai Lab (ZLAB) Stock Jumps As Revenue Holds But Losses Deepen - Sahm",
+          "title": "ChipMOS REPORTS SECOND QUARTER 2026 RESULTS; RECORD HIGH QUARTERLY REVENUE SINCE 2014 - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVElPa3ZMOEJDNFBCVGdHS1BSaE1fWjY0X0ZhSERCN0RTUUtLelJFbEluTmNpNndEeVRJQWR6UFF2RGIwMDBSNGVURWlYTkhFTEF2YVVuSzhNSmpySzZFY2VsTmpSd3UtVDRBaUwzWjhJNGRtNFhvSGM2VURpdjZGQ2RJT05aa2l4dVA4YXg1VkNrUXNVQUw1RTZIUWZSREJ4SmppVzVlOVR1YTROeFgzWg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVEtOZ3NwMzlFRFJjZ1ZtVllMaEs0Z3JUQ3VvX3lZX1paSUNKOEREUjlRR0NsdnFzeC16RVUxUl9LNk5SZDY2dXhfY3NwaEVCcVRyTTNIWmFHLVpDUUJzRXl3T1lMelloZFh2NEMzMUhRZ21QTUt4ekxPd3ZkWFI4RGhyYl9zbmNEUWtNc2lvZ0NfYmdnMFBFWkN6TjRJQVRjZ09QQVJDMi1DcXJsLWd3TlFhX2kzaDVYMHJLOFp3eDFHeTFadTRNdFlBSGRReHNBcmRZd0JNa3JXLUdPNGc?oc=5"
         }
       ]
     },
     {
-      "symbol": "CIB",
-      "name": "Grupo Cibest S.A.",
-      "price": 99.81,
-      "change_pct": 9.12,
-      "change": 8.34,
-      "volume": 270444,
+      "symbol": "BSP",
+      "name": "Bending Spoons S.p.A.",
+      "price": 57.17,
+      "change_pct": 11.17,
+      "change": 5.74,
+      "volume": 2457252,
       "name_zh": "",
       "spark": [
-        98.79,
-        97.5,
-        97.26,
-        98.47,
-        99.715,
-        99.92,
-        98.71,
-        98.06,
-        98.77,
-        98.475,
-        98.67,
-        98.58,
-        99.11,
-        99.68,
-        99.38,
-        99.55,
-        99.44,
-        99.55,
-        99.72,
-        100.47,
-        100.59,
-        100.345,
-        99.915,
-        99.6475,
-        99.71,
-        99.71
+        53.215,
+        52.3,
+        53.15,
+        54.4,
+        55.4202,
+        56.74,
+        56.3,
+        56.02,
+        55.38,
+        57.12,
+        57.61,
+        57.72,
+        57.31,
+        57.25,
+        56.4915,
+        56.42,
+        57.82,
+        57.63,
+        57.7258,
+        58.5,
+        58.625,
+        58.425,
+        58.19,
+        58.3,
+        58.1623,
+        58.21,
+        58.11,
+        57.85,
+        57.72,
+        57.515,
+        57.83,
+        58.135,
+        58.005,
+        58.31,
+        58.25,
+        57.8941,
+        57.175
       ],
       "news": [
         {
-          "title": "Grupo Cibest S.A. (CIB) stock price, news, quote and history - Yahoo Finance Singapore",
+          "title": "Bending Spoons S.p.A. (BSP) stock price, news, quote and history - Yahoo Finance Singapore",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTkw5NEdQU3p5TU5fNlhEZUYxT3pOWVVVT3BkOWgySnZBM0g1eWpXamxWelYyQUdYUzBwWmU4ZlM1ZVNycm0tNkNVaW8xTXhK?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUXVoUTcxRWN5U3p0NERaU1JGVVpSTERoMDZ1b0dzRnY4OW5ORjlZX0g3WHJSRWRibVYteFhEQzNWaUlzNXpfcDlSNGtsNUN6?oc=5"
         },
         {
-          "title": "Grupo Cibest (NYSE:CIB) Sets New 52-Week High Following Earnings Beat - MarketBeat",
+          "title": "Bending Spoons sets Aug. 13 call before U.S. market opens - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVZuVTV6VWptZ0ZYakN5S2xpbTB0dGhSUlBSZ09pV1dUajdnQlR2c3RKalNSdURXbUtVN2FUb1ltdFh4cEh4anpsS3g2bEl5SWQwVkV0bVZzUW5ZeGlGUUN0eWc1TktrT1A5aC1IUl81VmtWa3FaVHJTWF9WZ05La2FRRERkVlQxek1oQnRxWWx3XzF6aFB2UFZFR3NjcXZwb3pPeEJFQTBiaHhuc3k0aVFiOWRiUkxZbDNlVw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1FFME4zRmN2WENKWTNSdnowdXVPa194VFJRTG5WaWdiVnliamQ1ZGgtR3JHaS1WQ3o3Q05OcF9qM1QxdFlXek93SXIzbTU0eG93dnJ2a2tReDlaWTV6Ym9sSlVUX2ZDZzRZT1BCZnhlUnUxNkxhUEVqbk1RZHBKNW0yQUhsekhLVGtNWktQaGVWQQ?oc=5"
         },
         {
-          "title": "Grupo Cibest: Q2 Earnings Snapshot - kare11.com",
+          "title": "BSP | Bending Spoons S.p.A. Ordinary Stock Data, Price & News - quiverquant.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGVTVWxOVTZKbHdrMmVvRUUxR3N3aTFGSGt4c2VWRnk5SERzeXFaQnVDdjh2dW5KV1ZmZGVETEFrZF9XN091VjYzZmg5U0UwMXMyWWkwOUNCTXQ4RjU2REFRbVZ4RnNEY0FzMnZvdG9pUkYtYzZJYkVTUW9EMXJLckd5N0V0NVNBbVU0VUpTMlVIQXk0SE9oQ2M4YXFScnNFLWdIMDBERGxSNGl6WE1YT2xrdFlxVDZQQ0wxdW9XZjgwNEV2Q3k1UjFRUkRHQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Mk1QODhuS1ZTZVNUVzJXS1ZiREl6anB3Z0tIVkhkblNJN05TM05yM2l5LXJIYUJKbllKcGNyY3RjQS1xZ1hNVlk1eHVQcUk?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "STDN",
+      "name": "Standard Nuclear, Inc.",
+      "price": 12.61,
+      "change_pct": 10.12,
+      "change": 1.16,
+      "volume": 820923,
+      "name_zh": "",
+      "spark": [
+        10.9477,
+        10.84,
+        11.0799,
+        11.29,
+        11.262,
+        11.3222,
+        11.105,
+        10.845,
+        10.65,
+        10.805,
+        10.9,
+        10.9254,
+        11.105,
+        11.0314,
+        11.155,
+        10.88,
+        11.24,
+        11.25,
+        11.55,
+        11.655,
+        11.77,
+        11.745,
+        11.76,
+        11.515,
+        11.86,
+        11.8,
+        11.785,
+        11.648,
+        11.53,
+        11.6486,
+        12.18,
+        12.185,
+        12.37,
+        12.48,
+        12.451,
+        12.485,
+        12.6084
+      ],
+      "news": [
+        {
+          "title": "Standard Nuclear, Inc. (STDN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bXNuQXJHaTFrQWstM3BOYjgxOUhNaXdsU3lyOWJYaGNseG1CWXRIV1lGcGlzTC1rQjh0dkFLcWRVV19YQXdFaVQ5QTVaNnVRSVE?oc=5"
+        },
+        {
+          "title": "Stifel initiates Standard Nuclear stock with buy on nuclear fuel position - Investing.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVFraU1ZSWlVcmRnSXl1N0F1cHZTcHQyaEF2Mm14TjkwM3d0RkpyMk5BWVczVUFQWW1pdmlqWHdORU92bUpvZTdYU1diblA2bks1cEl6Z2tEVnZ0NHFjajd3UDdBV1RxYVpWRGwyZkQ5aFliRG5paGdZZUExdDlPdWZWM05pM0NBX0V6YTY3UjZXRFF6cm4wSVJkY0YtN28zYzhsRjh6aDhPejNCR0xKZjc3ZHpRekRhWnh3Z3NsbjJ2WGhfZzUzTG0xS3lRQm5qZGkwU1dBamg?oc=5"
+        },
+        {
+          "title": "Nuclear fuel firm Standard Nuclear falls in NYSE debut after slashing IPO size - Reuters",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzhQS2JjM3ktc2ItcW9LUzZwVXZIbndVSDNMM3JGTzlKOHF4NVVOZHNDbkI5ZG54QmdzRWdYdXRrWnVSODd2UjZfU3pOc3BOdXNSLVhCUFpoNWZtUW5YNEltWGFZblFhYTRsVTl5Tk9qZnhyTG5vVC1sbVJiQ0FXM2pYQmhKVE5MZmw0Z25kWUxzNnlhT1lXeWJ3RE5xeTNtdXkweS1BeHMyY1VKSjFsQkUxVEMyV3NldEQwckdnTE1BdDc3NGQ0?oc=5"
         }
       ]
     }
@@ -546,10 +654,10 @@
     {
       "symbol": "LIF",
       "name": "Life360, Inc.",
-      "price": 47.73,
-      "change_pct": -26.13,
-      "change": -16.88,
-      "volume": 1506402,
+      "price": 48.78,
+      "change_pct": -24.5,
+      "change": -15.83,
+      "volume": 1819205,
       "name_zh": "",
       "spark": [
         48.475,
@@ -577,18 +685,29 @@
         48.17,
         48.0,
         47.5793,
-        47.735
+        47.84,
+        47.775,
+        47.86,
+        47.63,
+        47.5301,
+        47.9999,
+        48.32,
+        48.2,
+        48.285,
+        48.52,
+        48.78,
+        48.74
       ],
       "news": [
         {
-          "title": "Life360, Inc. Stock 12‑Month Price Target Raised to $63.28, Implies 2% Downside - TradingView",
+          "title": "Life360, Inc. Stock 12‑Month Price Target Cut to $62.53, Implies 3% Downside - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVsQlg3ckxrdGZxQ2diZVhTdVlEN253R1kzN1lPS1E2YVhaSjJMNVlZWW0tUW1Fa3JrRG5WU3ZqOW94Tnl2emItR3J1dHcxaUN0UlY1MmpKdmRxVERKOVl3UFh0dTY4Sjc1VzhFMGJwOU1BOWxPdmpGd2VEREZpRHFQdXNJR0VZRndpY1g3ajZmaFlPeGJNTWRXcURwZE5TVFRHVEZvbm5oWVNUcFJRQUliVE5RQW9oLVVsZzBmM01JZ3IzazhnMHljSUxRTWwzMWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTS1Gc0M1MEd3c3VrWWg4SFc0cmN5VVlFZVFfeGpiYXBmR1JoRGp3SmZBRjJnQm1BLThKYVFlSkd3YUZDYWJiWEFHaF8ybzAwUUdPSFFSUlo3VXMtXzVvSVl1XzBnUjc2NUtNYXpJUGg4UkE2dHpZOEwwbk9jVVRSQmlSejBsV1h0cDBBQ0dOQzMyQUFMUkJ5aG5CV0FZNEk5SEQxa2ticExZd2ppTG1yWWNUTkktZ3ZEczRxVmZscXB6YUxUTlN5d1VNajFIZw?oc=5"
         },
         {
-          "title": "Life360 (LIF) Stock Falls on Q2 2026 Earnings - Quiver Quantitative",
+          "title": "Life360 (NASDAQ:LIF) Shares Gap Down Following Weak Earnings - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFd2MlBrVGFjQjV2M2N0WThabnF0bEV6ZlJrRDl5amdhTDQ1MFdOVnFsbGZLejFtWlpob0pNNnJBWUNITTFncS0tRmljUHNBWkk1VXViNGU0aGUta1NjSVY3b1I2MHZYa2hmMmU1NktBUTQxYmZ6REFLbnBhTUxULUFMSldvX1pLYVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelRwcVRjY2xXNExvRW5KTW1xRlU0c3Z5S3gxOWVhUTlXWmdhM1Y5TE11YkJlRy1FVXNOZENXWW1yNlRoTmtIQmhRX0IxaWpOSnhibWpHcldxM1ZxbEZicUJFajRTak1oZUdWZ01hWUdPcGdWUllya2RkOTJfM3ItdnUzQ1VkSXBqSnhLdU9MajhyT1F3dkxFNHltaUJTS2hTWlY1cHQyN2k4M1g3UGJhNQ?oc=5"
         },
         {
           "title": "Life360 (LIF) grows Q2 2026 revenue to $158.9M while remaining profitable - Stock Titan",
@@ -600,10 +719,10 @@
     {
       "symbol": "ONON",
       "name": "On Holding AG",
-      "price": 31.3,
-      "change_pct": -19.3,
-      "change": -7.48,
-      "volume": 21961840,
+      "price": 31.2,
+      "change_pct": -19.55,
+      "change": -7.58,
+      "volume": 24984272,
       "name_zh": "",
       "spark": [
         30.5,
@@ -630,19 +749,30 @@
         31.51,
         31.58,
         31.5599,
+        31.33,
+        31.27,
+        31.2882,
+        31.33,
+        31.4,
+        31.43,
+        31.29,
         31.325,
-        31.3051
+        31.34,
+        31.315,
+        31.31,
+        31.54,
+        31.1988
       ],
       "news": [
+        {
+          "title": "On Holding shares plunge 22% after Q2 sales miss, lowered growth outlook - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajQ4cGhFXzFlRVhOSjYxemN3bDdrdUpURlNXdnpvdXpiZmdWOHM4cU1tS0Z3YUdfTndPMURkLTJjTW5uZER3amRheW1vWmVhcjF0aDV2LVp5VTZKVnVJTmtyUkFqakFlQlo3c2swNnRNdnIzQWJmNWZLQXE4WkN6WkZoNmVvdDdWeUM2eXVERjJ4V1FHR1d3M1NhQQ?oc=5"
+        },
         {
           "title": "On Holding slumps on concerns of slowing sales growth (ONON:NYSE) - Seeking Alpha",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHlMbVpxWmxXUTZSQkh0ZVlYTDdzVEJUajlGaXhROVUwTm1aTTA2dkJJZGVWcmVzck9zU3NSOHl2QWdJQWNhREZkbzE5Tk5JUGZKeHBMTVNheVdBc3RNLXZOczFocHhod0NHYlNaZW9yRlA4a2VZblpOS2FHaGJNVS1zcVNVN1p1VVhVdUVwM3dpYzNkZUE?oc=5"
-        },
-        {
-          "title": "On Holding (ONON) Matches Q2 Earnings Estimates - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWl5Q3M4MDdUOXV5enZxUThmSWR5SUUwUGtTRnhCRGZWOEw1cjdkZ3dvOGh4enlzT3ZfTGhWZndFcGNLR1BIaGVLbTBhT1dUcHpZNFBFTm9xaVZiZ0ZNN1EtbXowbHlhN2VRSHp3b21XVWJSeHRNX3N5RVpzZmdxbW1HNXR0WXhuSHFrenNGZnB1bGpBQkFNRm1kY1lRZw?oc=5"
         },
         {
           "title": "Earnings call transcript: On Holding shares sink 19% after strong Q2 2026 growth - Investing.com",
@@ -654,10 +784,10 @@
     {
       "symbol": "HUBG",
       "name": "Hub Group, Inc.",
-      "price": 40.19,
-      "change_pct": -15.13,
-      "change": -7.16,
-      "volume": 714479,
+      "price": 39.37,
+      "change_pct": -16.85,
+      "change": -7.98,
+      "volume": 1030873,
       "name_zh": "",
       "spark": [
         45.0775,
@@ -685,7 +815,18 @@
         40.72,
         40.48,
         40.36,
-        40.19
+        40.01,
+        40.365,
+        40.21,
+        40.2,
+        40.11,
+        40.14,
+        40.3,
+        40.145,
+        40.27,
+        40.0,
+        39.56,
+        39.45
       ],
       "news": [
         {
@@ -699,127 +840,78 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXNaNjZNSkpLM24yNGJyYzNPT0JwcTYxclNjTDB6bEUyQVl6d0VwWmQ1Y2QwRldFT29OazlCa1RLT2ItVktsc2RzZVl1LWNoS1p5VWM4REx1UjRWX2tnVnlJUU8ySEc1TVRvMDJIRzR4WmZMNlRmdmVuZkJSSG9IVV9ZUmtqZkZYbjZzYVNOR1c5b09TNndldEFXYWtsTTdIQVVRQjRkWUlVRGwzdHVfa0cxbFU1RV96OE9MRg?oc=5"
         },
         {
-          "title": "HUBG UPCOMING DEADLINE : The Gross Law Firm Alerts Hub Group, Inc. Stockholders of Securities Class Action - Contact the Firm - Morningstar",
+          "title": "Hub Group (NASDAQ:HUBG) Shares Gap Down - What's Next? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNejlKaFNVMFlqWXJXSXZIb1VidGNJR3g5dkNIVllYdGhWYUZ4TmlwNDhtcmlBeGZoUU1lWFp0WlJMY3E5Zlh0ZlNldmItelFiNlg0NmVHSm1wN0FfdVMtRDh3UVNTTXFxRU5tUkdnNzM0OXNRV3FKeUpxZVZBcE9Kc0dnd295TVpCNzU4S0x1ek5ERzVQWXNjSVVITmtqLVhSaEpYTHFfNnBkNURsaE5LQkVkbE5WQ1BqQ21Pa2tJN2c0ajBXRmd2UW9VVXRoLWVHTWJwRnRlMXFNbm9YZ2I5ZUN0Um9rR1E1UDNRSmVfN3JCSmVuX2Uzd2NPWnpCMW9jNXpEaWRpbXhEdnZo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1hxN1JfSFpqYWxrS0pLTXcydGNKSnpMeUFjbklQMy1jRU9acVNmd19WeVhRYzBZcGVjV3lQeUt5LTlHWkJJM0h3bWpaR2pZMWpLQXoxWGtnaDZVdnNudk9WOVQtT2IxeGdpaXA5VGoxVGZaWHVfUVJxUWhNUnltOE5VeVhhajM0aWh2VHJ0bzVHd1dmLUpzZU0zNFdDd1hBQ05z?oc=5"
         }
       ]
     },
     {
-      "symbol": "FA",
-      "name": "First Advantage Corporation",
-      "price": 21.11,
-      "change_pct": -10.49,
-      "change": -2.48,
-      "volume": 4533106,
+      "symbol": "NYAX",
+      "name": "Nayax Ltd.",
+      "price": 53.62,
+      "change_pct": -13.52,
+      "change": -8.38,
+      "volume": 48946,
       "name_zh": "",
       "spark": [
-        20.45,
-        20.485,
-        20.78,
-        20.72,
-        21.03,
-        21.09,
-        21.1,
-        21.27,
-        21.37,
-        21.34,
-        21.275,
-        21.45,
-        21.36,
-        21.415,
-        21.375,
-        21.43,
-        21.28,
-        21.205,
-        21.135,
-        21.01,
-        21.15,
-        21.14,
-        21.17,
-        21.145,
-        21.09,
-        21.15
+        52.77,
+        51.9422,
+        52.46,
+        52.5373,
+        52.55,
+        52.56,
+        52.27,
+        52.03,
+        52.275,
+        53.0168,
+        52.985,
+        52.9604,
+        52.31,
+        52.31,
+        52.445,
+        52.44,
+        52.48,
+        52.665,
+        52.665,
+        52.77,
+        52.97,
+        53.5,
+        53.97,
+        53.97,
+        53.97,
+        53.74,
+        53.95,
+        53.75,
+        53.79,
+        53.95,
+        53.62
       ],
       "news": [
         {
-          "title": "First Advantage Won’t Get Proceeds From 12.5M-Share Sale - Stock Titan",
+          "title": "Nayax Ltd. Stock 12‑Month Price Target Cut to $77.62, Implies 12% Upside - TradingView",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTB1bDVxbkIwX0ZtQUlSWnU5Si1wQzBHbVlOUnRFeDkzbUJRbERUSGQxYTVKSGNGS2ttTVhKNkdUQXB6cjJvMjZVUjhRQll0SWxVUnp2emRrZDRiZGJmY1dRN3p3Q0VIcmdXUno3ckljX25fWHRjVE1uSm1TdFZyNUJBMHBESnpzTTYxM1dfODdHZFlLNU1neS1ROFZaUVYyYl82LWJQOUtHY2poRTFNb0JubUMyNi1aZ3c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWhCcnFJMGMzaWd1VnBzZ1V0cTZ3aTJrRWpJTXEyc3hFT01WNll3TjBnVTlWWWY2aDAyd1RtTnV3a09pR000cnZ1RnJxcW94TTNQM1RxbktSZzVzb2dWeUJsRnhPREwwX0NOclU1ZHNFdGMtdE16YnIzZzJzdG85amRrTGw1aEhscUZMWElrZGRhWHpZMzd5alBtZG1xeDZmRFVUY0MwYWFCS1dnSm9SYkNvMHRXU0dBWC1PcDdYWmhOV2pjUHhmS3VB?oc=5"
         },
         {
-          "title": "First Advantage Announces Pricing of Secondary Offering of Common Stock - marketscreener.com",
+          "title": "Nayax Surpasses 1.55M Devices, Reaches 125,400 Customers - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzBnZEtPRFhrYm1UT3FINnNLcnNQc1VteUg3Q3I3RklBMkhST0h4NDl3SDN6TjB6N20tMjBuNEtrSXFiWldKYTlfSVNZMWlvUl80d2FSaE9hWWcwNHAyQ1pVTEtKbjR6YW1RYV81My16UzlxZVB2OFR2bXNpRHctdXlXYUZxa1YtTFBkaFdMNzZqQlBOVExGd183empuZ1lacjNOQWM0b09hVnd1T0N5bmlmd19pWDZRcVRsRmVTNHk2QQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3lTVHRhVDg4ZU9zaW1XcXFMUTJVNzdtT0Z3Mnh2bzl2Xzk4bnBoaE5kUkVhcVRIaHdMQmI2aGZ4b1p5Ml9MWjJpcXVEWmZndVY1czQwMm1qd1ljQ1Y4NExCSTNlcFR2MzZhblJxVDVwMnZCaE92NWdVQzZLQlg3bGZhcFI1UmcxNkVWSkFvRDQzZw?oc=5"
         },
         {
-          "title": "First Advantage Announces Secondary Offering of 12.5 Million Shares by Silver Lake Affiliate - Quiver Quantitative",
+          "title": "Nayax (NASDAQ:NYAX) Shares Gap Down - Here's Why - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRElVV084T1MyZkhac0JRV3dMVndhV0dsTzFyRUlmclhISGNvSWJRUy1DYXBiTU1Pd2FKZzdnZWp5d1Z2ZjBPb1pSbFNtNG93SDY4bGRScmpCVDEyNzl0YlE1dlBrdXZocHExMlRDSndhRGNwMmFaM0RyTTJ0Y1ZNQktWVkUtcG1ibzk0SUVZc185alpzQThuS3FwT2YxZXg5MlVNV2VJa19XZ1ZfMXlWZjRkY2RTMUpudXRWMXk3dDhEU1E?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TME",
-      "name": "Tencent Music Entertainment Gro",
-      "price": 8.9,
-      "change_pct": -10.1,
-      "change": -1.0,
-      "volume": 16506917,
-      "name_zh": "",
-      "spark": [
-        8.54,
-        8.755,
-        8.7101,
-        8.75,
-        8.7783,
-        8.93,
-        8.955,
-        8.8801,
-        8.905,
-        8.875,
-        8.875,
-        8.935,
-        8.9788,
-        8.995,
-        9.029,
-        8.96,
-        8.945,
-        8.925,
-        8.915,
-        8.865,
-        8.8688,
-        8.885,
-        8.885,
-        8.87,
-        8.8995,
-        8.8969
-      ],
-      "news": [
-        {
-          "title": "Tencent Music Entertainment Group earnings missed by ¥0.05, revenue topped estimates - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjJjdVNyTUpqY29qQkNzM1dTVUNPeWxaNm9XenQyOFpJbmJ2QldxdUdXT3dYQ0lMWDAyRksxTzI4X1E1YUg1ejBDSW94ME04THVidHRWWncyQmN4OGhzby1sV014RjRfV3JGQjBjX1hyeUpPS0tmWE45REZxWGhibmRUWkVIRE9MTFcyVDU5Zm9xajhwRlVPTGw4WmFrbWVVU3pZZnF0NjNPZ1BlZTB1eWNKa1VmRkFZekxWVkhGcU1ZYksyeFJ2eg?oc=5"
-        },
-        {
-          "title": "Tencent Music Repurchases 43.5M American Depositary Shares for About $400M - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdExhQlBfaC1fenBzRXU1UjNpTHBkRzBBalI4SlkyWWJwUDFQVF9TMTNCWi1mWEZmSmxHZTA0WllnakVIYUo5aWh0aU5ubUN5V2Fmb0JOMWl3RXg3TzUwaklMX2I4MEpGR1BuSndTX2tHNmJjQUF0WExyczFrcFpUQkhqM0tZYzB1QlBjbGd5cUs1X0taNTQwcnYwczVqdW83QmxnTkE4N2VRaXFkS19rUmVSWjVMMnF3?oc=5"
-        },
-        {
-          "title": "Tencent Music Entertainment Group Sponsored ADR $TME Shares Sold by Lazard Asset Management LLC - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFo5LW5yMks0cGtvdDZRTUszbWVLZWd3N1pGX2QzU2s2UVZRUzJXY0NQMl9YLVdLVmFIaGhlWFdiLUFoN2Zyck44UWd5U1NDUGZZekNQeW9IdlZLUkozVnRFXzlpaTBfLVBlN0JBby1QVkRtWk1vRjllVjBEREZaaVJteXllM0xicFZObGxIX0lNTzBSa0VfX2VYV09VN2JUcFRRYXR2UEtobnBxNkhCckhWZXZOMVA5ODZUZklqMUJnSUpOZzRrN3JNQm51V1VtX3hLdWFuc1lUUkFWU3lXbDUzTmxQbjNLTnhz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHo2VnV3ZjVWaVRfTWE4cEVJM0tKaWZPbzdUemd1dmV2aWs0T0wzTGlwRkJZQmhzNkYtLXh4M09NS20wZnl0NnFGSmhtSnZFVDZRNTREZzd0My1QRzZqandIUUk3eXZCYW55OFJDQjlMRGdreUhadkQ4TG5CQXB6c0FWeXJXX2pBS0VvY3JfTno1RlptVk03UXdiQ0g?oc=5"
         }
       ]
     },
     {
       "symbol": "ETOR",
       "name": "eToro Group Ltd.",
-      "price": 30.05,
-      "change_pct": -11.6,
-      "change": -3.94,
-      "volume": 1571059,
+      "price": 29.82,
+      "change_pct": -12.28,
+      "change": -4.17,
+      "volume": 1938287,
       "name_zh": "",
       "spark": [
         31.02,
@@ -847,7 +939,18 @@
         30.4943,
         30.44,
         30.41,
-        30.0204
+        30.0204,
+        30.09,
+        30.0675,
+        30.07,
+        30.045,
+        30.0599,
+        30.055,
+        30.118,
+        30.17,
+        30.05,
+        29.8601,
+        29.8075
       ],
       "news": [
         {
@@ -856,78 +959,89 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWY2NEFPWVJacFpvWnBfSHh1WEZqWnNJSUd4MEFackZFazlER1BqVmZ5NDVWblY5T1ZQdjVlUFRMR2tsZVM2VUdQWFhrb1BvUW1WMlJwNU9Nc2haWjQ2YmJVOFJWV3dWWEpnMWRGaGFYdHJyU0RVNHFiRHRSTEd2NGs4NGVLeHdZQkxRZm5wNy15QQ?oc=5"
         },
         {
-          "title": "Sei Investments Co. Takes $2.58 Million Position in eToro Group Ltd. $ETOR - MarketBeat",
+          "title": "eToro Group (NASDAQ:ETOR) Shares Gap Down - Time to Sell? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc19qZjZpcEtPY1dkVnVYTUZkZ3A5NUlJc2JjODR1ZDhUOGVrb3NacHI5VWU0Ul9INVNOd2ZIbjlMTXRXV2ItOXQyRDE0MWxSSkd2YlhsWUNxdTlUcTlSMDNpZ01ab3RVZDZRcmhhWjh6elhIY3kySGl4eWRoWXZKQzBJV19MMUV6Q3F0c09paklFcTZhTWlRVm1QNXBpZl90amFpNzh3Zi12QUpPSE05VnNwUFpnaGVsZWladjNyaU93Q0lVNmxvR3Vn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2lFZHE0UlNmT2FWdFdQcVdhdGRReHg1a0Nsd2tlNGZ2QjBKcTM1eUdpQjBkZ0FxRkYwRHB2SEFJQ09Xb1Vud251cE5XWVJPM0VkSTh1djMtU3Z3dlR3aVEzSG1wamdBdnN1SzBhcjR4QkxvYS1ZTW5hMzBVaEhXc2ctTkxFc3pmVXpsZThPdnJIMzRqX1JaOVhDV09GSjkycS1jelFTdl8?oc=5"
         },
         {
           "title": "Trading platform eToro's Q2 earnings beat expectations, revenue hit by cryptoassets (ETOR:NASDAQ) - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlNvR0oxR0JZVERYaWZ6cm9zQUR0Q1FYVDVrRU10VEZuUnlKd3hHekVPRVFsZ0JQOXN4YXhoVmd3UUotUFpIZGc0Rl9pTGVMcWpVQ1VxY19Ga0xlbTBxX3JnOERNUDVudzNVQWFOU1ZJdGJDUkdJcEczYlN3QUgtY3dxcDYxNTYxOUhJbjFidlVnMTRHQVNqY1hUR096LXdOM2FiWmxWaXBiTG9GLVl1MWpiblVnLWdJRTRj?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTBsZGdFalFZN0JKTWpfUm5RV3B6TDVJM1V0aVhxeHhWQVR5RUlmN3J3WGF3X1ZlLU5sZzBtY2E1ZkNTZERqaVdtWkRBdzdMRmpJaXA4X3lmWDhyS2NFVXBpUGlFZzRLbmo3WWNPa1B5ZE9Za3JPQVNHZ05fY2twcEtGOVVxYkhTN3dITlVQYTRWRHNCQlVNeTJpdDFLM1ljTElTUENYdGNhdHZsQ005TVpSQUhCaVNVLUlwQ2tjbXRqQk1CRlo4ODExRzl6RTU5TjFDcg?oc=5"
         }
       ]
     },
     {
-      "symbol": "ESLT",
-      "name": "Elbit Systems Ltd.",
-      "price": 773.0,
-      "change_pct": -8.63,
-      "change": -73.04,
-      "volume": 122123,
+      "symbol": "TME",
+      "name": "Tencent Music Entertainment Gro",
+      "price": 8.76,
+      "change_pct": -11.51,
+      "change": -1.14,
+      "volume": 19750117,
       "name_zh": "",
       "spark": [
-        792.49,
-        782.61,
-        771.23,
-        772.465,
-        772.59,
-        783.0877,
-        786.495,
-        788.81,
-        782.24,
-        782.37,
-        783.695,
-        785.14,
-        783.425,
-        780.0,
-        785.06,
-        785.185,
-        783.78,
-        781.33,
-        775.755,
-        772.51,
-        771.46,
-        770.56,
-        771.06,
-        769.595,
-        773.0,
-        773.45
+        8.54,
+        8.755,
+        8.7101,
+        8.75,
+        8.7783,
+        8.93,
+        8.955,
+        8.8801,
+        8.905,
+        8.875,
+        8.875,
+        8.935,
+        8.9788,
+        8.995,
+        9.029,
+        8.96,
+        8.945,
+        8.925,
+        8.915,
+        8.865,
+        8.8688,
+        8.885,
+        8.885,
+        8.875,
+        8.895,
+        8.895,
+        8.835,
+        8.825,
+        8.815,
+        8.75,
+        8.705,
+        8.715,
+        8.735,
+        8.7799,
+        8.775,
+        8.785,
+        8.7773
       ],
       "news": [
         {
-          "title": "What's Going On With Elbit Systems Stock Tuesday? - Elbit Systems (NASDAQ:ESLT) - Benzinga",
+          "title": "Tencent Music Entertainment Group (NYSE:TME) Shares Gap Down - Should You Sell? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanRsY2VKM0c5eXE3UDNDdGtiLUYwYVdHcTZmcllOVlZuNHViMDlJZXZoZHFRWTJfcGc3TmdKUUE2ZE4yR2swMHlGek9GSzlqbXhubWEwN3NuRk13cTRabVhkY2daelRIQTNpX2xvZGtXUW9qSTdoQmhXeTRYRllqV1hIay1HTUZ3RDNsSTFLd0RtQUJXZS1OT2ZSSUFwb0FuQzRtTGhrbkRGUjRjQjZiYWJwTE5zSWs3WW1rMGhjOExnUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXVwVnBtb0JWU3UyZkZpVkJaQnBpSWRFRDFaaWpPSnpKVmFHa09uQ1paeXdockxhM0lFSUc2d1dqQlFKdXNKck1Hbk0xSTBTb3BaQUZfbTdpazlJMFRLa2M3RG53R2NHclhGVGNweXB4M0ktZm9nQkMyanYySDBYOEFtdkw2aFJPUC1Lb3BYajA2VU9fcHF5UUlYcmZaSGE4ZW1UcXM2aE5UbElLSWV6b2czQ2twVWhaQTY2U1FlVVZCODR0cEE?oc=5"
         },
         {
-          "title": "Elbit Systems shares fall as aerospace sales drop, R&D spending climbs (ESLT:NASDAQ) - Seeking Alpha",
+          "title": "Tencent Music Entertainment Group earnings missed by ¥0.05, revenue topped estimates - Investing.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWZ1TjBBWHFKaWdFYzJMdS13MjA2Tm15dWpyc0ltNmRxRHpTNWJPZDYwaDlCckY2MDFPSUV5cnFMRTZaNnUyLWU4OXE0RGVOZUFLQVZMUjNkSkthNjdtdEZtdFJ2R2VfZ3o4aVlYNGhSR0FpWEN6RTIwY1ZhcmU0SUZwaUhvVm9WWDk1N2xoalEwalJnZnp1eTljb3dhQ1R1OExzelhuRG12eklvXzd1Mw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjJjdVNyTUpqY29qQkNzM1dTVUNPeWxaNm9XenQyOFpJbmJ2QldxdUdXT3dYQ0lMWDAyRksxTzI4X1E1YUg1ejBDSW94ME04THVidHRWWncyQmN4OGhzby1sV014RjRfV3JGQjBjX1hyeUpPS0tmWE45REZxWGhibmRUWkVIRE9MTFcyVDU5Zm9xajhwRlVPTGw4WmFrbWVVU3pZZnF0NjNPZ1BlZTB1eWNKa1VmRkFZekxWVkhGcU1ZYksyeFJ2eg?oc=5"
         },
         {
-          "title": "Elbit Systems Ltd. (ESLT) stock price, news, quote and history - Yahoo Finance Singapore",
+          "title": "Tencent Music Repurchases 43.5M American Depositary Shares for About $400M - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdUdHay15amRnLWprTThjMXpZQ1h0Snp2TTZPazVGQllDcEpsSkxsMW1hczlzVGpPY1pRUVMtZDhkNlVUQl9neEVyVjctZXFac0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdExhQlBfaC1fenBzRXU1UjNpTHBkRzBBalI4SlkyWWJwUDFQVF9TMTNCWi1mWEZmSmxHZTA0WllnakVIYUo5aWh0aU5ubUN5V2Fmb0JOMWl3RXg3TzUwaklMX2I4MEpGR1BuSndTX2tHNmJjQUF0WExyczFrcFpUQkhqM0tZYzB1QlBjbGd5cUs1X0taNTQwcnYwczVqdW83QmxnTkE4N2VRaXFkS19rUmVSWjVMMnF3?oc=5"
         }
       ]
     },
     {
       "symbol": "ALMS",
       "name": "Alumis Inc.",
-      "price": 24.52,
-      "change_pct": -10.95,
-      "change": -3.02,
-      "volume": 717805,
+      "price": 24.73,
+      "change_pct": -10.17,
+      "change": -2.8,
+      "volume": 808526,
       "name_zh": "",
       "spark": [
         24.77,
@@ -955,7 +1069,17 @@
         24.795,
         24.765,
         24.45,
-        24.515
+        24.45,
+        24.505,
+        24.59,
+        24.57,
+        24.65,
+        24.64,
+        24.55,
+        24.55,
+        24.5801,
+        24.67,
+        24.75
       ],
       "news": [
         {
@@ -976,66 +1100,142 @@
       ]
     },
     {
-      "symbol": "UAA",
-      "name": "Under Armour, Inc.",
-      "price": 5.39,
-      "change_pct": -8.09,
-      "change": -0.47,
-      "volume": 5434755,
+      "symbol": "FA",
+      "name": "First Advantage Corporation",
+      "price": 21.32,
+      "change_pct": -9.62,
+      "change": -2.27,
+      "volume": 5096562,
       "name_zh": "",
       "spark": [
-        5.619,
-        5.535,
-        5.485,
-        5.485,
-        5.43,
-        5.425,
-        5.48,
-        5.47,
-        5.465,
-        5.48,
-        5.455,
-        5.445,
-        5.4295,
-        5.425,
-        5.421,
-        5.405,
-        5.42,
-        5.415,
-        5.39,
-        5.43,
-        5.43,
-        5.425,
-        5.44,
-        5.44,
-        5.4,
-        5.405
+        20.45,
+        20.485,
+        20.78,
+        20.72,
+        21.03,
+        21.09,
+        21.1,
+        21.27,
+        21.37,
+        21.34,
+        21.275,
+        21.45,
+        21.36,
+        21.415,
+        21.375,
+        21.43,
+        21.28,
+        21.205,
+        21.135,
+        21.01,
+        21.15,
+        21.14,
+        21.17,
+        21.145,
+        21.09,
+        21.14,
+        21.02,
+        21.05,
+        21.13,
+        21.19,
+        21.235,
+        21.2203,
+        21.19,
+        21.26,
+        21.28,
+        21.275,
+        21.34
       ],
       "news": [
         {
-          "title": "Under Armour, Inc. (UAA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "title": "First Advantage Won’t Get Proceeds From 12.5M-Share Sale - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUEozMGI2bTFSRFU3bzlwNHJzS3N2UTQyNVB4NHVDNVBmRnhidjhaWnVMWFlpWGJuYUZNMm9oRDdDTXY4bEN5dmFpc2twWDcz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTB1bDVxbkIwX0ZtQUlSWnU5Si1wQzBHbVlOUnRFeDkzbUJRbERUSGQxYTVKSGNGS2ttTVhKNkdUQXB6cjJvMjZVUjhRQll0SWxVUnp2emRrZDRiZGJmY1dRN3p3Q0VIcmdXUno3ckljX25fWHRjVE1uSm1TdFZyNUJBMHBESnpzTTYxM1dfODdHZFlLNU1neS1ROFZaUVYyYl82LWJQOUtHY2poRTFNb0JubUMyNi1aZ3c?oc=5"
         },
         {
-          "title": "This AppLovin Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday - Benzinga",
+          "title": "First Advantage shares fall 8% after Silver Lake secondary share offering - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZFBpbkRQSTlQUVZ6SzRRTkNyMHNJTEh2ZmFIa2JlZWFjQ3kzX3VpQnZqZkw2T1pCaVl4MzRPSmRnc2xEb3dHcWxJYW9MeVlXX01td1EtV1VOSTNmZmhOSDViWEZKeVBwbDdqTGc2UEFGc2xIMUptekhLbmFKNXFZTUROVjltZ3VqdlAwaFc0WGQ1aUg0TW5qNXlad1pBVi12a3RTYmtDeXRkVktyREYzSkY5a0hPMWI5LUJSbkcyWXNxVmhGUVJKWndqSWxKRTJ6Q3JXcGw1M29CYnlzVVo3TFp0OWd4WjBr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMHV6c0JTYmJPX010R1BwNGpJcF9lcVIwYk5yclAwb2JHVDFkVGJlOUFNTmRTQmZ4YlhYaUtzVThKbGVkRnpzSm5TTWJUVlZmYXNhQUpVOFJ5aDY5cXlMelp1Tl9taXduTG5TaUd0eGtjVG5fYlZDMDc2bkNQLVJuUkdvc0hVeWpwb3V6TWNXRHkzR1JXRnBuc2tB?oc=5"
         },
         {
-          "title": "Under Armour (NYSE: UAA) Stock Slides 8.6% As Company Slashes Revenue Guidance For 2027 - foreignpolicyjournal.com",
+          "title": "First Advantage (NYSE:FA) Shares Gap Down - Here's What Happened - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObURQTFI1OEpmbEpIeXpOSkZZTkpyN3hRQWp6NFA3Z0pfd1JKMEJjSWVWNlBlb1ZYRG8wa01KUlU5YmFONkZVRW4xakZDUENwNExZVnhtTmlQV2dsY21HZzM1eDZaNzFHcGRScW5tT1pENThxSGZ4U0pjMzlacEwwOVItT08xWFVWaklWc1NIX1NRV0hENnpSZlluLVdrcWxuSVRWRnNkUVpTWmQxRE85QVpXcW1rX0ZkMTRnZ2N0TnQwZkNQYV9QaFlXOEY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEUwLTZuWXJ3LVdxNDA4RF93THZfZGhPblVnWnllRElFLTlqdW4yTjRvNi1Lb1BIRmNWWVVkcXFwMldUZEFuaWRNOGd6bGxpSjVEV3ZqTjNSZkhLZUFfZFp5TjJwU1p1bUpBbTBtMV9wS1I3QzYyZVViMmE1VDZRbHFLQkpoa3JDRmJiNWVBZ1pmOFozZWFFbnA5Wk5BQnFCYkVDRjc3Y05zbzJnUU1vbWRn?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "ESLT",
+      "name": "Elbit Systems Ltd.",
+      "price": 764.37,
+      "change_pct": -9.65,
+      "change": -81.67,
+      "volume": 138480,
+      "name_zh": "",
+      "spark": [
+        792.49,
+        782.61,
+        771.23,
+        772.465,
+        772.59,
+        783.0877,
+        786.495,
+        788.81,
+        782.24,
+        782.37,
+        783.695,
+        785.14,
+        783.425,
+        780.0,
+        785.06,
+        785.185,
+        783.78,
+        781.33,
+        775.755,
+        772.51,
+        771.46,
+        770.56,
+        771.06,
+        769.595,
+        773.0,
+        773.45,
+        771.005,
+        773.86,
+        773.4399,
+        771.975,
+        770.4845,
+        767.45,
+        768.26,
+        769.1,
+        768.415,
+        766.69,
+        763.6
+      ],
+      "news": [
+        {
+          "title": "What's Going On With Elbit Systems Stock Tuesday? - Elbit Systems (NASDAQ:ESLT) - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanRsY2VKM0c5eXE3UDNDdGtiLUYwYVdHcTZmcllOVlZuNHViMDlJZXZoZHFRWTJfcGc3TmdKUUE2ZE4yR2swMHlGek9GSzlqbXhubWEwN3NuRk13cTRabVhkY2daelRIQTNpX2xvZGtXUW9qSTdoQmhXeTRYRllqV1hIay1HTUZ3RDNsSTFLd0RtQUJXZS1OT2ZSSUFwb0FuQzRtTGhrbkRGUjRjQjZiYWJwTE5zSWs3WW1rMGhjOExnUQ?oc=5"
+        },
+        {
+          "title": "Elbit Systems Ltd. (ESLT) stock price, news, quote and history - Yahoo Finance Singapore",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdUdHay15amRnLWprTThjMXpZQ1h0Snp2TTZPazVGQllDcEpsSkxsMW1hczlzVGpPY1pRUVMtZDhkNlVUQl9neEVyVjctZXFac0E?oc=5"
+        },
+        {
+          "title": "Elbit Systems shares fall as aerospace sales drop, R&D spending climbs (ESLT:NASDAQ) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWZ1TjBBWHFKaWdFYzJMdS13MjA2Tm15dWpyc0ltNmRxRHpTNWJPZDYwaDlCckY2MDFPSUV5cnFMRTZaNnUyLWU4OXE0RGVOZUFLQVZMUjNkSkthNjdtdEZtdFJ2R2VfZ3o4aVlYNGhSR0FpWEN6RTIwY1ZhcmU0SUZwaUhvVm9WWDk1N2xoalEwalJnZnp1eTljb3dhQ1R1OExzelhuRG12eklvXzd1Mw?oc=5"
         }
       ]
     },
     {
       "symbol": "DFTX",
       "name": "Definium Therapeutics, Inc.",
-      "price": 41.14,
-      "change_pct": -8.88,
-      "change": -4.01,
-      "volume": 1249493,
+      "price": 41.1,
+      "change_pct": -8.97,
+      "change": -4.05,
+      "volume": 1836764,
       "name_zh": "",
       "spark": [
         44.7,
@@ -1063,7 +1263,18 @@
         41.435,
         41.36,
         41.17,
-        41.15
+        41.1,
+        40.98,
+        41.03,
+        40.89,
+        40.78,
+        40.77,
+        41.0,
+        41.18,
+        41.225,
+        41.13,
+        41.07,
+        41.21
       ],
       "news": [
         {
@@ -1072,9 +1283,9 @@
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVFuSzdLWTFOSU9uWXVGUmI3MnZ6WC1udzhQUm5BVWZMU1VBLW9zellNazVzRm9kUThQY2xGR0RDM25kMXdsbHdIZmZjbXJ0ZTV3bGQ1WjQyX0NFdjhnWG5HWUNyaFppOXZTc2lQdklzeW5HTllRSUZtLUIxMFc2SmE5LXp2OURnQmo5OUdRVGpraVpiaGEwYVVvNFpOcEo4UGlvU05hVUpqZDB4VkpKdEVRODd5cDU1OU5TX19nN3doU0U2QmtqMmtRTkdjdDV1cl9ZTUstUkE0Q2s?oc=5"
         },
         {
-          "title": "Definium Therapeutics (DFTX) Highlights GAD Care Gaps, Is The Stock Already Overvalued? - Yahoo Finance",
+          "title": "Is Definium Therapeutics, Inc. (DFTX) Stock Poised for Further Gains After Positive Emerge Trial Update? - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNhR0l0RkFudWxqckdLdHdhSmhHR1l1Mk94STFYd0JrOXQ0ekFSZC1peGxnb1FSOHhwTGNLenFyd3prcVVrVW1fa0RINWxyRkY2MVgxQ0RZX3lmbkFWUlU4Z2ZacFFkRTA2ZWZvc3JjeFhPVDlMT2RrNlA0TmVFQ3kweGwza2NiamNRNVk3cDJ1eHdINWtVUGJqNkpyZkR6OWY2aA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmU5eFJXRE5LWkx6REhpVWpRTkF3OVlKbFppWUoyM25kTGNWR29TZFpCc3ZTQnU0Mm1MS2VscDVMZmdQakxOYzZTTGx4anh4ZWl1d0JEQ213YkdKZ2NMdnRqUnFFS29QelZMcUU0dXZCamozQVVjdHhVQjg4QmhTdEF1TmJxTmdFd2gyY3E3WF9KaDJMcnN5SDNNZGlCZw?oc=5"
         },
         {
           "title": "Definium Therapeutics (DFTX) Is Up 6.0% After Strong DT120 Data Amid Wider Q2 Net Loss - simplywall.st",
