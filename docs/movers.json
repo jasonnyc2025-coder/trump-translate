@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-18T16:01:08.422103+00:00",
+  "updated_at": "2026-08-18T16:40:05.349043+00:00",
   "us_gainers": [
     {
       "symbol": "AMLX",
       "name": "Amylyx Pharmaceuticals, Inc.",
-      "price": 31.92,
-      "change_pct": 48.96,
-      "change": 10.49,
-      "volume": 15432161,
+      "price": 32.28,
+      "change_pct": 50.63,
+      "change": 10.85,
+      "volume": 16035170,
       "name_zh": "",
       "spark": [
         30.22,
@@ -39,7 +39,15 @@
         31.93,
         32.085,
         32.29,
-        31.92
+        31.925,
+        31.865,
+        31.98,
+        31.7714,
+        31.94,
+        31.96,
+        31.845,
+        32.29,
+        32.305
       ],
       "news": [
         {
@@ -48,7 +56,7 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQW5sREdEaVNBYnJJRk1QTlB2LTdsZ0RFVDR5NExOWW1iLXhXZ0JpRUNHSTVST0NyWDhRRDNRbHpHVzdPV1luTEZCVzhLdnl0SDlCbUs0ZWF1aUpxMF83aGF2Rk5KNFJFOFNFY3lVUW15ZHRMRlVCdFRRdEgwbUUydldVdGdMOFRrMFc0aUhMVS1SM2FPYnV3OWlDcHAtMmFoV3daMFpBb3VGaG9DWHpiTW45S254VEtqbWc?oc=5"
         },
         {
-          "title": "Amylyx Pharmaceuticals (NASDAQ:AMLX) Hits New 12-Month High Following Analyst Upgrade - MarketBeat",
+          "title": "Amylyx Pharmaceuticals (NASDAQ:AMLX) Hits New 12-Month High Following Analyst Upgrade - marketbeat.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUG9TSzdqZmVoMVpCMW9Ja3JvY202MGtISElXblhlNDQ4bjk1bm9jVWhjUWVZSHpWQ3I0NllnMjhPS0RXWjd4V05kSy1vazByOHV0dTUzam1MQmxYMWotYWdJQ3JlRS1nXzNlQm15TGlwNDV6NzhyNC1nQm5UNUtUaGRaWnR4WmxtZ3FuRWRERjh3TGJJaEc4TTZvZ1NIOEFYbUk4bEs0cURLdEhaRUNzV2ZTY3hnSDV2NzN4eFE5ME16TzR2YUhSdlJvRjI3YXBKVXc?oc=5"
         },
@@ -62,10 +70,10 @@
     {
       "symbol": "HAE",
       "name": "Haemonetics Corporation",
-      "price": 104.84,
-      "change_pct": 16.15,
-      "change": 14.57,
-      "volume": 863888,
+      "price": 103.91,
+      "change_pct": 15.11,
+      "change": 13.64,
+      "volume": 972391,
       "name_zh": "",
       "spark": [
         104.16,
@@ -97,7 +105,15 @@
         105.65,
         105.11,
         105.31,
-        104.84
+        104.83,
+        104.57,
+        104.51,
+        104.57,
+        104.1496,
+        103.465,
+        103.62,
+        103.835,
+        103.89
       ],
       "news": [
         {
@@ -106,24 +122,24 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU1TOWV5enhyYno1WWNEMlBfcHFSZk5fTUxVMDZ0eW5iWE9MQkNrcWFXOWtWSmR4TWltdmwwS3JVbnJxOVlMWXdvVFhVdTdHNXJCTEVqNTZ2SlZrYmhnRzVxT1h3Q012a3pqNTFuX0E2MzZJaWtIZjFOLXpGVGZqX1RfWQ?oc=5"
         },
         {
+          "title": "Haemonetics stock surges 16% on CSL Plasma supply deal - Investing.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaThtZllvWXVidlh4Yy1FMVUyNjRNaTF2YUpmdGh4cHp1RHJNYWxScjdjNkIxb1Rja19ndUQ2cXpmSTdIejdjQmY3ZVBVX3RVYUtsdTVFMlhzcEdLMlJOLUpHSUhITXFselpSeEtVZTBsOW0tcDV2Q1ZqaVpTZkJxM09FY2hjSHhqa0hNRW15ekMzSGdkcFhkR2U1b0FZSEc1MVFFVTAwN3UyYThDN3MwQmFoUW9jREtWSmRhck1zajA?oc=5"
+        },
+        {
           "title": "Haemonetics Corporation Stock 12‑Month Price Target Raised to $98.9, Implies 10% Upside - TradingView",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanNZVFBKWkx0bTdfOWFfdVU0dnBpTGV1T2ZGVmw0RmJFUWUyc3ZiUThUU2RkaTRSbU9TTU5BdzRGUjJEcXRjZUVlakw3Vk5UeXlfc2tiRGZXS1VQdDBxbW5vbG1CWXZ1NHV1eHUxb1hEbFdVRnZ0ay11Q1lIb1J0ZnYzaE5JUDVmWW9kWEFIeGxOeVIwSFJVbnA0NGNLMXNScVp6VExmT19CS09jaEJoQ0ZZbWs3endKN19lcF84OFU0TUQtenh1S0JZdmdmUDY0UElfQVFkU3hIVGt2QmJ3?oc=5"
-        },
-        {
-          "title": "Haemonetics (NYSE:HAE) Reaches New 12-Month High Following Analyst Upgrade - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkotQ0UyR2dUcFhtWldCeDhzODlCMW1LVlFRWE1USHVRS0JfS1A2M2Z4RXZOZkpudC1GZ09SZ3ZHUDlPa0RVRlN4ajRibXpOWmpZVklhMUFQZ25ycUFNbDU4Ui1jaGVlU0FzMk14TjlHNmYzeEo0VkNoZ09GR1J0NjNFZ3VXcnU5TFBOOEVIVlBsa1ptLWpLMmxKQWhzNjJxLU5EMExBY3l3bExHUmRmdEk1R2M0anhQWEdpakl1VDB1MEU?oc=5"
         }
       ]
     },
     {
       "symbol": "UGI",
       "name": "UGI Corporation",
-      "price": 39.05,
-      "change_pct": 11.3,
-      "change": 3.97,
-      "volume": 5130065,
+      "price": 39.27,
+      "change_pct": 11.9,
+      "change": 4.17,
+      "volume": 6634231,
       "name_zh": "",
       "spark": [
         35.21,
@@ -155,146 +171,41 @@
         39.4999,
         39.4,
         39.235,
-        39.08
+        39.1,
+        39.455,
+        39.375,
+        39.08,
+        39.025,
+        39.11,
+        39.0524,
+        39.13,
+        39.265
       ],
       "news": [
         {
-          "title": "KKR makes $9 billion takeover bid for UGI, WSJ reports - Reuters",
+          "title": "KKR makes $9 billion takeover bid for energy distributor UGI, WSJ reports - Reuters",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkxqQXotbzRiRE10TXREbXM0SVVCLVdEdmhEZzZDMWtTcVU0LVJoalYyNE01RFBpY21MSU9GdXg1WWtvaXR1a3RhUmp4cU1QaUh6Sk5uUjdsSTNXS04wYWVQb01QRFp3RUppeWh5ZmlvVVg3em9GZDlWYnl5cjdJRjZaWVNSYjVqVTBOeVdWUk1HalNNNF9SY2VBaHVDYmstX1o3Q0hsYw?oc=5"
+        },
+        {
+          "title": "KKR Offers to Buy UGI Corp. for $42.50 a Share, Report Says - Bloomberg.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkF1eDVqcl9BZzY5YW1BeDNsY19VQjROMVZRdDZaVVE2U0lkVlJwdUlOdndRVW9OUmJXRUE4dzlqdTYzM1dyUmtqR2tEN1VvSXpuRUZ3WXRMZ1Y0RnRvWm5ZNV9zbXI1eExkdGhrY1NmMU1wb1BfQTl1Yy1pN0FwN0U3RW9pQkZVMFZqVEJ2MVpacml5ZHB6RWFJMEVBZTBpWW4tS2ZRcw?oc=5"
         },
         {
           "title": "KKR makes $9B takeover bid for gas and electricity distributor UGI - WSJ (UGI:NYSE) - Seeking Alpha",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ25LS2VGZlRqcUVRTzBHMXRXX0FZelVxZzdrVXhiZ3R5V1AtUlBPQ1QtZjZmZTN1VmtQZE9weE94MHJ3ZmpuQjl1RzhuT3FCaklPa244dnBnOXdyVDZ5N252YnBKS3czbEFueWY0RWgtODVJYWt4X0c0bGtGWXA1MlFZTVJDOWxyOU95QlVrblo1Mm9lbjdzazBENHd0VmRyOVFXaEk4cDJocDA?oc=5"
-        },
-        {
-          "title": "UGI shares spike on reported KKR bid for the company - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTZaWEJBTnFsXzJZLXRMMGJNYVdFUnBwWkl3SGNrSFNWaGk2dDRuNTFON2hiOEFwSWlrLV9Da2JvUjB0REQ4SzZRanJ2VDd5enBQaFdlNkVjVzJHT2ltQUJlVFRIOFRkcUVBSXNBLXVrOUd2TkYyNDZXUklMR0pXMDRSRG1sZVJZMXVOQXB3c1RxVWlCa2owY1NwLXFDRjItcUtXcTljMFducFMxa0JFTnBQOFM?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TRGP",
-      "name": "Targa Resources, Inc.",
-      "price": 298.27,
-      "change_pct": 7.31,
-      "change": 20.33,
-      "volume": 1067605,
-      "name_zh": "",
-      "spark": [
-        298.92,
-        295.665,
-        295.5,
-        295.97,
-        295.435,
-        297.045,
-        295.5,
-        294.47,
-        294.5,
-        295.38,
-        296.07,
-        296.7925,
-        297.21,
-        297.26,
-        296.89,
-        297.05,
-        297.49,
-        296.88,
-        297.76,
-        298.195,
-        297.93,
-        297.24,
-        298.54,
-        298.33,
-        298.2375,
-        297.68,
-        298.345,
-        298.905,
-        298.82,
-        298.27
-      ],
-      "news": [
-        {
-          "title": "Targa Resources (NYSE:TRGP) Hits New 12-Month High - What's Next? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjZRRExOTVdNeUVUR0pRTkVMNHItUTFGUjhPN2d3bGJocXotVXlMc0hPR3hwbUhETFFoUGY3NElQdkh4U2E5SW03SkJfejlCZElNVTBFeEF4X25FaHdkTjBvZ1U0WmxaelQxZEgzR3dQTGl6ZG5Wa0x0ZXlpUE9zaHN0NEFTcE0tNm0xRkdTZ2ltTWFHeXM1WXBDNUtLcFBHd1BleWxuRkN6WFB2b1Rmb1RB?oc=5"
-        },
-        {
-          "title": "Targa Resources (TRGP) Stock Looks Fairly Valued Following Its 7x Five Year Run - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTl3S0ZXcXhfTHNBWUpWSF8xZndVZEFRREIzVTE2U19jUnVxTkRTaXMxalpZYzNVbzlxSktwdUhWSHBJT2R6LVIxblBlS2I2THpybjJlT2QxUzdtTExWUnZLc081QVNzdjB1WjE1ZFB2VHBHbU1YVXFwUExtam1zR3RlVU9LQlp4akZrdnEyU0tIaEVINW1ISUZZMWNFZw?oc=5"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wb1JKaWpmeVd1RXNKR2JnTFVveElIX252azJ1LTZra2V0dVFTRk94R0ZJOElHaThhdkh2QjZVOXEwdjU1SmJ0WktyT3drZTRk?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "DAO",
-      "name": "Youdao, Inc.",
-      "price": 17.5,
-      "change_pct": 7.46,
-      "change": 1.21,
-      "volume": 33062,
-      "name_zh": "",
-      "spark": [
-        16.22,
-        16.1188,
-        16.63,
-        16.91,
-        16.9,
-        16.83,
-        16.925,
-        17.24,
-        17.41,
-        17.34,
-        17.38,
-        17.39,
-        17.405,
-        17.41,
-        17.28,
-        17.38,
-        17.38,
-        17.38,
-        17.58,
-        17.44,
-        17.33,
-        17.335,
-        17.355,
-        17.61,
-        17.62,
-        17.505,
-        17.505
-      ],
-      "news": [
-        {
-          "title": "Orbis Investment Management Limited reports 20.1% Youdao (DAO) ownership in ADSs - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSW9OYURGaER4UWZJMldQdmNmUG5qUjcwRTdnMmlHLTJOX0IxVTdfZmhKbnRiSFJ3RUVvVFRMZUpwVzZaMjExcGc1ejlScGNVRHdGSkZMNW9YSGpGaVM4ZENoTWR6eHdtY25ENEFXSDF3YjFXQ3A0alFuRmU3bGdBWWFYT0F6SDBvR1VHZjgzY0hoa2ZEclQtN0NJUkpWVFgwemh5SnVLYTVjTnJ3bVoyYnNXVVR4M0xyNzlvNFhUdl8wQQ?oc=5"
-        },
-        {
-          "title": "Youdao (NYSE:DAO) Stock Price Down 4.4% - Time to Sell? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEVuXzhsTzdnaVNpSEhzOWtOUTVFN2NMeTB1NnZ5WmNudkM5NXFNMFQ1S2QzMDlmNVdlVDdLODBybzVFMEpwVVNRdVpfQ2VjZ0g5VlQ1Q0xUaFFsY2VDbXRhbWlkWGJYYjlTa0JkS3lkZlFVbTNoeTJYcDI3V0RhNENVZGctYmRycTlWTDlZcktkVmpQeGplaTJyLWg2U0pDb1lZ?oc=5"
-        },
-        {
-          "title": "Youdao management will answer questions on quarterly results Aug. 20 - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFJzOUdlTHl6YlBiNU51SmY3X2cwbXBSQWVpMnJXYXlNeG44Q1A4djBuTkloMTBMemxJTlI2MGxDQ3NDbjZObmNLSjJuM3BtSXV5OTFCT21NakdjTnRyQnJ0UG5jQ05tbkNBSGhKTmhzREdTZVF0V3RUVjdSUGZTZGIyX2VGWnF4TG9tMURZeWVzU3gtYVo1UFFvS0c1M2V4NmNEeEdhZU11UW5EZzVTVndCNjBoR0pXUUE?oc=5"
         }
       ]
     },
     {
       "symbol": "FOUR",
       "name": "Shift4 Payments, Inc.",
-      "price": 47.47,
-      "change_pct": 7.03,
-      "change": 3.12,
-      "volume": 680826,
+      "price": 47.94,
+      "change_pct": 8.09,
+      "change": 3.59,
+      "volume": 807316,
       "name_zh": "",
       "spark": [
         46.78,
@@ -326,7 +237,15 @@
         47.5,
         47.5,
         47.54,
-        47.44
+        47.54,
+        47.57,
+        47.67,
+        47.645,
+        47.76,
+        47.94,
+        48.075,
+        47.84,
+        47.81
       ],
       "news": [
         {
@@ -347,12 +266,78 @@
       ]
     },
     {
+      "symbol": "TRGP",
+      "name": "Targa Resources, Inc.",
+      "price": 298.8,
+      "change_pct": 7.5,
+      "change": 20.86,
+      "volume": 1165470,
+      "name_zh": "",
+      "spark": [
+        298.92,
+        295.665,
+        295.5,
+        295.97,
+        295.435,
+        297.045,
+        295.5,
+        294.47,
+        294.5,
+        295.38,
+        296.07,
+        296.7925,
+        297.21,
+        297.26,
+        296.89,
+        297.05,
+        297.49,
+        296.88,
+        297.76,
+        298.195,
+        297.93,
+        297.24,
+        298.54,
+        298.33,
+        298.2375,
+        297.68,
+        298.48,
+        298.905,
+        298.82,
+        298.43,
+        298.69,
+        298.53,
+        298.15,
+        298.61,
+        298.72,
+        299.215,
+        299.29,
+        298.795
+      ],
+      "news": [
+        {
+          "title": "Targa Resources (NYSE:TRGP) Hits New 12-Month High - What's Next? - marketbeat.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjZRRExOTVdNeUVUR0pRTkVMNHItUTFGUjhPN2d3bGJocXotVXlMc0hPR3hwbUhETFFoUGY3NElQdkh4U2E5SW03SkJfejlCZElNVTBFeEF4X25FaHdkTjBvZ1U0WmxaelQxZEgzR3dQTGl6ZG5Wa0x0ZXlpUE9zaHN0NEFTcE0tNm0xRkdTZ2ltTWFHeXM1WXBDNUtLcFBHd1BleWxuRkN6WFB2b1Rmb1RB?oc=5"
+        },
+        {
+          "title": "Targa Resources (TRGP) Stock Looks Fairly Valued Following Its 7x Five Year Run - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTl3S0ZXcXhfTHNBWUpWSF8xZndVZEFRREIzVTE2U19jUnVxTkRTaXMxalpZYzNVbzlxSktwdUhWSHBJT2R6LVIxblBlS2I2THpybjJlT2QxUzdtTExWUnZLc081QVNzdjB1WjE1ZFB2VHBHbU1YVXFwUExtam1zR3RlVU9LQlp4akZrdnEyU0tIaEVINW1ISUZZMWNFZw?oc=5"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wb1JKaWpmeVd1RXNKR2JnTFVveElIX252azJ1LTZra2V0dVFTRk94R0ZJOElHaThhdkh2QjZVOXEwdjU1SmJ0WktyT3drZTRk?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "DUOL",
       "name": "Duolingo, Inc.",
-      "price": 139.83,
-      "change_pct": 7.43,
-      "change": 9.67,
-      "volume": 634356,
+      "price": 139.74,
+      "change_pct": 7.36,
+      "change": 9.57,
+      "volume": 713476,
       "name_zh": "",
       "spark": [
         134.51,
@@ -384,7 +369,15 @@
         139.48,
         139.425,
         139.57,
-        139.69
+        139.69,
+        139.845,
+        139.86,
+        140.17,
+        139.53,
+        139.81,
+        139.955,
+        139.46,
+        139.735
       ],
       "news": [
         {
@@ -393,7 +386,7 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcF9PVjZRRUlfR0NheF9LVDhtdV9UZTVySjFrUDNqdnBmQlZkSDVXa01wTHBER1cyVElNM3BmcmoxdlQ3T3VNaVNhX1gxR2R1WEZzUGdvUEl3eEVGWmNZNXA1cThBNm5Gbm9ZSXpNMUpuX2FxN0wycEZ4LTN5TWZiWXV1Tm80ZzhXRTFjbTd1ZXh5dlhTR0dFckNkQjh5VmRIcklF?oc=5"
         },
         {
-          "title": "Duolingo (NASDAQ:DUOL) Shares Gap Up After Analyst Upgrade - MarketBeat",
+          "title": "Duolingo (NASDAQ:DUOL) Shares Gap Up After Analyst Upgrade - marketbeat.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHVDeVFOREc2MWxhM1Nlc2lwbHJoNW9LMGk4UDRuWWtSY1dMRHE4Nk9UY2pKbVctUTcyZmVyZERkNkFlNUZ4c0R3cFk2UGIyM3J4UWNvLWRRYWlPZFkyZnJfNkdlSWktS2pfdERDM0ZrMmUxRVpVT3RxRHM3ek96UmJ4ZThNcTRuMDJSNDRMaUR4ZmpNYl9MTW9IQlhreDRRRnJTbTdhOE90TDNOcnc?oc=5"
         },
@@ -407,10 +400,10 @@
     {
       "symbol": "BBWI",
       "name": "Bath & Body Works, Inc.",
-      "price": 20.09,
-      "change_pct": 6.83,
-      "change": 1.28,
-      "volume": 3493692,
+      "price": 20.0,
+      "change_pct": 6.33,
+      "change": 1.19,
+      "volume": 3767656,
       "name_zh": "",
       "spark": [
         19.68,
@@ -442,11 +435,19 @@
         20.08,
         20.11,
         20.105,
-        20.09
+        20.08,
+        20.1101,
+        20.03,
+        20.02,
+        20.06,
+        20.065,
+        20.005,
+        20.01,
+        19.995
       ],
       "news": [
         {
-          "title": "Bath & Body Works (NYSE:BBWI) Shares Gap Up Following Analyst Upgrade - MarketBeat",
+          "title": "Bath & Body Works (NYSE:BBWI) Shares Gap Up Following Analyst Upgrade - marketbeat.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWlITkc5aHMxMGdDdzlZTzhPby1RWTJ4dHhaODdFUnU4N1NkVXg2THdIdHY2S2prbU9tY1lLZVppZXRiQzExcUV0bTdRcUxCRHEwcDlSU3V3U2otcDRCN2FxX29iQWFVbnBGdGVkbjU2LWNvSnJrT1k2SDFUT1ZuM1dPY0lyaDJwM2lwcFlqdTltODlDdjM3OGN4bDdiSUZQcXJkYnE3Z0RMX3pTYTJLX2VjVHRGckNyTUE?oc=5"
         },
@@ -463,70 +464,12 @@
       ]
     },
     {
-      "symbol": "BHC",
-      "name": "Bausch Health Companies Inc.",
-      "price": 7.0,
-      "change_pct": 6.46,
-      "change": 0.43,
-      "volume": 1520612,
-      "name_zh": "",
-      "spark": [
-        6.74,
-        6.848,
-        6.735,
-        6.75,
-        6.76,
-        6.78,
-        6.765,
-        6.805,
-        6.8,
-        6.81,
-        6.83,
-        6.785,
-        6.775,
-        6.8,
-        6.845,
-        6.835,
-        6.81,
-        6.81,
-        6.825,
-        6.825,
-        6.87,
-        6.875,
-        6.92,
-        6.935,
-        6.95,
-        6.91,
-        6.945,
-        6.945,
-        6.98,
-        7.005
-      ],
-      "news": [
-        {
-          "title": "BHC Stock Price Prediction 2025-2026 | Bausch Health Companies Inc Forecast - 24/7 Wall St.",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VaXBwRTJCUHNLVGpoS3NmTjU3Q2o4VV9jNXpENzQ5b1ZuS3lSa0YwRjNVc1JPZmtydVZyZl9Id1hBdXV0X3BZQU1tdXZhYjFscmxBMG80Y2dINHNYZFhPWGpOcw?oc=5"
-        },
-        {
-          "title": "Bausch Health Companies Inc. (BHC): Billionaire Howard Marks Likes This Pharma Stock - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHJXVDlUWnlQMVF6bWdOaE83dV9kZE8zczhob0dOM3RlTkdrYUhGNnRzbjdqZVVlRHhCWGQ1TWFjLWJKaGp4MElYSjUxX2dQWERYN2hGZDc4WW52NU5naDAtWExXM2hfdE10MEpVV0diZ2VpRzZ3aG1TMHlTY0NXQW90OGpKNTlqT0hPTUNRYm53Y05tT0hna3ZoRGpTQ1NPRmc?oc=5"
-        },
-        {
-          "title": "Bausch Health: Q2 Beat And Cheap, But Debt Overhang Remains Substantial (NYSE:BHC) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVBHNU1ZWUNKNXRYWFAwYjdCd2dUWEg0ZlJOOEwyby1jX2hKd3g5T0Y5ZFM3QV9OYlVUSEJ4OFg5c1ZqQWZIYllLdy01WkxaQ3N1UjBJMFAwQVlPdlBDMlF3NTN6TjZ6YWNnV1dfamMwYzBkYkd2dVM4QzVXak9BZkxSdGVZOXh3SmgtQW04cEtpSlE1Y1pKX29FaWVJRG1fTTNRVHg5X3FXaHNjbjk4?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "ULTA",
       "name": "Ulta Beauty, Inc.",
-      "price": 523.09,
-      "change_pct": 6.03,
-      "change": 29.76,
-      "volume": 339303,
+      "price": 523.8,
+      "change_pct": 6.18,
+      "change": 30.47,
+      "volume": 376496,
       "name_zh": "",
       "spark": [
         513.39,
@@ -558,11 +501,19 @@
         523.02,
         522.57,
         522.38,
-        522.89
+        523.01,
+        522.415,
+        522.07,
+        523.05,
+        523.16,
+        523.395,
+        523.05,
+        524.4196,
+        523.82
       ],
       "news": [
         {
-          "title": "Ulta Beauty (NASDAQ:ULTA) Trading Up 5.1% - Time to Buy? - MarketBeat",
+          "title": "Ulta Beauty (NASDAQ:ULTA) Trading Up 5.1% - Time to Buy? - marketbeat.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkduZlpSOFVlbjBnTU4xWlJsSVBiblZiY0xrWnk5VHFqV3JCUUh2UXhaSlNRNWtIQ25YWkxHbFdyY0RFNFFHU0RQZk51enFMeTItZnNrZ3FlRmxuTzNoZVV6Ukt1MzJWX2dpNVBDUGpmYnZ5RHluSVFncTg0aDV2RXRtLU1IR2ZPN2g5MmxsSFFndVdSWC1BaHZlRW5CWDhwT0hMUg?oc=5"
         },
@@ -577,16 +528,148 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWdNckk5Y1FPUFpMWkYtaE1kVXhMY3o2X0t5aExmb1hYNlV6NkZ2ZHF2TGpabFZBcHhlZGFiNE1GR1VMWHFZQ2JhZ0JpSWYtTm5iRHFLWi1GLU5FLVB3M0FhQXhyS2pRUXctc0VfWERENnlrYUI5NHByLV8xQjN5Rm5PVmc4T254NHFTczdIUHBoWlAxcjlaUnljNm12UkxKa3RFakFVa1N0cGlfZ3YyTVAtdWNHVlkzODR2dzlkcU5ENVhhaWV5LU15WQ?oc=5"
         }
       ]
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "price": 522.58,
+      "change_pct": 6.11,
+      "change": 30.11,
+      "volume": 1087827,
+      "name_zh": "",
+      "spark": [
+        502.405,
+        508.15,
+        507.28,
+        507.395,
+        512.52,
+        513.5,
+        514.65,
+        514.295,
+        514.55,
+        514.475,
+        514.485,
+        514.68,
+        514.82,
+        514.425,
+        515.45,
+        516.04,
+        517.14,
+        518.23,
+        519.47,
+        519.0,
+        518.9,
+        517.73,
+        518.64,
+        520.02,
+        519.11,
+        520.16,
+        519.39,
+        519.71,
+        521.55,
+        522.085,
+        521.54,
+        523.43,
+        524.6,
+        526.205,
+        524.1707,
+        523.6,
+        522.85,
+        522.935
+      ],
+      "news": [
+        {
+          "title": "Spotify Technology SA Stock (SPOT) Moved Down by 3.61% on Aug 17: A Full Analysis - TradingKey",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2hzVkxmR3gxN0o1Rld0MUN6TXpfdjJzTUVwc2R5MVJLSkJXd09NMzJKSjJZamRUenE5U3kwYlZUX3hLRVhjZzE3X3pHRjJJNDRUSVVVdU9Zc21uWXkxWGVqMHZxS1pEOF9la3JnZUY0c25mUjdjYi00UkpwQ2g1bE9WY3ZxbjBfUzJZ?oc=5"
+        },
+        {
+          "title": "Spotify Technology Sa Stock Price Forecast. Should You Buy SPOT? - StockInvest.us",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CM1JlcE5KVDFwTTNKWUdHQ0stb0NuTjFudTNJY3F3ZTlEQ19iWmdhVzJEbXRHYzdLUXY2RmpmSnNWTDVVZlFOaA?oc=5"
+        },
+        {
+          "title": "Is Spotify Technology SA (SPOT) a Bargain After 4.0% Drop? GF Va - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUtvWTlXTWgwNnpfWk1sTUZkMUE5OEljTThSanB4Rmh2RUJYaDhRdmRTbUxWOGtLUjBsSEtxNGpTR19EX2hUb1pGaXlCYWphNklxNlgxUnU3R2UtVmFEdDJmdEtlQ2hQRGdvbTY0dHgzRWNGdG9ieGpQUkVnUWJxLUZBLTJhX1pKRlFQLVpqV2pUd0h2WTZBSEhaRk85YmdxSWtfZmdQVkxTTHFEVW9GOGtzX1BJQXFQalE?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MNDY",
+      "name": "monday.com Ltd.",
+      "price": 88.5,
+      "change_pct": 6.2,
+      "change": 5.17,
+      "volume": 436551,
+      "name_zh": "",
+      "spark": [
+        83.9665,
+        85.14,
+        85.7156,
+        86.14,
+        86.68,
+        86.265,
+        87.2,
+        87.14,
+        86.97,
+        86.645,
+        87.77,
+        87.04,
+        86.935,
+        87.05,
+        86.89,
+        87.54,
+        87.295,
+        87.69,
+        87.795,
+        87.9,
+        88.12,
+        88.08,
+        88.0025,
+        88.04,
+        87.735,
+        88.15,
+        87.88,
+        87.865,
+        88.06,
+        87.905,
+        87.88,
+        88.31,
+        88.25,
+        88.06,
+        88.065,
+        88.14,
+        88.225,
+        88.4775
+      ],
+      "news": [
+        {
+          "title": "monday.com (MNDY) Stock Looks Undervalued While Its 5 Year Share Price Stays Weak - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFEzOVFlUF9aNDF3Ql9IVXdzSF9jbE15TXBsSm9SMkRSb2tRa3NWczBHczVnMXZvV1E2Vm5GZ3A1UV80WVBoSFBHaDYzSTB2clNfZXE1QjYxWEtHR0dzU3JUNHJHX2tjUUFoSDU1Q21wR3BEY0Qzc3lBWmE2c1BhMThrdzRzQlFoWEE2M01YckhUX1VOTVVz?oc=5"
+        },
+        {
+          "title": "Royal Bank of Canada Has $2.10 Million Stock Holdings in monday.com Ltd. $MNDY - marketbeat.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGp2YV85V3d5ekkyRGJpOWZTUks0UVZJY2Z2YUprZmlVRllYdE5rUU53dDU0a1NMaHQyU29pa2RHaFd5OWVuaWY5NnozYmN1TGV5S05WNm1DVW9WRGlvcXM2SUlWTGczeEFEYWZJYlk5QXhqSWdOemtvQm14ZFBoTjY4N0M5TExBemZCZV9zVWpoMG4tMEVzRlNvY0xQMkVnbk1GZjFkZHR2dnJUVlJUOHVIdzhZNlFta0NyZWNDaTRUMC1UTVFGOWtYRzBpMGM?oc=5"
+        },
+        {
+          "title": "monday.com: Workforce Reduction Paves The Way For Profit Growth And Lower Dilution (MNDY) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0hpVWlmZmc5Z3ZrckphbTJiYXpjOWthbVJScGVqaEJBbV94dUtVYXNzRnk3SWZCNVNBLUlJSDY3cUdjcmxpNGlKZmE4QlRab2habzk2VjhMcDRldHByUEk2YXRhNklGaEM0Ul9UVHVKS3I1ZjdUVU9DX0FLOHFxZnc4TzduZDh2TnNHenBZdWZjbV9yY2FzRDhtVTBQYVdLeG5paUp5dkVwVWVQMllkRjlnY1A1a1hPaDkwa2VmajZjVUJQMUE1eA?oc=5"
+        }
+      ]
     }
   ],
   "us_losers": [
     {
       "symbol": "KLAR",
       "name": "Klarna Group plc",
-      "price": 15.4,
-      "change_pct": -21.07,
-      "change": -4.11,
-      "volume": 20310840,
+      "price": 15.38,
+      "change_pct": -21.17,
+      "change": -4.13,
+      "volume": 21668337,
       "name_zh": "",
       "spark": [
         15.8,
@@ -617,8 +700,16 @@
         15.345,
         15.35,
         15.385,
-        15.285,
-        15.415
+        15.2841,
+        15.4198,
+        15.34,
+        15.4199,
+        15.45,
+        15.39,
+        15.41,
+        15.375,
+        15.405,
+        15.3801
       ],
       "news": [
         {
@@ -641,10 +732,10 @@
     {
       "symbol": "FN",
       "name": "Fabrinet",
-      "price": 479.58,
-      "change_pct": -19.88,
-      "change": -119.0,
-      "volume": 1536122,
+      "price": 477.2,
+      "change_pct": -20.28,
+      "change": -121.38,
+      "volume": 1697948,
       "name_zh": "",
       "spark": [
         507.2325,
@@ -673,10 +764,18 @@
         480.16,
         482.39,
         481.64,
-        478.36,
+        478.2651,
         480.14,
         480.785,
-        480.0
+        480.31,
+        479.585,
+        477.01,
+        476.0,
+        475.01,
+        477.59,
+        475.77,
+        476.89,
+        477.6525
       ],
       "news": [
         {
@@ -697,69 +796,78 @@
       ]
     },
     {
-      "symbol": "KALU",
-      "name": "Kaiser Aluminum Corporation",
-      "price": 160.24,
-      "change_pct": -13.62,
-      "change": -25.26,
-      "volume": 151746,
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 81.94,
+      "change_pct": -14.61,
+      "change": -14.03,
+      "volume": 10205162,
       "name_zh": "",
       "spark": [
-        174.55,
-        169.255,
-        167.725,
-        167.04,
-        168.7075,
-        166.4,
-        165.69,
-        164.965,
-        165.49,
-        164.59,
-        165.1374,
-        163.69,
-        164.9199,
-        163.05,
-        164.065,
-        162.19,
-        161.46,
-        160.675,
-        157.91,
-        159.4,
-        158.69,
-        160.65,
-        159.27,
-        160.7504,
-        159.905,
-        159.46,
-        159.97,
-        160.12,
-        160.41
+        92.79,
+        91.645,
+        90.1763,
+        89.825,
+        89.53,
+        89.52,
+        91.45,
+        89.85,
+        88.6038,
+        89.3,
+        89.0,
+        89.24,
+        87.905,
+        87.6415,
+        85.78,
+        83.95,
+        84.3,
+        83.6172,
+        84.42,
+        83.45,
+        84.0636,
+        84.0235,
+        84.54,
+        84.73,
+        85.96,
+        84.0044,
+        83.9775,
+        84.6392,
+        84.975,
+        84.39,
+        84.13,
+        83.6881,
+        83.295,
+        81.69,
+        81.96,
+        81.3151,
+        81.3326,
+        81.9
       ],
       "news": [
         {
-          "title": "Kaiser Aluminum (NASDAQ:KALU) Shares Down 10.3% - Here's Why - MarketBeat",
+          "title": "Leblanc trust to sell 4,000 AXT (NASDAQ: AXTI) shares - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjNFSmZSc1VhVWxPenZsa3k1eTNwRG9qSnU3c1JucjZsY3p2SC1fWjdqVGMtcXhFNnF6LWRmam9WbUxYeEJjQWI3V2E0OXdZUFpxM0d3UFJMMTVzSV91VW1PMGxOSlNpVldQdmdhbGxsTWRGZEJ4LWVwMVNodXZNYzhmZlFQTG5vWFdCN3RzU0hrQ1FFZEFCS2ZzWXBxZktmb1ppYzVqOWZzZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjVIN1Y3MWRmTXo0RngzSzdXZmZlYXpCQktzV2ZoQ0hOREp1RkhOT3ZoT2RvTFBYd2pkenFCSEUwX3dIT0g1OV9ZMzdLa2VrcnVfblZ3bTJSNEF5aGpSNFlESXFhV1hJRUVvSlB0QmRMZU5LSDZTTkxzU18yLVZxNURFS2wtUkhxcDNhVg?oc=5"
         },
         {
-          "title": "After 45 years, Kaiser Aluminum's CEO will take a different role - Stock Titan",
+          "title": "AXTI Stock Rockets On AI Demand As Wall Street Chases Upside - StocksToTrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmlUMGxabVhFa3RzRFpTcmNnZ0I2R0dvLVRSZHhyRkg0UEI0SmpocVhHTzQzekdXcmRpZ0JlZEpVLUlMcXU4dHVjOVc0QzRoZ3pxVXdMbm0zMlNlbUF4ZXlFTUFHM0oyWlZYYlItMjA3V29Vb3ZNYkY0WTlNMUhnSnJ5VDZDQzdFTDJ0X1RrUUNkTXlVaERYbExFV3dSLVhCMUNTX0VMWnhVOWVvakF5U0VlSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mM3RxTzVKUE55S2s1TFJHbS1hQ2NTalVzMFJmcTNVM1B2OTVLSEpwZ2U5SXRwZWdMeFlkMVYwdXpyQ2NIdDB0WFpFTkYxT2V3QzdOMG1HTEVRRHhGVTRsVjNQNkVmTlRGTWlxQ3VpRQ?oc=5"
         },
         {
-          "title": "Kaiser Aluminum names Amcor's Stephan as new President/CEO; Harvey to become Executive Chair - Seeking Alpha",
+          "title": "Is AXT Inc (AXTI) Overvalued After 17.6% Rally? GF Value Says Ov - GuruFocus",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEwwR0ZYZEtodzA4OGhkMk1YQlFvd1ZfejZ5V1pJVDQwbjZQSFRVcWhEaGZ5YVRMWHBVRGtYWkNoUFl1LUc1Rm02TExObEl4QTRXRllERmdqaE00emN4cTFGWlR3UE9uYUY0SGNTWGh2VThXQjBtV01MLVdxN3dieE5YVV9hVHAzVlBOWDNaTUJVTWtqbFE0ejliZ0FaZ3I2UnkzU3J3OVU5VDMxSmpmTnpPWm5PTExPbXBGM0ZsNGpFY2pxcmh3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXVjTGhkQUgtY3NYSVNYV0h5ZVFGcExzVlZUS2t1VzRoWlRfSXhRS2FTNDFYNkhPZDg0QkJzdU9SemtRMUdIODJfcWhIS0k2RndJMGUwdnZfc2ppdTQ0VjBaYllDMl8wUXZFd3F1U2hsc3A1dGVCcDBCdHliX0dnaVFIRG1sSXd4d1VQLS1ENjR4ckotWTllOE9uSGVfMXkySXRwdUlMQl9Udw?oc=5"
         }
       ]
     },
     {
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
-      "price": 126.5,
-      "change_pct": -13.12,
-      "change": -19.11,
-      "volume": 1876680,
+      "price": 123.67,
+      "change_pct": -15.06,
+      "change": -21.93,
+      "volume": 2055982,
       "name_zh": "",
       "spark": [
         137.58,
@@ -791,11 +899,19 @@
         124.41,
         125.2801,
         125.58,
-        126.58
+        126.54,
+        125.5404,
+        125.3386,
+        125.2,
+        124.485,
+        124.25,
+        123.455,
+        123.985,
+        123.89
       ],
       "news": [
         {
-          "title": "Aehr Test Systems (NASDAQ:AEHR) Trading Down 9.1% - What's Next? - MarketBeat",
+          "title": "Aehr Test Systems (NASDAQ:AEHR) Trading Down 9.1% - What's Next? - marketbeat.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUg2Y2pwdVpvNHA0YTl6aDh2ZmxoQmo2Q1hHQ1lISndxQnFKWXFaRXFXYUxpdEQtRUJubTNLN2V6dFlhbUFXV1N4bDM3MmpzYUxiWUZQbmdJbEFORFFGa3hqSWdzcEg3ZmE3clBOc0JqQ0VnMno4WlFpUHhPQ0lPamdXck55XzlpVXRwWjd6QzVjOUhqYXlqaDRJUG55Qk10aU81akhCVHQ3MUNuSXc?oc=5"
         },
@@ -812,70 +928,12 @@
       ]
     },
     {
-      "symbol": "AUR",
-      "name": "Aurora Innovation, Inc.",
-      "price": 6.03,
-      "change_pct": -13.56,
-      "change": -0.94,
-      "volume": 39871223,
-      "name_zh": "",
-      "spark": [
-        6.415,
-        6.395,
-        6.355,
-        6.235,
-        6.2499,
-        6.1421,
-        6.1364,
-        6.075,
-        6.015,
-        6.045,
-        6.0967,
-        6.075,
-        6.085,
-        6.085,
-        6.035,
-        6.075,
-        6.065,
-        6.035,
-        6.03,
-        6.0199,
-        6.015,
-        6.025,
-        6.025,
-        6.005,
-        5.9901,
-        5.975,
-        6.005,
-        6.035,
-        6.045,
-        6.025
-      ],
-      "news": [
-        {
-          "title": "Aurora Innovation Stock (AUR) Opinions on Recent Market Activity - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2V2ZkJ5QUZ0ZUNQU3JSWlo5OEZuaHBxNk1tMHBYazZqYS1IRU40WktfOVZIM3d6UWxUM1djSEtaR1ZuSWFpOTlLWTN0WXNySGYxSlJXTExMXzZ3a1RvdEs4YjU1QnhzUnFXcDRuM19jU0N0andpWGRJUmR4NmNBLXl6bDkzQmJicnJzSDFwbHU1aWNvNHFHZWQ4LWFOLTZkUGZv?oc=5"
-        },
-        {
-          "title": "Aurora Innovation (NASDAQ:AUR) Shares Gap Down - Should You Sell? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWJ4TDdQU0xRaDE5V01qNEFCejdQbWFCVnFmdzhXTmQtQnU1T3BsR1M5eExzOUgzVk5ObXhNenBXNXpIZk9iQjR2N0FDSjJfOG44dUVUR0tfZGJNOU1YdmkwUWROTXptUnJFbXVhckhUZHZfX1BUczlWeU9UaW5GQXF6d0tRNWhWb21CaWppVjJ2bnZ4a0tsekpUNTJBMEJ5WlBxTk1BUURGOHhjY3NCZjRobw?oc=5"
-        },
-        {
-          "title": "Aurora Innovation AUR Slides As Loss Widens And Insiders Prep Sales - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16MUpTbjFvTlRuTEJoYlJsci1sZzV5Z3RWM2dyZWVybHFBX2ZJUHktTjhTRU83NExwajFzUTJxUlhjdF8zM1ozbVZqZjF4WGJjZnVFYTAxdDFGeXplMDlDMGp1RWVBOWhwRG1NXzRlNUdmaXF6Z0FFTm1jcDVDQQ?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
-      "price": 73.62,
-      "change_pct": -13.14,
-      "change": -11.14,
-      "volume": 1395619,
+      "price": 73.08,
+      "change_pct": -13.77,
+      "change": -11.68,
+      "volume": 1529151,
       "name_zh": "",
       "spark": [
         79.07,
@@ -907,7 +965,15 @@
         73.66,
         73.98,
         73.82,
-        73.7593
+        73.7593,
+        73.8358,
+        73.65,
+        73.57,
+        73.505,
+        73.163,
+        72.94,
+        73.03,
+        73.16
       ],
       "news": [
         {
@@ -928,70 +994,12 @@
       ]
     },
     {
-      "symbol": "CBRS",
-      "name": "Cerebras Systems Inc.",
-      "price": 220.42,
-      "change_pct": -12.52,
-      "change": -31.56,
-      "volume": 7422549,
-      "name_zh": "",
-      "spark": [
-        232.8,
-        233.8499,
-        227.25,
-        227.76,
-        222.915,
-        221.66,
-        222.935,
-        221.605,
-        220.93,
-        220.94,
-        221.48,
-        222.2099,
-        221.785,
-        221.21,
-        220.5,
-        219.56,
-        218.74,
-        218.375,
-        218.8564,
-        218.485,
-        218.085,
-        218.855,
-        220.29,
-        220.58,
-        221.555,
-        220.255,
-        220.59,
-        221.64,
-        221.7436,
-        220.82
-      ],
-      "news": [
-        {
-          "title": "Cerebras Systems (NASDAQ:CBRS) Stock Price Down 12.1% - Here's What Happened - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlZYaGtCRWprNlpTZkNhOHc5WVR6cFNJS3NzakZxNDc0dEpGblFiWG1FZ1c5amx4cTVjaHZtaVNQdkhUVkZDUmhwdVJBNkZ5dDRjMEV6ajNCc1RzWmRNc1VWVTZFaS1qSS1FRFpMdDg3YWpab2tvamF6NDBpWHdTelJ3dmFsVGsyNGlnZ2RjWmNlTUZoUk1mY3dmS0hYU3dCZjN5VUF1WFJNMHg2NEJISWJfZkNOZkJoUk12M2ZVOA?oc=5"
-        },
-        {
-          "title": "CBRS Stock Popped Nearly 10% Over 5 Sessions, IREN Jumped 15% — Here’s the ‘Situational Awareness’ Strate - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjRLSXhscnZma3pKY09DamVwaV9YcC1RZ0xoWERXa3htSGd1dkYxSGJqR3NpN2Vmb2pIM0VEMThfMXNHbDlFOE9MRXlQLVc4Mlc5cXdvV2tmbDFsMGRDR3pRUm1OSnRwUzVIOU1KMHFkbkNKaTBXZHBubkJ5SmFUbFVuUnhtMGk1VkJJRXJQZVBhZ2JyZ3d1a1pGX0pENWh6N0Q1bXdyWVVINElnQkZwYVBXcmtVUU9NQ2JGX3NCdTI0R2VjQW5yRTZ2SG5nSnl1bm9IY0x2ZUtFLW1IdmlvVE9SQzB4cVVadmhIT1NNdjdvN1JlTlNIWUJ1SjBrbldLUnc?oc=5"
-        },
-        {
-          "title": "Cerebras Systems (NASDAQ: CBRS) flags $15.7M stock sale - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZrbWlPd3dDeHVKMnl5MTNNdXpzeGhzWkc5OUgwSG93bC1NdXpUcHlXLTY2dDFtVzIyQWZaZTRWN2JadTh0b1VzbGdFdERCVldSN0hjeUhCSW5pR3FCZV95NU1UV2lGV1pxSUdwUnZ0dWh5Qmpvb0VBTVNSajhWd3lXT3JLS0c3R2RtM295UmZGeFQ2R2RJYW9nRHRCUQ?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "BIDU",
       "name": "Baidu, Inc.",
-      "price": 91.43,
-      "change_pct": -12.19,
-      "change": -12.69,
-      "volume": 8351534,
+      "price": 90.36,
+      "change_pct": -13.22,
+      "change": -13.76,
+      "volume": 9780955,
       "name_zh": "",
       "spark": [
         96.665,
@@ -1023,7 +1031,15 @@
         91.16,
         91.38,
         91.445,
-        91.38
+        91.41,
+        91.43,
+        91.2499,
+        90.88,
+        90.835,
+        90.835,
+        90.63,
+        90.71,
+        90.345
       ],
       "news": [
         {
@@ -1039,17 +1055,17 @@
         {
           "title": "Baidu, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:BIDU) 2026-08-18 - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXVkd3FLaW9LcXl4X2JGTV9uS29sMFctbFdJR2llX0tWUk13SnJFMVY2R29FZVdXOTlFenpyMWk4RURiZXRveWlzRVhSTkx0bkI3WXNfQlRSbXFnV296YWRaaGR5WWluS2xteUF6X3JGaHRHZGNOdDVHWTVWVXNCZzQ4Zi1xMTRMb1B3RFJvRU5pRnJUcW5HZGdQb1dSQ0Z4VU5tRFhMcFlyTzE1X1Z5UWpB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVG1DczU0a1pPazl5cXZsYS1wNjRlYUk2ZS1fUDVPdlFoejJqR3lZdUdxbE16QlduNUJrM24yeHBTWnUtYi1taFNReG95NzJBMnA1VUNsbWRmNlQ2TU5yN0tRRlQ5Y2x6dy1wZ3NBZjd5NE5YdVUzUExRdVRkZXktNnNPV1ZlZHRJbGxRWW5XVnpYYXk1R1FaRQ?oc=5"
         }
       ]
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
-      "price": 135.56,
-      "change_pct": -12.48,
-      "change": -19.34,
-      "volume": 7363209,
+      "price": 134.74,
+      "change_pct": -13.01,
+      "change": -20.15,
+      "volume": 8169316,
       "name_zh": "",
       "spark": [
         145.365,
@@ -1081,18 +1097,26 @@
         135.0717,
         135.69,
         136.36,
-        135.93
+        136.2951,
+        136.0008,
+        135.5165,
+        135.0582,
+        133.94,
+        134.16,
+        133.8707,
+        134.285,
+        134.8
       ],
       "news": [
+        {
+          "title": "Applied Optoelectronics (NASDAQ:AAOI) Trading Down 8.9% - Time to Sell? - marketbeat.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS25qS2lQd3ZXUUhzR1pIQnFwUGVDaWRzQjVhSWN3eW1vUjJXeDVPYW5LdEF6TEphUFZ1Rm5WWlRxcEVTeFRKX1FCd3Q1eVJJMDhNajNBYV9qV0FBMk1XT2RGUzg3LXJrd09jOEtobGx3X3lkOVo5ZFhJcUtGeEtaTGxZTE1lNHBLbFdQVzB0OGNQVG1NazB2TUZrbVlJZVNIRXpZVjl5WVcwUHpwQVRWT1VkUk0ta3oy?oc=5"
+        },
         {
           "title": "Applied Optoelectronics Inc (AAOI) Stock Up 3.1% but GF Value Sa - GuruFocus",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2JqeXl0SlhhVVk1RUh1ZkNzSk1PbVFWcUV1eHU1Q0MxV0ZwSXUzeGRrWENmT0Z4VjJBOVlPcTZYYXRQYUY1bVZrWTU0bjZJMWloaVgzN0p4bFdnTWpicHpDZ08tX2FnZDA5R3lVSXl2SlFXcHJrUlMySllya2t0eDVLX1hXVXhlbmUxWWtOalJnUmJUdXphZ0JmQlpOSlkxdUxUWG96d2pqR2hWQnZZTERjOEo0WXF1S3lLZkZsYkJ6RGUwb2c?oc=5"
-        },
-        {
-          "title": "Applied Optoelectronics (NASDAQ:AAOI) Trading Down 8.9% - Time to Sell? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS25qS2lQd3ZXUUhzR1pIQnFwUGVDaWRzQjVhSWN3eW1vUjJXeDVPYW5LdEF6TEphUFZ1Rm5WWlRxcEVTeFRKX1FCd3Q1eVJJMDhNajNBYV9qV0FBMk1XT2RGUzg3LXJrd09jOEtobGx3X3lkOVo5ZFhJcUtGeEtaTGxZTE1lNHBLbFdQVzB0OGNQVG1NazB2TUZrbVlJZVNIRXpZVjl5WVcwUHpwQVRWT1VkUk0ta3oy?oc=5"
         },
         {
           "title": "Applied Optoelectronics: 170% Growth At Just 4x Sales Is Too Cheap To Ignore (NASDAQ:AAOI) - Seeking Alpha",
@@ -1104,10 +1128,10 @@
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding ",
-      "price": 249.3,
-      "change_pct": -11.85,
-      "change": -33.52,
-      "volume": 3286807,
+      "price": 245.92,
+      "change_pct": -13.05,
+      "change": -36.9,
+      "volume": 3589104,
       "name_zh": "",
       "spark": [
         266.01,
@@ -1139,7 +1163,15 @@
         250.1299,
         249.635,
         250.45,
-        249.9
+        249.96,
+        248.7527,
+        248.115,
+        248.4063,
+        247.19,
+        247.31,
+        246.45,
+        246.245,
+        246.27
       ],
       "news": [
         {
@@ -1148,14 +1180,144 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3MzX3ZnQ3UyM0FuNjlaRXMxN3k4QWN4TktaT2FEMlliaTJJaHlkRzVjOGdKNlF3OGZuNjd3R3FlWGpkWGsxaHR5dS10bWRScGhfTV96SFRpYmZOOWR3TG9uZTBSNUp1ZU5Zd0tKcm5FVU01ZzdxNTJpZXVhdmpLVF9VdU9LQ0ptYXJBN3NUYmE?oc=5"
         },
         {
-          "title": "Credo Technology Group Holding Ltd (CRDO) Shares Surge 8.8% -- W - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGF5TlQzQUh5UTd3V1lRbzdHMnVxMEp0VW5GbXZDdjJvMFNMa2xQOENVVnM3SmtENnB0a3hYaTYwNUVDU0FjQ0VCbnBVb05SSHh4RlRnVkRKeVpVWjVESThtYml3Nmtjd2pwczF5RVdtTWRqelVuY0l2Q0dvNWdtdFdQZFlBOG5IaHBhQm05ZE80RFFCaFBwNWk5dThPUW9LemtVSXNDek9UWEtxZWxrT3ZTR19sZnFuRnZnOXBGNF9BOHc4R3huLUtR?oc=5"
-        },
-        {
           "title": "Credo Technology Group Holding (CRDO), Why Is Fresh Attention Building Around It? - simplywall.st",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZGJzX1JkVEs5Z2lxdmRwV2ZEOXR0dFZEZm5QeEcyRHVEWVNDZzIwV0wyaEl4WmhjY2pQaXhJQVlWVzZoVDctd1hMRW96OGJnMkV4aG1wWDhRRUVfNWNxZTQ3cUM4MDhka2FYSC1iQXFrbVVZZkozb0NBckcwaXlIcWpQNnpjLWFhU2pueERfSm9IaTk0d0RGYl9kSWtZcGpUaDVTQWtGRU5KNUNweUJSbG51VXR5MFJGczdFUGtkbmdjSGVIM21HOUpPX2xtTjYtT3FIOHRsYmtFWkQydjhRVFFUdUtHZE1wT1I00gHwAUFVX3lxTE9kV3pOXzZmaDQzdl82eFZNMDFybDZfbWVmbm5HSVczQUN0YXlKZFdnZmItWWFOZURVeWtMaEdyX2tIUFBkclZJd3gwSWcxTmo1UWgybHRvc0UxNkkzZzNIVFN4S3JnZmVFeTlUVV90eFZVRWM5NTlZUlRJVWlpUE4xNDFZRFFuUkVwMmtzREk4SGpZYzB1eTVaakF6UVMtdThnLU03OG5qMjl1azgzbGpfbFN0YWFVak1WZFRBZTJKM1FKRjhkSVp4bjlkSWN1QUg3MHhwZEIwVE9MTGNqekNpWFhKVU5IUU8taUJCWnltTg?oc=5"
+        },
+        {
+          "title": "Credo Technology Group Holding Ltd (CRDO) Shares Surge 8.8% -- W - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGF5TlQzQUh5UTd3V1lRbzdHMnVxMEp0VW5GbXZDdjJvMFNMa2xQOENVVnM3SmtENnB0a3hYaTYwNUVDU0FjQ0VCbnBVb05SSHh4RlRnVkRKeVpVWjVESThtYml3Nmtjd2pwczF5RVdtTWRqelVuY0l2Q0dvNWdtdFdQZFlBOG5IaHBhQm05ZE80RFFCaFBwNWk5dThPUW9LemtVSXNDek9UWEtxZWxrT3ZTR19sZnFuRnZnOXBGNF9BOHc4R3huLUtR?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "KALU",
+      "name": "Kaiser Aluminum Corporation",
+      "price": 161.8,
+      "change_pct": -12.78,
+      "change": -23.7,
+      "volume": 210167,
+      "name_zh": "",
+      "spark": [
+        174.55,
+        169.255,
+        167.725,
+        167.04,
+        168.7075,
+        166.4,
+        165.69,
+        164.965,
+        165.49,
+        164.59,
+        165.1374,
+        163.69,
+        164.9199,
+        163.05,
+        164.065,
+        162.19,
+        161.46,
+        160.675,
+        157.91,
+        159.4,
+        158.69,
+        160.65,
+        159.27,
+        160.7504,
+        159.905,
+        159.46,
+        159.97,
+        160.12,
+        160.41,
+        161.44,
+        161.635,
+        161.435,
+        162.22,
+        162.62,
+        163.19,
+        161.8
+      ],
+      "news": [
+        {
+          "title": "Kaiser Aluminum (NASDAQ:KALU) Shares Down 10.3% - Here's Why - marketbeat.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjNFSmZSc1VhVWxPenZsa3k1eTNwRG9qSnU3c1JucjZsY3p2SC1fWjdqVGMtcXhFNnF6LWRmam9WbUxYeEJjQWI3V2E0OXdZUFpxM0d3UFJMMTVzSV91VW1PMGxOSlNpVldQdmdhbGxsTWRGZEJ4LWVwMVNodXZNYzhmZlFQTG5vWFdCN3RzU0hrQ1FFZEFCS2ZzWXBxZktmb1ppYzVqOWZzZw?oc=5"
+        },
+        {
+          "title": "After 45 years, Kaiser Aluminum's CEO will take a different role - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmlUMGxabVhFa3RzRFpTcmNnZ0I2R0dvLVRSZHhyRkg0UEI0SmpocVhHTzQzekdXcmRpZ0JlZEpVLUlMcXU4dHVjOVc0QzRoZ3pxVXdMbm0zMlNlbUF4ZXlFTUFHM0oyWlZYYlItMjA3V29Vb3ZNYkY0WTlNMUhnSnJ5VDZDQzdFTDJ0X1RrUUNkTXlVaERYbExFV3dSLVhCMUNTX0VMWnhVOWVvakF5U0VlSQ?oc=5"
+        },
+        {
+          "title": "Kaiser Aluminum names Amcor's Stephan as new President/CEO; Harvey to become Executive Chair - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEwwR0ZYZEtodzA4OGhkMk1YQlFvd1ZfejZ5V1pJVDQwbjZQSFRVcWhEaGZ5YVRMWHBVRGtYWkNoUFl1LUc1Rm02TExObEl4QTRXRllERmdqaE00emN4cTFGWlR3UE9uYUY0SGNTWGh2VThXQjBtV01MLVdxN3dieE5YVV9hVHAzVlBOWDNaTUJVTWtqbFE0ejliZ0FaZ3I2UnkzU3J3OVU5VDMxSmpmTnpPWm5PTExPbXBGM0ZsNGpFY2pxcmh3?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 220.22,
+      "change_pct": -12.61,
+      "change": -31.77,
+      "volume": 8061587,
+      "name_zh": "",
+      "spark": [
+        232.8,
+        233.8499,
+        227.25,
+        227.76,
+        222.915,
+        221.66,
+        222.935,
+        221.605,
+        220.93,
+        220.94,
+        221.48,
+        222.2099,
+        221.785,
+        221.21,
+        220.5,
+        219.56,
+        218.74,
+        218.375,
+        218.8564,
+        218.485,
+        218.085,
+        218.855,
+        220.29,
+        220.58,
+        221.555,
+        220.255,
+        220.59,
+        221.64,
+        221.7436,
+        221.0101,
+        220.38,
+        220.14,
+        219.91,
+        219.8999,
+        220.37,
+        218.74,
+        220.0,
+        220.43
+      ],
+      "news": [
+        {
+          "title": "Cerebras Systems (NASDAQ:CBRS) Stock Price Down 12.1% - Here's What Happened - marketbeat.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlZYaGtCRWprNlpTZkNhOHc5WVR6cFNJS3NzakZxNDc0dEpGblFiWG1FZ1c5amx4cTVjaHZtaVNQdkhUVkZDUmhwdVJBNkZ5dDRjMEV6ajNCc1RzWmRNc1VWVTZFaS1qSS1FRFpMdDg3YWpab2tvamF6NDBpWHdTelJ3dmFsVGsyNGlnZ2RjWmNlTUZoUk1mY3dmS0hYU3dCZjN5VUF1WFJNMHg2NEJISWJfZkNOZkJoUk12M2ZVOA?oc=5"
+        },
+        {
+          "title": "CBRS Stock Popped Nearly 10% Over 5 Sessions, IREN Jumped 15% — Here’s the ‘Situational Awareness’ Strate - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjRLSXhscnZma3pKY09DamVwaV9YcC1RZ0xoWERXa3htSGd1dkYxSGJqR3NpN2Vmb2pIM0VEMThfMXNHbDlFOE9MRXlQLVc4Mlc5cXdvV2tmbDFsMGRDR3pRUm1OSnRwUzVIOU1KMHFkbkNKaTBXZHBubkJ5SmFUbFVuUnhtMGk1VkJJRXJQZVBhZ2JyZ3d1a1pGX0pENWh6N0Q1bXdyWVVINElnQkZwYVBXcmtVUU9NQ2JGX3NCdTI0R2VjQW5yRTZ2SG5nSnl1bm9IY0x2ZUtFLW1IdmlvVE9SQzB4cVVadmhIT1NNdjdvN1JlTlNIWUJ1SjBrbldLUnc?oc=5"
+        },
+        {
+          "title": "Cerebras Systems (NASDAQ: CBRS) flags $15.7M stock sale - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZrbWlPd3dDeHVKMnl5MTNNdXpzeGhzWkc5OUgwSG93bC1NdXpUcHlXLTY2dDFtVzIyQWZaZTRWN2JadTh0b1VzbGdFdERCVldSN0hjeUhCSW5pR3FCZV95NU1UV2lGV1pxSUdwUnZ0dWh5Qmpvb0VBTVNSajhWd3lXT3JLS0c3R2RtM295UmZGeFQ2R2RJYW9nRHRCUQ?oc=5"
         }
       ]
     }
