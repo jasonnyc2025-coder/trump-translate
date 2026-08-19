@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-19T19:37:01.418107+00:00",
+  "updated_at": "2026-08-19T19:57:04.886311+00:00",
   "us_gainers": [
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc.",
-      "price": 163.38,
-      "change_pct": 159.5,
-      "change": 100.42,
-      "volume": 167073663,
+      "price": 174.2,
+      "change_pct": 176.33,
+      "change": 111.24,
+      "volume": 179191848,
       "name_zh": "",
       "spark": [
         117.3802,
@@ -34,7 +34,8 @@
         155.91,
         153.36,
         157.565,
-        162.98
+        162.98,
+        169.0613
       ],
       "news": [
         {
@@ -57,16 +58,16 @@
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc.",
-      "price": 61.03,
-      "change_pct": 23.64,
-      "change": 11.67,
-      "volume": 17704787,
+      "price": 61.76,
+      "change_pct": 25.12,
+      "change": 12.4,
+      "volume": 19879759,
       "name_zh": "",
       "spark": [
         57.52,
         55.5195,
         55.7001,
-        56.045,
+        56.02,
         57.3,
         58.625,
         57.725,
@@ -87,7 +88,8 @@
         60.595,
         60.87,
         60.97,
-        61.185
+        61.185,
+        61.65
       ],
       "news": [
         {
@@ -96,7 +98,7 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaW1FMzJRc0lUY2tWUFdXc1hZRjZYTk5LVWJOa1o5c2FMd2RseVNNVUk0akJ2aWd2NWpPVDJGX2NRX2ZYTTdaVlZ5UEhIN1hfS2tRNC1NWm13aEJhc256SlhFUzJrdWRxNGl4aGFoWDlHUlNmTFU0Y29Jdkp5b0xfX0VSc1N4SmNOQ0Z0VDVwZnoxSU9LMm9XLWpVTE42X1lxejZJTGs4T1gyT1duRG05dURaeGUtQ0hkdHV3ak5taHRwV2pQNjVCVjgxcHhnWkY5bzlMWDFR?oc=5"
         },
         {
-          "title": "TEM Stock Slides As Tempus AI Bets $1.5B On MRD - StocksToTrade",
+          "title": "TEM Stock Slides As Tempus AI Bets $1.5B On MRD - stockstotrade.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kdlFHc0ZENk9tS2pEMTNFcHlQS3hhVVpqdnZydW1QRFN5dnc4eG5Kak9BQ2RnVXV4T1FUVlY4YXNMMGVuVWlsTFA1bmkyY1hxYmFWZkliTm8wVExLVEhLc1U3YVF1bHRRZC1zaVpOMXlNQzA?oc=5"
         },
@@ -108,65 +110,12 @@
       ]
     },
     {
-      "symbol": "TWST",
-      "name": "Twist Bioscience Corporation",
-      "price": 139.82,
-      "change_pct": 20.43,
-      "change": 23.72,
-      "volume": 2957714,
-      "name_zh": "",
-      "spark": [
-        131.08,
-        138.37,
-        135.94,
-        135.915,
-        137.01,
-        138.81,
-        139.16,
-        138.675,
-        138.385,
-        137.31,
-        136.63,
-        136.86,
-        135.81,
-        135.79,
-        135.23,
-        135.64,
-        137.6,
-        136.88,
-        136.18,
-        136.38,
-        136.0,
-        136.275,
-        139.24,
-        141.275,
-        140.0
-      ],
-      "news": [
-        {
-          "title": "Twist Bioscience (TWST) Stock Draws Bulls After Guidance Hike And $300M Raise - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXhwd0M2bFpqaDNDNVpzMGRuTUkzZWQ0QnJnR0prSklDUTYyS25KZDN6dGhwdDQwM2liQXlNSW1FQmdLMGcxS1FfaXFPOVJRNHQtSlJpaFlObjhWeFFVdTdhWUpwcVNsVXFTSkJJQU10UklkU0xqeDNMdEM4b3RpLVNSSVN0eUR3?oc=5"
-        },
-        {
-          "title": "Twist Bioscience (NASDAQ: TWST) officer may sell $1.84M in shares - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWllZkplZndFNldkWEo1VFp6cEdKazNQaW5nVXNaQnNxdkpPWGxBb0otbENhZDU1MGlSNDNFYm5STHhaV0RxV0doUWh3enRjRzBhaWZ5cTZJNEdCaXpzM1Z1aFFFZ1JrTThJUmtjdFpWRUt4WjlPTkh6XzluUGNCVHY3c09ORkxPaUtrNk9ZZ1pjOGFyM3pWbVkzdnl6SWc?oc=5"
-        },
-        {
-          "title": "Twist Bioscience (NASDAQ:TWST) Hits New 52-Week High - Should You Buy? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMllLdHFRZkJSMk1Pa3BTRTd0bnBMZ2VieU9DV0ZRUEhzUmplM2k2WEc1Sm5TNHZCaV92dldFVkR0MnIybkFWa2d4ZzBIS3hYSll2Uml0NnlNM3ljMWYzVUg1aHBELXY1OVJndlQzMUt3T0owUXU2bWlOTVd3Z3dLYlFmbFFfQUJ1Nmp2dUpUZ0FxWXlUZFpOWnJNZ3VPUkRWR05saXB3SlUzdV9DMEV2Ukdic2U2XzFySVE?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "BNTX",
       "name": "BioNTech SE",
-      "price": 111.75,
-      "change_pct": 20.49,
-      "change": 19.0,
-      "volume": 7493274,
+      "price": 112.5,
+      "change_pct": 21.29,
+      "change": 19.75,
+      "volume": 8149059,
       "name_zh": "",
       "spark": [
         107.545,
@@ -193,7 +142,8 @@
         111.2,
         111.87,
         111.78,
-        111.375
+        111.375,
+        112.185
       ],
       "news": [
         {
@@ -202,7 +152,7 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVM0b3hra0k5WmFpMmxmNE1EXzA2MVNQMlBNT01NVXhWcVRCN2RsMnBBVVhmejVSRmplOUJrRlNGZTNkMU5nbkplbDkzOE1TUm5ZSzZPZTh3RkxHZlpMMkl4UFB0UU1oQzBpZjhfcUs4RHZGcTZKZ0FQMzRzRjZleUlLZ3BrREppR1dn?oc=5"
         },
         {
-          "title": "BioNTech SE Stock Pops As Traders Refocus On Oncology Pivot - StocksToTrade",
+          "title": "BioNTech SE Stock Pops As Traders Refocus On Oncology Pivot - stockstotrade.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44aERQUFo1WnJHSU5TV0JORmlMeXVoTWNUZlJVcmR3c1hoRmltQ2ROT1IwdTNrcHRNOEEzaUhpQ2Z5dmwzaTMtVmZ6azU2MjlWekVRYkJpdk51RFZESE5VekRGcEtpTEl2RHJIeEhSWG9aUHBF?oc=5"
         },
@@ -214,65 +164,66 @@
       ]
     },
     {
-      "symbol": "EL",
-      "name": "Estee Lauder Companies, Inc. (T",
-      "price": 99.37,
-      "change_pct": 17.92,
-      "change": 15.1,
-      "volume": 11320875,
+      "symbol": "TWST",
+      "name": "Twist Bioscience Corporation",
+      "price": 141.73,
+      "change_pct": 22.07,
+      "change": 25.63,
+      "volume": 3183843,
       "name_zh": "",
       "spark": [
-        96.4,
-        99.22,
-        99.0,
-        98.31,
-        98.6,
-        97.795,
-        98.17,
-        98.01,
-        98.12,
-        97.765,
-        98.17,
-        98.37,
-        98.34,
-        99.04,
-        98.89,
-        98.535,
-        98.63,
-        98.72,
-        98.335,
-        98.37,
-        98.9,
-        99.3669,
-        99.11,
-        99.43,
-        99.205
+        131.08,
+        138.37,
+        135.94,
+        135.915,
+        137.01,
+        138.81,
+        139.16,
+        138.675,
+        138.385,
+        137.31,
+        136.63,
+        136.86,
+        135.81,
+        135.79,
+        135.23,
+        135.64,
+        137.6,
+        136.88,
+        136.18,
+        136.38,
+        136.0,
+        136.275,
+        139.24,
+        141.275,
+        140.0,
+        140.825
       ],
       "news": [
         {
-          "title": "Estee Lauder Stock Climbs As Turnaround Story Gains Momentum - StocksToTrade",
+          "title": "Twist Bioscience (TWST) Stock Draws Bulls After Guidance Hike And $300M Raise - stockstotrade.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlY2UDJnNmc3MEdiVEJDNEE2UnltM21RYkJrcEhjV2Y5OS1uN3BNLUlZUkRzRE5rV0NKYVlCbkRscWc0cHNYSW16MWttSnRGZGhISVh3Q0QzOTZzSmEwbndGR0xXbVZXWUpOMHJEM0tKeGVFSFRqV05xd2V3bFoyVXd4TDdKMlpN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXhwd0M2bFpqaDNDNVpzMGRuTUkzZWQ0QnJnR0prSklDUTYyS25KZDN6dGhwdDQwM2liQXlNSW1FQmdLMGcxS1FfaXFPOVJRNHQtSlJpaFlObjhWeFFVdTdhWUpwcVNsVXFTSkJJQU10UklkU0xqeDNMdEM4b3RpLVNSSVN0eUR3?oc=5"
         },
         {
-          "title": "Estee Lauder Q4 Earnings Beat Estimates, Sales Up 6% Y/Y - TradingView",
+          "title": "Twist Bioscience (NASDAQ: TWST) officer may sell $1.84M in shares - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVFtSWxYNmZ6S1JZUjktcDduS3lNZjdQUml2dUkzLURZZlJDSnNkcndoSkpNbWp5NFFGa05LVkE2WGxJOTdnalJsbVpBM21FLXotU3VPbFllb0hocjk2THUwS0gxRVc2MVpjWWJpOEZnMi1wZ25xdlU3bkg0dnNSaEpBa3RBSUd6SnBTOU9HRHZ1TmF5TkgwOXo3WFBVVmRqejJvd2o1WHF5SmFQZl8w?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWllZkplZndFNldkWEo1VFp6cEdKazNQaW5nVXNaQnNxdkpPWGxBb0otbENhZDU1MGlSNDNFYm5STHhaV0RxV0doUWh3enRjRzBhaWZ5cTZJNEdCaXpzM1Z1aFFFZ1JrTThJUmtjdFpWRUt4WjlPTkh6XzluUGNCVHY3c09ORkxPaUtrNk9ZZ1pjOGFyM3pWbVkzdnl6SWc?oc=5"
         },
         {
-          "title": "Estee Lauder Q4: Beauty Is Back (NYSE:EL) - Seeking Alpha",
+          "title": "Twist Bioscience (NASDAQ:TWST) Hits New 52-Week High - Should You Buy? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2dwdHhMUEdmNnU1SndVY1VueVBiRGE1Sk96Y1RrOThiOXRsMHFJVzBvMWhPVzdOMGlYdno2WDJxTS15dVg4OFJKbUlaWWFyUEF3ZlE3LW5nbDVnd3ZDS3hGYUc3MzVOeU9iUHBLNFpobnNUaWtNdTJvalE5NjY0MFhtY0h0Vk5aYUZnNkh4ekJOU182S3V2ZWFlZF8?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMllLdHFRZkJSMk1Pa3BTRTd0bnBMZ2VieU9DV0ZRUEhzUmplM2k2WEc1Sm5TNHZCaV92dldFVkR0MnIybkFWa2d4ZzBIS3hYSll2Uml0NnlNM3ljMWYzVUg1aHBELXY1OVJndlQzMUt3T0owUXU2bWlOTVd3Z3dLYlFmbFFfQUJ1Nmp2dUpUZ0FxWXlUZFpOWnJNZ3VPUkRWR05saXB3SlUzdV9DMEV2Ukdic2U2XzFySVE?oc=5"
         }
       ]
     },
     {
       "symbol": "HYMC",
       "name": "Hycroft Mining Holding Corporat",
-      "price": 27.82,
-      "change_pct": 15.01,
-      "change": 3.63,
-      "volume": 2522345,
+      "price": 27.95,
+      "change_pct": 15.54,
+      "change": 3.76,
+      "volume": 2696187,
       "name_zh": "",
       "spark": [
         26.57,
@@ -299,7 +250,8 @@
         27.18,
         27.4,
         27.6567,
-        27.835
+        27.835,
+        27.879
       ],
       "news": [
         {
@@ -308,183 +260,24 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXI0ZHk4M0UxZ1RHQXR4cTgzTmNiR21IbTVtQnRvZjlGZnFlekN4M1NjT1FlcFNEaE1UcXBWNzdBaXl3ZXNWV1dKWDhwVmxBQnVmTWh1UEw1RnVaaE05b3Y0TExyS2Z4bDhMalZuVFByZVpEeE8takxJT2Z5M1NMZVgyNHhUM0JTTzdNYWRQZHlXZ0c4OVNwTG1CcjdLUW5FNXBvcjV4dFo?oc=5"
         },
         {
-          "title": "HYMC News | HYCROFT MINING HOLDING CO-A (NASDAQ:HYMC) - ChartMill",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TcGFuRkUxSWZxc1FxM1FlQm5QdURxS1R1ZEJLcFpfMEN5RUpleHVzdGxXZG05bDZuaEFNRDhlYXNVMmFzeWVwVVozdHZBck1GSFVEQUNQazZucE0?oc=5"
-        },
-        {
           "title": "Hycroft Stock Price Forecast. Should You Buy HYMC? - StockInvest.us",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfTGN4MWN1RHg3dU9NR3UyVUNPMDlNc1B6T2dfWEtmRkZ1eHhvMUh6MEVfaFI2X2VQNkFpQ1pxUkxxZ2ZVNXYzRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "KC",
-      "name": "Kingsoft Cloud Holdings Limited",
-      "price": 12.42,
-      "change_pct": 14.53,
-      "change": 1.58,
-      "volume": 2711701,
-      "name_zh": "",
-      "spark": [
-        11.86,
-        11.88,
-        11.7899,
-        12.115,
-        12.025,
-        12.0,
-        11.945,
-        11.98,
-        11.915,
-        11.89,
-        11.9812,
-        12.091,
-        12.055,
-        12.05,
-        12.08,
-        12.14,
-        12.17,
-        12.205,
-        12.255,
-        12.285,
-        12.305,
-        12.305,
-        12.455,
-        12.51,
-        12.43
-      ],
-      "news": [
-        {
-          "title": "Kingsoft Cloud Q2: Xiaomi Will Be The Partnership To Boost The Company Forward (NASDAQ:KC) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmtHZm4ybE55bk83MDZTalNCeXBVbVd5RVpqWGdnc29qQnh6N3lUNkNRR0s5bXhMakVWLWsydmR3dlU3REhIUVRpeWtBaFFhc2tqU3FoZGRNLUthSmN4bXROeHg0TDhBb1ZPR1JPQmUxV2xaQktwUEU2NUZhUFExQWQ2ODM3NjhwSU9RaWVlTlpkMm1IS0g2MkVWSVA0c0xlYVNWbGpfcVlDYzdBUkdOVDJ1b29Nd3FQTnc?oc=5"
         },
         {
-          "title": "Why Is Kingsoft Cloud Stock Gaining Wednesday? - Kingsoft Cloud Holdings (NASDAQ:KC) - Benzinga",
+          "title": "411,116 Shares in Hycroft Mining Holding Corporation $HYMC Bought by Amundi - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUNQZUk4WUpETS13VkxoQ0hSLWJFcmlRVmRENzZBcld6dkdoMzdYOGIzMmJtSzFRVjY5VlVJTWNGNWVacGpjblVVQWJ3OHpZNFI1Nkh2SEgtQTdMMmh6NkhscDJ3Yks1TmdTMVBkQ0ZTbkNDWkpVVlhFcDg4VkVZWGRXQzVYWkFGZFg2UEpJV095bGN1RkNJR05HM2hIaXNEUVp4UDdERQ?oc=5"
-        },
-        {
-          "title": "Kingsoft Cloud (NASDAQ:KC) Shares Gap Up - What's Next? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalNmRTc1SU1nby1IX3pVd1pJVHZhMHBDZWhwZjZFbTkxMjRUaWxhdkV6UzlrY3hqcU9VZ3VMTXVndWllWWIxZzFHLWhzYWstd19BVExDQXRDcVYtclRKbV9iRHVPN2VIa21kbXl3dzZCQ3Fyc3phMzlQeXJreUdIMHprdm5EWktRSWJGbE1PUmRFVDRETWRZTEJPYWRGcVgtR293Rg?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "DRD",
-      "name": "DRDGOLD Limited",
-      "price": 27.8,
-      "change_pct": 14.4,
-      "change": 3.5,
-      "volume": 443120,
-      "name_zh": "",
-      "spark": [
-        27.34,
-        27.41,
-        27.14,
-        27.6257,
-        27.785,
-        27.69,
-        27.74,
-        27.785,
-        27.88,
-        27.82,
-        27.8773,
-        27.85,
-        27.72,
-        27.82,
-        27.88,
-        27.56,
-        27.53,
-        27.575,
-        27.675,
-        27.57,
-        27.61,
-        27.74,
-        27.82,
-        27.855,
-        27.84
-      ],
-      "news": [
-        {
-          "title": "DRDGOLD Limited (NYSE: DRD) nearly doubles EPS on higher gold price and cash build - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHM5anRaMDhNRDh6MlI3TkpKUXY4YU41UnpNR21IV0ZaQUR0V3FaOTY3VVhmRWNBOERSaGNMcmdKVnRKd3lRMUUzRE1ldnlpbHppSUhwNUN0ODdSckh4d3VvMjRleW5Ha1ZpWm91aWZkdFp2dUxrUFFJTnhSb0VObmZLcjBRbnFaRGpCT1BTRlVwNDB1RjVtYVJFUHJER0VZdnh3Z1N3N0l6QQ?oc=5"
-        },
-        {
-          "title": "DRDGOLD (NYSE:DRD) Leads High-Growth Momentum on CANSLIM Screen - ChartMill",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW1yeE1OM2NXcFplcV9IMXJJS2JmUFFlZERnLXhwT1RVa3MwMC1Qc3E1VGdNZFZHQXRSeUFPdXhVMHN4Slc4d1BKWXI0S1IyYWo5V1pJMlV3TUtoT1BFRmw5NFNtNFZDcENKeUstcmJWYlZtSTRzd0VrYUUwSlpJSHRELXFCRE1zbm1qa2hkVzdMSEVFU3BHU1hrMnZCdElTWjBjVHk0TzI3c3NQQm91cQ?oc=5"
-        },
-        {
-          "title": "Renaissance Technologies LLC Buys 128,832 Shares of DRDGOLD Limited $DRD - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3B3ZlFNbEZzbkR2YWhxV1BKUkhVMUdLZUxlWXBlcHdIRGw3TGRfcjkxQThFSDFDZW5GN2dicWJWSVpBYTdsR3VwQm1fUHJCOGFiYnh4RXdqR09acTNrSDdJbnpGTm1ETmxQTEdXNFlNY25mM1M2MXgwMmRnZ1lSTlN5NFFQSnZxVXZCQnhuNW93bUFaLUtubUZHSW9haWN3VXZUcFRCQjlfal9kaEl1b3l5V3VaODdaTm9sM3VKbWFKb1RTX2tHb3hRTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "IOVA",
-      "name": "Iovance Biotherapeutics, Inc.",
-      "price": 8.02,
-      "change_pct": 14.08,
-      "change": 0.99,
-      "volume": 19143033,
-      "name_zh": "",
-      "spark": [
-        7.45,
-        7.69,
-        7.625,
-        7.635,
-        7.81,
-        7.765,
-        7.725,
-        7.635,
-        7.52,
-        7.505,
-        7.535,
-        7.545,
-        7.655,
-        7.7103,
-        7.725,
-        7.715,
-        7.715,
-        7.7657,
-        7.815,
-        7.795,
-        7.865,
-        7.84,
-        7.873,
-        7.935,
-        8.04
-      ],
-      "news": [
-        {
-          "title": "Iovance Biotherapeutics (NASDAQ:IOVA) Stock Price Up 11% Following Analyst Upgrade - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTJncW9qZl9hdUdSZkpZQ3l0RGd2cE9uOC1vejR6RVFPOTVTSm93NHhYNWpqb29adVk2NDY0cjZNem5yaWN6LVVDcmNVZW9tVklTMkdXdDZnNUtjcHRTblhHdFFHWWNFZVAyNldJVDVVQVAyWmx5TjlJZk9tZk51QjBMclNhSzJ3UTE0ZVlDSDJqaHFaYjFxYWVUTGJ4aFFYNUlvMm1FRzQtM1pWYlI4RlJfZFJ5cGUwOE9PcTJTdnZoLVhRY09RRk5mdGk?oc=5"
-        },
-        {
-          "title": "IOVA Stock Climbs As Amtagvi Sales Crush Q2 Expectations - timothysykes.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFE3akRCMk5JdVhaY0Y5eUJmYkE1TjRfNTk3aEoybE9GalF0b3F2SmQzX2RPYzB4U1pkRFgyR2Z3Y19XdmpZWWlFLVVHbGlhblRRRFc5b2VHajNpSmp0aWFDOHBMdUpwckhlU1FOQlhoZTMyODh4VXp4R1NJNlp2X1N3dnl4cHJ2TERr?oc=5"
-        },
-        {
-          "title": "Iovance Biotherapeutics stock hits 52-week high at 6.94 USD - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VndXd5b0N4cHJZXzRVcnNBbVVpQXRyMnY0TEEzWEVjVjVnZkVQa09kMzEtSGswREwtbkpKNEdwQ2pZeHJXdC1PcEhhOG9LWHFESUZIbTlyZl9wbGxwd0ZWdFItay1raWJ0elNKMEVXYnVyLU9CRmJzVHJ2VlJRMWRiNk5KcmtmT1BleVREOHpNTXB6WnpwUFRTUGIyTUwwRkZia3JCLW50OXVLWndZeDBvdmQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUZIOEtaTURKWkF4elB5cGIwZ2FaR3BDWEQzdTJYOVpGNlBQOTB0TFlRUldrZWZwYl9Uam1ScVFQTUtGanZyd1Y3dXFtVXVOMGVrdmVBLThHeTk0Tm5zYW8tNTJtS2dvdHdoM2wzdGxQQWVycGwxdG9ZZmNxMnoxZmVGd19ITDY5bUN2LXhwTmFTamhWektlbjd5YnZpMExUT0VyWXZpd0VRUURhMGVXZ1lJcUtlRFNOR0dnMTRwTXBweTN4WUQ0RVUyVkhLOTQ?oc=5"
         }
       ]
     },
     {
       "symbol": "AMR",
       "name": "Alpha Metallurgical Resources, ",
-      "price": 193.04,
-      "change_pct": 13.93,
-      "change": 23.6,
-      "volume": 395910,
+      "price": 193.85,
+      "change_pct": 14.41,
+      "change": 24.41,
+      "volume": 436240,
       "name_zh": "",
       "spark": [
         175.87,
@@ -511,7 +304,8 @@
         190.62,
         191.14,
         191.695,
-        192.94
+        193.165,
+        193.42
       ],
       "news": [
         {
@@ -530,122 +324,232 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUJDVHpsV0VUSVVRbk13Y2ptLXBhRUVmRWRTcDJqZXZNTXFTVW5HeFNoSzBwYzc3RXM3VnV5M3YwYTNZOGFDM25GSGp0bjFXalNSdU1uLWw5OWthc1ViX1BOUVFURExDbm5PT3dUWjMyMTVwYVJFQzYyd2pqSl9QdUNad3dacENZOV9scjNnUVMwcEpXMGFMZGZVaUN0cEdKMGJB?oc=5"
         }
       ]
+    },
+    {
+      "symbol": "XXI",
+      "name": "Twenty One Capital, Inc.",
+      "price": 5.54,
+      "change_pct": 14.46,
+      "change": 0.7,
+      "volume": 1592441,
+      "name_zh": "",
+      "spark": [
+        4.9938,
+        5.06,
+        5.09,
+        5.17,
+        5.15,
+        5.185,
+        5.275,
+        5.32,
+        5.4,
+        5.41,
+        5.43,
+        5.485,
+        5.49,
+        5.575,
+        5.535,
+        5.485,
+        5.475,
+        5.505,
+        5.53,
+        5.5286,
+        5.495,
+        5.5,
+        5.47,
+        5.485,
+        5.485,
+        5.515
+      ],
+      "news": [
+        {
+          "title": "Twenty One Capital, Inc. (NYSE:XXI) Short Interest Update - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1phQ1dxOV9jNEVabDVib19BN2hXcXpFOHBScGZZcmtDS1NfOGF3UTliVy1JbUc1czN5Vm5idWQ3czFSd252ei1kWjdHZThoSXZBeldXU1dhSlJRdFVQc3lEWllfQ05SenRYTDU4aEF4RmZGdW9rbVU1U3Z6NEwyQ0k5d3Q0ekdDSXhqRGphTVlpRXNLZk5PZ0Ryb29hajRhTkdGVmVZTDBGdw?oc=5"
+        },
+        {
+          "title": "10 Financials Stocks Moving In Wednesday's Intraday Session - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVF3bUNuamJlaFJjX0dETWFpVEJEUERZZTBuMTM0MkJhSjBHdENpTjFOWmduQ1hJTDVISG5FVHpmOUlJLWRPdHkzZkRPQ0JDUEk3Tlk0bjlGYWV0WVBZYWxPQ3VGQXhHLUR4dzRHSkJzMnVfbEpNQjN1NmZFYk9idFd5ZjVPc184RDZUb193eEJDMTFRRDFVc2VFRlB6TDc0OXFsNUJQY3VGamV2OENpSzFXQWZ5aG4y?oc=5"
+        },
+        {
+          "title": "Twenty One Capital Company Profile & Introduction - Moomoo",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNaHlJSDJUTlRsWjJXdlJWYVF4blFfRGhJNDhtZEVkb3hFSWxseEUxeEVEaXBCWkxIcXU5cDJ4X2xMQ092MWlRTnFwT0ZMTTJtbEZ2aGRvS3BJdlktVWJKR09Uam1LRjRULVUyWVRxX2NoYTJEY2tGUGpEVENwdnUwb1Vic0U4akhnTENjbjJtbmVCQS1BOHJhdmR0RlMwM19JdXFETzRIbFdEVzF3bmdBaFZjeF9nZ1JBRDJsU3B2VG1EY3hTMHRBcFpDdmJOQ2k3S0R2Vk1RLXQ5eFl2NW1LN3hNMEp1R2w4TmY5Z3Z4TC1XdGpMZGlPZVZIVlFHRGdwTkJVRFYtQ0syREstbXZCbDk0NWlUaE1FQ3d5Z2lCNE1QbTlqRmxmNjdBemI5d0FzYm5BRVR6bGFJSkJTOV9RU1laQ2hkNFo3V05oMm1nSnE4YmlvTUMzM2JEMlhLUWNIa3lhbFAyOTRuMk8xYkd0MWxfTDhpVFhTWER6NA?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "IOVA",
+      "name": "Iovance Biotherapeutics, Inc.",
+      "price": 8.0,
+      "change_pct": 13.73,
+      "change": 0.96,
+      "volume": 21636644,
+      "name_zh": "",
+      "spark": [
+        7.45,
+        7.69,
+        7.625,
+        7.635,
+        7.81,
+        7.765,
+        7.725,
+        7.635,
+        7.52,
+        7.505,
+        7.535,
+        7.545,
+        7.655,
+        7.7103,
+        7.725,
+        7.715,
+        7.715,
+        7.7657,
+        7.815,
+        7.795,
+        7.865,
+        7.84,
+        7.873,
+        7.935,
+        8.04,
+        8.0499
+      ],
+      "news": [
+        {
+          "title": "Iovance Biotherapeutics (NASDAQ:IOVA) Stock Price Up 11% Following Analyst Upgrade - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTJncW9qZl9hdUdSZkpZQ3l0RGd2cE9uOC1vejR6RVFPOTVTSm93NHhYNWpqb29adVk2NDY0cjZNem5yaWN6LVVDcmNVZW9tVklTMkdXdDZnNUtjcHRTblhHdFFHWWNFZVAyNldJVDVVQVAyWmx5TjlJZk9tZk51QjBMclNhSzJ3UTE0ZVlDSDJqaHFaYjFxYWVUTGJ4aFFYNUlvMm1FRzQtM1pWYlI4RlJfZFJ5cGUwOE9PcTJTdnZoLVhRY09RRk5mdGk?oc=5"
+        },
+        {
+          "title": "IOVA Stock Climbs As Amtagvi Sales Crush Q2 Expectations - timothysykes.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFE3akRCMk5JdVhaY0Y5eUJmYkE1TjRfNTk3aEoybE9GalF0b3F2SmQzX2RPYzB4U1pkRFgyR2Z3Y19XdmpZWWlFLVVHbGlhblRRRFc5b2VHajNpSmp0aWFDOHBMdUpwckhlU1FOQlhoZTMyODh4VXp4R1NJNlp2X1N3dnl4cHJ2TERr?oc=5"
+        },
+        {
+          "title": "Iovance Biotherapeutics (IOVA) Stock May Be Cheap As Sales Ramp Remains Key - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVlCR3k1LVZKRENIaEhfZ1NvY1kyR3FlcXV6Y3ZEUnpxOGU4RHpQRWNETk9NYmFlX0hJOFdPQnpkeXpaSjFZU3RXazVBeDF1RWp5a05zeFFQdFUxZjBScEpaNDF5dDc1NHotWGxKdURfbFg0MEZ5NzBDVE9fNzlxMFhaSExCWjdQc0FGSEtJX09QUUp2RTJFemM1blVNRzNl?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "price": 8.45,
+      "change_pct": 13.97,
+      "change": 1.03,
+      "volume": 5756830,
+      "name_zh": "",
+      "spark": [
+        8.005,
+        8.03,
+        8.1498,
+        8.22,
+        8.33,
+        8.245,
+        8.2312,
+        8.24,
+        8.31,
+        8.3351,
+        8.375,
+        8.4086,
+        8.44,
+        8.4014,
+        8.425,
+        8.345,
+        8.345,
+        8.345,
+        8.3809,
+        8.305,
+        8.335,
+        8.375,
+        8.38,
+        8.415,
+        8.405,
+        8.43
+      ],
+      "news": [
+        {
+          "title": "NOVAGOLD RESOURCES INC. (TSX: NG) Makes TSX Top Gainer List - Investorideas.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZThjQmRPcHNqeHNRbThlWHloVGZUVjJoOFZDRkZXVmNHcElxMDdmdU1UOWoyTkt2UHd2cGhhaGFMOTg4OVE1U2JVcGwxOWVqY1dRaVhocXhoc2JqSktJVkk0NUo2LVNuTkNvOS04TGtRS0s4Rk9HTzlfcTkzSXN3WW9IR19XSzBhOFRhVnRITUdpX0FUc3owMy1rdw?oc=5"
+        },
+        {
+          "title": "NG Stock Alert: Halper Sadeh LLC is Investigating Whether NOVAGOLD RESOURCES INC. is Obtaining a Fair Price for its Shareholders - Business Wire",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSlZsc2lpN1JpbktwTkNoQ05VR3QzaGRDZnBJRWxvNW9aaUpmc0l5N2hva3dtd1V6eUVXbnFtLWMyLV95YnZzQ0U0aHpnTE1Uei1CVW1MR2lOZWxNS053Z3JPTXcyRFVhOGZ6a1NQU1lXWDV3ZXpSbGs5OW5UNTZXVGpzN3M2VmNzcjNfWlBoNXh4WWpnaHVrZm5OY0pKZUwzYlZOenM5Y3F2cUljVlZMSVdCM0NPT0hYcmUxbldjUzQwS0M4VnVoM2dUVWstbmlmek85U2JaZm41b0FYNG5BRmphOHZSQ3p1d2dmVTJKOVBGUFpqQkRKWm9TQWY2VVB6UWJmMk1RTWNTLWFQdGNheklR?oc=5"
+        },
+        {
+          "title": "NovaGold Resources Inc. (NG) Coverage Launched as Morgan Stanley Highlights Donlin Gold Upside - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTIwY0hlRnhkTHFhQ3plVng3ZWV0Q3l2aW12VXV5ZWpqUEdXME5PanptS0VnaUFuOUNwaVZKemFIMkN0YjBsbzJyOVR3TTVpYnBxMkEyR3VNWmVnX0hiQVlWcG1lX1I4cnByck9NWlRvR2dZTHlTcFN3MDBEd0U1a01SS1JDLXBhaHZPQV96YTFnenRUT05YcW1vUGJDdHhw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "price": 20.47,
+      "change_pct": 14.04,
+      "change": 2.52,
+      "volume": 61480677,
+      "name_zh": "",
+      "spark": [
+        19.1997,
+        19.37,
+        19.435,
+        19.57,
+        20.055,
+        20.121,
+        20.205,
+        20.185,
+        20.325,
+        20.44,
+        20.4796,
+        20.455,
+        20.405,
+        20.295,
+        20.2669,
+        20.085,
+        20.12,
+        20.17,
+        20.095,
+        19.865,
+        19.99,
+        20.065,
+        20.12,
+        20.345,
+        20.37,
+        20.3401
+      ],
+      "news": [
+        {
+          "title": "Hecla Mining (NYSE:HL) Shares Up 8.8% - Here's Why - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanNSZTVhNVdycjYyRV9aYmVVcUg2UVktUERrWkM5dV9keDV3SURHd01JT25yVjNkNjZldml5MDR6dDd3aVJHQjdVbmVIV19femFEdDJQLXZBNTlOdHVuYm8zZXNVcVVTRmRtN0lwRHQxSGhudGtQeGJDWFI5cDBVVjNPTE4zLVpYVk9xbHUtMklucDBUQXlkdTMxMF8?oc=5"
+        },
+        {
+          "title": "HL Stock Slips As Hecla Mining Misses Q2 Revenue - stockstotrade.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91dDVtYllBZTN2MF94Vnl2MVp2cWR3NkMwck9fX3NMOUM2cE9CeGZnZndhbDc1YjdBWGNzdnVYdmxVb3N2Mmd0T1psMVRPSnItakd2cDR1SkpyeUJ5M1VuUk0wenVtNUlBQUp5eGU0WlJBemtybFFxbkp3SQ?oc=5"
+        },
+        {
+          "title": "Hecla Mining Co (HL) Shares Fall 4.6% -- What GF Score of 63 Tel - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXhDTkVNNTlqSkliZ1ozcUZFVlZjcTA5Ym5mNUd5YnVNTFJ2Z2tmTFlUR2tDRzVtQUJ1WExocnE3R0Y2bU9wVElpNS1sUHdjZm9zQU9ua1VDTVpoa000ZE54VHB4c19fR1Y2Rk5sUkpFemxWcnZfaThTSE05bWRjU0lZVVFlUm1KbWVMUVVWOGxpME12TGFGMGtqZzJkcUgyTktuRTBNQlowbXRV?oc=5"
+        }
+      ]
     }
   ],
   "us_losers": [
     {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 218.79,
-      "change_pct": -11.93,
-      "change": -29.63,
-      "volume": 36276693,
-      "name_zh": "",
-      "spark": [
-        232.315,
-        220.31,
-        217.225,
-        216.08,
-        223.275,
-        223.2904,
-        223.825,
-        226.35,
-        226.555,
-        227.1436,
-        227.275,
-        229.35,
-        230.535,
-        229.23,
-        227.0163,
-        224.38,
-        223.4562,
-        224.84,
-        223.4201,
-        224.0,
-        222.26,
-        220.19,
-        220.125,
-        219.215,
-        219.2626
-      ],
-      "news": [
-        {
-          "title": "Nebius Group (NASDAQ:NBIS) Shares Gap Down Following Insider Selling - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFA1UmdLSnVnR21iUmNSemlqU2tkU2d3VWhpdENvZlp4cHlVUWlueEN0Zmt2ZWdmaW8xbXlPejVSZzZXUFRLSWpzTlBpNGo4Vm9fb3J5eUZOQUJYSDRlR1l4VlRMVUVfTlJNUVFwNl9KbWoyTndyTkpSNVM5cHRJVVN6TDYyMktQOEs2OHhVTVpwUUdiRGl0RWR3SjJTdmhGX2Y3Ynp5ZWNmTHEzVExpLW9kR0x2bGt2QXlB?oc=5"
-        },
-        {
-          "title": "Nebius Group NBIS Stock Whipsaws Under WallStreetBets Spotlight - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDQ3pGWWNSazJ2SjJOTE5RYUJkejlPcWh5OXhRNVVZd3NneE4taWFydlJpaHFLdVk2MXVpRktYdVRUSjNaRDU1bW9NQVFCREVsU21jMDV2dkFhLUNUd005NGYtZGF2YXZmVG5EV0lMTnV4LXo5azEw?oc=5"
-        },
-        {
-          "title": "Nebius Is Back In The Bull Zone (Rating Upgrade) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanFTd09oN2xxdHE3R0NPd21kNDN4RHVJUWxSdF85ZG5nc2JaNzBIWUhIUmJlZ1BLS0ZKbFRQRDhXNDBfNXNlaEg5M1l2TTBJUXJaUDAtSnVyMUg3cFpnd0VXeTNYLV93eFVzaDFGNHlWOTRHS2RieVRycmRKU1haY1R2ZTAxTXdoTTg3UUdIZFVla2lE?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "VICR",
-      "name": "Vicor Corporation",
-      "price": 214.81,
-      "change_pct": -11.39,
-      "change": -27.6,
-      "volume": 1136238,
-      "name_zh": "",
-      "spark": [
-        238.915,
-        229.79,
-        224.15,
-        218.89,
-        224.91,
-        222.45,
-        218.35,
-        219.58,
-        220.47,
-        218.53,
-        219.67,
-        219.6059,
-        215.52,
-        215.6,
-        213.68,
-        212.52,
-        212.16,
-        211.01,
-        212.05,
-        211.3,
-        212.69,
-        215.6981,
-        214.3,
-        214.775,
-        215.155
-      ],
-      "news": [
-        {
-          "title": "Vicor (NASDAQ: VICR) director sells 908 shares after option exercise - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BCSl83NU1TbGVadHpNX0dqR0dJMS1jNXNVeVZkZTFlQlN1U3NUd3BuaXlVV3M4VkNZT2hkWUprd1g1M3paM1dxaWF5bjVlQ0lOWDVIRzZiNGgwYU16UmVhN0x6YktlS1ppM3NIUGxDdDd1a2VDS05lc1h1bkVmd2F0LXdabnk4QnB1X2NoSWsxUEplU2hhU3NOakFZRHN4SUJ3YmVaWQ?oc=5"
-        },
-        {
-          "title": "Vicor (NASDAQ:VICR) Stock Price Down 8.1% After Insider Selling - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0FKYTVnWTVIbi1YQTh4NnFkOVBCNTJfOVpXVHlkODc3T0paMDlQeGxtN3AxY3dlb3UyaDJIQUtXSWpoTGdyLWU4Y0FhZHVyVG02QW5iQV9pRlB1TFdKUkp4cjZrUHRPYS1NSks3STBYSUE3UnJFdGRwbjdpVGJSTEUzX1oxcWhOZ0VWalRtaW5GOXJ6TGhMemZDbWFzRW95dm40dWYtbzU3ZG42NF9oZWF3?oc=5"
-        },
-        {
-          "title": "Can Vicor (VICR) Climb 43.43% to Reach the Level Wall Street Analysts Expect? - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObjdkTTZ0cnByU0xaR2Q1WVhhRURYcmVxT1ZmbGJXeC1kQ1AyMGhfbjNFX0VLRUxKN25zTnJQS2VoRTh2ajJGNURVd2hUcTdxQzFZczRodGl1OUFOS2lxVWw4enRXcVFZZVpCdm01RlRqMEpYUWdjd2hiWkZvN3ktY3FLWkpNbWZfUEQ3OUw3WHo?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
-      "price": 109.22,
-      "change_pct": -11.38,
-      "change": -14.03,
-      "volume": 2450458,
+      "price": 108.0,
+      "change_pct": -12.37,
+      "change": -15.25,
+      "volume": 2617842,
       "name_zh": "",
       "spark": [
         119.25,
@@ -672,7 +576,8 @@
         109.625,
         108.9775,
         108.7,
-        109.41
+        109.41,
+        107.9401
       ],
       "news": [
         {
@@ -693,65 +598,66 @@
       ]
     },
     {
-      "symbol": "FSLY",
-      "name": "Fastly, Inc.",
-      "price": 24.22,
-      "change_pct": -8.91,
-      "change": -2.37,
-      "volume": 4407394,
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 222.93,
+      "change_pct": -10.26,
+      "change": -25.5,
+      "volume": 41748193,
       "name_zh": "",
       "spark": [
-        26.31,
-        25.44,
-        24.81,
-        24.68,
-        24.95,
-        25.49,
-        25.48,
-        25.64,
-        25.53,
-        25.21,
-        25.205,
-        25.16,
-        24.94,
-        24.99,
-        24.71,
-        24.62,
-        24.615,
-        24.59,
-        24.61,
-        24.48,
-        24.6,
-        24.2,
-        23.9961,
-        24.0227,
-        24.12
+        232.315,
+        220.31,
+        217.225,
+        216.08,
+        223.275,
+        223.2904,
+        223.825,
+        226.35,
+        226.555,
+        227.1436,
+        227.275,
+        229.35,
+        230.535,
+        229.23,
+        227.0163,
+        224.38,
+        223.4562,
+        224.84,
+        223.4201,
+        224.0,
+        222.26,
+        220.19,
+        220.125,
+        219.215,
+        219.2626,
+        216.56
       ],
       "news": [
         {
-          "title": "Fastly (NASDAQ:FSLY) Stock Price Down 6.9% - Here's Why - MarketBeat",
+          "title": "Nebius Group (NASDAQ:NBIS) Shares Gap Down Following Insider Selling - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzZfOF9xbjk2VmRnbUJQYmE2Y0NfWlQ0YWZuZ0E4WjRMQXBJUE50eWpmVF9xMk1DLTBYdkVEdGpCemc2ZGxadWI1dEZhQ1ZxRy10WVJ5ZS1qOFpfR1VsOXRRYlV1UFltbnNiVjd0RHl0bnhJTkRfd2lWRGZ6VTVKNEJ4ZlVRR0Z1X3F4MnRWUUZiNzNldzdZM3hoNTJiQWt2MGxN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFA1UmdLSnVnR21iUmNSemlqU2tkU2d3VWhpdENvZlp4cHlVUWlueEN0Zmt2ZWdmaW8xbXlPejVSZzZXUFRLSWpzTlBpNGo4Vm9fb3J5eUZOQUJYSDRlR1l4VlRMVUVfTlJNUVFwNl9KbWoyTndyTkpSNVM5cHRJVVN6TDYyMktQOEs2OHhVTVpwUUdiRGl0RWR3SjJTdmhGX2Y3Ynp5ZWNmTHEzVExpLW9kR0x2bGt2QXlB?oc=5"
         },
         {
-          "title": "FSLY Stock Crashes 25% Despite Strong Earnings, Forecast Raise: Retail Sees Long-Term Potential - Stocktwits",
+          "title": "Nebius Group NBIS Stock Whipsaws Under WallStreetBets Spotlight - stockstotrade.com",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmVBQjl1M1B2YUNnNWhLa3piYUEzSDZMRElfNk5zU1k0cjdrM2g2NTl6ai1CTGw1eWlOZWRRZG4xSDlaTERNSENBRjJKbGtuTlJlVzhLMFJWSHFsa0hpb29OX21tdXViQTF0LUJ0OFZPWDJXMnpfUnNtZ0U5UjQtR08wUE5kdWlFRENnODBsVk1pak4xRF9YeUctM2dpNlhmRmpuM3I0azJQRlVMeXV0Uk4wQ2xtVDJ1ckFveHZNRmtzc2tFb1RiVnZmb3EtNFdUTmVDVUdSSmwtUURyNjRQV2h0Qks1al9RMHNiQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDQ3pGWWNSazJ2SjJOTE5RYUJkejlPcWh5OXhRNVVZd3NneE4taWFydlJpaHFLdVk2MXVpRktYdVRUSjNaRDU1bW9NQVFCREVsU21jMDV2dkFhLUNUd005NGYtZGF2YXZmVG5EV0lMTnV4LXo5azEw?oc=5"
         },
         {
-          "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return - Yahoo Finance",
+          "title": "Nebius Is Back In The Bull Zone (Rating Upgrade) - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGFJQmhPOGVDVm9qSzBXQk5JdG1BczVHRTZXWm40MTRLOTRhdjdBSXF3dWFZbE1WdTVuMmdMZmtCWEhLTG10RkNYU2g5cTFTZUJ0MG82eHIzTV9rTk1fd1BaaHNwS1Jwa1BXNEx2VWdZZVFyelZZaHpkZzFCQWRhMW16eEdma1E5VnZTeHZMa045N01mVTdoVngxUGFHR3Bv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanFTd09oN2xxdHE3R0NPd21kNDN4RHVJUWxSdF85ZG5nc2JaNzBIWUhIUmJlZ1BLS0ZKbFRQRDhXNDBfNXNlaEg5M1l2TTBJUXJaUDAtSnVyMUg3cFpnd0VXeTNYLV93eFVzaDFGNHlWOTRHS2RieVRycmRKU1haY1R2ZTAxTXdoTTg3UUdIZFVla2lE?oc=5"
         }
       ]
     },
     {
       "symbol": "AXTI",
       "name": "AXT Inc",
-      "price": 74.66,
-      "change_pct": -9.29,
-      "change": -7.65,
-      "volume": 12919192,
+      "price": 73.64,
+      "change_pct": -10.53,
+      "change": -8.67,
+      "volume": 13435026,
       "name_zh": "",
       "spark": [
         82.37,
@@ -778,11 +684,12 @@
         74.895,
         74.74,
         74.45,
-        74.75
+        74.75,
+        73.96
       ],
       "news": [
         {
-          "title": "AXTI Stock Surges As AI Data Center Demand Ignites Turnaround - StocksToTrade",
+          "title": "AXTI Stock Surges As AI Data Center Demand Ignites Turnaround - stockstotrade.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XTERQUUt6aU55VGh5SWxlc3BxMnJ4QjZ2cHoxZFlESzVOcHcwN3M1S3d1Ml92VldaUUFJU1BSWnRsakJqMXdyLTVyZ3FCaWJNSjlQZm5tdFc3MDMxQ3h0Ulhmb1RNVVlwQWlrXw?oc=5"
         },
@@ -799,12 +706,174 @@
       ]
     },
     {
+      "symbol": "FSLY",
+      "name": "Fastly, Inc.",
+      "price": 23.7,
+      "change_pct": -10.87,
+      "change": -2.89,
+      "volume": 5273650,
+      "name_zh": "",
+      "spark": [
+        26.31,
+        25.44,
+        24.81,
+        24.68,
+        24.95,
+        25.49,
+        25.48,
+        25.64,
+        25.53,
+        25.21,
+        25.205,
+        25.16,
+        24.94,
+        24.99,
+        24.71,
+        24.62,
+        24.615,
+        24.59,
+        24.61,
+        24.48,
+        24.6,
+        24.2,
+        23.9961,
+        24.0227,
+        24.12,
+        23.85
+      ],
+      "news": [
+        {
+          "title": "Fastly (NASDAQ:FSLY) Stock Price Down 6.9% - Here's Why - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzZfOF9xbjk2VmRnbUJQYmE2Y0NfWlQ0YWZuZ0E4WjRMQXBJUE50eWpmVF9xMk1DLTBYdkVEdGpCemc2ZGxadWI1dEZhQ1ZxRy10WVJ5ZS1qOFpfR1VsOXRRYlV1UFltbnNiVjd0RHl0bnhJTkRfd2lWRGZ6VTVKNEJ4ZlVRR0Z1X3F4MnRWUUZiNzNldzdZM3hoNTJiQWt2MGxN?oc=5"
+        },
+        {
+          "title": "FSLY Stock Crashes 25% Despite Strong Earnings, Forecast Raise: Retail Sees Long-Term Potential - Stocktwits",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmVBQjl1M1B2YUNnNWhLa3piYUEzSDZMRElfNk5zU1k0cjdrM2g2NTl6ai1CTGw1eWlOZWRRZG4xSDlaTERNSENBRjJKbGtuTlJlVzhLMFJWSHFsa0hpb29OX21tdXViQTF0LUJ0OFZPWDJXMnpfUnNtZ0U5UjQtR08wUE5kdWlFRENnODBsVk1pak4xRF9YeUctM2dpNlhmRmpuM3I0azJQRlVMeXV0Uk4wQ2xtVDJ1ckFveHZNRmtzc2tFb1RiVnZmb3EtNFdUTmVDVUdSSmwtUURyNjRQV2h0Qks1al9RMHNiQQ?oc=5"
+        },
+        {
+          "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGFJQmhPOGVDVm9qSzBXQk5JdG1BczVHRTZXWm40MTRLOTRhdjdBSXF3dWFZbE1WdTVuMmdMZmtCWEhLTG10RkNYU2g5cTFTZUJ0MG82eHIzTV9rTk1fd1BaaHNwS1Jwa1BXNEx2VWdZZVFyelZZaHpkZzFCQWRhMW16eEdma1E5VnZTeHZMa045N01mVTdoVngxUGFHR3Bv?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "VICR",
+      "name": "Vicor Corporation",
+      "price": 218.63,
+      "change_pct": -9.81,
+      "change": -23.78,
+      "volume": 1266250,
+      "name_zh": "",
+      "spark": [
+        238.915,
+        229.79,
+        224.15,
+        218.89,
+        224.91,
+        222.45,
+        218.35,
+        219.58,
+        220.47,
+        218.53,
+        219.67,
+        219.6059,
+        215.52,
+        215.6,
+        213.68,
+        212.52,
+        212.16,
+        211.01,
+        212.05,
+        211.3,
+        212.69,
+        215.6981,
+        214.3,
+        214.775,
+        215.155,
+        217.855
+      ],
+      "news": [
+        {
+          "title": "Why Vicor Corporation (VICR) Stock Is Down Today - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDY3alRPSmhtZW51S1lCcUVKUUxpcXRPTlM5cnozdFZ5LUVVc09iU2VMc210elN6Yno5THhGQ3FZMlBNLXRfWmtKWm83NElCSU9jZ2VaSjgtU3pFT0o0Qm52aXktMjlray0waVh6NXFHRlYzcEtwWHhBRmdkSGw2c0NadHhkeUpGOW1zSFdR?oc=5"
+        },
+        {
+          "title": "Vicor (NASDAQ: VICR) director sells 908 shares after option exercise - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BCSl83NU1TbGVadHpNX0dqR0dJMS1jNXNVeVZkZTFlQlN1U3NUd3BuaXlVV3M4VkNZT2hkWUprd1g1M3paM1dxaWF5bjVlQ0lOWDVIRzZiNGgwYU16UmVhN0x6YktlS1ppM3NIUGxDdDd1a2VDS05lc1h1bkVmd2F0LXdabnk4QnB1X2NoSWsxUEplU2hhU3NOakFZRHN4SUJ3YmVaWQ?oc=5"
+        },
+        {
+          "title": "Vicor (NASDAQ:VICR) Stock Price Down 8.1% After Insider Selling - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0FKYTVnWTVIbi1YQTh4NnFkOVBCNTJfOVpXVHlkODc3T0paMDlQeGxtN3AxY3dlb3UyaDJIQUtXSWpoTGdyLWU4Y0FhZHVyVG02QW5iQV9pRlB1TFdKUkp4cjZrUHRPYS1NSks3STBYSUE3UnJFdGRwbjdpVGJSTEUzX1oxcWhOZ0VWalRtaW5GOXJ6TGhMemZDbWFzRW95dm40dWYtbzU3ZG42NF9oZWF3?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "SITM",
+      "name": "SiTime Corporation",
+      "price": 623.72,
+      "change_pct": -8.28,
+      "change": -56.34,
+      "volume": 416761,
+      "name_zh": "",
+      "spark": [
+        682.32,
+        647.01,
+        635.95,
+        620.6625,
+        626.74,
+        631.73,
+        630.04,
+        632.38,
+        637.1507,
+        632.94,
+        637.625,
+        640.205,
+        639.205,
+        641.0,
+        635.7325,
+        633.425,
+        632.22,
+        632.91,
+        632.76,
+        631.165,
+        633.89,
+        630.855,
+        632.44,
+        632.74,
+        629.312,
+        621.36
+      ],
+      "news": [
+        {
+          "title": "Artemis Wealth Advisors LLC Takes Position in SiTime Corporation $SITM - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnh2LThmM0M5UFA3ZjVwdTJ6bmpNRWtkRUtmNEktYkxta004Vk5wbUVSQU1zR2ZVdGpHaF9aSHVTamdTeXpQczFrZk04em9zaGNLclVwa2JyX1M1cUpTRE5zTlFjVjVjMXRCNVpieWRhTm1sY055Tktvdm02czJNNW1ubDZGUXhEOHl5RE5KblNjeUlqVnh6SzVUMUJiRXBHbW9vMU5DS2NmV3VPdVdVU1ZVMG5ZS3dQT0NrQ3g2NDZBbW5wQXNzdDdR?oc=5"
+        },
+        {
+          "title": "SiTime (NASDAQ: SITM) director sells 695 shares near $700–$750 - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakhheWJ5NDdJb0FibUxaSXRWRnBpdWlQLWVrbVJwcGpYVXlvMVJoMUZsMW9VSFdyYzlmelVzV3lJZldaOER1N2dqVmpZWlNVTm5IV28xWTNBTW5HbXNnSGUzalFKVjl6eVF0ZXZoa055M3RZd0h0VzAtdnhkVlRDX2tvNFRyT3JRUVBUckFkMGp1TTVBSzNKemZPZDh5aDRYZjllUGl6ZXY?oc=5"
+        },
+        {
+          "title": "Is SiTime Corporation (SITM) One of the Best Multibagger Stocks to Buy in 2026? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWF1U1ZiSGNmTnlqWXR0Vl9ZVmJGbEhrZUFZOWp1WkViZTU0aklfajBPSjV5TklaX2tFTE1NWG43MVNmOEViNkh1eDVHUDhZRE15Q2J4NGRjQkJEREl3UVVGVVVVY1R4ZmpqWkNPb3FaWmctYjdnUGFTOUJvOTAxOGJDWkk3NF8wTFZTUkJKQnphUkFvUEhlR29NVFg3UQ?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc.",
-      "price": 38.54,
-      "change_pct": -8.76,
-      "change": -3.7,
-      "volume": 1042366,
+      "price": 38.73,
+      "change_pct": -8.31,
+      "change": -3.51,
+      "volume": 1260211,
       "name_zh": "",
       "spark": [
         40.62,
@@ -831,18 +900,19 @@
         38.875,
         38.765,
         38.65,
-        38.49
+        38.49,
+        38.39
       ],
       "news": [
-        {
-          "title": "A New Investor Backs Starlab’s Commercial Space Station After the ISS - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVZMGpSYUhpY2lXMUFHQ3dTY0VBT0xwWWlUOFFIWXpsM1o1TWRZQURCaHktbDFxSVVocEZKVzNYa0RZbC11N2I1YWItVkVNOTJZRGMwMUE2amhkc3UtbU9UZEhLSVVkRnhoUTFXSk95OWpUNE1BVDRGaVZkbjVXQjkxa2xNaEdVN1lOVmtMWmdWRU1XNFVJbndCTFNPd2pqZG9hek1RclJPem5TakhsWg?oc=5"
-        },
         {
           "title": "Voyager Technologies (NYSE:VOYG) Trading Down 7.3% - Here's Why - MarketBeat",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1hSSFVSTlk2NlhzUmtLbzlkYWZyWHpLVnUyUkZsa3lteDNwSWZlaGUwS21fN05lcjhSeGRSUkJJREdfVXVwOTQ4Um9Tbi1FUmdvNnVha2ZiazNXeHlSS0tDbUhyRWpPdmNVN2xSdTFQVlBvMGh6N0VROXJDZnduVFJwXzNUaWg3SW92MlVLejZzUkNkQURsemE0SklRLTVyaGdXUFNtTjhwSm9aekE?oc=5"
+        },
+        {
+          "title": "A New Investor Backs Starlab’s Commercial Space Station After the ISS - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVZMGpSYUhpY2lXMUFHQ3dTY0VBT0xwWWlUOFFIWXpsM1o1TWRZQURCaHktbDFxSVVocEZKVzNYa0RZbC11N2I1YWItVkVNOTJZRGMwMUE2amhkc3UtbU9UZEhLSVVkRnhoUTFXSk95OWpUNE1BVDRGaVZkbjVXQjkxa2xNaEdVN1lOVmtMWmdWRU1XNFVJbndCTFNPd2pqZG9hek1RclJPem5TakhsWg?oc=5"
         },
         {
           "title": "Is Voyager Technologies, Inc. (VOYG) A Good Stock To Buy Now? - Yahoo Finance",
@@ -852,108 +922,56 @@
       ]
     },
     {
-      "symbol": "STLD",
-      "name": "Steel Dynamics, Inc.",
-      "price": 230.26,
-      "change_pct": -7.83,
-      "change": -19.55,
-      "volume": 1771702,
+      "symbol": "PENG",
+      "name": "Penguin Solutions, Inc.",
+      "price": 53.24,
+      "change_pct": -8.76,
+      "change": -5.12,
+      "volume": 1351401,
       "name_zh": "",
       "spark": [
-        249.105,
-        251.215,
-        251.06,
-        247.31,
-        249.115,
-        249.655,
-        249.64,
-        249.875,
-        247.945,
-        246.5,
-        246.25,
-        245.56,
-        244.82,
-        244.33,
-        244.28,
-        243.51,
-        244.74,
-        238.17,
-        229.7,
-        227.31,
-        224.345,
-        229.42,
-        231.2,
-        229.62,
-        229.87
+        57.51,
+        55.55,
+        54.68,
+        53.61,
+        53.93,
+        54.07,
+        54.29,
+        54.81,
+        54.865,
+        54.52,
+        54.9,
+        55.0,
+        55.04,
+        55.0,
+        54.57,
+        54.49,
+        54.54,
+        54.25,
+        54.14,
+        53.785,
+        54.2075,
+        53.92,
+        53.72,
+        53.66,
+        53.98,
+        53.555
       ],
       "news": [
         {
-          "title": "Steel Dynamics Inc (STLD) Shares Fall 3.2% -- What GF Score of 8 - GuruFocus",
+          "title": "Penguin Solutions (NASDAQ:PENG) Trading Down 6.6% - Here's Why - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlVZYzlycUtkS295YUtZNGZSdHJkdmR6RXJrTzFldE5oWUd6bTl6aDRlOTFJYzRzRGlCTUpObnlmTjFzZXhzekxnTGlRZEZ2MWRjV3FaaWxLNkNXM2U5d3p5ZHFKQTB4MV9YTnozU1o0V3JaVGwwaWlYU3g0ck82ZG9Ua2ZrQXpnYk5zeEdUQWJfSm9kTXZHYVNyYy1vNEtZNFhWcEhNaDB6bm1pVmNoaFFFUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRER6UlNjYmhQWmR6NXQ3VjZReENvczlOMWt5UmduQXd2MFo3V1BzckNzZHIxYTBkNXZNbGxveGZaaTV6NnJXcm5fU2gxNHh0akNDb1NSSkt1cl95bmJkTWlQdVRMaUVyV3VHTW5MbENCQjQxR1JGWnFsQUJjTWthLXJrUlRaejNmdzFrckhYTGxtdW53V1VoS2gzN1A5LWFWal95bXV2dGxCa1Ji?oc=5"
         },
         {
-          "title": "Steel Dynamics (NASDAQ:STLD) Combines High Growth Momentum with Breakout Setup - ChartMill",
+          "title": "Penguin Stock Slides 15% in a Month: Should You Buy the Dip? - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXkyTzhoRW9PQWREZjFxb3ZlNjQwbGp1dXhMamNXVE9qbmh4Q2V4akNRWlBuWXE5Ukg3ejdtRGxNdUo0aEdoXzlMb2wtSmZZaGxmWk9BTXBWa1hWTG9LUmtNTE82UVVOMnJJb3ppMkdoU0dDTjl5RF9sSTgxNEltYlgtUXgxTjczYVE5U2ltc0R5eW5YVWxNc0ozQ0Vrd0UxTmN0ZWVQT21ZOTcwdEtaV09NMHFsMUR1TVhyMkFnN2YySWwyYXc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEpOSGlRUHZnM2pzVG9tdFpPVW9aWXJWR21STmJxY2hNcWhaXzkzNUdfSmxrb3V3U1h4QVVkdGVtNFdJOW5aYWFzclYxYV90NXhmU1J4RVQtVkFvT0VHbmw1WkJFM1ZmRlN6TDNrTHBWQXBEMDBVTW9EU0t2eXFZVUw3Nk9QdzI0QUF4dUh5Q0hVQlI4MmltSDRR?oc=5"
         },
         {
-          "title": "Steel Dynamics Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+          "title": "Penguin Solutions: A Real AI Inflection Point, With One Big Catch (NASDAQ:PENG) - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcWlwUG9PRXdOWEJlVXZPbFdhMDlmVTExZlpBRGprRklnM0ZrMWFfNHZNNl9aMWxxc0hSbDd4bWtiZS1zWWU0S1gyN3RLcHFvbVVWUkVqdlg2OW1vSmoxTkFEYXktYjdOcXhsQTNFbUxuZUZkS3lwU1Zwa1dmY3M3OGJTemx3UG0tblRsS0ZtTVZtSWZTYjBKeURDcHppNDJaOEtCOW53UWMxNEI0VEhVTGZ1aGxIc2pNWEJzLUdWVFE5OHNGYUdPcTFRbnhsdkdrdmtDbFJsc2Y1eU83N2piR0YyaUVaOEQ2?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "STX",
-      "name": "Seagate Technology Holdings PLC",
-      "price": 831.29,
-      "change_pct": -8.01,
-      "change": -72.39,
-      "volume": 4881967,
-      "name_zh": "",
-      "spark": [
-        894.46,
-        878.505,
-        862.245,
-        834.31,
-        851.1892,
-        845.425,
-        843.02,
-        848.015,
-        850.69,
-        852.97,
-        855.2,
-        856.835,
-        853.63,
-        854.76,
-        851.9019,
-        844.735,
-        844.37,
-        846.245,
-        844.27,
-        833.86,
-        839.45,
-        835.275,
-        833.215,
-        830.5,
-        833.835
-      ],
-      "news": [
-        {
-          "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 6.52% on Aug 19: Key Drivers Unveiled - TradingKey",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHVRSDhCZVZ6WjRWVkVKNUZtOHdiUllWN1prc3BqQmlKM0dYZEhkUnZYbDdITHVJT1lvekxKT3g4SURWS1hsck9DcFZoaUZNVnZkQ3NKMEJHaGM3ellDM1Y1ck1RbkRWY2ZOU055VG5mNmhvZFNqdWlfQW5XUWpZME1Ta25qTGtSOGc?oc=5"
-        },
-        {
-          "title": "Seagate Technology Holdings PLC (STX) Shares Fall 9.2% -- What G - GuruFocus",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDZJaU50bEZpTXpERTdibTlPMWZ3OTdmRmpmRXFLM1NEbDV1Y3ZYVmw3Y0JpNHlYNy1sY0cwX3B6ZmtadWRwT3lVTHcyU3h3cnFzSG90NW1zbzlma3VmZmkxeFh2MzNrMHhtYjVZck9sQVJCYlRGWU04X1V1ckFRRkotLXNzNGxfVWUySWtLQ2toeXFBRm5aUWFFRFR4cF9MYXNXWnZPWFdfVkJ6R3dvMFJzVl9qNzJoMncteDcwYTh4SGc?oc=5"
-        },
-        {
-          "title": "If You Invested $1000 In Seagate Technology Hldgs Stock 20 Years Ago, You Would Have This Much Today - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWM3LURiVWRkQ1FPOHNzdTV4dWJDR0Y1aDRiQkFpcjZLWlMzVHlseFdic011NjZCal9EN2VVempNUEN3NDNEbDZ4ZFlJalg1VUNHQ2FmVlM3Rk51b0tyTFlMODJiVEJHT2NIMWk4YnR5cEFiWUVrUDV3WjRibFRDNGp3QmFqTi01elJtZDFGY1VQU1o2ekU4cTh5bGk2dU1TdHBKWi14ZG9zejR1eUxPb3UzTVEtY2pQV2ZDemRTZjV3LTZZd0lGSzVjMkNCdTVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkFuZ0VJYWd3SWlQUjh6LWZxcFZGRXh4WERJUlhIOEgwZTBENVgtU19naXJhYVp2SkNLcHJsT0YxNkJFOXJYTEFhR3FOOF9KMFN2bmV3UURVUktKZFhob0txM0ZlRlNiaWFRQmVtT19OQTdkeEV0RlRXZWZZbHVGbjhZaWtGOE1KUkg0MGstd3FSMmNyOFJDWWU0ay1xenRyQkotSDUwaw?oc=5"
         }
       ]
     },
@@ -963,7 +981,7 @@
       "price": 75.14,
       "change_pct": -8.16,
       "change": -6.68,
-      "volume": 803637,
+      "volume": 917518,
       "name_zh": "",
       "spark": [
         80.66,
@@ -990,7 +1008,8 @@
         75.57,
         75.45,
         75.465,
-        75.51
+        75.51,
+        75.04
       ],
       "news": [
         {
@@ -1014,9 +1033,9 @@
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
       "price": 66.78,
-      "change_pct": -8.05,
-      "change": -5.84,
-      "volume": 2263987,
+      "change_pct": -8.06,
+      "change": -5.85,
+      "volume": 2517193,
       "name_zh": "",
       "spark": [
         72.2362,
@@ -1043,7 +1062,8 @@
         66.54,
         66.56,
         66.56,
-        66.91
+        66.91,
+        66.75
       ],
       "news": [
         {
@@ -1052,14 +1072,14 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRwT256Q0xXV05HQVI4cFpoRTh4WGtEV0NmS0ViX3RhUWt6RW50cDh6ZUFpUVc2QVJmT0NvUzlEMUpMYXZvMWpfVTJ4SXhNSzJsdS1qa0czWDg5X091amk5LVpWN0tVQS1xcDItQkZPdlB3cVJuYWdoZW9OeFEtaGxNNy1iTkhON1ZPdzZVSUY0LS1TSlRpSE93dE5hZnJCUDJHNDJYanROY0kxN04xXzE1MWlmbDJzbGc?oc=5"
         },
         {
-          "title": "MaxLinear (MXL) Stock Looks Pricey After Its 450% One Year Run - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmZtX1YxSU5PTnJLN0U4RXktWVJjTmd1a1A3dmQ3ekJfOFpwVjNkdnFVZkJOUG1hWUJ6OGZOWnFhNW96MTlkdkpaVGJWQlVGb0tfOGk1VXVzQnV4UVhCZ3VpNW9DNnhkVWc5LWVsZWhtY2NOTVhpSGs5N2d0N3NQT2hjR3dlVGVWbzlKcXJ0N2FReU43UElMNVlhdlB4UQ?oc=5"
-        },
-        {
           "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain - Trefis",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnpPcnRNRW9wanBJYkhRcDJUMjlvZ3dMODgzQjUwbjJLOTU5X1o2Zk5EOGRIT2tqMW5PWWhQZ2w4OFd3VWNxWWp3TkhRSkI4RU9vSTVFN1dXc1F1dm1ZcG5HY3lxTE5XWVZSYjVrNldPNEpOVUdkTnhDTW5FSk9XTHFrOWhFUGMtUjNaOWtKbHFSNkVrRXlwbldFQWRoT1pkOG9mMnBEQVF2RS1ZUkVoYzhlUjVtbTBNTnBOd1B0ZjhtZ1E?oc=5"
+        },
+        {
+          "title": "MaxLinear (MXL) AI Data Center Push Raises The Question Of Whether The Stock Is Priced In - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVVtN2piMFNxUU9rdERsem0tS0Z0dkVRTzV2c1AwVmJwc0h2SkJhbkdIZ2JQMThQaVJGY19wbHRlZE1FVzRnZWRMVVhZckxqSG9kTXUzT1VIT0xZTjF6OHFzNkhKWF9LN3NqTUV2Y3Jwc2hYOTEwRVVQS1FLYnAwd3V5MHVCUFJhOXdvZURMSE53UEFrOW01Vg?oc=5"
         }
       ]
     }
