@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:04:51.966923+00:00",
+  "updated_at": "2026-08-21T21:56:45.305502+00:00",
   "us_gainers": [
     {
       "symbol": "SLS",
@@ -109,6 +109,60 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "price": 12.76,
+      "change_pct": 14.44,
+      "change": 1.61,
+      "volume": 16591590,
+      "name_zh": "",
+      "spark": [
+        11.705,
+        11.905,
+        11.925,
+        11.855,
+        11.935,
+        11.965,
+        12.08,
+        12.135,
+        12.325,
+        12.345,
+        12.315,
+        12.2412,
+        12.345,
+        12.405,
+        12.445,
+        12.435,
+        12.38,
+        12.445,
+        12.435,
+        12.44,
+        12.5,
+        12.588,
+        12.7,
+        12.715,
+        12.695,
+        12.795
+      ],
+      "news": [
+        {
+          "title": "Uranium Energy (NYSEAMERICAN:UEC) Trading 7% Higher - Here's What Happened - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlBQYXhtUE9nRnpzRXl6OWJIc3VESS1hMWlKTFlRTWhnYXhadEdOM0sxUkRyUHE0aFloV3lINGdWdEd3VDAweHdZMk9saDdNdVVTMmZERUJKQlZQTWFPZEpYZDNJVmVTRk42bWtqZ3g5Nlp2MW02b000b09MWUw5Qzd5ODFKWE04VjlySmtpWE1ITUlueXlrWXBhdkpGQjFINW9PZmN6eFZxRWlTOHVvcjVvNS1jdkxLRUpDUnlR?oc=5"
+        },
+        {
+          "title": "Uranium Energy Corp (UEC) Shares Fall 4.1% -- What GF Score of 4 - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdno2NHlEaVV3NThMdS1ZQU9Fcm5GclhrR09uNWx2Q21MV2RHRDhiNG9sSlZUQnM3eWoyR2NVVl9fSnBqR2t3SDdGbHRpQzRDRnpSTDUwT2dZcTI4azdSUlhkb0JJTEZlZ3FWVUxFbmJPNlpjTzNNUk9pUXpSMUVlZmdzNUhHZHNZTkFjbUt3bm1ROXZuTnlieURPeFRuY2ZnUkdSQ3h4NEk0cTFVbmhYX0pvYw?oc=5"
+        },
+        {
+          "title": "Uranium Energy (UEC) Stock Looks Stretched Despite Its 353% Five Year Run - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjNQRW1Ma3NlNnpCTk1Nb0tsbGVtbnNPeTRIZDdyelZrWWFEcXFHa3FSQzFicHByenZCTXd3SEJmSWxQdXlrYXRYZThsUGZ0ZkFFbndDeW5QZks4VkpEUXlHSFNTUkNMcmVDcnpLSF9TQU5reWFlNzg0QldpYlJPblBhNWYxUXJMZ0pYcjlJZU8yVFVSS05QaG9Ucw?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc.",
       "price": 108.13,
@@ -205,9 +259,9 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yZl9FbXVadHRhdmxLN2x5TVhyY2UxWXl6RkZ2OWlsSGtYYWJ3ckRFVmEzNW1sbm9NRVdIS0NTdE9vVmp4VDgyMFN4U0FadnA0bDVlQU1BMWpQanE4QlJtd1pvTUVmLTFoeXAzSWJhSkd1LWdoc1p3amw0RQ?oc=5"
         },
         {
-          "title": "USA Rare Earth (NASDAQ:USAR) Trading Up 7.3% - Here's What Happened - MarketBeat",
+          "title": "USA Rare Earth (NASDAQ:USAR) Trading 12.6% Higher - Time to Buy? - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDZQSWotclk2X3RBaTV4QjRxT09DZHh0eDFUTmxSaGpuUEpBTy1qMHV2RXlKSUJHZ1VkaDdBT3VHTXQ4eGJkYnVRWnYzcEtrR1RFR09OaGdQWFRpTi1pcjE2YllRQ2xTRzBPYU0zRGJFYjJUNDItSjFVRXozcjMwNm93N2tMckNzV3M1OGc1eG5meEp3MDNfR2Z5eTh5dHB3RGJlbnlkc2xnQi1HQ3k3eVlubw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlhFN1d0LWMzaHZJNllVMUZMazlZZUhia0paeHh6RjN1dW5UZHl2SHlNb0JvNUlZdG9wa0JlWnlvMG1HZGhLU1E2bHN3aVZka0VyVTVOLUJfRUZMMF92UjdjZXFNTFdKMEtpTlRiTmcybU9fT1FWSWc2Y3J3QUl6UDFNQkZTTlNHaE56dW53NDh6U3pSdmIzajFuZjlYRUxrV25DQlYtMnNwX01Ib2ln?oc=5"
         },
         {
           "title": "USA Rare Earth, Inc. stock Analysis: Daily Momentum Shift with Bullish Signs - The Cryptonomist",
@@ -485,60 +539,6 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFBiOE12SnRsdnNNQmRBWUNDS293LUEwQTVxc0NGbkJYUjFNYk1tb1U0QXo3Sm1uMFVqM1dMM1Bxd2o5MlhJTzBLS0o3d3hncXpXak5pampudGs4cExZQnJtU1F0NkRUbWlNbW1EU3hTRHZqUng3N0FmcGEtb25NTWN1ZktMQklBUWhqVlpsbzVOTWhLNGc?oc=5"
         }
       ]
-    },
-    {
-      "symbol": "FSLY",
-      "name": "Fastly, Inc.",
-      "price": 24.95,
-      "change_pct": 9.86,
-      "change": 2.24,
-      "volume": 5643353,
-      "name_zh": "",
-      "spark": [
-        23.44,
-        23.57,
-        23.6374,
-        23.56,
-        23.35,
-        23.695,
-        23.78,
-        23.66,
-        23.92,
-        23.8701,
-        24.025,
-        23.98,
-        23.96,
-        23.9,
-        24.065,
-        23.975,
-        24.01,
-        23.99,
-        24.04,
-        24.095,
-        24.035,
-        24.075,
-        24.175,
-        24.2028,
-        24.375,
-        24.68
-      ],
-      "news": [
-        {
-          "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGFJQmhPOGVDVm9qSzBXQk5JdG1BczVHRTZXWm40MTRLOTRhdjdBSXF3dWFZbE1WdTVuMmdMZmtCWEhLTG10RkNYU2g5cTFTZUJ0MG82eHIzTV9rTk1fd1BaaHNwS1Jwa1BXNEx2VWdZZVFyelZZaHpkZzFCQWRhMW16eEdma1E5VnZTeHZMa045N01mVTdoVngxUGFHR3Bv?oc=5"
-        },
-        {
-          "title": "Scott Lovett Sells 14,936 Shares of Fastly (NASDAQ:FSLY) Stock - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05ocmNnLU44OTh1cFVHalRZanJsYUhwcmRjOFp3Y0NRNkNGbmI2anpnbjJ3blQ1dk5PU2k0MVRiTjFQc0ZuR2lNRUlKNjBNR184YXpxZ3NmQ090ZnRIclQ5ZmFRZ3BqMlZPTjlYVkpYREZlVFF4TXh3cENkQVZFMnpwd0FZdjlCR1N6UmpDcW9fcUlaRnlVeUstQl9OSlVmdmFyUDl4UWpFS25TMW96R0FR?oc=5"
-        },
-        {
-          "title": "Fastly (NYSE: FSLY) president sells shares to cover taxes - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGh4UER3eWVoTmJfYXd6TTdXUHRKUU1IMXZsZnFscEJGcGhoQjlRNUl5VTRIM3pNWVZwbnVuM0tNSEExcnl3allkR255d2k2Y2puNVdKc1FyNU40eS1KZV9sbUo2ZkprMVVnUmJIRjFYVW5Gb3VNdmhkcUdXVFhseldzQzIzcUJ2YTlIaU1MS2NtR19YUWNFY2FLbVJmanM5SGI2STBBdw?oc=5"
-        }
-      ]
     }
   ],
   "us_losers": [
@@ -639,14 +639,14 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmXzZOX1hNUlp1aEFsQzlCNTE5UEZoWU5sVkx6Nk1JRmJSNFFyV254RWZXeHMzdi1MYUFZZllyV05zd2ZrZDJObFptMXRvWGNiNVhzNzlUNXNoWFc4SWtSc09aQWtxaEhTSGVxNXhySC1ycTI4Zk5aUWZiYTc?oc=5"
         },
         {
-          "title": "Hut 8 (NASDAQ:HUT) Upgraded by Freedom Capital to Strong-Buy Rating - MarketBeat",
+          "title": "Hut 8 (NASDAQ:HUT) Stock Price Down 8.8% - Here's What Happened - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkhrOWNGV1pNSWkyZE1xMVlvUmVFXzFUbWVfSHVXbk1tZkJMWF9hbjFRdjZPbzRweTFzWTJLRVNLTU8zdWh6bVVQWEJFdEdCUEd2ajFneDFLM2JCZWl0ZEJieGN4d1hBNkZhS0lmN2VsLU5zTHRVSkVOa0p3UlJvV0JrdTJzTUdZZ2pwempuU1puWU5EMUpwQkRwNURYd01vTXlYOGM0UkJHc1JGWVdhME9HYktFWEZaV2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVThtM2JZcTE4LVAxbDh3NGxJS1dibGNjd0J2Y3ZIMGhfaWZFZkpCZGNrcW1IM1g0ZFAyeDJJdXZFUXMyc3I5cDFnMUUtZktYX3NuM0NFTWhxZVRiNkhscVAtRlJQTFNzajYzTFphVzE3c1F3OU04aFdEYzVpOHdSSUlMZk9QcDlTUGZUd3c1OXU5TkxhOTcyOG5wMS10Tzk1NVlmdEFJSDRyMGdPc2c?oc=5"
         },
         {
-          "title": "Hut 8 Q2 Earnings Call Highlights - Yahoo Finance",
+          "title": "HUT Stock Eyes Record High Above $100 After $10 Billion Texas AI Data Center Deal - Stocktwits",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVJVcG84RG13YlZlYnFYS1FZNGdJMG9KQ1o2dktmYWJFVmFiVEdIazlkSzlVUlJjYVdyaF9IS2Q1aWFQNmtLWEJ2WWh6SzFGYnVHd3lkR1h2OEFwcnJhUUJ1OGJ1VE8yaVdKV0I3Q1Q5dUExdlczLTBESnViZ1N3Zk82T3dPNWN6OXVtUGVrY3A?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUZtTUQ5RXpTRHRLeXU4Q1FvdDE4VmM3MTEtaWw1bDNwX3FiTUxjUUNjYXRUTktJdGZuSTZmaHZ1NzZoaWlwNjIwcWM2Z0FpU1NEX3pXRk50SkdpckRPdG5DemZEYXlURzgxMzQ4RV9sS0M1YmpyWndudVpndVZkaE9CemNKM0lTcmoyam9YdzUtRi1OV0RRaktzSU1BZFktWFE4bWRvRDlNcGFjZlZ3al94UU5FNGw3ZHRBTXRsTE8tRi1CUWppTTBR?oc=5"
         }
       ]
     },
@@ -757,14 +757,14 @@
           "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUmVGZ0hiYUgycDNNR2ZtMkpOODlBdXhqMnRETVFBdmZZWUVBY054QjVOZF9nVnZzVGV2QmticDBPVE5hVm41bkJNeGMzQm1LMTZETHlybGlic29zUl9mam5QVmlkMXl2dm82R29RT2NvZUUxdURHZDJfWHo2QUFQSjZsb3VlV3N2bFdmeW1DVXhVTzRncU9pZXRNZWJaY2thcnVXN2U0RnZoMnMzVkZFVTlwNjA4dnhrcmRySER2bWttYzlnNVJ1MlVDOGtBWE5reXJYMVpSc0h3cG9SVkw2QjFBVWVGRDFIakpaaVNTYmNfZjJUNlMySmpRYVhSS1g4RVBhbDNHOFdlMU50Si1OWXdqeG1vVkRvTGxJQ09RUTRDZnZMajNhTC0yZVdfS1ZjY2RSMi1Ob2NRMUk5VXAtVU5rSzZBOGpTQ1JjNTUtLXE?oc=5"
         },
         {
+          "title": "Alibaba Group (NYSE:BABA) Shares Down 8.5% on Analyst Downgrade - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUx0bGJlSGZuWHd3b2NaMTNESlFKaXVjVXZ1MzljOThTQUFrMUR1VWsxMlhORXM3S2o4aGxzSVZyOEw4SGVoMFJlY1F1aDhJUGY2OHlBLWpaUnZpcUR3b1p6di1Qa0FsVlF6T3JRc1hXaVh2UWJvbVFGRlNsQ2VsRGVsQk9rMDhzRC1BOUoyVmtubmV6Tm42SENLcXF4NDR1U1R4VDk0Rl90bTc3STJIbkRB?oc=5"
+        },
+        {
           "title": "Alibaba Q1 Earnings: Back To Cash Flow Basics (NYSE:BABA) - Seeking Alpha",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGZUT0hia3g4ZjRUa29LMXlLb0ZQTUs3eUNsbWpsWmJ3VVE2VlNacGVadWdjNE15Y3B4VGZEdnVCbmROODR3SjRFM1FITlZHWFRuNmlZMm1KZW9TR2c2cDJrYUxYNTRTUEZOeTJiUDRTMXBBVTFzRnhWZ3RmUHREMW1GaURBcU5QVHdOaWpB?oc=5"
-        },
-        {
-          "title": "Alibaba Stock Falls 7% on Profit Miss, but Analyst Stays Bullish on AI Cloud - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWVZ4OUlBOUljcFlBSkN3M21zdGx1TEJsbTl3Q0FGRmxPQ1VGd1dlTTd2VGtFemtoMW9nMmNneHdUUC1uR216VklCYjh1Z0g4dU1oNk16cE1QSkY3YzdQaDBnN19EV2w2WkNIQUxDWGNrU3gzZmZlOTlQcTJYUzRaQ3JLWXJnUERzUzFRd01lVU82S1JRcl9fZnlWQ3ZsZ09ydVpTeHFJZ1B3RnQ2d1NYSjRfZzVDaTg3Q1pvb0FxT0lwdzhWRWc2bkFjdE0zN3F0Mkd3MDYzc0g0eTZWYnVtQ1RR?oc=5"
         }
       ]
     },
@@ -870,9 +870,9 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHBQdkNuZTNOZWVEcXA1dXRrNm5GUHA1aHhqUnVsekhaN0x2R2FoWkZfbzVnaFAyRDVZc2EwVjhoc3QzZkNqTEJlT2FjWXJDX2w1Z3ZJX2xQQ3hwVmhzZmVhOXZ5T1docUNwUnFqX1lISWJVYnJLSWZOVkl6TmhiNVFZODZDalcyNENjVmE5R1lGazJoeEY0MXFaRmhERGg4cmp3T3EyLVNfRUtrUFU2NDJOVFdhRFZ2MUVicVFLaW9FUQ?oc=5"
         },
         {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "title": "Biotech company Iovance grants 20 new employees options with an $8.99 exercise price - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTU4wR3k2SnRTUlJDaDNGUGZfSFNINmhMNkpsNVVYRjkwZnVma09sVnlUNGhQVmJseXI5RnlJQnMweTNPV1JaRmk2UU8wSktR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS1lQmI3MHN4LS1yQm0yaS1VWkViVWd2WjFuWnJFR1pzQVh1LUNPRll1TGRiVjBpQ2ZHU0J5T0J4WFYtN3FKcWdfZDFmQlFTTmdMZ0RmRTAwejRPSTNvWEk2dDYySE5kVGVRMlN3TDdCQ0lWZmxNN3NDa1BibnBMaXc4REZJa3RnRG5iZ0tUbHlXSWNyOUVhOHZkWk1nT1RHT185RVBOcC1RUk5Bb1FCWTd1ZGt3NHJ0?oc=5"
         }
       ]
     },
@@ -1032,9 +1032,9 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUVLdXJzSV92WTVXY2xpZ0xobmVGNEJTV1VfQ0VzR3I1Y1hLOXlWRnpFYWpfQWdfYVZuS3VUTkdKajcxV2dIN3Uxdi1XRzZfYl9wOTYxYTZ6Yk5HdzVnZXpRc2FPUGt4Wk5IcktXQ0Jfek1rcDd2ejJOejQ5X1dBbg?oc=5"
         },
         {
-          "title": "Marvell Technology (MRVL) Expected to Exceed Q2 Earnings Estimat - GuruFocus",
+          "title": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXh1SDFjVmNrT2l6ejhyMWI5MEV6S0owSDh3TG9kMTNkbkdMMEF1dXZzejhqOUpZVzg0ODNrY0NsRE9OaS1yZG9EWVlPU3YyYXllaHkxclFHc2U3LUd0a1JCNzdLUFBLUV9fRVAtMEY2YmozUVJ3Ul9nVUVxMEZpRjJBMTlBb3FGZG1WbVJHclpRbFNpU1hKZm9aaWkxN2ZoWTFlaEZB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDRaem5IYVhYOElFekVzbzAzWFZ5RHpySUU1TjY2MmIwd0Jjb1otLWIzLTg3VTBucWxmRXlqeXloVkdMME1hRE94SUdMZUVYMDY4dGhvRDJqS2NQTnlDSmVld1lSV016OTBoQXdldEs5OUxaQUlNaU9LbDBaMnN1QkJJbFpCUDhCUzNmSWdjR21zSmx0aW9DUzRldHFCRG9P?oc=5"
         }
       ]
     },
@@ -1086,9 +1086,9 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUklJRWlKblB5a1dDNldLLTVZZW1zSVV5MllINXVULVhHRmVpVDZYcmhYeWw3RXZzSDloZHVmWUJ6S1VKZnVsQkdHQUwtajVIWVdEQkNoLUFaWU5FTHZtTi1QbXVXRlI5OGQ4TEQ3dnViZ3Rib0VQM2xYZy1BdDA2VXFEdkx6N3FLVHRKWUhhenNucXdWRnN2ZGVudDB5NHN3X3B5dmJSNmhfM20zdEZGWUdzSXMtMHRxMjZCdDJyLTRpenBIN3liOTloZHpWUVU?oc=5"
         },
         {
-          "title": "Riot Platforms Goes ‘Nuclear’ – RIOT Stock Hits 4-Year High After Terrestrial Energy Deal - Stocktwits",
+          "title": "Riot Platforms Stock Gains as Bitcoin Crosses $72,000 - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSWV4M3hEeUtiYzBkWGtuWU9ieFlEQ1JPYktqUmd5WnpKdGk5OFlfSHVGN2lWUjJzODJxb3otam5uWHpuRWJidk1WVzFxUUhJOThPRXF1S3o2bXBXN3RvYm5lc2U0ZkRRM2UyQkVMSkZzV2xpZVpud3p5YTNNMFJvT2RUb1loMnVUN1ByNkszLUYwUGFuUWNTU1RBaVVvbTJ1YmRlV3hteUhRcmJBRENZWVVWVkotcjdXQ1Z5REk1bHlzOVBpMzUzSC1fN1dYVHhiTUo3b3NCWQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnpVTnhpU2JtWmRWaEc3LUJrS3NOc2prRnZsQWR1SlRCY2F6RlM1ZE1fVVV3ZFdvWk9fcHhnUy1BUUJOR2xNYU1ZNUx2S1BCZFFUcjZYcHkyRGw3ZkdGSkRxRzdPUFc0Ui0xR0QzQW5NOHN3Tlg0Nmhia29Lc0MtdTc3Y21hWGkwNm9jOHJhb25zWTliUkhVX3poeHJSSDhPemw1ekhkdFR2ZGVNeEpPdWNR?oc=5"
         }
       ]
     }
