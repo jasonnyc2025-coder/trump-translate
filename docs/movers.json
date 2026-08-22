@@ -1,6 +1,546 @@
 {
-  "updated_at": "2026-08-22T13:53:38.782036+00:00",
-  "us_gainers": [],
+  "updated_at": "2026-08-22T14:09:56.973030+00:00",
+  "us_gainers": [
+    {
+      "symbol": "SLS",
+      "name": "SELLAS Life Sciences Group, Inc",
+      "price": 15.46,
+      "change_pct": 15.37,
+      "change": 2.06,
+      "volume": 15056913,
+      "name_zh": "",
+      "spark": [
+        13.52,
+        13.585,
+        13.83,
+        14.191,
+        14.27,
+        14.27,
+        14.405,
+        14.29,
+        14.435,
+        14.88,
+        14.812,
+        14.7,
+        14.76,
+        14.9,
+        14.92,
+        14.82,
+        15.0499,
+        15.075,
+        15.46,
+        15.51,
+        15.33,
+        15.39,
+        15.4,
+        15.3636,
+        15.37,
+        15.21
+      ],
+      "news": [
+        {
+          "title": "SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPem4zZDdPVFJXQ3o1djMxdXZlWkZvd0NwbGNQeGc0bWVSQkV0bjQ0YmJPMUlkYmhyQTUxeGZnbXA3WXBHMF9USFhCZk1iNTlMUVVSUTRTRGNlSmRlM3Y1dGVWUXpxckVKaHg1YjVLM19aYWgxTTdQazRWWTVBUjU2YzlTNEpROEVHX1ZXcWFvSDhQdUw1cVJ1U1NkQQ?oc=5"
+        },
+        {
+          "title": "Why SELLAS Life Sciences Group (SLS) Stock Is Up Today - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmt1b0xJb1ZLU2ktUW1MaXpYakgxT2xhZ3hDa002b1l3emVDZnR6YVdoWHhOQzYwQkVSTzN2NGxOckZCeTUzVkY0eUZVZGtid0JpVWZnU3MtbFF1NEV4WDNiaVpUcEdPV0p1YVB1bGY4TF84VVJtR0poUi1ucFRIckhqdV9DU1VFYzU2RldvbTZkTEJJakE?oc=5"
+        },
+        {
+          "title": "SLS Stock Extends Rally Overnight: CEO Says ‘Bullish’ Leukemia Data Could Drive NCCN Recognition For GPS - Stocktwits",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3FnT2FYX2FnMU5HR2I5TWJuWUZjaHY3aFJCZHY5TVlmd1d6LUxCX3dUcFppV3FpOTRyelA4Ui1HUXRLUjE5R0JCanBjZlFVVnZ1LVByUVhFNmJHNXVYTEZrMlpXN19wQ1o5TnJBUW5jWjAzWXdRZ0E5bnNOUEJVWjVwdjFFNnlWbDBNMENBRFotaFlCZkdtV185UDNRQ2NfdFVybUIteDREMUJOZDh3amZDWUY?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "IQMX",
+      "name": "IQM Quantum Computers Oyj",
+      "price": 11.11,
+      "change_pct": 14.77,
+      "change": 1.43,
+      "volume": 2663546,
+      "name_zh": "",
+      "spark": [
+        10.01,
+        9.995,
+        10.07,
+        10.02,
+        10.2,
+        10.27,
+        10.345,
+        10.485,
+        10.465,
+        10.47,
+        10.475,
+        10.47,
+        10.4,
+        10.435,
+        10.37,
+        10.385,
+        10.38,
+        10.38,
+        10.36,
+        10.32,
+        10.33,
+        10.385,
+        10.415,
+        10.64,
+        10.848
+      ],
+      "news": [
+        {
+          "title": "IQM Quantum Computers Oyj (IQMX) - Zacks Investment Research",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTItLVl1Q3AzamR1Uk1iU3Z3RmJla2dWQWpGTmQ4MENMRWVFcWdteGpUdWRTSjU1VnlOTFpkcW1nbWY2VVZtMUZxb1dIVjRTTUJ2VGxkVjQ4YS0zdnBQRTJ2UmE1NDd1TEphNmY4b0dZbURCSmNUNmYtdGg2Z19xVTBFZHg3Zm96V2lhbmsxVTFEamp2a044WVc0Qm1lZF9jcHpwalVaOGlHcnB2MlA0b0JDNmlpbDM5TWF1d0RfNVU?oc=5"
+        },
+        {
+          "title": "Can IQM Quantum Computers Oyj (HLSE:IQMX) Justify Its Valuation After Buyback, Guidance And Earnings? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFVRbjlqT2kydC1hMXgzajhIUjdPTzZBTXdaMXkwSmN1emd2V1kyQUpET2FzUXZUdkFFYm03MlFYQmtFYVdGRTRLNUpwbkU4ajl4bzR3V25DSXc2NzBPeDM3bF9zdVFFaUhIQTFmanZCMkNOS3BpY1cxeExlRi15VDlOMWJNTW4tVGFERnQtWmF5bnR3cERFMl9jNA?oc=5"
+        },
+        {
+          "title": "IQM Quantum Computers Oyj (IQMX) Stock Price | Live Quotes & Charts | NASDAQ - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KRzdzQkFmN21pVFVBQnM2aVAxR3U0amR1SEFUV3hDcEg2NU9YZTBQNzJuSHRUb2JiZlh0WUx6bXVtSHBYYlZzVWpmQzBHdw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "price": 12.76,
+      "change_pct": 14.44,
+      "change": 1.61,
+      "volume": 16591590,
+      "name_zh": "",
+      "spark": [
+        11.705,
+        11.905,
+        11.925,
+        11.855,
+        11.935,
+        11.965,
+        12.08,
+        12.135,
+        12.325,
+        12.345,
+        12.315,
+        12.2412,
+        12.345,
+        12.405,
+        12.445,
+        12.435,
+        12.38,
+        12.445,
+        12.435,
+        12.44,
+        12.5,
+        12.588,
+        12.7,
+        12.715,
+        12.695,
+        12.795
+      ],
+      "news": [
+        {
+          "title": "Dilution Problems Continue As Uranium Energy’s Road To Profitability Winds On (NYSE:UEC) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEFqU2RYWThDMEpFcjNEVnJTSE1faWx1bnVEM1FKT0xxODQwYmVwdkNXQXlpcnpjWC00eHFlQWltdWN6QWxhUmZRS2xiVlpmY2RRRzBaQXo3MTdLR2t5YkZiSXJsTURsenRWRE1zNnV2R3BBa2NzTWgycENoaWhFRzNzS3ZTZy1scFRnSk5OZl9Xbmg5SFNQZHFXSWZqVU9CQ2RiRHRZYWhfYXVvTmVaRmZqYi1XMWNB?oc=5"
+        },
+        {
+          "title": "Uranium Energy (NYSEAMERICAN:UEC) Trading 7% Higher - Here's What Happened - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlBQYXhtUE9nRnpzRXl6OWJIc3VESS1hMWlKTFlRTWhnYXhadEdOM0sxUkRyUHE0aFloV3lINGdWdEd3VDAweHdZMk9saDdNdVVTMmZERUJKQlZQTWFPZEpYZDNJVmVTRk42bWtqZ3g5Nlp2MW02b000b09MWUw5Qzd5ODFKWE04VjlySmtpWE1ITUlueXlrWXBhdkpGQjFINW9PZmN6eFZxRWlTOHVvcjVvNS1jdkxLRUpDUnlR?oc=5"
+        },
+        {
+          "title": "Uranium Energy Corp (UEC) Shares Fall 4.1% -- What GF Score of 4 - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdno2NHlEaVV3NThMdS1ZQU9Fcm5GclhrR09uNWx2Q21MV2RHRDhiNG9sSlZUQnM3eWoyR2NVVl9fSnBqR2t3SDdGbHRpQzRDRnpSTDUwT2dZcTI4azdSUlhkb0JJTEZlZ3FWVUxFbmJPNlpjTzNNUk9pUXpSMUVlZmdzNUhHZHNZTkFjbUt3bm1ROXZuTnlieURPeFRuY2ZnUkdSQ3h4NEk0cTFVbmhYX0pvYw?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "price": 108.13,
+      "change_pct": 13.7,
+      "change": 13.03,
+      "volume": 49572416,
+      "name_zh": "",
+      "spark": [
+        100.51,
+        107.045,
+        108.35,
+        105.89,
+        106.65,
+        106.53,
+        106.94,
+        106.32,
+        106.78,
+        107.475,
+        107.13,
+        106.8489,
+        107.74,
+        108.13,
+        107.77,
+        107.865,
+        108.29,
+        108.5567,
+        108.56,
+        108.61,
+        108.34,
+        107.475,
+        107.0642,
+        106.855,
+        106.9062,
+        107.555
+      ],
+      "news": [
+        {
+          "title": "Why Is Robinhood Stock Surging Friday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZklfVUhscHFnRWo3dXZZc0o3Y2EteWJEeDZFMmhoQl9YdVNKYlBCMWZNNktIZWJoSDFlakxlbVEtWHpJc0kwbzAxNTFnN0RSSWh1emNTRGFUVkhyV1UwNUwwdlRzTVRwQllEUGlHbmdlUXEtV0dsQjJ4TURpd0ZTSmVTYXVsZ1d3alZzSTZ5eTVuSnR2dWRZczVMZEVGU1E?oc=5"
+        },
+        {
+          "title": "Robinhood Markets (NASDAQ:HOOD) Stock Price Up 13.7% - Here's What Happened - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTdEM0VtbkktQ1N0NHNKVC03dDZDLW45emdMNGpBV2lTMHFxWkUzdUJpZXMzWVNfcWE0alpHaDBtdmVYcEFmNEM3dkZYZWlxYlR6WGVXOGVzZkhodVF6bVpzRmNiaGM4REVscDhLdHJjdktWdU0tQlNvYkhsaDRONVNRTVZrVnByMmJnU2YzQUdZNVNVSTltZXFfUXl1aVRCY2xUY05uS050SkIteE41d3RkMjE5YVQwbjVkcjR3?oc=5"
+        },
+        {
+          "title": "Why Robinhood Markets Stock Popped Today - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDlVRmQ1SkJmYzRGcjg4WW5ZNFM2dzk0X1M4QU51VFF1TkNWcF9fcWZLY0hVS09CQy1oMUI4bEh4bWpOaGFYVEtaa1hfQzh3LWRfWF9aZnlrSVc3MzJCY1E3aVdMQjNTRE9sSUFMNWJOc2NKdHFtOXNiMmFWWWZ6Q1dIMlpOX1VPUGhIdTJQU0QzOUdtYkpfTUNGdDJDY1VK?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "USAR",
+      "name": "USA Rare Earth, Inc.",
+      "price": 19.26,
+      "change_pct": 12.57,
+      "change": 2.15,
+      "volume": 21118640,
+      "name_zh": "",
+      "spark": [
+        17.88,
+        18.36,
+        18.325,
+        18.365,
+        18.825,
+        18.93,
+        18.8598,
+        18.82,
+        19.05,
+        18.98,
+        18.95,
+        18.99,
+        19.27,
+        19.145,
+        19.29,
+        19.11,
+        19.155,
+        19.455,
+        19.2463,
+        19.29,
+        19.245,
+        19.395,
+        19.3486,
+        19.36,
+        19.385,
+        19.395
+      ],
+      "news": [
+        {
+          "title": "Why USA Rare Earth (USAR) Stock Is Up Today - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hsUTdPRXhucVNEYXNOTktTU2VxNjFiVzc2NjN4bkV3MkVhcjRMc0hvVGY5Q0JMSm9OZ1dMMzRXLTlRaTZLOVBtOVpiaFhDVkcwamwwYUdYZXg4RFJReXNtNURpUURPVzA2YnZvbklxSGtrOF9DTndPNjhRd2J3RkZqelg5N3M?oc=5"
+        },
+        {
+          "title": "USA Rare Earth (USAR) awards director zero-cost RSUs vesting in 2027 - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXBtX0hrUUtaRWE1LS1mN1owdGRsV1NiMGNZRHZEbmdVdTZOODNFTWhtLS1sZllJVDZnRTNWQ0FpNlNDUDdiUVd0SUFtdzlUZjJYalRPNlpTNkt0YURpQi1Ra1JfcTZ2aTU0TzlsNWVVWDliVFg0MElsQzgyYk5GYUhKNml3WmJQb0gzTmh1WEpMdENyNE80dExjZ2pnMzQ5T2RVX1JTdC1JZXNORHRnd2NB?oc=5"
+        },
+        {
+          "title": "USA Rare Earth Stock Surges as Federal Battery and Critical Mineral Grants Boost Sector - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFVMcHc1LTQyRG9lczRtNHhTbnNZRjNJX1BmbERpYXBQMEJXZDdCQ2xhUExrVFNwMXo4MHhkRHhQOF9NNHNNYkZEUExXTERrUTNfbDdUX3ZUVi1pVE10elJtV292M3lRVE9IZFRMMkdsNVdmNFZjZVZiM1M3YzV4d255elRRYkVsQS1wYkdxOWtnQWlFSHhERlJLVUtYVUpiT1c5TU1jTWRXa2hnZEh3dDNxdkxZNVpObXhXTHhoUmdoV2xVVjVELVV2VXNLb3dHVWdJY1BMc0hCVnppNGIxcjZn?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "INFQ",
+      "name": "Infleqtion, Inc.",
+      "price": 14.12,
+      "change_pct": 12.51,
+      "change": 1.57,
+      "volume": 15309807,
+      "name_zh": "",
+      "spark": [
+        13.125,
+        13.27,
+        13.4,
+        13.16,
+        13.39,
+        13.54,
+        13.7299,
+        13.8414,
+        13.82,
+        13.92,
+        13.89,
+        13.9,
+        13.795,
+        13.82,
+        13.76,
+        13.75,
+        13.85,
+        13.83,
+        13.805,
+        13.8,
+        13.75,
+        13.82,
+        13.92,
+        13.965,
+        13.96,
+        14.01
+      ],
+      "news": [
+        {
+          "title": "RGTI, INFQ Stocks Gain Overnight: Bernstein Thinks Rigetti And Infleqtion Could Be Early Winners In Quantum Race - Stocktwits",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTHAzMWNnMDJQU3FiVW1lc091UDBERElMOUFQX2VNbVBiS09CMW5ERDIxazR5VE1YVzhNZEpKemZqT25URmJoa3hwUWlXd292bDIzank4TVZkdUtrbFR5OENpbTFuaVZiajIzUDdMZXo5ZEF2U3RIeXNEUU1mdDBNaHFOODA2YUxMcTJudm5Ba05UVlpDVHRkTGxGcVJ4aEdNTlFFTXJPR0FzSUZjYUVGZnZtbzVEYU9TaG1ZRVdCNXI2MFBQZzZPVEhEc1Z1S05LS05rc0s2T1R1OGJpbTVxU1NxTXRSZmQ4RkJYU0NITlAyN3RzcENJajVCNFR4QXlWMTBkMw?oc=5"
+        },
+        {
+          "title": "Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What’s Driving Quantum Computing Stocks Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRG0yRjBqTmNzbThlYlY2Y3QtckdTRnhvcTRIdGp6S3Zmd05VWjN5bzBhNWE1RlViYW9wbExWMDVILUhoN2lIT1VpdzBhNHNvLVgxcll6ckRKTEplMHo0Q3ZzbE9pZWhzU2V5elhMY2xJNS1WMUNDdk5CQWhQNHlFclVpeTE2bmIxTEI4V0o0SUtKSkhRcWpONUpmWnRsXzg?oc=5"
+        },
+        {
+          "title": "Maverick Capital Ltd Sells 33,405 Shares of Infleqtion (NYSE:INFQ) Stock - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjRibkM3anUxd2pPczNoNkI0UExTektERFJSbG1hX09SSXFDSjFTUU5GM1RCMXJnMmVfNkJhcHgtLV9XeS11dXFmM1FPcFZ3Yzd2SllOZjR2ekpfRkZidkFQRklnenVwQ2dCUU1jbkdJNi1MUDhoN0d6SDh5bnNRRHk4N1RDX01zVXp2T0RuOG5zLVhEZXZDN2taNW9EYS1lX1F3QWVVblppb3pHYmQ1VGsxYkZ6MzdrZTRSUUktUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "DK",
+      "name": "Delek US Holdings, Inc.",
+      "price": 71.47,
+      "change_pct": 11.6,
+      "change": 7.43,
+      "volume": 1879331,
+      "name_zh": "",
+      "spark": [
+        66.21,
+        65.7,
+        65.54,
+        66.13,
+        66.89,
+        67.01,
+        66.69,
+        67.605,
+        68.19,
+        67.93,
+        68.78,
+        69.73,
+        70.84,
+        70.7251,
+        70.71,
+        71.03,
+        71.35,
+        70.815,
+        70.19,
+        70.785,
+        71.79,
+        71.345,
+        71.685,
+        71.5,
+        70.98,
+        71.01
+      ],
+      "news": [
+        {
+          "title": "DK Surges As Delek US Earnings Smash Wall Street Targets - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSlU0TzJiN1dLRS1Pa3VlOUE0bEtBM3g5eHJibS1jUF9TUmhnTFVMbUVYZV93WElCd0N4QUdpWnF0TTJYTHMyRmhXQ1VvOHhKYm5NZ3FjalZScTZZcWN5TGJzcUZkbW1PSDR0cnJuTVdUU2pSSEI3cw?oc=5"
+        },
+        {
+          "title": "Delek US Holdings Stock Surges 189% in a Year: Is It Still a Buy? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczhDSTI4c2ZRYVhvVmRCcEROa1hvczlTM1Bwb3dEVThsMldYdS1BZlAzdHIySF94X0l1UV9hS1dxeS1URVFKMER4cVFDaGVKU0dfWlVPVERLNDRyMDJwdlF4R19yUzBoZHFKNHJKbjNFSVJrd3B1YXBwNnhLY0NZTzJlVlhpcEdpVl9aMGNZWjVJX0NxMVBHY1dwOA?oc=5"
+        },
+        {
+          "title": "Delek US (NYSE:DK) Hits New 52-Week High - Still a Buy? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGstUlZHdEtpVTFFX01sVzd6em9QQkxFcHVYZlVJTTJDR1djT210SHoxUjduZkltUTk3bng2empYTy13TVBlZjdvaTRhSDRDT0Z3RExCcV8yT0tKRzhDU0JNWVR4M0ZaRlowbEZTZDEtaGE2cTZDdS1WVGlmdGlES3pGQ2pVQXVkbW5Sam84U3lNY0dOZkk2TTlWTXlzNjlKQnM0RW9B?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "price": 17.91,
+      "change_pct": 11.48,
+      "change": 1.84,
+      "volume": 23018157,
+      "name_zh": "",
+      "spark": [
+        16.7,
+        16.638,
+        16.86,
+        16.88,
+        16.9999,
+        17.12,
+        17.155,
+        17.3,
+        17.4288,
+        17.355,
+        17.5,
+        17.644,
+        17.76,
+        17.585,
+        17.565,
+        17.64,
+        17.705,
+        17.71,
+        17.7,
+        17.7113,
+        17.68,
+        17.84,
+        17.86,
+        17.9151,
+        17.915,
+        17.95
+      ],
+      "news": [
+        {
+          "title": "Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What's Driving Quantum Computing Stocks Now? - 24/7 Wall St.",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFBaYUJETXA4ZEd6SWJ1eW5fYkNqVjJmWVFjQWxudFJKM3hVU0ZqMUR3SWVRS1Mtc3FhcVRaOWJlWWhRZGhWZUtVWWxDczMwbXU5THZ1NGxCaWdGdEdTWDNaOHEtSV9ITzVCam9nWkYtQmRwZk56MEFHUnF1RWZ5ZVhwZHhwX3F4MVR0amswT0FSdFlNeFR4YjdoYUpFQzJIa3luM09VNTZTMm5LT0dmck95TGx0eHJmMG9qOEYweUVuN0F6bFZaN2tfMWxzLXp1U1E?oc=5"
+        },
+        {
+          "title": "RGTI Stock Rallies As Quantum Momentum And Targets Climb - StocksToTrade",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4RTdfcFl6MzBJZXhVQ1l4Y3lGSjgzMXVkWFlFMUtwSlBaTHlwVHpvYlVyamZxZlExaHZpTzVETi1kclpLZk9sWFAyWDhKRXZsMDhfOEFyV2g3VXRMWFVqN1lPNXhxMU9jNGNlVE9QVXJJVkE3WEVzWHJBeG5aMlE?oc=5"
+        },
+        {
+          "title": "Quantum Computing Stocks (NASDAQ: RGTI, NYSE: IONQ, NYSE: QBTS, NASDAQ: QUBT) Sink In Broad Sector Selloff With No Company-Specific Catalyst - foreignpolicyjournal.com",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEtqVmhTbXJEbkdWa3o4ZmhJUVZSU3ZNVFFRZTVvRXhUTEFhMkZyZk9UZVlaaGlLV0ZodWMwUTVrbXBzUldWUWZoeUJINW00RlJSSGNPc2Y5UVo0clRydkhGbGF4Zk5SX2w3T283UjNydlE1N1FGcF83aUpqSWtlOU5UVlVzaXUtQm03TFZWMVQ3NWpOM1FacnVpcC1vSWZMZ19GZ0NhZlZVMXFlOGFMbFZZQjFYd0VGZ2hDVVNhQzJqckFxLXhOSWpjUVdxTGhJa0JfaFdEQXVJT2RuNXd4Z0NNSWV4QVk0eHl6THF5S3NOZm5ScVJPclVvRVkwUURhY2hZVEhOcTAxNXJ2?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "VIRT",
+      "name": "Virtu Financial, Inc.",
+      "price": 67.93,
+      "change_pct": 11.01,
+      "change": 6.74,
+      "volume": 2585807,
+      "name_zh": "",
+      "spark": [
+        61.69,
+        64.4,
+        64.94,
+        64.91,
+        67.1225,
+        66.395,
+        66.28,
+        66.3392,
+        66.475,
+        66.355,
+        66.23,
+        66.495,
+        66.73,
+        66.92,
+        67.685,
+        67.795,
+        67.53,
+        67.92,
+        68.09,
+        67.99,
+        68.29,
+        68.08,
+        68.43,
+        67.5,
+        67.95,
+        68.425
+      ],
+      "news": [
+        {
+          "title": "Virtu Financial (NYSE:VIRT) Hits New 1-Year High - Should You Buy? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTERMTzNHUFhTLW51UEFIUVBNaVNBMEx2clZCdGtQaXBTX3pET0VBb0VHcmpaS1ZUSjRsR0hwTFFObXl2dU5TS20yUi1lWTdqQURVWVA0N1ozcnBfVWEyY1RmZlJva2FlR0xISzlUb2J0WWwxRko1OEF2dnlyZjF1S29mS0QyaUVGbnpWUi01ZW9Jc0ZNMzJ3RDVHXzcxeUUzakhMa25sdU40OEFfRkZGMHpKSVA?oc=5"
+        },
+        {
+          "title": "Virtu Financial Inc (VIRT) Shares Surge 11.0% -- What GF Score o - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnpxVkphZUJJOUdzd2twNExLaUc5dkhlZ3dMclk4TmF3UGpuYmJscUlsU2I1eVI5c1VQekktZnVKUjQ1Q1YzZHFXV25mcWpyTGxKdl9mMkVXZFNSQ0dvTGgyUGpaTGNsVjJaekowZnBtaUVWemtNREdLeFRRZVhhR250S0RlVnNJYjA4ZE1FNXZjRUcxeU4tUGxoM3B5c0RhMDduSWhRSm13a3VocVZiSXNYUU9tS2s?oc=5"
+        },
+        {
+          "title": "Virtu Financial (VIRT) Launches New Buyback Tool, Is The Stock Still Cheap? - simplywall.st",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWE1fS0dsbUpUOXh0QXlldkUtbGJlVGthN3A1X3V2WF9oVGNvMlNFSW9QNVVuX3QwT2c5MnowcTBpeWxiVXZSX2lTVzA1ZUpJMThNdVZjaDdrdldacDd4b1hRY2xrbEhkbmJ1MlJiS0lGVjQ4ZEVVR2lCM29QN0VjSUVRTHNtU2g3V0RGbGU4bXZVZ0E5UlpXaEhfY3JESVc5NG9hWlNqdWlsRWlsSzF5ZXpGRl9qMWg4dWE0akxMTUJ0ZUFJaFdtYUU3RW5kajhZMUJhblU2UGd1aEVSNWfSAeMBQVVfeXFMTVZmbkNTMGxMYktOaDFPR2JhdmFLWHVoa1YwQzVSZ056eEcxMHVZUkNpbEc4RWU3bVFOVjNQdXdOaWM4VTcyN1NTMEM5SHRBeWNFUlM2X2FWZWhHWmg4YXVKTGg5ampCNm1yeXYxd0lIZFMtSGZJSE1GY1lVLUVoLXJlR2F2dFZHWGQycjVwSWl3VnBNSkViYTJ2STY2VFlXNWlFN3U4SVNoQTZNbkVJcHRkSlh0WVJtTUtUdWF5UUVQaE82N01pdGlRckdYbzY1Nkd5SXFGTEN6Q0pyekhJTUgtTDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "CVI",
+      "name": "CVR Energy Inc.",
+      "price": 39.51,
+      "change_pct": 10.27,
+      "change": 3.68,
+      "volume": 1771078,
+      "name_zh": "",
+      "spark": [
+        36.97,
+        37.0,
+        36.68,
+        36.83,
+        37.505,
+        37.47,
+        37.45,
+        37.64,
+        37.74,
+        37.73,
+        38.02,
+        38.4699,
+        39.61,
+        39.87,
+        39.945,
+        39.91,
+        39.9,
+        39.64,
+        39.51,
+        39.855,
+        39.84,
+        39.9,
+        39.93,
+        39.95,
+        39.83,
+        39.825
+      ],
+      "news": [
+        {
+          "title": "NFJ Investment Group LLC Buys Shares of 79,805 CVR Energy Inc. $CVI - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWJWSTJlR3BTX2pNb2pEQ0s4X0xBZk12MWtiakNlVmtrcUxjaWtteDR0emV0c3hKTjlaa0JKRkZmMURYVHVJUXFOSWN4am4tbUY1Z2F3T2FZOHNSNHo5V1BvbThrOTNlYkVNeHhERW9VNFpBbTJiYTIzUkpuLWFDSlNwbHo1VEtVOEE1Ql9zdUlSbktWTlo0NVNBaEc1a2pmZFhQbDBHR2tVaThobGtrbDZiWWJDdmhQV3pNZ3ZOWU5ONlU?oc=5"
+        },
+        {
+          "title": "A Look at CVR Energy Inc (CVI) After 10.3% Gain -- GF Value $28. - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkZ3UUYybzlSNnJsLUVoRG1CbVVfTkpyUElHZnpJcU9zSWp5S3EydHNKbjVZODZTNzdncU9WYkxZS1lZME5qYjV5MU9FRzNESFEzNUJVMHJrR2l4RE84WVRIcVNna0JuaU9Eb3dfbDB2ZFVZYmh0RHRFUUFTUWFQczdDelRVYlZ3OE96eklvbUlFMjVhaUUxbFJrOXRKYnh2d25tRUVTRnJmWFAxbnVF?oc=5"
+        },
+        {
+          "title": "CVR Energy Jumps 5.3% Amid Sector-Wide Rally - AlphaStreet",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWDN2bi1md3c2YzR0T0VZVmxaSHJ0b001NE9Gbm0xTmZkd0E2WmZ3a202SHF4T1hISXoybXpfT0paenpIYnY0OVpLMzVCMG5hWF9GcDhoNi1VWHdkdEJ3RTkza3B2VmdmVkRpN2lSRlFaWV9ONEhLVHZzNDVEamVRU2tOY1FlUdIBhgFBVV95cUxOWDN2bi1md3c2YzR0T0VZVmxaSHJ0b001NE9Gbm0xTmZkd0E2WmZ3a202SHF4T1hISXoybXpfT0paenpIYnY0OVpLMzVCMG5hWF9GcDhoNi1VWHdkdEJ3RTkza3B2VmdmVkRpN2lSRlFaWV9ONEhLVHZzNDVEamVRU2tOY1FlUQ?oc=5"
+        }
+      ]
+    }
+  ],
   "us_losers": [
     {
       "symbol": "SA",
@@ -271,14 +811,14 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSktMLXhTM09xbVRFemQ1QWNnUDRfcENvclpzaVlDd2R4MlBsRFduREYxazJzbWwxXzNRTGxtRTllTUR3UW9lRWE1aFdPN28tQjJ3V1ZkVEZBUi1hMDZTSjU4QjBEbmRVT3JMTUhBb2V4Zm53SjlrRTM1aXQwWWJiWXlKX01UYkhfeXc?oc=5"
         },
         {
-          "title": "Why Is Cipher Digital Stock Falling on Friday? - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1ZOLWR2QjZ2bUNFYjc2MnVHQkxtakNfSnVNUDVPcW5MbExiRklkMFlnOElaNGo4eHVma0ZCcUhsTDk4M0JUd3ZzRmhaeWVVc1Q3amYxNUE2TkE3a3U3MVdqaThQdENsUE9XV0pJdVQyTVJ5STlwX2c0ZktYd0lZSkI5aTBGR2x0WlhiNGtxY0lYYmtSNnEwWnBPLVNFY3cwVGh3OENWYVZWUQ?oc=5"
-        },
-        {
           "title": "Cipher Digital (CIFR) Stock Looks Fully Priced Despite Strong Sales Growth - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnZ4WUJmRGxDandHY0ROQkNXX3lGNzJXTUN3dmU2amNOZW5CMU5hRG1TZUd1amZSbWNTajRjS2NjeTRKRTFFbXZfZU45Tl9ENTFmalhUZWFPY2dPVmM3OGNrQkJxckhxbnY3YTVpcFp1YVpBd01oaTVQamZXNV9nWkQtejBidDI2TGlaRUM3U0F6a0RleDg5ODVBdzM?oc=5"
+        },
+        {
+          "title": "Why Is Cipher Digital Stock Falling on Friday? - Benzinga",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1ZOLWR2QjZ2bUNFYjc2MnVHQkxtakNfSnVNUDVPcW5MbExiRklkMFlnOElaNGo4eHVma0ZCcUhsTDk4M0JUd3ZzRmhaeWVVc1Q3amYxNUE2TkE3a3U3MVdqaThQdENsUE9XV0pJdVQyTVJ5STlwX2c0ZktYd0lZSkI5aTBGR2x0WlhiNGtxY0lYYmtSNnEwWnBPLVNFY3cwVGh3OENWYVZWUQ?oc=5"
         }
       ]
     },
