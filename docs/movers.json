@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:44:00.840863+00:00",
+  "updated_at": "2026-08-24T08:28:04.350303+00:00",
   "us_gainers": [
     {
       "symbol": "SLS",
@@ -109,6 +109,60 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "price": 12.76,
+      "change_pct": 14.44,
+      "change": 1.61,
+      "volume": 16591590,
+      "name_zh": "",
+      "spark": [
+        11.705,
+        11.905,
+        11.925,
+        11.855,
+        11.935,
+        11.965,
+        12.08,
+        12.135,
+        12.325,
+        12.345,
+        12.315,
+        12.2412,
+        12.345,
+        12.405,
+        12.445,
+        12.435,
+        12.38,
+        12.445,
+        12.435,
+        12.44,
+        12.5,
+        12.588,
+        12.7,
+        12.715,
+        12.695,
+        12.795
+      ],
+      "news": [
+        {
+          "title": "Uranium Energy Ranks High Among The Bravest Companies I Ever Covered (NYSE:UEC) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeE16X0h4a1JVMzJ3NTliM3AydDJNSERlSVhhcUhFeThreWRURHg3WDV3enNJZThHeG8zZGVvNGQ0RnZmb0JTY2tUZ1dtSXVrY3hyOTlSdXhOdTZ0Vk96ejBBbDhPa1d3ckVHU21OM012WGgtNWF6VXVvb3pIX0tqQUJWS3BCS05hczM4cG94c0dBbWNhZjNkbjd2TkF1U001ZGZFZ0E2U2I?oc=5"
+        },
+        {
+          "title": "Uranium Energy (UEC) Stock Looks Stretched Despite Its 353% Five Year Run - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjNQRW1Ma3NlNnpCTk1Nb0tsbGVtbnNPeTRIZDdyelZrWWFEcXFHa3FSQzFicHByenZCTXd3SEJmSWxQdXlrYXRYZThsUGZ0ZkFFbndDeW5QZks4VkpEUXlHSFNTUkNMcmVDcnpLSF9TQU5reWFlNzg0QldpYlJPblBhNWYxUXJMZ0pYcjlJZU8yVFVSS05QaG9Ucw?oc=5"
+        },
+        {
+          "title": "Uranium Energy Corp (UEC) Shares Fall 4.1% -- What GF Score of 4 - GuruFocus",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdno2NHlEaVV3NThMdS1ZQU9Fcm5GclhrR09uNWx2Q21MV2RHRDhiNG9sSlZUQnM3eWoyR2NVVl9fSnBqR2t3SDdGbHRpQzRDRnpSTDUwT2dZcTI4azdSUlhkb0JJTEZlZ3FWVUxFbmJPNlpjTzNNUk9pUXpSMUVlZmdzNUhHZHNZTkFjbUt3bm1ROXZuTnlieURPeFRuY2ZnUkdSQ3h4NEk0cTFVbmhYX0pvYw?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc.",
       "price": 108.13,
@@ -156,9 +210,9 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTdEM0VtbkktQ1N0NHNKVC03dDZDLW45emdMNGpBV2lTMHFxWkUzdUJpZXMzWVNfcWE0alpHaDBtdmVYcEFmNEM3dkZYZWlxYlR6WGVXOGVzZkhodVF6bVpzRmNiaGM4REVscDhLdHJjdktWdU0tQlNvYkhsaDRONVNRTVZrVnByMmJnU2YzQUdZNVNVSTltZXFfUXl1aVRCY2xUY05uS050SkIteE41d3RkMjE5YVQwbjVkcjR3?oc=5"
         },
         {
-          "title": "Can Robinhood Stock Surge Again in 2026? - TradingKey",
+          "title": "HOOD Stock Gets A Retail-Trading Boost: CEO Says Robinhood Beat GameStop-Era Activity - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWRwcmgxTm5hY041a0xqRWdpM3M2WG91dU1leXNaSmdiVVp6M3VQQmM2Uk91aHVfTmxHX0tGb21KUHN5bDFMQ2VvUHhWcUt6TW5jd0FjT19WeU44N2pzclNRS1c0SnhCY25qM1p6cVE4dEsxdE9PRzVlanUxcnNhQWFFZENMVDJOUkp1LWREQW9iWjE2Ul9jRnBHMnNUamxSZnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlRWalhCMThQZFBjWE9PYWJONlFoODh4ZWtaTjhabm5LUncwdkE1N1lxM0E3NzgydFBNcTBwa2JYODFYcWNmbHRfU0pyZkhzLW52U0lOVTZtWldrb045VDFfZHhlMHh4OEtxWFBRbW0wTDNXNnE1d1RlajhPZmhLUXN0RUxaajlLLVlfUkk4bW5UdHhDMEtxdmlOQQ?oc=5"
         }
       ]
     },
@@ -308,6 +362,11 @@
       ],
       "news": [
         {
+          "title": "Deutsche Bank AG Takes $11.45 Million Position in Delek US Holdings, Inc. $DK - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGZpbm0teXBPZV9nVHpaMFJ0a3dZRnVmYld1cENWdWpKRFNxWlBYWmZoNEIxQ1RXc2FjY2l3Y0ZpVVdSN0NPTHdtVHVpV0w5NHBmZEtueEdkSUtfUkRjdlh1MXZTLXo4UFJER1hkZnNvbmxwYkJPaE5vRFlWbDdGNTFMMC1TZEFwaWVDZHdXbGllUEsxeVlyWGlrS2p1c0pJNVZab1JlT3hSYWF4OGp5NmRqNGpkc1pSMEJySzJLSXNBTGxiSF9JUlAxckZxZw?oc=5"
+        },
+        {
           "title": "DK Jumps As Delek US Smashes Q2 Earnings Targets - StocksToTrade",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNVWZGTzZjYzZzaFo2XzZOYXNZQ2hpY2ZaeUpIOHFQRFFHcDNIR192RmpFY25HX3loTVBBQld0WW4yRzR2TEpzS210MHRzVEozMl9WTE9ocHVFQ3ltMzV2UDdOWlU0WTBfbFJZdUhDSkhYOGdyaHFrdA?oc=5"
@@ -316,11 +375,6 @@
           "title": "Delek US Holdings Stock Surges 189% in a Year: Is It Still a Buy? - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczhDSTI4c2ZRYVhvVmRCcEROa1hvczlTM1Bwb3dEVThsMldYdS1BZlAzdHIySF94X0l1UV9hS1dxeS1URVFKMER4cVFDaGVKU0dfWlVPVERLNDRyMDJwdlF4R19yUzBoZHFKNHJKbjNFSVJrd3B1YXBwNnhLY0NZTzJlVlhpcEdpVl9aMGNZWjVJX0NxMVBHY1dwOA?oc=5"
-        },
-        {
-          "title": "Reuven Spiegel Sells 10,000 Shares of Delek US (NYSE:DK) Stock - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUFVN2pfUFRydGdub2Y4dV85MkFXRnhkcndISmgtT0JKYUZ5eTFkVUFZY3BBMElGYkxNWkI3aHlqak9WU0FKZGR6TGx4dnZNeDgxTExFOFZjc1JCazAyMkVQNUozaC16WkZrbXlhSThVaWFlcENMX2ZlN3FCampJVW9ydjduUFlIelpFRnRNUU9OTnYxSlQxcTc2U0tKX005N1NRcDV5ekRkMWxOTU9pY0tB?oc=5"
         }
       ]
     },
@@ -362,9 +416,9 @@
       ],
       "news": [
         {
-          "title": "Why Rigetti (RGTI) Stock Is Surging Toward New Highs—And Is It Buyable at $26? - TradingKey",
+          "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcC13YzZRUXNJX1NGd1lMUHl0WXRNUGdBTjRVNmZzN1RCbUZjdWVjNENVNDRMSjBpNlJXZnZKMm5JRU5XaHlZMkNQTlBpZDBfVHRXSVNxVmFjZHF1SmoybUNrUlRiQUExZ0t2alBaMVM0ZDhYUFNScjlsc3BpeHVPWURSaU5DS04zaG5YZEFJaUoxc2FoVHlIR1BJN0R4cWVqR2ZTUGUtTnE5d29nRVFlYWVvVDFmQ3BfaXhNaGR3UWxBckRhbllBZzlEekZZcjNIRlBLeklrYzF3UGtjM3NYdEhPYjc0b2ZlRmpjRE1pVFJBejJYS1RFc0JhLTQ4dEhVb3RQM1BB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVdESEpsVzZHU3ZZcFRxZF9NSnJZR1N3Q2F6VU9LTklqT3ptY0VmLUxGOG9memlaZXFYUE81Q1RaT0wxYUhkSHJKR3hNb1FTYnp4dkVieFhrVlVaeVFMcnhQUURqN0NTQ3RDRkJuUktqOE9hM05oZ0lEamY0RnlaekRQZ0tFdnZhc2ZxZ3JUZWY2SmVZTlNaVmZRRDZUNkhLWmRpSjBfYjhCQU1YR3hia19ZU09EY0ktTmFFcEdR?oc=5"
         },
         {
           "title": "Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What's Driving Quantum Computing Stocks Now? - 24/7 Wall St.",
@@ -483,60 +537,6 @@
           "title": "CVR Energy (CVI) Stock Looks Reasonable On Earnings While Returns Look Stretched - Yahoo Finance",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFBiOE12SnRsdnNNQmRBWUNDS293LUEwQTVxc0NGbkJYUjFNYk1tb1U0QXo3Sm1uMFVqM1dMM1Bxd2o5MlhJTzBLS0o3d3hncXpXak5pampudGs4cExZQnJtU1F0NkRUbWlNbW1EU3hTRHZqUng3N0FmcGEtb25NTWN1ZktMQklBUWhqVlpsbzVOTWhLNGc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLY",
-      "name": "Fastly, Inc.",
-      "price": 24.95,
-      "change_pct": 9.86,
-      "change": 2.24,
-      "volume": 5650357,
-      "name_zh": "",
-      "spark": [
-        23.44,
-        23.57,
-        23.6374,
-        23.56,
-        23.35,
-        23.695,
-        23.78,
-        23.66,
-        23.92,
-        23.8701,
-        24.025,
-        23.98,
-        23.96,
-        23.9,
-        24.065,
-        23.975,
-        24.01,
-        23.99,
-        24.04,
-        24.095,
-        24.035,
-        24.075,
-        24.175,
-        24.2028,
-        24.375,
-        24.68
-      ],
-      "news": [
-        {
-          "title": "FSLY Stock Crashes 25% Despite Strong Earnings, Forecast Raise: Retail Sees Long-Term Potential - Stocktwits",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmVBQjl1M1B2YUNnNWhLa3piYUEzSDZMRElfNk5zU1k0cjdrM2g2NTl6ai1CTGw1eWlOZWRRZG4xSDlaTERNSENBRjJKbGtuTlJlVzhLMFJWSHFsa0hpb29OX21tdXViQTF0LUJ0OFZPWDJXMnpfUnNtZ0U5UjQtR08wUE5kdWlFRENnODBsVk1pak4xRF9YeUctM2dpNlhmRmpuM3I0azJQRlVMeXV0Uk4wQ2xtVDJ1ckFveHZNRmtzc2tFb1RiVnZmb3EtNFdUTmVDVUdSSmwtUURyNjRQV2h0Qks1al9RMHNiQQ?oc=5"
-        },
-        {
-          "title": "Don't Ignore The Insider Selling In Fastly - simplywall.st",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcS1xRGc5VHZwSGNCUzVpcHZ5bnBtTTZKaE9MUDI3WXBySU5Td1lkeUEzUHNfTjNhVHdObmxqLTNOMkdDWGxwSmVwUGN5cmU1NHlJclNwaWY5NFk5bXdLWWVfQ0FLMFNfa3MwamZfSEd1ZGtXV1FxaGNyV1dsUFRJUEpuejZ5TVhaNXFZX3AteUk0OVFlV1owenhjWlZuMXh6LWxRR1B4TVFuaUh4NllDYU530gGyAUFVX3lxTE1xLXFEZzlUdnBIY0JTNWlwdnlucG1NNkpoT0xQMjdZcHJJTlN3WWR5QTNQc19OM2FUd05ubGotM04yR0NYbHBKZXBQY3lyZTU0eUlyU3BpZjk0WTltd0tZZV9DQUswU19rczBqZl9IR3Vka1dXUXFoY3JXV2xQVElQSm56NnlNWFo1cVlfcC15STQ5UWVXWjB6eGNaVm4xeHotbFFHUHhNUW5pSHg2WUNhTnc?oc=5"
-        },
-        {
-          "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGFJQmhPOGVDVm9qSzBXQk5JdG1BczVHRTZXWm40MTRLOTRhdjdBSXF3dWFZbE1WdTVuMmdMZmtCWEhLTG10RkNYU2g5cTFTZUJ0MG82eHIzTV9rTk1fd1BaaHNwS1Jwa1BXNEx2VWdZZVFyelZZaHpkZzFCQWRhMW16eEdma1E5VnZTeHZMa045N01mVTdoVngxUGFHR3Bv?oc=5"
         }
       ]
     }
@@ -692,14 +692,14 @@
       ],
       "news": [
         {
-          "title": "HUT Stock Heads For 4th Week Of Declines: Why This Analyst Thinks Hut 8 Is a Buy - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUktM1E5M1ExaFJWXzZOUk9IYzlONUFIOG5wNjJyeXVva1dHSjVnaFptR3BmOTRCdFhRR3MwbVdvTC1UYVo1dnAxc1pTcmRBSy1vOEVKeTZyRUh2TVFfQ1ZObmNrYURjdlJaLUVkcXNhMDBUTjJDOEFTMzJYYWctV2dMV0FlRnlfYnpzUHdsc2VXWXc?oc=5"
-        },
-        {
           "title": "Why Is HUT Stock Sliding Over 2% Premarket Today? - Stocktwits",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZldsVWw0MmVWZEkxZ1NpVmIzakg4eUFpNVhCWUkxdmpfeVZvNjVyY3lQWFhMZnVnby1ULUpzeXdUNG5ZWmhuMk14ZTFhZ3ZSQ2JSSGhzUXhVXzZzWkd0YVBGRmxRVXdwYlI4a3g3d1pfX2NYbDNoVlFwREZHeEwzeVpWQ0JoNlpNT0l3WTlSZWdBLTQtNy1GcDBoZXJTZFVlYjkyRGZnbw?oc=5"
+        },
+        {
+          "title": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVElEOGxoVFZxejNCV1RRSmpIdy16d2RFM1VQUlFhQ3JHX2ZHV0RvdUdGOXFqb3A5OC1BdGNlQTk2U3BLcVJaMnJxVXhrdmlsRG9PS2dVSXdyc05TV3RKS19ZWDl5NXVXNjB5UHFlOVhLRzNBSms3dDAyek1FOEpoelo2UlBKUmo0Unp2LTFiVkdNaFE?oc=5"
         },
         {
           "title": "Why Hut 8 (HUT) Stock Is Down Today - Quiver Quantitative",
@@ -977,14 +977,14 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jYmVpYXhxSVB4N25SX1BkMzdzNkFtZG02NWFLNmlydVRSOTFWdXlQV0h2ekxKeHRhOVBuRzBfVXNxMWNKNmFfTWljcTBZalZmS0x1dE5PMzY4QmhvNkRreDhwaUl4blRLWUVocjIzUHREeTZuamc?oc=5"
         },
         {
-          "title": "William Blair Investment Management LLC Makes New $32.69 Million Investment in BKV Corporation $BKV - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdlo3b01lTlhlUHo4bWQzdmZfZk9VZmhQVVlfYVNiVjRtSk9aMXI3Tm9TaUJWZWxvdU94WlZSTVdaV0ZmSUQ4ckJici1uRG96ekFHTURfUlhDQTJrWlJ6TEI4UkpkZWE2ZjRMZEtpUjR6ZTJ1bDdwQ1pOT2tTVWF2S1JoaUtGZVQwbDNfUTNnNUZtVWlYejRfWDVWT1plbmtSZEFWSkY2YWktZGxaaGk4ekN0WThWV0NsMk52bkxpVUppQjU2aGk1dUdyQmtIMG5PaHh5UHVLbDg1TUJjbGM3bjBaTEhBN1oyaDFsNDFB?oc=5"
-        },
-        {
           "title": "BKV Corp (NYSE: BKV) officer lines up six-figure stock sale - Stock Titan",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpXWWRjWHY1blhLUHdxSzlSR1NtVmhzckxnazduOFBhQl9HaVF4VENkcHRzdVNVekg0LXozMHk1SU9LLXhhb2k1MF9EZk9kRFktVU12bUJKZW05TzR0V1lQa3NsN0xyQ2FkLS1XYXJjTVNGeUo5OWtmLXZLUGdiZkJ2elM1OWpDWEJfLQ?oc=5"
+        },
+        {
+          "title": "William Blair Investment Management LLC Makes New $32.69 Million Investment in BKV Corporation $BKV - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdlo3b01lTlhlUHo4bWQzdmZfZk9VZmhQVVlfYVNiVjRtSk9aMXI3Tm9TaUJWZWxvdU94WlZSTVdaV0ZmSUQ4ckJici1uRG96ekFHTURfUlhDQTJrWlJ6TEI4UkpkZWE2ZjRMZEtpUjR6ZTJ1bDdwQ1pOT2tTVWF2S1JoaUtGZVQwbDNfUTNnNUZtVWlYejRfWDVWT1plbmtSZEFWSkY2YWktZGxaaGk4ekN0WThWV0NsMk52bkxpVUppQjU2aGk1dUdyQmtIMG5PaHh5UHVLbDg1TUJjbGM3bjBaTEhBN1oyaDFsNDFB?oc=5"
         }
       ]
     },
@@ -1036,9 +1036,9 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTh0Z2VqMVhFcEYyelBQQTYtSlhKUEloVVBfejRJX1BTbDluemdjc1VKTG9FZXJjRWhDTG1BaF9aZm9mUmFUaWhGTU8wSm9XQ1VJdFJIV1BpdWhxUWluSFJBOGJYNVlyWkdpeC1IUUNGRXZNUkc5UmFsTnVCVWJwLWRrcE9nTUJQY2dfc2ZPeVVvTnZmRUo3S1pnUk56VE02akk2cHcybU9ldTFqcTNUV29TbzJUakVlN2tJ?oc=5"
         },
         {
-          "title": "Cerebras Systems Stock Surges Monday: What's Driving the Move? - Benzinga",
+          "title": "Cerebras (CBRS) holder shifts 1.9M shares between classes - Stock Titan",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEpmQmdsSy1vSWJBMGE4SThmWEkybGsxa3ItVlZCaFllcUR1WFpxU3pYNmhldGh4a09MZUZLMW1SUk1xQ0dDb0tMSkpZdGd3akU5U1ZQSHNFZUZ1V1AydjVDenQ0TjhnTVBRaC1ZLVZqclB4RDc4VWszUFVzUnMtb1YtSTE4TGxzcHVNQ1duTHRkZDZrNnpydG1HUXM4V2dYWFVKQy0waE1wLUVCeWtfeWdOZUdKR3doTWl5OQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS195SXd6SnJ5SHBsVWtYd2tZYUNkYVZPVnVVdzgwdXRrSlJ1RU92WHd5Slh5YnNVdnIxaU9qV2FSNEZYeFRpRFlYUGJ2ZU9WcUZFMGgwejBubFlvc3RkOF9FcU96YzhkQk5pWndYQTZTR3JpZjZucHhWZ1U3aGR4U2wyM2swbTZrLTFWMGx2Q1BtNEx3dDZxRGxHWHVCQlp3aFNyS3ZOSHY1aWE5d2oyOTgwZU8?oc=5"
         }
       ]
     },
