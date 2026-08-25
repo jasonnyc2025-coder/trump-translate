@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-25T17:40:23.972720+00:00",
+  "updated_at": "2026-08-25T18:03:43.718961+00:00",
   "us_gainers": [
     {
       "symbol": "STDN",
       "name": "Standard Nuclear, Inc.",
-      "price": 14.1,
-      "change_pct": 18.21,
-      "change": 2.16,
-      "volume": 1000145,
+      "price": 14.07,
+      "change_pct": 17.84,
+      "change": 2.13,
+      "volume": 1088058,
       "name_zh": "",
       "spark": [
         12.06,
@@ -34,7 +34,10 @@
         14.33,
         14.1358,
         14.03,
-        14.05
+        14.05,
+        14.09,
+        14.005,
+        14.07
       ],
       "news": [
         {
@@ -57,10 +60,10 @@
     {
       "symbol": "ABCL",
       "name": "AbCellera Biologics Inc.",
-      "price": 12.25,
-      "change_pct": 15.46,
-      "change": 1.64,
-      "volume": 7352928,
+      "price": 12.19,
+      "change_pct": 14.84,
+      "change": 1.58,
+      "volume": 7653710,
       "name_zh": "",
       "spark": [
         11.46,
@@ -87,7 +90,10 @@
         12.27,
         12.275,
         12.295,
-        12.2729
+        12.2729,
+        12.19,
+        12.21,
+        12.185
       ],
       "news": [
         {
@@ -108,65 +114,12 @@
       ]
     },
     {
-      "symbol": "GENB",
-      "name": "Generate Biomedicines, Inc.",
-      "price": 20.13,
-      "change_pct": 13.6,
-      "change": 2.41,
-      "volume": 3466063,
-      "name_zh": "",
-      "spark": [
-        17.5,
-        18.35,
-        18.455,
-        18.655,
-        19.2366,
-        19.86,
-        21.19,
-        22.0001,
-        21.89,
-        21.5,
-        20.869,
-        21.03,
-        20.91,
-        21.01,
-        20.9,
-        20.96,
-        20.23,
-        20.03,
-        19.865,
-        19.865,
-        19.665,
-        20.175,
-        20.28,
-        20.18,
-        20.02
-      ],
-      "news": [
-        {
-          "title": "Generate Biomedicines stock jumps as post-IPO lock-up set to expire - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmluRnFfQmtlNENobzRzUTBpMDAwcTBvcUt4R05ONTB0ZU1JWThCbm5NdXp4eGx0X1RJb3pVRVFqbHpzbjhHcmtBbXlmcXE2OUpaQkt1Y2ZiRVNxcjlMNUZWQVFnTXlhZ3NMbll5OVo5WV9EQnZ4ZlVCLTNlYlZZWXpFWlBSemtjMWM4MnptNTYxNW1tTE84WU5XZFJhNUUzbFRPeml3?oc=5"
-        },
-        {
-          "title": "Top Generate Biomedicines (GENB) Competitors 2026 - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHpDLXBNa2VYbUZId1luWnVudFgzUXFXUFpwV2doLVYzVVJzWEEtcDRqOUtmSW9jM0NSQi1JM1FaQnRaSURrX3pkTjRfNXdSVVZUamkzS0U4VnlwQkt3c1pkOTRwRFdWWm9DQzBmUlRPcGFEd3hmcUF5QkNHcGFVeA?oc=5"
-        },
-        {
-          "title": "Generate Biomedicines Shares Up 12% as 103 Million-Share Placement Looms - TechStock²",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU1mRnlqbW9CX1RENlRzenRtZE1zM19ENzQ4TjFMLTFOdUlZaVJ0OEtuZnhEOFQ4VlR0MXBhZHdLSGtzcDNselAwYlh5NmxadGJkbXN1blF5bmJiMmdYTDY0MHI0YXhuQlM0Q1FGYWVLYmhwU05sbU5aYjVHZU9PMUoxRnZRM3pSeFk1SVFpRm55ZXZUbUpGMU9icVRYbFk?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "MRNA",
       "name": "Moderna, Inc.",
-      "price": 158.02,
-      "change_pct": 13.78,
-      "change": 19.13,
-      "volume": 34342758,
+      "price": 157.84,
+      "change_pct": 13.64,
+      "change": 18.95,
+      "volume": 36478864,
       "name_zh": "",
       "spark": [
         147.4154,
@@ -193,7 +146,10 @@
         157.4764,
         157.19,
         157.751,
-        157.4001
+        157.4001,
+        157.8839,
+        158.6399,
+        157.7901
       ],
       "news": [
         {
@@ -214,65 +170,68 @@
       ]
     },
     {
-      "symbol": "RUM",
-      "name": "RUM Group Inc.",
-      "price": 10.44,
-      "change_pct": 11.49,
-      "change": 1.08,
-      "volume": 5382931,
+      "symbol": "GENB",
+      "name": "Generate Biomedicines, Inc.",
+      "price": 19.98,
+      "change_pct": 12.78,
+      "change": 2.27,
+      "volume": 3552102,
       "name_zh": "",
       "spark": [
-        9.51,
-        9.37,
-        9.255,
-        9.345,
-        9.6826,
-        9.835,
-        9.84,
-        9.9505,
-        10.1147,
-        10.165,
-        10.1,
-        10.13,
-        10.36,
-        10.3901,
-        10.445,
-        10.4265,
-        10.48,
-        10.321,
-        10.225,
-        10.27,
-        10.265,
-        10.38,
-        10.41,
-        10.465,
-        10.485
+        17.5,
+        18.35,
+        18.455,
+        18.655,
+        19.2366,
+        19.86,
+        21.19,
+        22.0001,
+        21.89,
+        21.5,
+        20.869,
+        21.03,
+        20.91,
+        21.01,
+        20.9,
+        20.96,
+        20.23,
+        20.03,
+        19.865,
+        19.865,
+        19.665,
+        20.175,
+        20.28,
+        20.18,
+        20.02,
+        20.045,
+        19.85,
+        19.97
       ],
       "news": [
         {
-          "title": "RUM Group Stock Extends Rally Following $13.7 Billion AI Cloud Deal - Yahoo Finance",
+          "title": "Generate Biomedicines stock jumps as post-IPO lock-up set to expire - Yahoo Finance",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUozSWE0cFFXYnk5NnFHR1pBNjFDZ2phODFGV0l1YlNpNlpBd2lpdWVlN2ZOZ0VjZXRQZDhtYy14Mlo0M3cxOWFmWFVyXzhlME01OV84MjYzZTYxTE9CdUVMb2xhSFd4Z0xlSVRULTFUS3N2ejFnRFhMS0MxTVFMWjNGYUNrT0NPMWRVYzJvU1BISk43STFmbXRn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmluRnFfQmtlNENobzRzUTBpMDAwcTBvcUt4R05ONTB0ZU1JWThCbm5NdXp4eGx0X1RJb3pVRVFqbHpzbjhHcmtBbXlmcXE2OUpaQkt1Y2ZiRVNxcjlMNUZWQVFnTXlhZ3NMbll5OVo5WV9EQnZ4ZlVCLTNlYlZZWXpFWlBSemtjMWM4MnptNTYxNW1tTE84WU5XZFJhNUUzbFRPeml3?oc=5"
         },
         {
-          "title": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St.",
+          "title": "Top Generate Biomedicines (GENB) Competitors 2026 - MarketBeat",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUg2d0RxOFlCdWZCUnotbnR5WnlZVml5WDNyelJDNUFudWFHUGRVSl96YVRHaXBBbm9rYlFXaFhRTnhqRlhuMFlsZ1BMRzNaa0pSczBkVDJpc0JKX0FTVlNRNHRxcWNPd2NON0E2ZmMtaEhoUVdlQUdHcnlRX2JhNDJDSnFnZkx1S0RqM3g5bkotU1pQYkZpM2FTODFrbjltek93bHFSUG9iWThoWW56Q0RDOHJuNWozWWlkV1FQZkw3SVJnOHJZak9B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHpDLXBNa2VYbUZId1luWnVudFgzUXFXUFpwV2doLVYzVVJzWEEtcDRqOUtmSW9jM0NSQi1JM1FaQnRaSURrX3pkTjRfNXdSVVZUamkzS0U4VnlwQkt3c1pkOTRwRFdWWm9DQzBmUlRPcGFEd3hmcUF5QkNHcGFVeA?oc=5"
         },
         {
-          "title": "Napco Security Technologies Posts Upbeat Q4 Results, Joins Alvotech, Rum Group And Other Big Stocks Movin - Benzinga",
+          "title": "Generate Biomedicines Shares Up 12% as 103 Million-Share Placement Looms - TechStock²",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT0FlSi1sUDJYVmZJQjJCN2JaMlVqNk1hYmN1RllqUEVCYlhzXzVHWm9SbWQzTFdsREEzMU9UWl9IZi05Vjl5TUlpOHNpMGd4N1BFTDZKVWc1UFZWVlRPVjVqdk0tVTNNWHF2U3RkRXN3ZG0tM3dadGl6ajRNa2llSHhtMTJWclRHRXo1emVLbjdYbjNTcDJDOVJMRVh4bkp3RHk0RmRzNmdhZ3RzSlo4bE83TjdGM0J5SF9DZ0pFSEhOTVUxQ0FVSUZSMXRndDZMeGZsdlhzdThDVE92S1N6TFh4SldwdVJYSE1xRzh4R0EyNkVMdU5JVnVTT0FqdFJBcFJLQUJLM3VUNTk5ZEFZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU1mRnlqbW9CX1RENlRzenRtZE1zM19ENzQ4TjFMLTFOdUlZaVJ0OEtuZnhEOFQ4VlR0MXBhZHdLSGtzcDNselAwYlh5NmxadGJkbXN1blF5bmJiMmdYTDY0MHI0YXhuQlM0Q1FGYWVLYmhwU05sbU5aYjVHZU9PMUoxRnZRM3pSeFk1SVFpRm55ZXZUbUpGMU9icVRYbFk?oc=5"
         }
       ]
     },
     {
       "symbol": "OKLO",
       "name": "Oklo Inc.",
-      "price": 44.23,
-      "change_pct": 11.44,
-      "change": 4.54,
-      "volume": 7002171,
+      "price": 44.5,
+      "change_pct": 12.12,
+      "change": 4.81,
+      "volume": 7950699,
       "name_zh": "",
       "spark": [
         40.375,
@@ -299,7 +258,10 @@
         43.44,
         43.9101,
         44.12,
-        44.2877
+        44.2877,
+        44.215,
+        44.61,
+        44.5
       ],
       "news": [
         {
@@ -320,12 +282,68 @@
       ]
     },
     {
+      "symbol": "RUM",
+      "name": "RUM Group Inc.",
+      "price": 10.49,
+      "change_pct": 12.07,
+      "change": 1.13,
+      "volume": 6272819,
+      "name_zh": "",
+      "spark": [
+        9.51,
+        9.37,
+        9.255,
+        9.345,
+        9.6826,
+        9.835,
+        9.84,
+        9.9505,
+        10.1147,
+        10.165,
+        10.1,
+        10.13,
+        10.36,
+        10.3901,
+        10.445,
+        10.4265,
+        10.48,
+        10.321,
+        10.225,
+        10.27,
+        10.265,
+        10.38,
+        10.41,
+        10.465,
+        10.485,
+        10.56,
+        10.43,
+        10.49
+      ],
+      "news": [
+        {
+          "title": "RUM Group Stock Extends Rally Following $13.7 Billion AI Cloud Deal - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUozSWE0cFFXYnk5NnFHR1pBNjFDZ2phODFGV0l1YlNpNlpBd2lpdWVlN2ZOZ0VjZXRQZDhtYy14Mlo0M3cxOWFmWFVyXzhlME01OV84MjYzZTYxTE9CdUVMb2xhSFd4Z0xlSVRULTFUS3N2ejFnRFhMS0MxTVFMWjNGYUNrT0NPMWRVYzJvU1BISk43STFmbXRn?oc=5"
+        },
+        {
+          "title": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St.",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUg2d0RxOFlCdWZCUnotbnR5WnlZVml5WDNyelJDNUFudWFHUGRVSl96YVRHaXBBbm9rYlFXaFhRTnhqRlhuMFlsZ1BMRzNaa0pSczBkVDJpc0JKX0FTVlNRNHRxcWNPd2NON0E2ZmMtaEhoUVdlQUdHcnlRX2JhNDJDSnFnZkx1S0RqM3g5bkotU1pQYkZpM2FTODFrbjltek93bHFSUG9iWThoWW56Q0RDOHJuNWozWWlkV1FQZkw3SVJnOHJZak9B?oc=5"
+        },
+        {
+          "title": "RUM Group Shares Climb 12% Following $13.7 Billion GPU Agreement Featuring 50.8 Million-Share Warrant - TechStock²",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXhRQzRJckE0VlFhYXBlbGNublBVX1BwU0MzX214czFZTFdwd0ZPQkl3MFZIeXN6aFNMcnhCZHUwcktydDJCS00wc05ZNmJjRjNrQlc2Wm91OWRiSVBoVXlIcjFyT2xpUEwwWUJ3cTJILVFxWEtnS0ZtbWtaTVd3M0RCX0FnZWlSeTlVWlhSWVdXVkE0MmtkY1U2UEhZLVhsMjdpRTJ4a0k?oc=5"
+        }
+      ]
+    },
+    {
       "symbol": "BEAM",
       "name": "Beam Therapeutics Inc.",
-      "price": 31.17,
-      "change_pct": 10.02,
-      "change": 2.84,
-      "volume": 946015,
+      "price": 31.45,
+      "change_pct": 11.01,
+      "change": 3.12,
+      "volume": 995439,
       "name_zh": "",
       "spark": [
         29.3,
@@ -352,7 +370,10 @@
         30.86,
         30.865,
         31.105,
-        31.265
+        31.265,
+        31.185,
+        31.24,
+        31.42
       ],
       "news": [
         {
@@ -375,10 +396,10 @@
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation",
-      "price": 154.38,
-      "change_pct": 9.64,
-      "change": 13.58,
-      "volume": 898733,
+      "price": 153.43,
+      "change_pct": 8.97,
+      "change": 12.63,
+      "volume": 983877,
       "name_zh": "",
       "spark": [
         142.435,
@@ -405,7 +426,10 @@
         154.19,
         154.14,
         154.16,
-        154.3625
+        154.3625,
+        154.04,
+        153.935,
+        153.58
       ],
       "news": [
         {
@@ -428,10 +452,10 @@
     {
       "symbol": "MAIR",
       "name": "Madison Air Solutions Corporati",
-      "price": 27.26,
-      "change_pct": 9.18,
-      "change": 2.29,
-      "volume": 4413128,
+      "price": 27.25,
+      "change_pct": 9.13,
+      "change": 2.28,
+      "volume": 4604519,
       "name_zh": "",
       "spark": [
         28.88,
@@ -457,8 +481,11 @@
         27.34,
         27.35,
         27.44,
-        27.25,
-        27.195
+        27.245,
+        27.195,
+        27.23,
+        27.36,
+        27.245
       ],
       "news": [
         {
@@ -479,60 +506,58 @@
       ]
     },
     {
-      "symbol": "PLBL",
-      "name": "Polibeli Group Ltd",
-      "price": 6.18,
-      "change_pct": 8.99,
-      "change": 0.51,
-      "volume": 188758,
+      "symbol": "SMR",
+      "name": "NuScale Power Corporation",
+      "price": 9.88,
+      "change_pct": 9.23,
+      "change": 0.84,
+      "volume": 35820150,
       "name_zh": "",
       "spark": [
-        5.8,
-        5.84,
-        5.84,
-        5.8,
-        5.83,
-        5.86,
-        5.925,
-        5.9452,
-        5.95,
-        5.9826,
-        5.98,
-        6.02,
-        6.04,
-        6.05,
-        6.015,
-        6.0028,
-        5.99,
-        5.9,
-        6.0357,
-        6.15,
-        5.985,
-        6.21,
-        6.0699,
-        6.03,
-        5.9705,
-        6.19,
-        6.17,
-        6.17,
-        6.18,
-        6.18
+        9.14,
+        9.174,
+        9.175,
+        9.07,
+        9.14,
+        9.175,
+        9.345,
+        9.44,
+        9.475,
+        9.53,
+        9.515,
+        9.5501,
+        9.465,
+        9.445,
+        9.5,
+        9.545,
+        9.525,
+        9.535,
+        9.61,
+        9.605,
+        9.605,
+        9.575,
+        9.655,
+        9.7521,
+        9.8427,
+        9.805,
+        9.865,
+        9.885
       ],
       "news": [
         {
-          "title": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner - Yahoo Finance",
+          "title": "NuScale Power Stock Collapsed, And It Is Now Closer To Commercialization - Seeking Alpha",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE55QnIySEdkNGRvcHNPYWV4S0hSRUxPXzJEMnRZdkN0a0FhVGFRTmxMdENlc3EwV0xNZTU1VFZSZHBudXBVVkVEQkZZejFEVWRGcjljZEpDdUxvbDA4RDRPWUowRHYxaG9oeUU2N2JVbUdOTTBYYTJ4QnNyWVV1M09raEV2bWdaYlFFQ2dOUjdmUXAyN01lZnlWb3plMjdFOGpv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHdiWWpETGlYWEZTVUctSE1faXFDYWtCYTRaVnhMSDEwNHNBZm9VWmJGTDYwTTFSMnJXSXhNUzkzVVliazc3RGg1TTY3UzgxTzJHWWxqc1VqTldndEg4RThwVnFVb0hVbkEyMkRlZm1FYVczeExrOEZOVEtnTTdlS1ZFU25FSmc5TjNhU05lMlFQZ3lOUWpDZA?oc=5"
         },
         {
-          "title": "Is Polibeli Group (PLBL) Fully Valued As It Explores A Thailand AI Computing Center? - simplywall.st",
+          "title": "SMR Stock Slips As Analysts Slash NuScale Power Targets - StocksToTrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeHFNaVVqTnJUOF9QVlpOM0ZxMkdpenNrNTI4ZFpzNEtrSE9Bai1qVXBmR3Rnc3doUnlRSHIya2t1UXh4T3lLaGZTUEQtZHJvVEQ4bWNKR0pXQk80U2hvbF9iRm1CTUNGejFINHVhWGhkNy1lWkcwY0NOWFNzbGhOQmlwV29hVmpCZmlXa0hObGNLYjRZbUlhOEhGYXgzZ3IyazdKdmJ0YnpYbEJtMDQwdjVKaTVJaGd3ck5tRlJ2amp0Q0JsQkJHR20xZ9IB0AFBVV95cUxNd2FjOEl0Rm5lOXFpdHBvZjR1SEZoblExeGw5a3Q3VlEweDhkcjNkTHlvYkRtSnNfSXN5a1VnQWJtQ1ZmUkhiR3N0cDRKVGxSSV95am94TlkzSXZ3QlFPM0NvV1BCdlhoWG9STG9JYmhYTmRCb1dfTVNZR19JVlpYTGl6cEROanppLThOYXBZWUhaNU45Wm1VenBqQ0NkTmR4MU0xaUFVNTR3OHp5a3c5Q3VfcDV4TUwteHRJQzFYRVFBNWswT1hmM3hTZGxQQTJ0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWpDUGhEZVBkSFdRSWZNZWZlVUkwc2lObExudE0zM24wdlMxWXNIaVVvUE5IRTNRTUVsZGwtLXNfUnpzTjlUaTZKcWJsaWw0bFZyTzUzOTROSW9ISE1pSHhiSjZRekNPbC1qblR4NXp0T1dDRDVVY1Q3T2RKRXpFY2ZlVQ?oc=5"
         },
         {
-          "title": "Why is Polibeli stock surging today? - Investing.com",
+          "title": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% - 24/7 Wall St.",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3BUUm9wRmZiSGtieDZITGxBSjVKWVk2QmRibkxyNzZ3NTBGMkxad21tSEZRTkdQVnJuYU9sc1drMU1Bd3dmVkhrZ3lNZ0h4RzhmR3cyS1NLNnBrUEhUeU5xRlA4Z3o0a1FEeDBmR2Y2X2hpZDdvclp0bHR0TlR6NEp4OFVSZC1nVlMwZm1WVDk5UFh0bmhRMUZCbWdSZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3N6cjI4OFhTMnhNdkZ4dkhQSTJQblJjZGxHZTh6V1dvVGlVWFQya1RPRjItV1FyUzktTHM0VUpEOG1QclBoUmhuSmFTNTdyaEFPclM5a21PLTNaX3JPTlFBZW1MbXktdDd3eVl5QTY5QXV4YjkwM1BaS0ttLUppSERxY3hEZlRMZ2t3VFF2clJCSFY3UWpjdmI2a3g3bzdjYkhFRF9xWnFzQUY5RkxyV19DYURDV2ppN0p3YUdlNEN2cXhxOEU1VmI4ODRXMVdmRHhjZlRINlBYdw?oc=5"
         }
       ]
     }
@@ -541,10 +566,10 @@
     {
       "symbol": "DKS",
       "name": "Dick's Sporting Goods Inc",
-      "price": 126.73,
-      "change_pct": -29.33,
-      "change": -52.6,
-      "volume": 26248989,
+      "price": 126.56,
+      "change_pct": -29.42,
+      "change": -52.77,
+      "volume": 27089015,
       "name_zh": "",
       "spark": [
         141.11,
@@ -571,7 +596,10 @@
         127.74,
         127.2,
         127.66,
-        126.7699
+        126.7699,
+        126.52,
+        126.6899,
+        126.55
       ],
       "news": [
         {
@@ -594,10 +622,10 @@
     {
       "symbol": "MAAS",
       "name": "Maase Inc.",
-      "price": 14.41,
-      "change_pct": -8.8,
-      "change": -1.39,
-      "volume": 205755,
+      "price": 13.86,
+      "change_pct": -12.28,
+      "change": -1.94,
+      "volume": 222260,
       "name_zh": "",
       "spark": [
         15.33,
@@ -623,7 +651,10 @@
         15.03,
         14.995,
         14.7,
-        14.41
+        14.41,
+        14.21,
+        14.35,
+        13.86
       ],
       "news": [
         {
@@ -632,24 +663,136 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFFTNndCV3E0MnJvOU00RWYzcDNBVFBqNUltczF5SGd5LWlvT1YtUXZJdEloRzEwb2RqVGJKRko0SzVjTmo2ODdBTkpjVTMyU3pld1pZSExoWHZnaG1fcDEwdlJZU1Q1NEsyWElpSHNMSW5yUFB6Q1lhM0lrUndOaFFRb1JwUC1YaEM1ejBldktlY3c?oc=5"
         },
         {
-          "title": "Maase (MAAS) Soars 84% as Firm Expands AI Foothold - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGRHeXB6b0FFT1U3LTluSTVoUHFqeDBXaFhiaG1zTkN1Y1BEV1J3REU0d1hfbjZBcWxzLVJRVUEtcERYbXczczBzQ1FmaTBya2Z5bEVGN0paRkpuRG5TblRZMFZGZzZvTjVzMlQ5R2pfS0tWV0szVGtQNmJMbVJvUmllbXhNRGxFMFpMbl92b3AzS1E?oc=5"
-        },
-        {
           "title": "Maase Inc (MAAS) Shares Fall 4.6% -- What GF Score of 64 Tells I - GuruFocus",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1NNSXQzdE5WcmtFQjhLSUFRWGNsaFZqN09SanhFTFFGbUEwb2pCUnBHVTR5NHJJSmFtbFhRZ2tKc1NnV1F4Tzh3bGRMQ2xvaElEWV8yZGc5b3Z3OVEtN1pNaGNxS1VBR2txSmlpeVdOVDl5UnVBNzlJMnAzc00zVDlYN0h1aG5KWFdpZXZnRlpnNGxzVWN1dGM5SnNKSVF3S1czdUZkUQ?oc=5"
+        },
+        {
+          "title": "Maase (MAAS) Soars 84% as Firm Expands AI Foothold - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGRHeXB6b0FFT1U3LTluSTVoUHFqeDBXaFhiaG1zTkN1Y1BEV1J3REU0d1hfbjZBcWxzLVJRVUEtcERYbXczczBzQ1FmaTBya2Z5bEVGN0paRkpuRG5TblRZMFZGZzZvTjVzMlQ5R2pfS0tWV0szVGtQNmJMbVJvUmllbXhNRGxFMFpMbl92b3AzS1E?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "BBWI",
+      "name": "Bath & Body Works, Inc.",
+      "price": 17.81,
+      "change_pct": -7.09,
+      "change": -1.36,
+      "volume": 5508828,
+      "name_zh": "",
+      "spark": [
+        18.6423,
+        18.6,
+        18.58,
+        18.64,
+        18.66,
+        18.49,
+        18.56,
+        18.49,
+        18.51,
+        18.535,
+        18.58,
+        18.595,
+        18.465,
+        18.43,
+        18.405,
+        18.48,
+        18.435,
+        18.44,
+        18.41,
+        18.405,
+        18.305,
+        18.12,
+        18.065,
+        18.045,
+        18.04,
+        17.915,
+        17.8395,
+        17.7812
+      ],
+      "news": [
+        {
+          "title": "Bath & Body Works (NYSE:BBWI) Stock Price Down 3.3% - Should You Sell? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUVaenRBblNQTW50N3ViYkZPclNJRVpPRjRlRjdXMm9sZVZXbVFPLTYwbEN5VXdiYkVUZzdDbzYyd1ZLRGNZemgxam1BdmNiVEl4VDhWRjlPZzYxekVHTGxfYW9salVyd3dSak5nUjlqYzUySUE5LW1jSV80QVVNRXhaWGJLSzJCQlRrN0dobnc1OWJXZDhMdkZCMzAtLWhaVG9OSTAtY3R4bDRTSVc3Slg2TjJDSlhsdWJ5NWVR?oc=5"
+        },
+        {
+          "title": "3 Beauty Stocks Poised to Gain From Innovation and Digital Reach - TradingView",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjJwTndCTXJiTGpzbXhuRGFWa0xGUGJUMHJKcXFiZUwwZ290Y2NteHFseUE4eUQtTWc5Z0pVN1VEaDVBYnVUNlFZMHZiQ3BFM1VMcmdfM1k3SEpuSTZLLTVka3d6U2RJTlB0YWRvRTRGem9LVDFIZUZiSW9OVnRTQVVpRW5Vb1hnYUJkeTVMbE5yS29odUtfWTNBTlk2TVNhcUlpWjloN1Rwc3hTWHhhNkM5WFhTSVB0X3J5eQ?oc=5"
+        },
+        {
+          "title": "Bath & Body Works (BBWI) Stock Looks Below Fair Value As Caution Lingers - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjg2dmhjYWl5RzI1YzlxYTBHdVNsQ2tUNkJEbWlQSE91OUF6TldaOXVMa3RCanZib19SUG1mc19PLXF2UVpaMTFhTUFMQjVtRGppYTFLWmRVZjdUek00WHZGMEs3VDl5SjZ3WEdvQ3hjU010dU9Cem9TS2NNM1BNMkVDSHIxOVd6aW1JUEtwNkFXb2xRS1E?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "RBRK",
+      "name": "Rubrik, Inc.",
+      "price": 91.08,
+      "change_pct": -7.1,
+      "change": -6.96,
+      "volume": 1810745,
+      "name_zh": "",
+      "spark": [
+        97.2,
+        98.59,
+        97.56,
+        97.48,
+        97.98,
+        97.7,
+        97.245,
+        97.15,
+        97.2,
+        97.47,
+        98.185,
+        97.47,
+        97.08,
+        96.725,
+        96.26,
+        96.0,
+        95.15,
+        94.02,
+        93.42,
+        93.28,
+        93.065,
+        92.74,
+        92.73,
+        92.63,
+        92.3254,
+        92.18,
+        91.4421,
+        91.03
+      ],
+      "news": [
+        {
+          "title": "Rubrik (RBRK) Live Share Price, Invest From India - INDmoney",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sd05YaFk2UkhKa0tNYnZmLVRXeUNSVk5ya0gyZGxKZ3RLdkFmamVjbnBaX0ltTzdYUDJzd0oyM2dITE15MDJOend1TTFGcHI5emlrMGt6bGR2OEdOU2RPSjgzc21jMkoxUXJaOUpvdw?oc=5"
+        },
+        {
+          "title": "Is Rubrik, Inc. (RBRK) A Good Stock To Buy Now? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmhhMWprdXp1eHNUWkdNcTJaUURXcUV0TUJiQkd3SVhudDlDUnhDNXY3dXBHOXpFb2JYMUhBUll4QmNMTXRCS0pOTTdXaWx4T0ZIR0FKbS03ZkFMd1liSW9hRXNtNDlKRzIzRnZFU0piTzdQemEtNVpwS2Zwb3pvdGwwZEF6d243Vy1jRzRvbXJCeGVVeEE?oc=5"
+        },
+        {
+          "title": "Why Rubrik (RBRK) Stock Is Up Today - Quiver Quantitative",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsQzJzOWYybkZTcEQ5MlNPMG5yU2Q0dWg5ckd4SFozSFRhanh1MmVkS2owakZGT2RIZElyd2p1YTRYbExVc1g0dmpCZUhzU3BRT19HNWk0UEJ6OVZudnNwd2VRUkRDVTJ5LUEtU0tXV0pQU29fVU5DUmpMNWM?oc=5"
         }
       ]
     },
     {
       "symbol": "BETA",
       "name": "Beta Technologies, Inc.",
-      "price": 22.16,
-      "change_pct": -7.03,
-      "change": -1.67,
-      "volume": 1037049,
+      "price": 22.3,
+      "change_pct": -6.46,
+      "change": -1.54,
+      "volume": 1316857,
       "name_zh": "",
       "spark": [
         23.965,
@@ -676,7 +819,10 @@
         22.345,
         22.25,
         22.245,
-        22.18
+        22.17,
+        21.98,
+        22.14,
+        22.29
       ],
       "news": [
         {
@@ -702,7 +848,7 @@
       "price": 12.84,
       "change_pct": -6.0,
       "change": -0.82,
-      "volume": 95613,
+      "volume": 95735,
       "name_zh": "",
       "spark": [
         12.79,
@@ -730,118 +876,12 @@
       ]
     },
     {
-      "symbol": "BBWI",
-      "name": "Bath & Body Works, Inc.",
-      "price": 18.03,
-      "change_pct": -5.95,
-      "change": -1.14,
-      "volume": 4825447,
-      "name_zh": "",
-      "spark": [
-        18.6423,
-        18.6,
-        18.58,
-        18.64,
-        18.66,
-        18.49,
-        18.56,
-        18.49,
-        18.51,
-        18.535,
-        18.58,
-        18.595,
-        18.465,
-        18.43,
-        18.405,
-        18.48,
-        18.435,
-        18.44,
-        18.41,
-        18.405,
-        18.305,
-        18.12,
-        18.065,
-        18.045,
-        18.04
-      ],
-      "news": [
-        {
-          "title": "Bath & Body Works (NYSE:BBWI) Stock Price Down 3.3% - Should You Sell? - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUVaenRBblNQTW50N3ViYkZPclNJRVpPRjRlRjdXMm9sZVZXbVFPLTYwbEN5VXdiYkVUZzdDbzYyd1ZLRGNZemgxam1BdmNiVEl4VDhWRjlPZzYxekVHTGxfYW9salVyd3dSak5nUjlqYzUySUE5LW1jSV80QVVNRXhaWGJLSzJCQlRrN0dobnc1OWJXZDhMdkZCMzAtLWhaVG9OSTAtY3R4bDRTSVc3Slg2TjJDSlhsdWJ5NWVR?oc=5"
-        },
-        {
-          "title": "3 Beauty Stocks Poised to Gain From Innovation and Digital Reach - TradingView",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjJwTndCTXJiTGpzbXhuRGFWa0xGUGJUMHJKcXFiZUwwZ290Y2NteHFseUE4eUQtTWc5Z0pVN1VEaDVBYnVUNlFZMHZiQ3BFM1VMcmdfM1k3SEpuSTZLLTVka3d6U2RJTlB0YWRvRTRGem9LVDFIZUZiSW9OVnRTQVVpRW5Vb1hnYUJkeTVMbE5yS29odUtfWTNBTlk2TVNhcUlpWjloN1Rwc3hTWHhhNkM5WFhTSVB0X3J5eQ?oc=5"
-        },
-        {
-          "title": "Bath & Body Works (BBWI) Stock Looks Below Fair Value As Caution Lingers - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjg2dmhjYWl5RzI1YzlxYTBHdVNsQ2tUNkJEbWlQSE91OUF6TldaOXVMa3RCanZib19SUG1mc19PLXF2UVpaMTFhTUFMQjVtRGppYTFLWmRVZjdUek00WHZGMEs3VDl5SjZ3WEdvQ3hjU010dU9Cem9TS2NNM1BNMkVDSHIxOVd6aW1JUEtwNkFXb2xRS1E?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "RBRK",
-      "name": "Rubrik, Inc.",
-      "price": 92.35,
-      "change_pct": -5.8,
-      "change": -5.69,
-      "volume": 1568604,
-      "name_zh": "",
-      "spark": [
-        97.2,
-        98.59,
-        97.56,
-        97.48,
-        97.98,
-        97.7,
-        97.245,
-        97.15,
-        97.2,
-        97.47,
-        98.185,
-        97.47,
-        97.08,
-        96.725,
-        96.26,
-        96.0,
-        95.15,
-        94.02,
-        93.42,
-        93.28,
-        93.065,
-        92.74,
-        92.73,
-        92.63,
-        92.3254
-      ],
-      "news": [
-        {
-          "title": "Rubrik (RBRK) Live Share Price, Invest From India - INDmoney",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sd05YaFk2UkhKa0tNYnZmLVRXeUNSVk5ya0gyZGxKZ3RLdkFmamVjbnBaX0ltTzdYUDJzd0oyM2dITE15MDJOend1TTFGcHI5emlrMGt6bGR2OEdOU2RPSjgzc21jMkoxUXJaOUpvdw?oc=5"
-        },
-        {
-          "title": "Why Rubrik (RBRK) Stock Is Up Today - Quiver Quantitative",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsQzJzOWYybkZTcEQ5MlNPMG5yU2Q0dWg5ckd4SFozSFRhanh1MmVkS2owakZGT2RIZElyd2p1YTRYbExVc1g0dmpCZUhzU3BRT19HNWk0UEJ6OVZudnNwd2VRUkRDVTJ5LUEtU0tXV0pQU29fVU5DUmpMNWM?oc=5"
-        },
-        {
-          "title": "Rubrik (RBRK) Stock May Be Near Fair Value Despite New AI Security Launch - Yahoo Finance",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDM3V01EQ0pyVEFRNHRSMnQ0UklzcFJmR1BKaFVaN3NnNXVrWlJZdjl4NGVTcmNYUG5KcnlYZDRoYkNESm9ScTZ1OHZadmhjSTRqdkUza2NjaTFFcHpfYmhLMDIxam5nbzQtRV9QbjVsS280dUxiVnZjdHJyclBNZk12SDQtYzV0ZGEtckJxWldkYTJKUXc?oc=5"
-        }
-      ]
-    },
-    {
       "symbol": "ALB",
       "name": "Albemarle Corporation",
-      "price": 134.02,
-      "change_pct": -5.29,
-      "change": -7.49,
-      "volume": 1092687,
+      "price": 133.34,
+      "change_pct": -5.77,
+      "change": -8.16,
+      "volume": 1195664,
       "name_zh": "",
       "spark": [
         135.585,
@@ -868,139 +908,36 @@
         133.855,
         134.12,
         134.16,
-        134.1
+        134.1,
+        133.78,
+        133.655,
+        133.4
       ],
       "news": [
         {
-          "title": "Albemarle Analysis: Is ALB getting Close to a Top? - Albemarle (NYSE:ALB) - Benzinga",
+          "title": "Why Is Albemarle Stock Falling Tuesday? - Albemarle (NYSE:ALB) - Benzinga",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1B3b0VoUHlGenJRekpVLWNrNnp2dlZtQUMyaFU0TXF0Tko5RnphQnlLamVJSGl3RG1CZDNmeUhJMnZnV3VVUnZ3cW5VRTBKZGxHUnA4X3ZJcHE2WDFnWGRrSHNxc2NWTlBhWjdJSFJWbmVhdUxld2ktVmhFalBuYk5ZX1g1TlNjcXJPcTh3M0FVRnFwN1llalpzNTV0NUllT0E?oc=5"
-        },
-        {
-          "title": "Albemarle Stock Jumps As Earnings Beat Collides With Target Cuts - StocksToTrade",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQlNTcUc0d2duMGxQV1ZISUpEQ1lDRjFKdUhuTWZhRXZhTE12SUZabFhhR1NYYkljR00tZGxHekNtZUhrd0hnTUtmUW15SnNHaVptZzN3VWVKemhQa251QzAxOC1kMFVwSG15VUhaOEhIWmZpM0dkdXAxTGRFekU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtvcTZIYVU1VXJoelE1VG8wTkdpMFk4XzhpallYRlpGT216LXpiNmVKWFlvYnhzWWhSNUViNUtaZEN2N3hDeXhqLU5zanN6MEhoemlFb3JyNDdqd01FTnowZi0yYU5ST3l2SWhuTXY1aWxjMzV5WkdTaEN1VkEwVUZpY3dJVm1OREV3ZGt1SWQ4cFkxcWlzaFUtSE1DYmxNZUtrMFBuSThaTDhYaUpOQVdR?oc=5"
         },
         {
           "title": "Albemarle Reports Second Quarter 2026 Results - PR Newswire",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOME54cERRT0h2MHdudkFwQVY3bDRTZTAzYmVuUGRFZlhnUVNpRnV3dmtHeDNlaXRHdDlmOFhDdmluOTBsX3E2dmFCdmxyalRBTEo2ZnU0ODVSQ3plQnA3emdfR2xPNTFrTzc2d1lQSzVKQWtpcm1VME5BUFRZaHVFYXA5WUt0WVBHS2l1QTlBWm9Ockx5Xy1vRlV0cEphUHJVSnVF?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "TENB",
-      "name": "Tenable Holdings, Inc.",
-      "price": 32.35,
-      "change_pct": -4.67,
-      "change": -1.58,
-      "volume": 618554,
-      "name_zh": "",
-      "spark": [
-        33.68,
-        33.875,
-        33.61,
-        33.555,
-        33.67,
-        33.5,
-        33.32,
-        33.16,
-        33.16,
-        33.365,
-        33.49,
-        33.37,
-        33.38,
-        33.275,
-        33.27,
-        33.21,
-        33.035,
-        33.025,
-        32.94,
-        32.75,
-        32.685,
-        32.565,
-        32.57,
-        32.39,
-        32.2625
-      ],
-      "news": [
-        {
-          "title": "TENB News | TENABLE HOLDINGS INC (NASDAQ:TENB) - ChartMill",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjNVZYZXRCSlVlT0FtT1c4OGxNZWFnZVFRVGlUN1BTSEJJUGlsdHhEQXVOdldsczF6MnhKaHFobV8tZ3VJNGpUazBJNW9OZTZYLXppeFhpTzdua1E?oc=5"
         },
         {
-          "title": "Is Tenable Holdings (TENB) Stock Rich Or Reasonable After A 58% Rally? - Yahoo Finance",
+          "title": "Albemarle Stock Jumps As Earnings Beat Collides With Target Cuts - StocksToTrade",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFp6Q1dqLUdWWHhoWlhjbTl1T2hURU5WYUo1a1FkTUV0VUhnYlNzMFJPV0R6Wkh0dnpyemJfMzRhOVZjeTNYVjFKdklVYm93YURhN3o1UWZDTVRKNjVfYWRiZU8wSEVlb0VsLWl5VkxiY1otWl9lVVdNNDZTSjFRSzI0WFU1a240aVZOdm5acTJPT2U5NU12LWZVZ2FHUQ?oc=5"
-        },
-        {
-          "title": "Tenable Holdings (TENB) director sells 1,390 shares over two days - Stock Titan",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGwwdWgwY2xSLThMS3hlMFQyZG5MSENhSllybG9hSzltdGNrdk5UNVVMQkhUUWxOZFVMMWxxZmlSUUdhT0g2bXp5bXNUQ1lSNU56T25NbkpvZkw4eXlCS3VnTFY5MERpRFplRnRTTk9sZDRveVZGVERxUGNKTklpT2dieTRZeUxobjhPZFg0YTJHZ0FWSzVaaTV1MGY3RHZ1MHBMNjZudE9Fc1FCbEdfcTB3eGc?oc=5"
-        }
-      ]
-    },
-    {
-      "symbol": "JMKE",
-      "name": "Jersey Mike's Subs Inc.",
-      "price": 22.39,
-      "change_pct": -4.85,
-      "change": -1.14,
-      "volume": 1038067,
-      "name_zh": "",
-      "spark": [
-        23.69,
-        23.485,
-        23.495,
-        23.33,
-        23.33,
-        23.2195,
-        23.24,
-        22.97,
-        22.64,
-        22.598,
-        22.505,
-        22.48,
-        22.44,
-        22.675,
-        22.77,
-        22.84,
-        22.85,
-        22.785,
-        22.68,
-        22.66,
-        22.66,
-        22.53,
-        22.53,
-        22.5654,
-        22.42
-      ],
-      "news": [
-        {
-          "title": "Deutsche Bank joins the crowded bull camp on Jersey Mike's Subs (JMKE:NYSE) - Seeking Alpha",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHNoekNOWjhpTkRXVGRGc1JDVFFNdjJZVHRvdEc4ZXVkUmhibUlpeVNqXzlwSzNaX3EyM2FCQ2dkNngyamJBd0xSMzBUbHlxQTJBdF9NejhjVVFQeUVSMXRiQWZ5TGFuSVNERnJ4dk5MdUJGZ1F0UDdNa1FpQV9IUnlnYktTSkoyblVUTkxSaU1pYjFjZ0VXS1VkUnRoeVRKdnc?oc=5"
-        },
-        {
-          "title": "Jersey Mike's (NYSE:JMKE) Upgraded at Wells Fargo & Company - MarketBeat",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdExNenJVXzh3Z29nN2p1Snl2WVR0azBGbEVQcE85Zncydk9MNFFaUm95UndSRjdqWWV6RlU5SDZUSDZoNHBBUzVmSHZHQWllNzVkZm51cmJBVFJLZ2d4dFQ4TDZXR0NMVzJlZzBfbXM5amZNdGU4NXdZekd4MFJNN2dUWlprNGdITXhVUUs1TDYyMlYwcG5BRTU5ZW93SGR2eUJRUWlzWk44QUpzdE9HcGNyeGY2OGs?oc=5"
-        },
-        {
-          "title": "This Agomab Therapeutics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesda - Benzinga",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTFYxS2JLRWgyTWtxTklBLXpxUTdyZVFnU2ZXZ18zeU05M3VkOHJIcG1aZUZiRW1SM0lVQWtadnFrcGpoN3lpeW1GcXBETl96OEFtS1M2aC01V0Mzbl93MUhSOXI0MFM1cHlEamZlV2Y5OF9GQTRJcnQweWdKRk1SWjJzNzcwMzZEMlNSa00yak1CUUlWZ2VZa1NxZEJhRlktcE9ueFduT3pPbzNZRFg4YUlabGxMXzREZ3JIeXp5RktkYTQtUGFGS1NsT0hjWVNWRUthOXVzeEZscFJnWlF6WEV5RGtNdThTcVJnSFZGUlhOWVI1bnVCTXplWEdSU0lBRWRvODBEQzBaUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQlNTcUc0d2duMGxQV1ZISUpEQ1lDRjFKdUhuTWZhRXZhTE12SUZabFhhR1NYYkljR00tZGxHekNtZUhrd0hnTUtmUW15SnNHaVptZzN3VWVKemhQa251QzAxOC1kMFVwSG15VUhaOEhIWmZpM0dkdXAxTGRFekU?oc=5"
         }
       ]
     },
     {
       "symbol": "ASO",
       "name": "Academy Sports and Outdoors, In",
-      "price": 43.91,
-      "change_pct": -4.85,
-      "change": -2.24,
-      "volume": 1854320,
+      "price": 43.71,
+      "change_pct": -5.29,
+      "change": -2.44,
+      "volume": 1923324,
       "name_zh": "",
       "spark": [
         43.98,
@@ -1027,7 +964,10 @@
         43.86,
         43.98,
         43.935,
-        43.905
+        43.905,
+        43.93,
+        43.6,
+        43.69
       ],
       "news": [
         {
@@ -1036,14 +976,126 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOei1iYzZyanUtOTIwXzhmblZQeG9MZ2x5ZFlzekMwVl8wVVNvaWIzb3BrUVZva01aaFlHdktBMUcwLWZ2cDBOdDVEb2pwQVpQQjhJVjlsTDE0WHpMZENKbklPOV9GMFRWV3d5RldOSVR3THF5WUFOTW1WdkE5YjdEN1A4UjlQZkJsUExTbTU2SVlUU2czZTdoVA?oc=5"
         },
         {
-          "title": "Why is Academy Sports & Outdoors stock sliding today? - Investing.com",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkgtZXU1Z25zYXladHMwbkpmYUJYRENhVWRad3ZEQWtTODcxM0FPblo4UmxzTEpkNXNUUENaTTRIeVdnaVZWLWgxbHpOTEpKeFo0R1lTRGJxQ2pkNnNVQzRVeVI4NEFOdlpLUUhSWDdqZ0pCbzFKTmYtRkQ2VlpVcHcwcEpzWEhja0pfZC12VUxKOXJPYUtRQVdNRkJkZ0ZZS21UXzZNQ1BNRE1YV01PWWxubw?oc=5"
-        },
-        {
           "title": "Why Academy Sports and Outdoors Stock Just Dropped - AOL.com",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWk41X0M2QjI0T29jV25TZ0NId2w4UGt3SnlGb2pnZGk0WUpIR2xteklULWxaTmlsZFljUEZiV3dEcFZyTFNiYmpoTVl4d1VkM2k1QjZHbWpNWHBZSVkxN0wtMXQ3bEliZW1IcUhjaEZoRzBBdFRrRm9reU9HRElaQXhqTQ?oc=5"
+        },
+        {
+          "title": "Ariat boots and workwear are coming to 200 Academy stores - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGJic2lwYjRSdElrTHFUczVKVU0wNzJtS2JCQzBBQTBkNEV1YjZiWTZBaXZQRkIyb1AzRGRWOGd3S1c3LXBlaU5YanE2b2Y0U2p1SktFU3I3eU9RZGV4a21pVUwxWnJQdUZvZFlqY1diYU1aX2NyWmp5ZjFnTThyd0pjemphLUdoMXJpMXpmZXhVNjBXYjR4cFRVcWVuenBWTFFlZl9QR3pyd01wQzFqbTF6X2FJeExwMGdpTg?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "TENB",
+      "name": "Tenable Holdings, Inc.",
+      "price": 32.13,
+      "change_pct": -5.33,
+      "change": -1.81,
+      "volume": 707976,
+      "name_zh": "",
+      "spark": [
+        33.68,
+        33.875,
+        33.61,
+        33.555,
+        33.67,
+        33.5,
+        33.32,
+        33.16,
+        33.16,
+        33.365,
+        33.49,
+        33.37,
+        33.38,
+        33.275,
+        33.27,
+        33.21,
+        33.035,
+        33.025,
+        32.94,
+        32.75,
+        32.685,
+        32.565,
+        32.57,
+        32.39,
+        32.2625,
+        32.105,
+        32.09,
+        32.11
+      ],
+      "news": [
+        {
+          "title": "TENB News | TENABLE HOLDINGS INC (NASDAQ:TENB) - ChartMill",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjNVZYZXRCSlVlT0FtT1c4OGxNZWFnZVFRVGlUN1BTSEJJUGlsdHhEQXVOdldsczF6MnhKaHFobV8tZ3VJNGpUazBJNW9OZTZYLXppeFhpTzdua1E?oc=5"
+        },
+        {
+          "title": "Is Tenable Holdings (TENB) Stock Rich Or Reasonable After A 58% Rally? - Yahoo Finance",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFp6Q1dqLUdWWHhoWlhjbTl1T2hURU5WYUo1a1FkTUV0VUhnYlNzMFJPV0R6Wkh0dnpyemJfMzRhOVZjeTNYVjFKdklVYm93YURhN3o1UWZDTVRKNjVfYWRiZU8wSEVlb0VsLWl5VkxiY1otWl9lVVdNNDZTSjFRSzI0WFU1a240aVZOdm5acTJPT2U5NU12LWZVZ2FHUQ?oc=5"
+        },
+        {
+          "title": "Tenable Holdings (TENB) director sells 1,390 shares over two days - Stock Titan",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGwwdWgwY2xSLThMS3hlMFQyZG5MSENhSllybG9hSzltdGNrdk5UNVVMQkhUUWxOZFVMMWxxZmlSUUdhT0g2bXp5bXNUQ1lSNU56T25NbkpvZkw4eXlCS3VnTFY5MERpRFplRnRTTk9sZDRveVZGVERxUGNKTklpT2dieTRZeUxobjhPZFg0YTJHZ0FWSzVaaTV1MGY3RHZ1MHBMNjZudE9Fc1FCbEdfcTB3eGc?oc=5"
+        }
+      ]
+    },
+    {
+      "symbol": "MLI",
+      "name": "Mueller Industries, Inc.",
+      "price": 60.32,
+      "change_pct": -4.93,
+      "change": -3.13,
+      "volume": 927280,
+      "name_zh": "",
+      "spark": [
+        64.775,
+        64.6,
+        64.1,
+        63.81,
+        63.72,
+        63.42,
+        63.39,
+        63.43,
+        63.37,
+        63.49,
+        63.395,
+        63.45,
+        63.365,
+        63.27,
+        63.4,
+        63.45,
+        63.4,
+        63.18,
+        63.0951,
+        62.87,
+        62.7,
+        62.68,
+        62.27,
+        62.19,
+        62.22,
+        60.912,
+        60.58,
+        60.32
+      ],
+      "news": [
+        {
+          "title": "Mueller Industries: Even Strong Growth Doesn't Justify Great Upside (NYSE:MLI) - Seeking Alpha",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2QwclpDaC14YjRteEpWdHJsNTZlOXhFZC12cXFjRzdaVmNpaEJhdDlMbEowRlROazVWVEhia1Baa2JkTDdFQUhoRDIwSGd6TUNXRmFEdUZ6UVRpa3BHVWUxd2dPZ0JoV0E4VVk1UmppR2RlWkNtYXk5NzdwOGh1WEFUMDdvTE0xQXJFbTdHR2x3X1dMOU41cGNNZHNOcTgxUEVmaldTVU9aQQ?oc=5"
+        },
+        {
+          "title": "Mueller Industries (NYSE:MLI) Stock Passes Above 200-Day Moving Average - What's Next? - MarketBeat",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTFwSVJpb2RCdXNCemhJMFQzb2NJaFA2c3VWUXR6d2xJX1REcXJMclJvbmpZYVh6QW5RaVBvOU1zZ2lTbFhndWJpRDNwd3RMYlNWOFdMRHBnckU0SHhxRUZHWHdHU1NxSjUwaXh5emVlMWJpdjhMWDdDMVhzeGtZSzVBdEZ0SWN0VUJfa2pCYllTWkQ3WU5KWHIxa2paeDFuWmV3RHNzWnVsQmxoZURSU1NnSERJY2pDbmV3ZlpkbHY0X1ZCeE8xUGw5WUNsOFNFOTRZc3ZWdw?oc=5"
+        },
+        {
+          "title": "Mueller Industries (NYSE:MLI) Fits the Affordable Growth Screen - ChartMill",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQTl6OWVOMnJHZXM0RWh2Ui02cW1qb3UwV085cGJrUVg5dlRCaUFmWXNsOGFJZXMxMUZtRWtsdHJnRURnY1NBdlBmT0VzaXRzd3FkajV4YkNNcUtyZFdBbkVyRWNhOHFvZUplWU4tVm5ISkhFZzBNTVRVYjZLVWtWNmpDTmg4aVpnaUtvcEJZN2J4bG9UdGJOWlh5c2p5clhPQXN5bDAtY2ZCUlBmQmJrYw?oc=5"
         }
       ]
     }
