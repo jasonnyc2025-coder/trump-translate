@@ -1,5 +1,155 @@
 [
   {
+    "id": "df49b3ac1c35db55",
+    "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
+    "title_zh": "",
+    "text": "Amazon reported third-quarter earnings on Thursday after the bell.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+    "date": "Thu, 29 Oct 2026 20:35:26 GMT",
+    "fetched_at": "2026-10-29T20:38:23.657793+00:00"
+  },
+  {
+    "id": "b5ed96954d282513",
+    "title": "Intel stock plunges 20% as chipmaker blames PC slowdown for weak guidance",
+    "title_zh": "",
+    "text": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+    "date": "Thu, 29 Oct 2026 20:06:00 GMT",
+    "fetched_at": "2026-10-29T20:38:27.058250+00:00"
+  },
+  {
+    "id": "685a8ac923020210",
+    "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+    "title_zh": "",
+    "text": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+    "date": "Thu, 29 Oct 2026 20:35:04 GMT",
+    "fetched_at": "2026-10-29T20:38:30.528925+00:00"
+  },
+  {
+    "id": "d19a72b15b862cc2",
+    "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+    "title_zh": "",
+    "text": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+    "date": "Thu, 29 Oct 2026 20:35:59 GMT",
+    "fetched_at": "2026-10-29T20:38:34.089730+00:00"
+  },
+  {
+    "id": "3fc19f6aa3fa6a20",
+    "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+    "title_zh": "",
+    "text": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+    "date": "Thu, 29 Oct 2026 19:16:32 GMT",
+    "fetched_at": "2026-10-29T20:38:37.596288+00:00"
+  },
+  {
+    "id": "a3baf2ca8de769f8",
+    "title": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
+    "title_zh": "",
+    "text": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+    "date": "Thu, 29 Oct 2026 20:29:10 GMT",
+    "fetched_at": "2026-10-29T20:38:40.978599+00:00"
+  },
+  {
+    "id": "14053dc04bca8284",
+    "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+    "title_zh": "",
+    "text": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "date": "Thu, 29 Oct 2026 20:30:24 GMT",
+    "fetched_at": "2026-10-29T20:38:44.512628+00:00"
+  },
+  {
+    "id": "2fafc48914dc9a36",
+    "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+    "title_zh": "",
+    "text": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+    "date": "Thu, 29 Oct 2026 16:06:02 GMT",
+    "fetched_at": "2026-10-29T20:38:47.773743+00:00"
+  },
+  {
+    "id": "0fae424bf8225809",
+    "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+    "title_zh": "",
+    "text": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+    "date": "Thu, 29 Oct 2026 19:36:04 GMT",
+    "fetched_at": "2026-10-29T20:38:51.472112+00:00"
+  },
+  {
+    "id": "e541a6f317a3b123",
+    "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+    "title_zh": "",
+    "text": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
+    "date": "Thu, 29 Oct 2026 18:13:32 GMT",
+    "fetched_at": "2026-10-29T20:38:54.887461+00:00"
+  },
+  {
+    "id": "bc923b16693e2440",
+    "title": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
+    "title_zh": "",
+    "text": "Options traders pounced on the closest publicly-traded play to the news.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
+    "date": "Thu, 29 Oct 2026 18:53:50 GMT",
+    "fetched_at": "2026-10-29T20:38:58.479868+00:00"
+  },
+  {
+    "id": "128afc5019c7fda9",
+    "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+    "title_zh": "",
+    "text": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+    "date": "Thu, 29 Oct 2026 20:09:00 GMT",
+    "fetched_at": "2026-10-29T20:39:02.044132+00:00"
+  },
+  {
+    "id": "0b636913ef1be4b1",
+    "title": "Some investors have midterm election jitters. Here’s what history shows about stocks",
+    "title_zh": "",
+    "text": "Investors are anxious about the 2026 midterms. Here's what historical S&P 500 data shows happened before and after past elections.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
+    "date": "Thu, 29 Oct 2026 17:27:10 GMT",
+    "fetched_at": "2026-10-29T20:39:05.774558+00:00"
+  },
+  {
+    "id": "0778fc40dcbb1bb6",
+    "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+    "title_zh": "",
+    "text": "Microsoft is faring better because of its financial spending, Jim Cramer said Thursday, a day after earnings.",
+    "zh": "",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramer-why-investors-are-punishing-alphabet-and-giving-microsoft-a-pass.html",
+    "date": "Thu, 29 Oct 2026 19:30:33 GMT",
+    "fetched_at": "2026-10-29T20:39:09.484479+00:00"
+  },
+  {
+    "id": "aad6452f72cdaac8",
+    "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
+    "title_zh": "",
+    "text": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
+    "zh": "",
+    "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+    "date": "Thu, 29 Oct 2026 20:14:15 GMT",
+    "fetched_at": "2026-10-29T20:39:13.121354+00:00"
+  },
+  {
     "id": "529f3b20e97d49c8",
     "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
     "title_zh": "",
@@ -848,155 +998,5 @@
     "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
     "date": "Wed, 28 Oct 2026 13:58:52 GMT",
     "fetched_at": "2026-10-28T14:15:17.809201+00:00"
-  },
-  {
-    "id": "cf55924295950539",
-    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-    "title_zh": "",
-    "text": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    "date": "Wed, 28 Oct 2026 11:33:43 GMT",
-    "fetched_at": "2026-10-28T14:15:21.306898+00:00"
-  },
-  {
-    "id": "cff8b32747b04668",
-    "title": "Why China is desperate to ship cars outside of the country",
-    "title_zh": "",
-    "text": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-    "date": "Wed, 28 Oct 2026 13:17:20 GMT",
-    "fetched_at": "2026-10-28T14:15:24.761068+00:00"
-  },
-  {
-    "id": "04217d302a95f0cb",
-    "title": "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday sales again?",
-    "title_zh": "",
-    "text": "Starbucks CEO Brian Niccol is hoping to recapture lightning in a bottle and keep his turnaround plan moving forward.",
-    "zh": "",
-    "link": "https://www.cnbc.com/investingclub/2026/10/28/bearista-cups-are-back-at-starbucks-can-they-boost-holiday-sales-again.html",
-    "date": "Wed, 28 Oct 2026 14:04:13 GMT",
-    "fetched_at": "2026-10-28T14:15:28.537426+00:00"
-  },
-  {
-    "id": "2c4f2e9ffd9e4a6e",
-    "title": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
-    "title_zh": "",
-    "text": "DraftKings CEO Jason Robins said parents should talk with their children about responsible gambling, describing how he approaches the subject with his family.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
-    "date": "Wed, 28 Oct 2026 14:08:52 GMT",
-    "fetched_at": "2026-10-28T14:15:32.349478+00:00"
-  },
-  {
-    "id": "db88654602817bf2",
-    "title": "Traders are betting big against this restaurant giant into earnings",
-    "title_zh": "",
-    "text": "There’s a lot of big earnings but the giant that traders are most worried about is apparently fast-casual titan Chipotle.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html",
-    "date": "Wed, 28 Oct 2026 12:04:47 GMT",
-    "fetched_at": "2026-10-28T14:15:35.798226+00:00"
-  },
-  {
-    "id": "945690400eeed5a2",
-    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-    "title_zh": "",
-    "text": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-    "date": "Wed, 28 Oct 2026 03:02:44 GMT",
-    "fetched_at": "2026-10-28T07:28:13.409577+00:00"
-  },
-  {
-    "id": "a9574f5929228f3c",
-    "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-    "title_zh": "",
-    "text": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-    "date": "Wed, 28 Oct 2026 07:23:56 GMT",
-    "fetched_at": "2026-10-28T07:28:16.908489+00:00"
-  },
-  {
-    "id": "05255c7f2208e118",
-    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "title_zh": "",
-    "text": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-    "date": "Wed, 28 Oct 2026 05:52:51 GMT",
-    "fetched_at": "2026-10-28T07:28:20.351372+00:00"
-  },
-  {
-    "id": "ee25b2f2eca8ebb1",
-    "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-    "title_zh": "",
-    "text": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "date": "Wed, 28 Oct 2026 02:15:55 GMT",
-    "fetched_at": "2026-10-28T07:28:23.838525+00:00"
-  },
-  {
-    "id": "eaf5095f856bb5c9",
-    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-    "title_zh": "",
-    "text": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-    "date": "Wed, 28 Oct 2026 05:16:41 GMT",
-    "fetched_at": "2026-10-28T07:28:27.275956+00:00"
-  },
-  {
-    "id": "4abf5311ccee4c19",
-    "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-    "title_zh": "",
-    "text": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-    "date": "Wed, 28 Oct 2026 04:29:20 GMT",
-    "fetched_at": "2026-10-28T07:28:30.679259+00:00"
-  },
-  {
-    "id": "9880d19bd23049b0",
-    "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
-    "title_zh": "",
-    "text": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
-    "date": "Wed, 28 Oct 2026 03:33:53 GMT",
-    "fetched_at": "2026-10-28T07:28:34.227399+00:00"
-  },
-  {
-    "id": "69e0d1817b88944b",
-    "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-    "title_zh": "",
-    "text": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
-    "zh": "",
-    "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
-    "date": "Wed, 28 Oct 2026 02:57:36 GMT",
-    "fetched_at": "2026-10-28T07:28:37.660304+00:00"
-  },
-  {
-    "id": "87aff0d17f8ff067",
-    "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-    "title_zh": "",
-    "text": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
-    "zh": "",
-    "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-    "date": "Wed, 28 Oct 2026 02:15:00 GMT",
-    "fetched_at": "2026-10-28T07:28:40.987955+00:00"
-  },
-  {
-    "id": "023f42ab92bd4039",
-    "title": "Massive state buying can’t reverse China’s stock slide, analysts warn - South China Morning Post",
-    "title_zh": "",
-    "text": "Massive state buying can’t reverse China’s stock slide, analysts warn South China Morning Post",
-    "zh": "",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTN5Ti1pRVBBdDZuWjYyZlN0ck5BZnNYalZYVXNlSDR4ZDJBeGtqOWtLdmJlVE1wSzBmTXIwaDFoclpCckRld0xSRXNSZzM0YTRkYzhRQzg1WWtXQ2RHNUREcWtKMER1RmNZbkphbkVCZUlCX204SFBCNTRNM1dhZzFhZnpnOEk4QTdtVi1lZXlNM1l4LTVKVXIwRTg2ZjljTVhCRXhDN3JTenhJNWtCVWJzNEhWWC1URW9mTDFUVm1lSkJ3blRJZmdFd9IBywFBVV95cUxPdVBFVXJrWFBKYXF4S3YtNFgzeWRESzFYSjF1SndnaHRPbm5HVUtJd1FZSl9ST0huVW1leGtRbDJ1TlBKYVM5UEJnOW51RHN5OVRSQmkxazgxTWV2V2ZRcGkzaVdFRFlhZGJ6d3UwX1pFNGFaWk1rbWhETkZXX3RxczkxQ3A4LURCUmVzSUxhU2M3VG1OUFhXWGo1cFlMbTRTeHhCQWdqMzRaaEdwemJoMWdoNkhTWEM5WGdRWExOZFJ1RE5zUnM4TFlFbw?oc=5",
-    "date": "Wed, 28 Oct 2026 06:00:06 GMT",
-    "fetched_at": "2026-10-28T07:28:44.458492+00:00"
   }
 ]
